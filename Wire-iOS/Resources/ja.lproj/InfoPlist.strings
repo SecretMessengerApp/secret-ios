@@ -1,0 +1,11 @@
+
+"NSContactsUsageDescription" = "Secretが連絡先にアクセスして他のユーザーとつながることができるようにします。 サーバーにアップロードする前にすべての情報を匿名化し、他の誰とも共有しません。";
+"NSMicrophoneUsageDescription" = "電話や音声メッセージ送信のためにSecretがあなたのマイクにアクセスすることを許可してください。";
+"NSLocationWhenInUseUsageDescription" = "Secretに位置情報へのアクセスを許可することで、あなたの位置情報を送信することができます";
+"NSCameraUsageDescription" = "ビデオ通話や写真を送信するためにSecretがカメラにアクセスすることを許可してください。";
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "写真を保存するために、Secretがあなたのフォトライブラリにアクセスすることを許可してください。";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Secret に フォトライブラリに保存された画像へのアクセスを許可します。";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "アプリで認証するために、Secret が Face ID にアクセスするのを許可します。";

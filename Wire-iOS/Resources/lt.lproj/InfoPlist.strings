@@ -1,0 +1,12 @@
+
+"NSContactsUsageDescription" = "Allow Secret to access your contacts to connect you with others. We anonymize all information before uploading it to our server and do not share it with anyone else.";
+"NSMicrophoneUsageDescription" = "Leiskite Secret gauti prieigą prie jūsų mikrofono, kad galėtumėte kalbėti su kitais žmonėmis ir siųsti garso žinutes.";
+"NSLocationWhenInUseUsageDescription" = "Leiskite Secret gauti prieigą prie jūsų buvimo vietos, kad galėtumėte ją siųsti kitiems.";
+"NSCameraUsageDescription" = "Leiskite Secret gauti prieigą prie jūsų kameros, kad galėtumėte skambinti su vaizdu ir siųsti nuotraukas.";
+
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "Suteikite „Secret“ galimybę išsaugoti padarytas nuotraukas paveikslėlių bibliotekoje.";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Suteikite „Secret“ galimybę prisijungti prie paveikslėlių saugomų bibliotekoje.";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "Norėdami nustatyti tapatybę programėlėje leiskite „Secret“ naudoti „Face ID“ galimybę.";

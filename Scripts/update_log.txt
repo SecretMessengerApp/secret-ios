@@ -1,0 +1,29 @@
+1、优化h5授权跳转功能
+2、优化群主转让操作
+3、优化表情发送、展示
+4、优化通话中的语音按钮icon
+5、优化客户端消息处理机制
+6、优化聊天页面卡顿
+7、优化app启动时间
+8、优化聊天会话打开时间
+9、优化提升app响应速度
+10、修复群成员移除失败问题
+11、修复特定情况下管理员操作无通知问题
+12、修复违规消息显示异常问题
+13、修复特殊类型文件分享失败问题
+14、修复其他BUG
+
+1. Optimize H5 authorization jump function;
+2. Optimize group owner transfer operationg;
+3. Optimize expression sending and display;
+4. Optimize voice button icon in call;
+5. Optimize client message processing mechanism;
+6. Optimize chat page to get stuck;
+7. Optimize app startup time;
+8. Optimize chat session opening time;
+9. Optimize and improve app response speed;
+10. Fix group member removal failure;
+11. Fix the problem of no notification for administrator operation under specific circumstances;
+12. Fix abnormal display of violation message;
+13. Fix special type file sharing failure;
+14. Fix other bugs.

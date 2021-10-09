@@ -1,0 +1,11 @@
+
+"NSContactsUsageDescription" = "Permet à Secret d'accéder à vos contacts pour vous connecter à d’autres personnes. Nous anonymisons toutes les informations avant de les envoyer à notre serveur et ne les partageons avec personne d'autre.";
+"NSMicrophoneUsageDescription" = "Permet à Secret d'accéder à votre microphone afin que vous puissiez téléphoner et envoyer des messages vocaux.";
+"NSLocationWhenInUseUsageDescription" = "Permet à Secret d'accéder à votre position afin que vous puissiez la partager avec vos contacts.";
+"NSCameraUsageDescription" = "Permet à Secret d'accéder à votre appareil photo afin que vous puissiez passer des appels en visio et envoyer des photos.";
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "Permet à Secret d'enregistrer les photos que vous prenez dans la photothèque.";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Permet à Secret d'accéder aux images enregistrées dans la photothèque.";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "Pour vous authentifier dans l'application, veuillez autoriser Secret à utiliser Face ID.";

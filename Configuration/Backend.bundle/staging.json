@@ -1,0 +1,13 @@
+{
+    "endpoints" : {
+        "backendURL" : "https://accounttest.isecret.im",
+        "backendWSURL" : "https://accounttest.isecret.im",
+        "blackListURL" : "https://accounttest.isecret.im/prod",
+        "teamsURL" : "https://isecret.im",
+        "accountsURL" : "https://isecret.im",
+        "websiteURL" : "https://isecret.im",
+    },
+    "title" : "Staging",
+    "pinned_keys" : [
+    ]
+}

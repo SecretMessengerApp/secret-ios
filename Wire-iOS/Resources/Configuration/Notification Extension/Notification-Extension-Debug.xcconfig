@@ -1,0 +1,3 @@
+
+#include "../Project-Debug.xcconfig"
+#include "Notification-Extension-Base.xcconfig"

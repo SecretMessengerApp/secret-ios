@@ -1,0 +1,1923 @@
+
+"conversion.setting.autoReply.wrong" = "Cannot host this user at this time!";
+"conversion.safe.tips" = "The information in the conversation has added end-to-end encryption!";
+
+"conversation.replyMessage.your" = " your";
+"conversation.replyMessage.others" = "'s";
+"conversation.replyMessage.you" = " you";
+"conversation.replyMessage.image" = "Image";
+"conversation.replyMessage.video" =  "take a video";
+
+"conversation.groupinvite.invite" = "”%@“ wants to invite %@ friends to join group chat";
+"conversation.groupinvite.do" = "To confirm";
+"conversation.groupinvite.done" = "confirmed";
+"conversation.groupinvite.add.self" = "Invite %@ to join a group chat";
+"conversation.groupinvite.add.other" = "Invite you to join a group chat";
+"conversation.groupinvite.add.detial" = "%@ invites %@ to join %@ group, click to view details.";
+"conversation.groupinvite.statue" = "Group invitation information";
+"conversation.groupinvite.confirm.invite" = "Confirm invitation";
+"conversation.groupinvite.confirm.title" = "Be sure to join the group chat";
+"conversation.groupinvite.confirm.join" = "Join the group chat";
+"conversation.groupinvite.confirm.refuse" = "Refuse to join";
+"conversation.groupinvite.confirm.joined" = "Joined";
+"conversation.groupinvite.confirm.refused" = "Rejected";
+"conversation.group_invite.vc.nav.title" = "Invitation details ";
+"conversation.group_invite.vc.info.title" = "invite %d friends to join group chat";
+
+"network.restricted.tips" = "Your application has not yet been granted access to the network, go to the Settings center to open access!";
+"network.notreachable.tips" = "Go to setup center open network!";
+
+
+"photolibrary.permissions.shutdown.tips" = "Your application has not yet been granted access to the album, go to the Settings center to open access!";
+"photolibrary.unavailable.systemreason.tips" = "Unable to access the album for system reasons";
+
+
+"general.skip" = "skip";
+
+
+"newProfile.conversation.destoryafterread.subtitle" = "if this option is set, messages sent and received in the chat will disappear after reading.";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "five seconds";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "fifteen seconds";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "thirty seconds";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "one minutes";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "five minutes";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "one day";
+
+
+"settings.qrcode.tips" = "Secret，Scan the QR code to add me on Secret";
+"settings.qrcode.save" = "Save my QR code";
+"conversation.group.tips" = "Scan the QRcode to join the Secret group chat.";
+"conversation.group.qrcode.save" = "Save group QR code";
+
+"newProfile.conversation.record" = "Conversation Record";
+"newProfile.conversation.safe.title" = "Encryption Security Code";
+"newProfile.conversation.safe.subtitle" = "Chat information is encrypted";
+"newProfile.conversation.remark" = "Setting Remark";
+"newProfile.conversation.photo" = "Posts";
+"newProfile.conversation.addremark" = "Add note name";
+"newProfile.conversation.remarksave" = "Save";
+
+"newProfile.conversation.remove_participant" = "Remove Participant";
+"newProfile.conversation.start_chat" = "Start Chat";
+
+
+"participants.conversation.name" = "Conversation Name";
+
+"general.ok" = "OK";
+"general.cancel" = "Cancel";
+"general.open_settings" = "Open Secret Settings";
+
+"version.update_tips" = "New version! Go to APPSTORE for updating";
+
+
+//
+"peoplepicker.button.share_url_to_conversation" = "Send Url to contants";
+"peoplepicker.button.sub_to_conversation" = "Remove Member";
+"peoplepicker.button.delete_member" = "Delete group member";
+
+//
+"participants.avatar.host.title" = "Host";
+"participants.avatar.me.title" = "Me";
+"content.system.conversation.started.no.with" = " started a conversation.";
+
+
+"self.settings.account_manager.title" = "Account Manager";
+"self.settings.photo.title" = "My Posts";
+"self.settings.praise.title" = "Give us a five-star review";
+
+//Conversation Status
+"self.settings.status.title" = "Status";
+"self.settings.status.closed" = "Close";
+"self.settings.status.darwin" = "Intelligent Darwin Hostin";
+"self.settings.status.angel" = "Intelligent Darwin Hostin";
+"self.settings.status.campusbelle" = "Intelligent Darwin Hosting";
+"self.settings.status.ai" = "Artificial Intelligence Mode";
+"self.settings.status.zuchongzhi" = " ZuChongZhi";
+
+"self.settings.account_section.myQRCode.title" = "My QRCode";
+"self.settings.account_section.qrCode.title" = "Scan";
+
+// Setting - Scan
+"self.settings.account_section.scan.title" = "Scan QRCode";
+"self.settings.account_section.security.title" = "Security";
+
+
+"conversation.setting.backgroundimage" = "Set Background";
+"conversation.setting.backgroundimage.title" = "Choose Wallpaper";
+"conversation.setting.backgroundimage.description" = "Try other background.\nTry some new wallpapers at any time.";
+"conversation.setting.backgroundimage.apply" = "Apply";
+"conversation.setting.backgroundimage.cancel" = "Cancel";
+
+// MARK: - 
+"conversation.setting.place_top" = "Place Top";
+
+"conversation.setting.screenShot" = "Screenshot notification";
+"conversation.setting.screenShot.detail" = "After enabling, a message will be sent when the screenshot is taken";
+"conversation.setting.screenShot.open" = "Opened";
+"conversation.setting.screenShot.close" = "Closed";
+
+
+"conversation.setting.disableSendMsg" = "Setting Group DisableSendMsg";
+
+
+"conversation.setting.to.huge.conversation" = "Upgrade Group";
+"conversation.setting.to.upgraded.huge.conversation" = "Group Upgraded";
+"conversation.setting.to.upgrade.over.100" = "Members over 100 can open";
+"conversation.setting.to.openjoin.url" = "Open link join";
+"conversation.setting.to.openjoin.QRCode" = "Open QRCode join";
+"conversation.setting.to.group.allowViewMembers" = "Allow viewing of group members";
+"conversation.setting.to.group.qrcode" = "Group QRCode";
+"conversation.setting.to.group.urlshare" = "Share To";
+"conversation.setting.to.group.urlsubtitle" = "Choose to share";
+"conversation.setting.to.group.confirmTitle" = "Group chat invitation confirmation";
+"conversation.setting.to.group.confirmSubtitle" = "When enabled, group members need to confirm by the group owner to invite friends into the group, and scanning the QR code into the group is also disabled";
+"conversation.setting.to.group.ownerInvite" = "Only group owners invite to group chat";
+"conversation.setting.to.group.ownerChange" = "Group owner management transfer";
+"conversation.setting.to.group.manager" = "Group Manager";
+"conversation.setting.to.group.icon" = "Group Avatar";
+"conversation.setting.to.group.MemberConfirm" = "Group members are invited to confirm";
+"conversation.setting.to.group.shortcut" = "Add conversation to the Tab Bar";
+"conversation.setting.to.group.forbid_add_friend" = "Prohibit adding friends";
+"conversation.setting.to.group.member_change_unvisible" = "Close invitation, exit invisible";
+"conversation.setting.to.group.disablesendmsg" = "All DisableSendMsg";
+"conversation.setting.to.group.disablesendmsg.status" = "Only group manager is allowed to speak after all members' silence is enabled. Entering the name card of group members can set silence for individual members";
+"Group.settings.allow_member_add" = "No permission to view this user information";
+
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "Web page has been logged in";
+"hud.success.saved" = "Saved";
+"hud.success.added" = "Added";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "Invalid QRCode";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "Unkown error";
+"hud.error.invalid.qrcode" = "Invalid QRCode";
+"hud.error.no.qrcode" = "No QRCode found";
+"hud.error.not.find.user" = "The user could not be found.";
+"hud.error.not.choose.coin.type" = "Currency not selected";
+
+// MARK: - HUD Global
+"hud.cancelled" = "Cancelled";
+"hud.copied" = "Copied";
+// MARK: - AlertController
+"controller.alert.ok" = "OK";
+"controller.alert.title.error" = "Wrong";
+"controller.alert.desc.no.permission.to.album" = "Cannot access to Album, please go to Setting to open";
+
+// MARK: - 
+"join_invite_response_error_code_2001" = "You has been in the group";
+"join_invite_response_error_code_2002" = "Group manager does not allow new members to be added using url";
+
+// MARK: - Global
+"secret_unknown_error" = "Unknown error";
+"secret_server_error" = "Busy server";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "Scroll to latest";
+
+"app.scheme.login.authorization" = "Authorization";
+"app.scheme.login.apply.permission" = "Apply for the following permissions";
+"app.scheme.login.get.information" = "Get your public information";
+"app.scheme.login.auth.allow" = "Allow";
+"app.scheme.login.auth.refuse" = "Refuse";
+
+
+"notification.title" = " Notification";
+"notification.cell.comment" = "Commented";
+"notification.cell.reply" = "replied";
+"notification.cell.like" = "like you";
+"notification.cell.transimit" = "Forwarded";
+
+"new_version_title" = "Version Update";
+"login.intro.text" = "Keep All Chats Confidential";
+
+"general.ok" = "OK";
+"general.next" = "Weiter";
+"general.cancel" = "Abbrechen";
+"general.close" = "Schließen";
+"general.back" = "Zurück";
+"general.open_settings" = "Secret-Einstellungen öffnen";
+"general.edit" = "Bearbeiten";
+"general.done" = "Fertig";
+"general.confirm" = "OK";
+"general.skip" = "Nicht jetzt";
+"general.accept" = "Annehmen";
+"general.decline" = "Nein, danke";
+"general.failure" = "Ein Fehler ist aufgetreten";
+"general.failure.try_again" = "Bitte erneut versuchen.";
+"general.service" = "Dienst";
+"general.off" = "Aus";
+"general.on" = "An";
+"general.loading" = "Wird geladen…";
+"general.paste" = "Einfügen";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = " ";
+
+"general.guest-room-name" = "Gästebereich";
+
+// User Cell
+"user_cell.title.you_suffix" = " (Sie)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.search_placeholder" = "Nach Name/Benutzername suchen";
+"peoplepicker.header.top_people" = "Top Kontakte";
+"peoplepicker.button.create_conversation" = "Gruppe erstellen";
+"peoplepicker.button.add_to_conversation" = "Teilnehmer zur Gruppe hinzufügen";
+"peoplepicker.header.conversations" = "Gruppen";
+"peoplepicker.header.team_conversations" = "%@ Gruppen";
+"peoplepicker.header.send_invitation" = "Einladen";
+"peoplepicker.header.contacts" = "Kontakte";
+"peoplepicker.header.contacts_personal" = "Persönliche Kontakte";
+"peoplepicker.header.directory" = "Vorschläge";
+
+"peoplepicker.group.title.singular" = "Teilnehmer hinzufügen";
+"peoplepicker.group.title.plural" = "Teilnehmer hinzufügen (%d)";
+"peoplepicker.group.skip" = "Überspringen";
+"peoplepicker.group.done" = "Fertig";
+"peoplepicker.group.create" = "Erstellen";
+
+"peoplepicker.header.people" = "Kontakte";
+"peoplepicker.header.services" = "Dienste";
+"peoplepicker.services.open_conversation.item" = "Unterhaltung öffnen";
+"peoplepicker.services.add_service.button" = "Dienst hinzufügen";
+"peoplepicker.services.add_service.error.title" = "Der Dienst kann nicht hinzugefügt werden";
+"peoplepicker.services.add_service.error.default" = "Der Dienst ist derzeit nicht verfügbar";
+"peoplepicker.services.add_service.error.full" = "Die Unterhaltung ist voll";
+
+"peoplepicker.title.create_conversation" = "Gruppe erstellen";
+"peoplepicker.title.add_to_conversation" = "Teilnehmer hinzufügen";
+
+"peoplepicker.no_contacts_title" = "Keine Kontakte";
+
+"peoplepicker.no_matching_results_title" = "Keine Ergebnisse";
+"peoplepicker.no_matching_results_message" = "Bitte gib eine vollständige \nE-Mail-Adresse ein";
+
+"peoplepicker.no_matching_results.action.send_invite" = "Einladung versenden";
+"peoplepicker.no_matching_results.action.share_contacts" = "Kontakte teilen";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "Bitte gib eine gültige \nE-Mail-Adresse ein";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "Kein Ergebnis";
+"peoplepicker.no_matching_results_services_title" = "Dienste sind Helfer, die den Workflow verbessern können. Bitte an den Administrator wenden, um diese zu aktivieren.";
+"peoplepicker.no_matching_results_services_admin_title" = "Dienste sind Helfer, die den Workflow verbessern können.";
+"peoplepicker.no_matching_results_services_manage_services_title" = "Dienste verwalten";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "Gib eine vollständige E-Mail-Adresse ein oder";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "Kontakte teilen";
+
+"peoplepicker.share_contacts.no_results.title" = "Finde andere mit ihrem Namen oder ihrer E-Mail";
+
+"peoplepicker.send_invitation.dialog.title" = "Einladung versendet";
+"peoplepicker.send_invitation.dialog.message" = "Diese Einladung ist 2 Wochen gültig. Sende eine neue, wenn diese abläuft.";
+"peoplepicker.send_invitation.dialog.ok" = "OK";
+
+"peoplepicker.invite_more_people" = "Weitere Personen einladen";
+"peoplepicker.invite_team_members" = "Lade weitere Mitglieder ein";
+"peoplepicker.quick-action.open-conversation" = "Öffnen";
+"peoplepicker.quick-action.create-conversation" = "Gruppe erstellen";
+"peoplepicker.quick-action.create-guest-room" = "Gästebereich erstellen";
+"peoplepicker.quick-action.admin-services" = "Dienste verwalten";
+
+"add_participants.all_contacts_added" = "Alle sind hier.";
+
+"add_participants.alert.title" = "Die Gruppe ist voll";
+"add_participants.alert.message.new_conversation" = "Bis zu %d Personen können an einer Unterhaltung teilnehmen.";
+"add_participants.alert.message.existing_conversation" = "Bis zu %1$d Personen können an einer Unterhaltung teilnehmen. Jetzt ist noch Platz für %2$d weitere.";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "Nach Namen suchen";
+"contacts_ui.invite_others" = "Andere einladen";
+"contacts_ui.name_in_contacts" = "%@ im Adressbuch";
+"contacts_ui.connection_request" = "Kontaktanfrage erhalten";
+"contacts_ui.action_button.invite" = "Einladen";
+"contacts_ui.action_button.open" = "Öffnen";
+"contacts_ui.invite_sheet.cancel_button_title" = "Abbrechen";
+"contacts_ui.notification.invitation_sent" = "Einladung gesendet";
+"contacts_ui.notification.invitation_failed" = "Einladung senden fehlgeschlagen";
+"contacts_ui.title" = "Freunde einladen";
+
+"conversation_list.empty.all_archived.message" = "Alle Unterhaltungen archiviert";
+"conversation_list.empty.no_contacts.message" = "Beginne eine Unterhaltung oder \nerstelle eine Gruppe.";
+
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "Beitreten";
+"conversation_list.header.self_team.accessibility_value" = "%@ Konto.";
+"conversation_list.header.self_team.accessibility_value.inactive" = "Zum Aktivieren tippen.";
+"conversation_list.header.self_team.accessibility_value.active" = "Aktiv.";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "Hat neue Nachrichten.";
+
+// Conversation List Data Usage Permission Dialog
+"conversation_list.data_usage_permission_alert.title" = "Help us make Secret better";
+"conversation_list.data_usage_permission_alert.message" = "Ich willige ein, dass Secret anonymisierte Nutzungs- und Fehlerberichte erstellen und verwenden darf, um die Secret-App zu verbessern. Ich kann diese Einwilligung jederzeit widerrufen.";
+"conversation_list.data_usage_permission_alert.disagree" = "Nein";
+"conversation_list.data_usage_permission_alert.agree" = "Ich willige ein";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "in Kontakte";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "Unterhaltung öffnen";
+"conversation_list.voiceover.status.pending_connection" = "wird überprüft";
+"conversation_list.voiceover.status.active_call" = "Aktiver Anruf";
+"conversation_list.voiceover.status.missed_call" = "verpasster Anruf";
+"conversation_list.voiceover.status.pause_media" = "pausiere Medien";
+"conversation_list.voiceover.status.play_media" = "Medien abspielen";
+"conversation_list.voiceover.status.silenced" = "Schweigen";
+"conversation_list.voiceover.status.typing" = "tippt";
+"conversation_list.voiceover.status.ping" = "Ping";
+"conversation_list.voiceover.status.mention" = "du wurdest erwähnt";
+"conversation_list.voiceover.status.reply" = "antworten";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "zuletzt";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "Liste der letzten Unterhaltungen";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "Ordner";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "Liste der in Ordnern organisierten Unterhaltungen";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "archivierte";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "Liste der archivierten Unterhaltungen";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "Kontakte";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "Suche nach Personen auf Secret";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "erstellen";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "Nachrichten verfassen und für später speichern";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "Kamera";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "Fotografieren und schnell senden";
+"conversation_list.voiceover.unread_messages.hint" = "Du hast ungelesene Nachrichten.";
+
+// Archived List
+"archived_list.title" = "Archiv";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "Jede Unterhaltung beginnt hier";
+"tool_tip.contacts.message" = "Beginne eine Unterhaltung. Anrufen, Messaging und Teilen im Privaten und in Gruppen.";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "Kennt %@";
+"peoplepicker.suggested.knows_two" = "Kennt %@ und %@";
+"peoplepicker.hide_search_result" = "Löschen";
+"peoplepicker.hide_search_result_progress" = "löschen…";
+
+"send_invitation.subject" = "Füge mich auf Secret als Kontakt hinzu";
+"send_invitation.text" = "Ich benutze Secret. Suche nach %@ oder gehe auf secret.chat/#download";
+"send_invitation_no_email.text" = "Ich bin bei Secret. Gehe auf secret.chat/#download, um mich als Kontakt hinzuzufügen.";
+
+// Folders
+
+"folder.creation.name.title" = "Neuen Ordner anlegen";
+"folder.creation.name.button.create" = "Erstellen";
+"folder.creation.name.header" = "Unterhaltung \"%@\" in einen neuen Ordner verschieben.";
+"folder.creation.name.footer" = "Maximal 64 Zeichen";
+"folder.creation.name.placeholder" = "Ordnername";
+
+"folder.picker.title" = "Verschieben nach";
+"folder.picker.empty.hint" = "Neuen Ordner durch Drücken der + Taste anlegen";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "hat ein Bild geteilt";
+"notifications.pinged" = "HAT GEPINGT";
+"notifications.sent_file" = "hat eine Datei geteilt";
+"notifications.sent_location" = "hat einen Standort geteilt";
+"notifications.sent_video" = "hat ein Video geteilt";
+"notifications.sent_audio" = "hat eine Audionachricht geteilt";
+"notifications.in_conversation" = "%@ - %@";
+"notifications.this_conversation" = "%@ in dieser Unterhaltung";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "Unterhaltungen";
+"list.archived_conversations" = "Archiv";
+"list.archived_conversations_close" = "Archiv schliessen";
+
+"list.section.groups" = "Gruppen";
+"list.section.contacts" = "Kontakte";
+"list.section.requests" = "Anfragen";
+"list.section.favorites" = "Favoriten";
+
+"conversation.voiceover.verified" = "Überprüft";
+"conversation.voiceover.legalhold" = "gesetzliche Aufbewahrung";
+"conversation.voiceover.value.active" = "aktiv";
+"conversation.voiceover.value.disabled" = "deaktiviert";
+
+"conversation.status.typing" = "Schreibt eine Nachricht…";
+"conversation.status.typing.group" = "%@: schreibt eine Nachricht…";
+"conversation.status.silenced" = "Lautlos";
+"conversation.status.poor_connection" = "Schlechte Verbindung";
+"conversation.status.blocked" = "Blockiert";
+"conversation.status.incoming_call" = "%@ ruft an…";
+"conversation.status.incoming_call.unknown" = "Jemand ruft an…";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "Einen Link geteilt";
+"conversation.status.message.image" = "hat ein Bild geteilt";
+"conversation.status.message.location" = "Hat einen Standort geteilt";
+"conversation.status.message.audio" = "Hat eine Audio-Nachricht geteilt";
+"conversation.status.message.video" = "Hat ein Video geteilt";
+"conversation.status.message.file" = "Hat eine Datei geteilt";
+"conversation.status.message.knock" = "hat gepingt";
+"conversation.status.message.missedcall" = "Verpasster Anruf";
+"conversation.status.message.missedcall.groups" = "Verpasster Anruf von %@";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "Temporäre Nachricht";
+"conversation.status.message.ephemeral.group" = "Jemand hat eine Nachricht gesendet";
+"conversation.status.message.ephemeral.mention" = "Hat dich erwähnt";
+"conversation.status.message.ephemeral.mention.group" = "Jemand hat dich erwähnt";
+"conversation.status.message.ephemeral.reply" = "Hat auf deine Nachricht geantwortet";
+"conversation.status.message.ephemeral.reply.group" = "Jemand hat auf deine Nachricht geantwortet";
+"conversation.status.message.ephemeral.knock" = "hat gepingt";
+"conversation.status.message.ephemeral.knock.group" = "Jemand hat gepingt";
+
+"conversation.status.unsent" = "⚠️ Nicht gesendete Nachricht";
+"conversation.status.you" = "Du";
+"conversation.status.someone" = "Jemand";
+"conversation.status.you_was_added" = "%@ hat dich hinzugefügt";
+"conversation.status.you_were_removed" = "Du wurdest entfernt";
+"conversation.status.you_left" = "Du hast die Unterhaltung verlassen";
+"conversation.status.started_conversation" = "%@ hat eine Unterhaltung begonnen";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "Unterhaltung";
+"compose.message.title" = "Nachricht";
+
+"conversation_details.open_button.accessibility_hint" = "Doppeltippen, um die Details der Unterhaltung anzuzeigen.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "Sag es weiter!";
+"conversation.invite_more_people.description" = "Personen zur Unterhaltung hinzufügen";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "Personen hinzufügen";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "Leere Gruppe - Gespräch";
+
+"conversation.input_bar.verified" = "Überprüft";
+"conversation.input_bar.placeholder" = "Schreibe eine Nachricht";
+"conversation.input_bar.placeholder_ephemeral" = "Temporäre Nachricht";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "Zum Senden nach oben Wischen";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "Tippe, um zu senden";
+"conversation.input_bar.audio_message.too_long.title" = "Die Aufnahme wurde beendet";
+"conversation.input_bar.audio_message.too_long.message" = "Audionachrichten sind auf %@ beschränkt.";
+
+"conversation.input_bar.audio_message.too_long_size.message" = "Die Dateigröße für Audionachrichten ist auf %@ begrenzt.";
+
+"conversation.input_bar.audio_message.send" = "Senden";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "Zum Aufnehmen tippen\nDu kannst es danach %@";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "Wähle einen Filter aus";
+
+"conversation.call.many_participants_confirmation.title" = "Anruf bestätigen";
+"conversation.call.many_participants_confirmation.message" = "Dies wird %d Menschen anrufen";
+"conversation.call.many_participants_confirmation.call" = "Anruf";
+
+"conversation.connection_view.in_address_book" = "in Kontakte";
+
+"conversation.input_bar.shortcut.send" = "Nachricht senden";
+"conversation.input_bar.shortcut.newline" = "Zeilenumbruch einfügen";
+"conversation.input_bar.shortcut.edit_last_message" = "Letzte Nachricht bearbeiten";
+"conversation.input_bar.shortcut.cancel_editing_message" = "Abbrechen";
+
+"conversation.input_bar.message_too_long.title" = "Nachricht zu lang";
+"conversation.input_bar.message_too_long.message" = "Du kannst Nachrichten mit bist zu %d Zeichen senden.";
+
+"conversation.create.group_name.title" = "Gruppe erstellen";
+"conversation.create.group_name.placeholder" = "Gruppenname";
+"conversation.create.guidance.empty" = "Mindestens 1 Zeichen";
+"conversation.create.guidance.toolong" = "Zu viele Zeichen";
+"conversation.create.options.title" = "Optionen";
+"conversation.create.options.subtitle" = "Gäste und Dienste: %@, Lesebestätigungen: %@";
+"conversation.create.guests.title" = "Gäste und Dienste zulassen";
+"conversation.create.guests.subtitle" = "Diese Unterhaltung für Dienste und Personen außerhalb des Teams öffnen.";
+"conversation.create.receipts.title" = "Lesebestätigungen";
+"conversation.create.receipts.subtitle" = "Wenn diese Option aktiviert ist, können Sender sehen, wenn ihre Nachrichten gelesen werden.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "Aktiver Anruf";
+"conversation.input_bar.ongoing_call_alert.audio.message" = "Audionachrichten können während eines Anrufs nicht aufgenommen werden.";
+"conversation.input_bar.ongoing_call_alert.video.message" = "Videonachrichten können während eines Anrufs nicht aufgenommen werden.";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "Bilder können während eines Anrufs nicht aufgenommen werden.";
+
+"conversation.alert.message_deleted" = "Die Nachricht ist gelöscht.";
+
+"conversation.guests_present" = "Gäste anwesend";
+"conversation.services_present" = "Dienste aktiv";
+"conversation.guests_services_present" = "Gäste und Dienste anwesend";
+"conversation.action.search" = "Suche";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "Bild";
+"conversation.input_bar.message_preview.location" = "Standort";
+"conversation.input_bar.message_preview.video" = "Video";
+"conversation.input_bar.message_preview.audio" = "Audionachricht";
+"conversation.input_bar.message_preview.file" = "Datei";
+"conversation.input_bar.close_reply" = "Antwort abbrechen";
+
+"conversation.input_bar.message_preview.accessibility_description" = "Auf Nachricht antworten: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "Bildnachricht";
+"conversation.input_bar.message_preview.accessibility.location_message" = "Standortmeldung";
+"conversation.input_bar.message_preview.accessibility.video_message" = "Videonachricht";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "Audionachricht";
+"conversation.input_bar.message_preview.accessibility.file_message" = "Dateinachricht (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "Unbekannte Nachricht";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ von %@";
+
+"image_confirmer.confirm" = "OK";
+"image_confirmer.cancel" = "Abbrechen";
+"image.add_sketch" = "Skizze hinzufügen";
+"image.edit_image" = "Bild bearbeiten";
+
+// Camera access
+"camera_access.denied" = "Secret benötigt Zugriff auf die Kamera.";
+"video_call.camera_access.denied" = "Secret hat keinen Zugriff auf die Kamera";
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "Aktiviere es in den Secret-Einstellungen";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "Einstellungen";
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "Secret benötigt Zugriff auf deine \nKamera und Fotos."; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "Secret benötigt Zugriff auf deine Fotos.";
+"keyboard_photos_access.denied.keyboard.camera" = "Secret benötigt Zugriff auf die Kamera.";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "Während eines Videoanrufs ist die Kamera nicht zugänglich.";
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE/AF Sperre";
+
+// Location
+"location.send_button.title" = "Senden";
+"location.unauthorized_alert.title" = "Standortdienste aktivieren";
+"location.unauthorized_alert.message" = "Um deinen Standort zu senden, aktiviere Ortungsdienste und ermögliche Secret Zugriff auf deinen Standort.";
+"location.unauthorized_alert.cancel" = "Abbrechen";
+"location.unauthorized_alert.settings" = "Einstellungen";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ auf Twitter";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "Aus";
+"input.ephemeral.title" = "Wähle eine Zeit, nach welcher die Nachricht verschwindet";
+
+// System messages
+"content.system.you_nominative" = "du";
+"content.system.you_dative" = "dir";
+"content.system.and_you_dative" = "und dir";
+"content.system.you_accusative" = "dich";
+
+"content.system.continued_conversation" = "Beginne eine Unterhaltung mit %@";
+"content.system.started_conversation.truncated_people" = "und %@";
+"content.system.started_conversation.truncated_people.others" = "%@ weitere Personen";
+"content.system.started_conversation.complete_team" = "alle Team-Mitglieder";
+"content.system.started_conversation.complete_team.guests" = "alle Team-Mitglieder und %@ Gäste";
+
+"content.system.other_started_conversation" = "%@ hat eine Unterhaltung mit %@ begonnen";
+"content.system.you_started_conversation" = "Du hast eine Unterhaltung mit %@ begonnen";
+
+"content.system.you_added_participant" = "Du hast %@ hinzugefügt";
+"content.system.other_added_participant" = "%@ hat %@ hinzugefügt";
+"content.system.other_added_you" = "%@ hat dich hinzugefügt";
+
+"content.system.participants_you" = "Du";
+"content.system.participants_1_other" = "%@ und %@";
+"content.system.other_left" = "%@ hat die Unterhaltung verlassen";
+"content.system.you_left" = "Du hast die Unterhaltung verlassen";
+"content.system.other_removed_other" = "%@ entfernte %@";
+"content.system.other_removed_you" = "%@ hat dich entfernt";
+"content.system.you_removed_other" = "Du hast %@ entfernt";
+
+"content.system.services.warning" = "Dienste haben Zugriff auf den Inhalt dieser Unterhaltung";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "YouTube Video-Vorschau";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "SoundCloud Lied-Vorschau";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "SoundCloud Playlist-Vorschau";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ hat ein Gespräch mit %@ begonnen";
+"content.system.conversation.other.added" = "%@ hat %@ hinzugefügt";
+"content.system.conversation.other.removed" = "%@ hat %@ entfernt";
+"content.system.conversation.other.left" = "%@ hat das Gespräch verlassen";
+
+"content.system.conversation.you.started" = "%@ hast ein Gespräch mit %@ begonnen";
+"content.system.conversation.you.added" = "%@ hast %@ hinzugefügt";
+"content.system.conversation.you.removed" = "%@ hast %@ entfernt";
+"content.system.conversation.you.left" = "%@ hast das Gespräch verlassen";
+"content.system.conversation.team.member-leave" = "%@ wurde aus dem Team entfernt.";
+"content.system.conversation.guest.joined" = "%@ ist beigetreten";
+
+"content.system.conversation.invite.title" = "Dienste und Personen außerhalb des Teams können an dieser Unterhaltung teilnehmen.";
+"content.system.conversation.invite.button" = "Personen einladen";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ hat den Namen der Unterhaltung entfernt";
+"content.system.you_renamed_conv_to_nothing" = "Du hast den Namen der Unterhaltung entfernt";
+"content.system.pending_message_timestamp" = "Senden…";
+"content.system.message_sent_timestamp" = "Gesendet";
+"content.system.message_delivered_timestamp" = "Zugestellt";
+"content.system.message_read_timestamp" = "Gesehen";
+"content.system.failedtosend_message_timestamp" = "Senden fehlgeschlagen.";
+"content.system.failedtosend_message_timestamp_resend" = "Erneut senden";
+"content.system.failedtosend_message_timestamp_delete" = "Löschen";
+"content.system.like_tooltip" = "Gefällt mir";
+"content.system.deleted_message_prefix_timestamp" = "Entfernt: %@";
+"content.system.edited_message_prefix_timestamp" = "Bearbeitet: %@";
+"content.system.connecting_to" = "Warte auf Bestätigung deiner Kontaktanfrage an %@";
+"content.system.connected_to" = "Verbunden mit %@. Beginne eine Unterhaltung.";
+"content.system.other_wanted_to_talk" = "%@ hat versucht dich anzurufen";
+"content.system.you_wanted_to_talk" = "Du hast angerufen";
+"content.system.ephemeral_time_remaining" = "%@ verbleibend";
+
+"content.system.you_started" = "Du";
+"content.system.this_device" = "dieses Gerät";
+
+"content.system.call.you" = "Du";
+"content.system.call.called" = "%@ hat angerufen";
+"content.system.call.called-you" = "%@ hast angerufen";
+
+"content.system.renamed_conv.title" = "%@ hat das Gespräch umbenannt";
+"content.system.renamed_conv.title-you" = "%@ hast das Gespräch umbenannt";
+"content.system.renamed_conv.title.you" = "Du";
+
+"content.system.conversation.with_name.title" = "%@ hat die Unterhaltung begonnen";
+"content.system.conversation.with_name.title-you" = "%@ hast die Unterhaltung begonnen";
+
+"content.system.conversation.with_name.participants" = "mit";
+
+"content.system.message_timer_changes" = "%@ hat temporäre Nachrichten auf %@ gestellt";
+"content.system.message_timer_changes-you" = "%@ hast temporäre Nachrichten auf %@ gestellt";
+
+"content.system.message_timer_off" = "%@ hat temporäre Nachrichten ausgeschaltet";
+"content.system.message_timer_off-you" = "%@ hast temporäre Nachrichten ausgeschaltet";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@ hat Lesebestätigungen für alle aktiviert";
+"content.system.message_read_receipt_on-you" = "%@ hat Lesebestätigungen für alle aktiviert";
+
+"content.system.message_read_receipt_off" = "%@ hat Lesebestätigungen für alle deaktiviert";
+"content.system.message_read_receipt_off-you" = "%@ hat Lesebestätigungen für alle deaktiviert";
+
+"content.system.message_read_receipt_on_add_to_group" = "Lesebestätigungen aktiv";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "Diese Unterhaltung unterliegt der gesetzlichen Aufbewahrung";
+"content.system.message_legal_hold.disabled" = "Die gesetzliche Aufbewahrung wurde für diese Unterhaltung deaktiviert";
+
+"content.system.message_legal_hold.learn_more" = "Mehr erfahren";
+
+//
+"content.system.screen.shot" = "%@ hat einen Screenshot";
+
+"content.system.reactivated_device" = "Du hast %@ eine Weile nicht benutzt. Nachrichten, die in der Zwischenzeit gesendet wurden, werden nicht angezeigt.";
+
+"content.system.new_device" = "ein neues Gerät";
+"content.system.started_using" = "benutzt";
+"content.system.is_verified" = "Alle Fingerabdrücke sind überprüft";
+
+"content.system.new_users" = "Teilnehmer hinzugefügt.";
+"content.system.verify_devices" = "Überprüfe Geräte";
+
+"content.system.unverified" = "%@ hast die Überprüfung für ein Gerät von %@ widerrufen"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "deine Geräte";
+"content.system.other_devices" = "%@s Geräte";
+
+"content.system.missing_messages.title" = "Du hast Secret eine Weile nicht benutzt. Einige ältere Nachrichten könnten nicht angezeigt werden.";
+"content.system.missing_messages.subtitle_start" = "In der Zwischenzeit";
+
+"content.system.cannot_decrypt" = "Eine Nachricht von %@ wurde nicht empfangen.";
+
+"content.system.cannot_decrypt.you_part" = "dir";
+"content.system.cannot_decrypt.why_part" = "Warum?";
+
+"content.system.cannot_decrypt.identity" = "%@ Geräte-Identität hat sich geändert. Nachricht kann nicht entschlüsselt werden.";
+"content.system.cannot_decrypt.identity.you_part" = "Deine";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@s"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "Erfahre mehr";
+"content.system.cannot_decrypt.otherDevice_part" = "(Gerät %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "Diese Meldung konnte nicht angezeigt werden. Möglicherweise verwenden Sie eine ältere Version von Secret.";
+
+"content.file.uploading" = "Hochladen…";
+"content.file.downloading" = "Herunterladen…";
+"content.file.upload_failed" = "Hochladen fehlgeschlagen";
+"content.file.upload_cancelled" = "Hochladen abgebrochen";
+"content.file.upload_video" = "Videos";
+"content.file.take_video" = "Video aufnehmen & hochladen";
+"content.file.browse" = "Durchsuchen";
+
+"content.file.save_video" = "Speichern";
+"content.file.save_audio" = "Speichern";
+"content.image.save_image" = "Speichern";
+
+"content.message.delete" = "Löschen";
+"content.message.save" = "Speichern";
+"content.message.resend" = "Erneut senden";
+
+"content.message.delete_ellipsis" = "Löschen…";
+
+"content.message.like" = "Gefällt mir";
+"content.message.unlike" = "Gefällt mir nicht mehr";
+"content.message.forward" = "Teilen";
+"content.message.go_to_conversation" = "Öffnen";
+"content.message.forward.to" = "Suche…";
+"content.message.open" = "Öffnen";
+"content.message.copy" = "Kopieren";
+"content.message.download" = "Download";
+"content.message.details" = "Details";
+
+// Reply
+"content.message.reply" = "Antworten";
+"content.message.original_label" = "Ursprüngliche Nachricht";
+"content.message.reply.original_timestamp.date" = "Ursprüngliche Nachricht vom %@";
+"content.message.reply.original_timestamp.time" = "Ursprüngliche Nachricht von %@";
+"content.message.reply.broken_message" = "Diese Nachricht ist nicht sichtbar.";
+"content.message.reply.edited_message" = "Bearbeitet";
+
+"content.message.open_link_alert.title" = "Link öffnen";
+"content.message.open_link_alert.message" = "Dieser Link öffnet\n%@";
+"content.message.open_link_alert.open" = "Öffnen";
+
+"content.message.audio_message.accessibility" = "Audionachricht abspielen";
+
+"content.reactions_list.likers" = "Gefällt";
+
+"content.file.too_big" = "Du kannst Dateien bis zu %@ senden";
+// Someone pinged
+"content.ping.text" = "%@ hat gepingt";
+"content.ping.text-you" = "%@ hast gepingt";
+
+// Current user pinged
+"content.ping.text.you" = "Du";
+
+// Inline Player
+"content.player.unable_to_play" = "MUSIK NICHT ABSPIELBAR";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "Füge %@ als Kontakt hinzu"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "Hallo %@,\nbitte füge mich als Kontakt hinzu.\n%@";
+
+"connection_request_pending_title" = "Kontaktanfrage";
+"connection_request.send_button_title" = "Kontaktanfrage";
+"inbox.connection_request.connect_button_title" = "Akzeptieren";
+"inbox.connection_request.ignore_button_title" = "Ignorieren";
+
+// Save image errors
+"library.alert.permission_warning.title" = "Secret benötigt Zugriff auf Ihre Fotos.";
+"library.alert.permission_warning.restrictions.explaination" = "Secret konnte nicht auf Ihre Bibliothek zugreifen, da Einschränkungen aktiviert sind.";
+"library.alert.permission_warning.not_allowed.explaination" = "Gehe zu den Einstellungen und erlaube Secret Zugriff auf Fotos.";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@ \nruft an";
+"voice.status.group_call.incoming" = "%@ \nruft an";
+"voice.status.one_to_one.outgoing" = "%@\nAnruf";
+"voice.status.joining" = "%@\nVerbinden";
+"voice.status.leaving" = "%@\nAnruf beendet";
+"voice.status.video_not_available" = "Video deaktiviert";
+"voice.status.low_connection" = "Schlechte Verbindung";
+"voice.network_error.title" = "Keine Internetverbindung";
+"voice.status.cbr" = "Konstante Bitrate";
+"voice.network_error.body" = "Du brauchst eine Internetverbindung, um anzurufen. Überprüfe die Verbindung und versuche es erneut.";
+"voice.degradation.new_self_device" = "Du hast ein neues Gerät hinzugefügt.";
+"voice.degradation.new_user_device" = "%@ hat ein neues Gerät hinzugefügt.";
+"voice.degradation_outgoing.prompt" = "Möchtest du noch anrufen?";
+"voice.degradation_incoming.prompt" = "Möchtest du den Anruf noch annehmen?";
+"voice.accept_button.title" = "Annehmen";
+"voice.decline_button.title" = "Ablehnen";
+"voice.hang_up_button.title" = "Beenden";
+"voice.mute_button.title" = "Stumm";
+"voice.video_button.title" = "Video";
+"voice.flip_video_button.title" = "Wechseln";
+"voice.speaker_button.title" = "Lautsprecher";
+"voice.cancel_button.title" = "Abbrechen";
+"voice.call_button.title" = "Anruf";
+"voice.end_call_button.title" = "Anruf beenden";
+"voice.call_error.unsupported_version.title" = "Bitte Wire aktualisieren";
+"voice.call_error.unsupported_version.message" = "Der erhaltene Anruf wird von dieser Version von Wire nicht unterstützt.\nBitte im App Store auf die neueste Version aktualisieren.";
+"voice.call_error.unsupported_version.dismiss" = "Später";
+
+"voice.alert.call_in_progress.title" = "Laufendes Gespräch";
+"voice.alert.call_in_progress.message" = "Du kannst nur einen aktiven Anruf zu einem Zeitpunkt haben";
+"voice.alert.call_in_progress.confirm" = "Verstanden";
+
+"voice.alert.microphone_warning.title" = "Secret benötigt Zugriff auf dein Mikrofon.";
+"voice.alert.microphone_warning.explanation" = "Aktiviere es in den Secret-Einstellungen.";
+
+"voice.alert.camera_warning.title" = "Secret benötigt Zugriff auf die Kamera.";
+"voice.alert.camera_warning.explanation" = "Gehe zu den Einstellungen und erlaube Secret Zugriff auf die Kamera.";
+
+"voice.top_overlay.tap_to_return" = "Zum Anruf zurückkehren";
+"voice.top_overlay.accessibility_title" = "Aktiver Anruf";
+
+// Voice New
+
+"call.status.connecting" = "Verbinden…";
+"call.status.incoming.user" = "%@ ruft an…";
+"call.status.incoming" = "Ruft an…";
+"call.status.outgoing" = "Klingeln…";
+"call.status.outgoing.user" = "%@ anrufen…";
+"call.status.reconnecting" = "Erneut verbinden…";
+"call.status.terminating" = "Auflegen…";
+"call.status.constant_bitrate" = "Konstante Bitrate";
+
+"call.participants.show_all" = "Alle anzeigen (%@)";
+"call.participants.list.title" = "Teilnehmer";
+
+"call.video.paused" = "Video wurde angehalten";
+
+"call.video.too_many.alert.title" = "Zu viele Teilnehmer";
+"call.video.too_many.alert.message" = "Videoanrufe funktionieren nur in Gruppen von 4 oder weniger Personen.";
+
+"call.degraded.alert.title" = "Neues Gerät";
+"call.degraded.alert.message.self" = "Du hast ein neues Gerät hinzugefügt.";
+"call.degraded.alert.message.user" = "%@ hat ein neues Gerät hinzugefügt.";
+"call.degraded.alert.message.unknown" = "Jemand verwendet ein neues Gerät.";
+"call.degraded.alert.action.continue" = "Trotzdem anrufen";
+
+"call.alert.ongoing.alert_title" = "Dies wird den anderen Anruf beenden.";
+
+"call.alert.ongoing.start.message" = "In einer anderen Unterhaltung ist ein Anruf aktiv.\nEin Anruf hier beendet den anderen.";
+"call.alert.ongoing.join.message" = "In einer anderen Unterhaltung ist ein Anruf aktiv.\nDiesen Anruf anzunehmen, beendet den anderen.";
+"call.alert.ongoing.start.button" = "Trotzdem anrufen";
+"call.alert.ongoing.join.button" = "Trotzdem beitreten";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "Eingehender Anruf von %@";
+"call.actions.label.toggle_mute_on" = "Stumm";
+"call.actions.label.toggle_mute_off" = "Benachrichtigen";
+"call.actions.label.flip_camera" = "Kamera wechseln";
+"call.actions.label.toggle_speaker_on" = "Lautsprecher aktivieren";
+"call.actions.label.toggle_speaker_off" = "Lautsprecher deaktivieren";
+"call.actions.label.accept_call" = "Anruf annehmen";
+"call.actions.label.reject_call" = "Anruf ablehnen";
+"call.actions.label.terminate_call" = "Anruf beenden";
+"call.actions.label.toggle_video_on" = "Kamera einschalten";
+"call.actions.label.toggle_video_off" = "Kamera ausschalten";
+"call.actions.label.switch_to_back_camera" = "Kamera auf der Rückseite verwenden";
+"call.actions.label.switch_to_front_camera" = "Frontkamera verwenden";
+"call.actions.label.minimize_call" = "Anruf minimieren";
+"call.actions.label.make_audio_call" = "Anruf beginnen";
+"call.actions.label.make_video_call" = "Videoanruf beginnen";
+"call.actions.label.join_call" = "Anruf annehmen";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "Hinzufügen";
+"participants.avatar.guest.title" = "Gast";
+
+"participants.title" = "Details";
+"participants.all.title" = "Kontakte";
+"participants.section.participants" = "Personen (%d)";
+"participants.section.services" = "Dienste (%d)";
+"participants.section.settings" = "Optionen";
+"participants.footer.add_title" = "Teilnehmer hinzufügen";
+"participants.section.name.footer" = "Bis zu %1$d Personen können an einer Unterhaltung teilnehmen. Videoanrufe funktionieren mit bis zu %2$d anderen Personen und dir.";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "Weitere Aktionen";
+"meta.menu.rename" = "Umbenennen";
+"meta.menu.leave" = "Gruppe verlassen…";
+"meta.menu.archive" = "Archivieren";
+"meta.menu.unarchive" = "Reaktivieren";
+"meta.menu.delete" = "Gruppe löschen…";
+"meta.menu.clear_content" = "Verlauf löschen…";
+"meta.menu.move_to_folder" = "Verschieben nach…";
+"meta.menu.remove_from_folder" = "Aus \"%@\" entfernen";
+"meta.menu.silence.mute" = "Stumm";
+"meta.menu.silence.unmute" = "Benachrichtigen";
+"meta.menu.cancel" = "Abbrechen";
+"meta.menu.cancel_connection_request" = "Kontaktanfrage abbrechen";
+"meta.menu.mark_unread" = "Als ungelesen markieren";
+"meta.menu.mark_read" = "Als gelesen markieren";
+"shortcut.mark_all_as_read.title" = "Alle als gelesen markieren";
+"meta.menu.configure_notifications" = "Benachrichtigungen…";
+"meta.menu.open_self_profile" = "Profil öffnen";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "Verlauf löschen?";
+"meta.menu.delete_content.dialog_message" = "Der Gesprächsverlauf wird auf all deinen Geräten gelöscht.";
+"meta.menu.delete_content.leave_as_well_message" = "Unterhaltung verlassen";
+"meta.menu.delete_content.button_cancel" = "Abbrechen";
+"meta.menu.delete_content.button_delete" = "Löschen";
+"meta.menu.delete_content.button_delete_and_leave" = "Löschen und verlassen";
+
+// Configure conversation notifications
+"meta.menu.configure_notification.dialog_message" = "Benachrichtigungen über:";
+"meta.menu.configure_notification.button_everything" = "Alles";
+"meta.menu.configure_notification.button_mentions_and_replies" = "Erwähnungen und Antworten";
+"meta.menu.configure_notification.button_nothing" = "Nichts";
+"meta.menu.configure_notification.button_cancel" = "Abbrechen";
+
+// Leave conversation
+"meta.leave_conversation_dialog_title" = "Unterhaltung verlassen?";
+"meta.leave_conversation_dialog_message" = "Andere Teilnehmer werden benachrichtigt und die Unterhaltung aus der Liste entfernt.";
+"meta.leave_conversation.delete_content_as_well_message" = "Unterhaltungsverlauf löschen";
+"meta.leave_conversation_button_cancel" = "Abbrechen";
+"meta.leave_conversation_button_leave" = "Verlassen";
+"meta.leave_conversation_button_leave_and_delete" = "Verlassen und Verlauf löschen";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ hat ein neues Gerät hinzugefügt.";
+"meta.degraded.degradation_reason_message.plural" = "%@ haben neue Geräte hinzugefügt.";
+"meta.degraded.degradation_reason_message.someone" = "Jemand verwendet ein neues Gerät.";
+"meta.degraded.dialog_message" = "Möchtest du die Nachricht noch senden?";
+"meta.degraded.verify_devices_button" = "Geräte überprüfen…";
+"meta.degraded.send_anyway_button" = "Trotzdem senden";
+"meta.degraded.cancel_sending_button" = "Abbrechen";
+"meta.legalhold.info_button" = "Was ist gesetzliche Aufbewahrung?";
+"meta.legalhold.send_alert_title" = "Die Unterhaltung unterliegt der gesetzlichen Aufbewahrung.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "Entfernen?";
+"profile.remove_dialog_message" = "%@ wird in dieser Unterhaltung keine Nachrichten senden oder empfangen können";
+"profile.remove_dialog_button_cancel" = "Abbrechen";
+"profile.remove_dialog_button_remove" = "Aus Gruppe entfernen…";
+"profile.remove_dialog_button_remove_confirm" = "Aus Gruppe entfernen";
+
+// Block dialog
+"profile.block_dialog.title" = "Blockieren?";
+"profile.block_dialog.message" = "%@ wird dich nicht mehr kontaktieren oder zu Gruppenunterhaltungen hinzufügen können.";
+"profile.block_dialog.button_cancel" = "Abbrechen";
+"profile.block_dialog.button_block" = "Blockieren";
+
+// Delete message dialog
+"message.delete_dialog.message" = "Dies kann nicht rückgängig gemacht werden.";
+"message.delete_dialog.action.cancel" = "Abbrechen";
+"message.delete_dialog.action.hide" = "Für mich löschen";
+"message.delete_dialog.action.delete" = "Für alle löschen";
+
+// Edit message
+"message.menu.edit.title" = "Bearbeiten";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "Annehmen?";
+"profile.connection_request_dialog.message" = "Dies verbindet dich und beginnt die Unterhaltung mit %@.";
+"profile.connection_request_dialog.button_cancel" = "Ignorieren";
+"profile.connection_request_dialog.button_connect" = "Kontaktanfrage";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Gruppenunterhaltung löschen?";
+"conversation.delete_request_dialog.message" = "Dies wird die Gruppe und alle Inhalte für alle Teilnehmer auf allen Geräten löschen. Es gibt keine Möglichkeit, den Inhalt wiederherzustellen. Alle Teilnehmer werden darüber benachrichtigt.";
+"conversation.delete_request_error_dialog.title" = "Beim Löschen der Gruppe %@ ist ein Fehler aufgetreten. Bitte erneut versuchen.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Gruppe löschen";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "Kontaktanfrage abbrechen?";
+"profile.cancel_connection_request_dialog.message" = "Die Kontaktanfrage an %@ abbrechen?";
+"profile.cancel_connection_request_dialog.button_no" = "Nein";
+"profile.cancel_connection_request_dialog.button_yes" = "Ja";
+
+// Unblock button
+"profile.block_button_title" = "Blockieren…";
+"profile.unblock_button_title" = "Freigeben…";
+
+// Favorite button
+"profile.favorite_button_title" = "Zu Favoriten hinzufügen";
+"profile.unfavorite_button_title" = "Aus Favoriten entfernen";
+
+"profile.block_button_title_action" = "Blockieren";
+"profile.unblock_button_title_action" = "Freigeben";
+
+"profile.cancel_connection_button_title" = "Anfrage abbrechen";
+"profile.connection_request_state.blocked" = "Blockiert";
+"profile.create_conversation_button_title" = "Gruppe erstellen";
+"profile.open_conversation_button_title" = "Unterhaltung öffnen";
+
+"profile.read_receipts_enabled_memo.header" = "LESEBESTÄTIGUNGEN AKTIV";
+"profile.read_receipts_disabled_memo.header" = "LESEBESTÄTIGUNGEN AUS";
+"profile.read_receipts_memo.body" = "Wenn beide Seiten Lesebestätigungen aktivieren, können alle sehen, wenn Nachrichten gelesen werden.\nDiese Option kann in den Kontoeinstellungen geändert werden.";
+
+"profile.extended_metadata.header" = "Informationen";
+
+// User Details
+"profile.details.title" = "Details";
+"profile.details.guest" = "Gast";
+
+"profile_view.accessibility.handle" = "Benutzername";
+"profile_view.accessibility.name" = "Angezeigter Name";
+"profile_view.accessibility.team_name" = "Name des Teams";
+
+// Device list
+"profile.devices.title" = "Geräte";
+"profile.devices.fingerprint_message_unencrypted" = "%@ benutzt eine ältere Version von Secret. Es werden keine Geräte angezeigt.";
+"profile.devices.fingerprint_message.title" = "Secret gibt jedem Gerät einen einzigartigen Fingerabdruck. Vergleiche diese mit %@ und überprüfe deine Unterhaltung.";
+"profile.devices.fingerprint_message.link" = "Warum sollte ich meine Unterhaltungen verifizieren?";
+
+// Device detail
+"profile.devices.detail.verify_message" = "Überprüfe, ob dieser Fingerabdruck mit dem auf %@s Gerät übereinstimmt.";
+"profile.devices.detail.verify_message.link" = "Wie mache ich das?";
+"profile.devices.detail.show_my_device.title" = "Zeige den Fingerabdruck meines Geräts";
+"profile.devices.detail.reset_session.title" = "Session zurücksetzen";
+"device.verified" = "Überprüft";
+"device.not_verified" = "Nicht überprüft";
+
+"device.class.legalhold" = "Gesetzliche Aufbewahrung";
+"device.class.desktop" = "Desktop";
+"device.class.tablet" = "Tablet";
+"device.class.phone" = "Handy";
+"device.class.unknown" = "Unbekannt";
+
+"device.type.permanent" = "Permanent";
+"device.type.temporary" = "Temporär";
+"device.type.legalhold" = "Gesetzliche Aufbewahrung";
+"device.type.unknown" = "Unbekannt";
+
+// Bot
+"participants.services.remove_integration.button" = "Integration entfernen";
+
+// Group details
+"group_details.guest_options_cell.title" = "Gäste und Dienste";
+"group_details.guest_options_cell.enabled" = "An";
+"group_details.guest_options_cell.disabled" = "Aus";
+"group_details.timeout_options_cell.title" = "Temporäre Nachrichten";
+"group_details.notification_options_cell.title" = "Benachrichtigungen";
+"group_details.notification_options_cell.description" = "Immer benachrichtigen (einschließlich Audio- und Videoanrufe) oder nur bei Erwähnungen oder wenn jemand auf eine deiner Nachrichten antwortet.";
+"group_details.receipt_options_cell.title" = "Lesebestätigungen";
+"group_details.receipt_options_cell.description" = "Wenn diese Option aktiviert ist, können Sender sehen, wenn ihre Nachrichten gelesen werden.";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Personen, die der gesetzlichen Aufbewahrung unterliegen";
+"legalhold.header.title" = "Gesetzliche Aufbewahrung";
+"legalhold.header.other_description" = "Die gesetzlichen Aufbewahrung wurde für mindestens eine Person dieser Unterhaltung aktiviert.\nAlle Nachrichten werden für den künftigen Zugriff aufbewahrt, einschließlich gelöschter, bearbeiteter und temporärer Nachrichten.";
+"legalhold.header.self_description" = "Die gesetzliche Aufbewahrung wurde für dieses Konto aktiviert.\nAlle Nachrichten werden für den künftigen Zugriff aufbewahrt, einschließlich gelöschter, bearbeiteter und temporärer Nachrichten.\nAlle Gesprächspartner werden über die Aufnahme in Kenntnis gesetzt.";
+"legalhold.accessibility" = "Details zur gesetzlichen Aufbewahrung";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "Einstellungen";
+"self.profile" = "Profil";
+"self.account" = "Benutzerkonto";
+"self.help_center" = "Hilfe";
+"self.help_center.support_website" = "Secret-Support-Webseite";
+"self.help_center.contact_support" = "Kontaktiere den Support";
+"self.about" = "Über Secret";
+"self.sign_out" = "Ausloggen";
+"self.report_abuse" = "Missbrauch melden";
+"self.voiceover.label" = "Profil";
+"self.voiceover.hint" = "Offenes Profil und Einstellungen";
+"self.new-device.voiceover.label" = "Profil, neue Geräte hinzugefügt";
+
+"self.add_phone_number" = "Telefonnummer hinzufügen";
+"self.add_email_password" = "E-Mail und Passwort hinzufügen";
+
+"self.accessibility.profile_photo_image" = "Profilbild";
+"self.accessibility.profile_photo_edit_button" = "Profilbild ändern";
+
+// About screen
+"about.tos.title" = "Nutzungsbedingungen";
+"about.privacy.title" = "Datenschutzrichtlinie";
+"about.license.title" = "Lizenzen";
+"about.website.title" = "Secret-Webseite";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "Details";
+"about.license.open_project_button" = "Projektseite anzeigen";
+"about.license.license_header" = "Kenntnisnahme";
+
+// Self new devices
+"self.new_device_alert.title" = "Dein Benutzerkonto wurde verwendet:";
+"self.new_device_alert.message" = "\n%@\n\nWenn Sie das oben genannte Gerät nicht erkennen, entfernen Sie es und setzen Sie Ihr Passwort zurück.";
+"self.new_device_alert.message_plural" = "\n%@\n\nWenn Sie die oben genannten Geräte nicht erkennen, entfernen Sie diese und setzen Sie Ihr Passwort zurück.";
+"self.new_device_alert.manage_devices" = "Geräte verwalten";
+"self.new_device_alert.trust_devices" = "OK";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "Lesebestätigungen sind aktiviert";
+"self.read_receipts_disabled.title" = "Lesebestätigungen sind deaktiviert";
+"self.read_receipts_description.title" = "Diese Option kann in den Kontoeinstellungen geändert werden.";
+
+// Settings - top level
+"self.settings.create_team.title" = "Team erstellen";
+"self.settings.manage_team.title" = "Team verwalten";
+"self.settings.add_team_or_account.title" = "Benutzerkonto hinzufügen";
+"self.settings.add_account.title" = "Ein Konto hinzufügen";
+
+"self.settings.add_account.error.title" = "Drei Benutzerkonten sind aktiv";
+"self.settings.add_account.error.message" = "Du kannst zugleich mit drei Benutzerkonten angemeldet sein. Logge dich aus einem aus, um ein neues Konto hinzuzufügen.";
+
+"self.settings.switch_account.message" = "In diesem Konto ist ein Anruf aktiv.\nEin Wechsel der Konten beendet den aktuellen Anruf.";
+"self.settings.switch_account.action" = "Trotzdem wechseln";
+
+// Settings - Account details
+"self.settings.account_section" = "Benutzerkonto";
+
+"self.settings.account_details_group.info.title" = "Info";
+"self.settings.account_details_group.personal.title" = "Nutzerangaben";
+
+"self.settings.account_section.name.title" = "Name";
+"self.settings.account_section.email.title" = "E-Mail";
+"self.settings.account_section.phone.title" = "Telefon";
+"self.settings.account_section.handle.title" = "Benutzername";
+"self.settings.account_section.add_handle.title" = "Benutzernamen hinzufügen";
+
+"self.settings.account_details_group.info.footer" = "Du kannst über diese Informationen von anderen gefunden werden.";
+"self.settings.account_details_group.personal.footer" = "Diese Informationen sind nicht sichtbar.";
+
+"self.settings.account_details.remove_device.title" = "Gerät entfernen";
+"self.settings.account_details.key_fingerprint.title" = "Schlüssel-Fingerabdruck";
+"self.settings.account_details.remove_device.message" = "Dein Passwort wird benötigt, um das Gerät zu entfernen";
+"self.settings.account_details.remove_device.password" = "Passwort";
+"self.settings.account_details.remove_device.password.error" = "Falsches Passwort";
+
+"self.settings.account_appearance_group.title" = "Erscheinungsbild";
+
+"self.settings.privacy_section_group.title" = "Datenschutz";
+"self.settings.enable_read_receipts.title" = "Lesebestätigungen senden";
+"self.settings.privacy_section_group.subtitle" = "Wenn diese Option deaktiviert ist, sieht man keine Lesebestätigungen von anderen.\nDies gilt nicht für Gruppen.";
+
+"self.settings.account_picture_group.picture" = "Bild";
+"self.settings.account_picture_group.color" = "Farbe";
+
+"self.settings.account_personal_information_group.title" = "Persönliche Informationen";
+
+"self.settings.account_picture_group.theme" = "Dunkler Hintergrund";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret gibt jedem Gerät einen einzigartigen Fingerabdruck. Vergleiche diese und verifiziere deine Geräte und Unterhaltungen.";
+"self.settings.device_details.reset_session.subtitle" = "Falls die Fingerabdrücke nicht übereinstimmen, setze die Session zurück um neue Verschlüsselungs-Schlüssel auf beiden Seiten zu erstellen.";
+"self.settings.device_details.remove_device.subtitle" = "Entferne das Gerät, wenn du es nicht mehr nutzt. Du wirst auf diesem Gerät umgehend abgemeldet.";
+"self.settings.device_details.reset_session.success" = "Die Session wurde zurückgesetzt";
+
+"self.settings.account_details.actions.title" = "Aktionen";
+
+"self.settings.account_details.delete_account.title" = "Benutzerkonto löschen";
+
+"self.settings.account_details.delete_account.alert.title" = "Benutzerkonto löschen";
+"self.settings.account_details.delete_account.alert.message" = "In Kürze erhältst du eine Nachricht per E-Mail oder SMS. Folge dem Link darin, um dein Konto zu löschen.";
+
+"self.settings.account_details.log_out.alert.title" = "Ausloggen";
+"self.settings.account_details.log_out.alert.message" = "Der Nachrichtenverlauf wird auf diesem Gerät gelöscht.";
+"self.settings.account_details.log_out.alert.password" = "Passwort";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "Nutzungs- und Fehlerberichte";
+"self.settings.privacy_analytics.title" = "Anonyme Nutzungsdaten senden";
+"self.settings.privacy_analytics_menu.description.title" = "Anonymisierte Nutzungs- und Fehlerberichte schicken, um Secret zu verbessern.";
+
+"self.settings.receiveNews_and_offers.title" = "Newsletter abonnieren";
+"self.settings.receiveNews_and_offers.description.title" = "Neuigkeiten und Informationen zu Produktaktualisierungen von Secret per E-Mail erhalten.";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "Benutzername";
+"self.settings.account_section.handle.change.save" = "Speichern";
+"self.settings.account_section.handle.change.footer" = "Mindestens 2 Zeichen. a—z, 0—9, und _";
+"self.settings.account_section.handle.change.footer.unavailable" = "Bereits vergeben";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "Speichern fehlgeschlagen";
+"self.settings.account_section.handle.change.failure_alert.message" = "Es gab einen Fehler beim Speichern deines Benutzernamens. Bitte versuche es erneut.";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "E-Mail";
+"self.settings.account_section.email.change.save" = "Speichern";
+
+"self.settings.account_section.email.change.verify.title" = "E-Mail bestätigen";
+"self.settings.account_section.email.change.verify.description" = "Schaue in deinen Posteingang und folge den Anweisungen.";
+"self.settings.account_section.email.change.verify.resend" = "Erneut an %@ senden";
+
+"self.settings.account_section.email.change.resend.title" = "Die E-Mail wurde erneut gesendet";
+"self.settings.account_section.email.change.resend.message" = "Eine Bestätigung wurde an %@ gesendet. Bitte überprüfe deinen Posteingang und folge den in der Nachricht enthaltenen Anweisungen.";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "Handy";
+"self.settings.account_section.phone_number.change.save" = "Speichern";
+"self.settings.account_section.phone_number.change.remove" = "Telefonnummer entfernen";
+
+"self.settings.account_section.phone_number.change.remove.action" = "Telefonnummer entfernen";
+
+"self.settings.account_section.phone_number.change.verify.save" = "Speichern";
+"self.settings.account_section.phone_number.change.verify.title" = "Überprüfe";
+"self.settings.account_section.phone_number.change.verify.description" = "Bitte gib den Verifizierungs-Code ein, den wir an %@ gesendet haben.";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "Verifizierungs-Code eingeben";
+"self.settings.account_section.phone_number.change.verify.resend" = "Verifizierungs-Code erneut senden";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "Du hast keinen Code erhalten?\nDu kannst in 30 Sekunden einen Neuen anfordern.";
+
+"self.settings.account_section.phone_number.change.resend.title" = "Der Verifizierungs-Code wurde erneut gesendet";
+"self.settings.account_section.phone_number.change.resend.message" = "Verifizierungs-Code wurde erneut an %@ gesendet.";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "Benachrichtigungen";
+"self.settings.notifications.push_notification.toogle" = "Nachrichtenvorschau";
+"self.settings.notifications.push_notification.footer" = "Absendername und Nachricht auf dem Sperrbildschirm und in der Mitteilungszentrale.";
+
+"self.settings.notifications.chat_alerts.toggle" = "Nachrichten-Banner";
+"self.settings.notifications.chat_alerts.footer" = "Neue Nachrichten in anderen Unterhaltungen.";
+
+"self.settings.sound_menu.sounds.title" = "Töne";
+"self.settings.sound_menu.ringtone.title" = "Klingeltöne";
+"self.settings.sound_menu.message.title" = "Nachrichtenton";
+"self.settings.sound_menu.ping.title" = "Ping";
+"self.settings.sound_menu.ringtones.title" = "Klingeltöne";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "Keine";
+
+"self.settings.callkit.title" = "Anrufe";
+"self.settings.callkit.caption" = "Mit iOS teilen";
+"self.settings.callkit.description" = "Zeige Secret Anrufe auf dem Sperrbildschirm und in der iOS-Anrufhistorie. Wenn iCloud aktiviert ist, wird die Anrufhistorie mit Apple geteilt.";
+
+"self.settings.vbr.title" = "Variable Bitrate";
+"self.settings.vbr.description" = "Anrufe benötigen weniger Datenvolumen und funktionieren besser in Netzen mit geringer Bandbreite. Deaktivieren um eine konstante Bitrate zu benutzen.";
+
+"self.settings.sound_menu.sounds.wire_call" = "Secret Anruf";
+"self.settings.sound_menu.sounds.wire_message" = "Secret Nachricht";
+"self.settings.sound_menu.sounds.wire_ping" = "Secret Ping";
+
+// By popular demand
+"self.settings.popular_demand.title" = "Auf allgemeinen Wunsch";
+"self.settings.popular_demand.send_button.title" = "Senden Taste";
+"self.settings.popular_demand.send_button.footer" = "Deaktivieren, um Nachrichten mit der Enter-Taste zu senden.";
+"self.settings.popular_demand.dark_mode.footer" = "Zwischen dunklem und hellem Hintergrund wechseln.";
+
+// Open in
+"self.settings.external_apps.header" = "Öffnen mit";
+
+"self.settings.link_options.twitter.title" = "Tweets";
+"self.settings.link_options.maps.title" = "Standorte";
+"self.settings.link_options.browser.title" = "Browser";
+
+"open_link.twitter.option.default" = "Browser / Twitter";
+"open_link.twitter.option.tweetbot" = "Tweetbot";
+"open_link.twitter.option.twitterrific" = "Twitterrific";
+
+"open_link.maps.option.apple" = "Karten";
+"open_link.maps.option.google" = "Google Maps";
+"open_link.maps.footer" = "Einige Standort-Links öffnen sich immer in Apple Maps.";
+
+"open_link.browser.option.safari" = "Safari";
+"open_link.browser.option.chrome" = "Chrome";
+"open_link.browser.option.firefox" = "Firefox";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "Töne";
+"self.settings.sound_menu.no_sounds.title" = "Keine";
+"self.settings.sound_menu.all_sounds.title" = "Alle";
+"self.settings.sound_menu.mute_while_talking.title" = "Erste Nachricht und Pings";
+
+// Developer options
+"self.settings.developer_options.title" = "Entwickleroptionen";
+"self.settings.apns_logging.title" = "APNS Protokollierung";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "Optionen";
+
+"self.settings.privacy_contacts_section.title" = "Kontakte";
+"self.settings.privacy_contacts_menu.settings_button.title" = "Kontakteinstellungen öffnen";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "Wir verwenden deine Kontaktdaten, um Kontakte für dich zu erstellen. Wir anonymisieren alle Informationen und geben sie nicht weiter.";
+
+"self.settings.privacy_security.lock_app" = "Mit Passwort sperren";
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "Secret nach %@ im Hintergrund sperren.";
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "Entsperre mit Touch ID oder deinem Passwort.";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "Entsperre mit Face ID oder deinem Passwort.";
+"self.settings.privacy_security.lock_app.subtitle.none" = "Entsperre mit deinem Passwort.";
+
+"self.settings.privacy_security.lock_app.description" = "Secret entsperren";
+
+
+"self.settings.privacy_security.lock_cancelled.description" = "Entsperre Secret mit Touch ID oder Passcode";
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Secret mit Face ID oder Passwort entsperren";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "Secret mit Touch ID oder Passwort entsperren";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Secret mit Passwort entsperren";
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "Um Wire zu entsperren, bitte den Code in den Geräteeinstellungen aktivieren";
+"self.settings.privacy_security.lock_cancelled.action" = "Entsperren";
+
+"self.settings.privacy_security.disable_link_previews.title" = "Link-Vorschau erstellen";
+"self.settings.privacy_security.disable_link_previews.footer" = "Vorschauen für Links von anderen Personen können weiterhin angezeigt werden.";
+
+"self.settings.privacy_analytics_menu.devices.title" = "Geräte";
+
+"self.settings.privacy.clear_history.title" = "Verlauf löschen";
+"self.settings.privacy.clear_history.subtitle" = "Dies löscht dauerhaft den Inhalt all deiner Unterhaltungen.";
+
+"self.settings.advanced.title" = "Erweitert";
+"self.settings.advanced.troubleshooting.title" = "Fehlerbehebung";
+"self.settings.advanced.troubleshooting.submit_debug.title" = "Fehlerbericht";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "Die Informationen helfen dem Support bei der Diagnose von Anrufproblemen und die App zu verbessern.";
+"self.settings.advanced.reset_push_token.title" = "Push-Token zurücksetzen";
+"self.settings.advanced.reset_push_token.subtitle" = "Der Secret Kundenservice kann dich bitten, diesen Token zurückzusetzen, wenn du Probleme mit Push-Benachrichtigungen hast.";
+"self.settings.advanced.reset_push_token_alert.title" = "Der Benachrichtigungs-Token wurde zurückgesetzt";
+"self.settings.advanced.reset_push_token_alert.message" = "Sie sollten in wenigen Sekunden wieder Benachrichtigungen erhalten können.";
+"self.settings.advanced.version_technical_details.title" = "Technische Details der Version";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "Datennutzungsrechte";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "Technische Logs";
+"self.settings.technical_report.send_report" = "Logs an Wire senden";
+"self.settings.technical_report.mail.subject" = "Fehlerbericht";
+"self.settings.technical_report.include_log" = "Detaillierten Verlauf hinzufügen";
+"self.settings.technical_report.privacy_warning" = "Detaillierte Logs können personenbezogene Daten enthalten.";
+"self.settings.technical_report.no_mail_alert" = "Kein Mail-Client erkannt. Tippen Sie auf \"OK\" und senden Sie manuell an: ";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "Passwort zurücksetzen";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "Freunde einladen";
+
+// History backup
+
+"self.settings.conversations.title" = "Gesprächsverlauf";
+"self.settings.history_backup.title" = "Unterhaltungen sichern";
+"self.settings.history_backup.description" = "Erstelle ein Backup, um den Gesprächsverlauf zu sichern. Damit können Unterhaltungen wiederhergestellt werden, falls du dein Gerät verlierst oder ein neues nutzen möchtest.\n\nWähle ein sicheres Passwort, um die Backup-Datei zu schützen.";
+"self.settings.history_backup.action" = "Jetzt sichern";
+"self.settings.history_backup.error.title" = "Fehler";
+
+"self.settings.history_backup.set_email.title" = "Füge E-Mail-Adresse und Passwort hinzu.";
+"self.settings.history_backup.set_email.message" = "Füge in den Kontoeinstellungen eine E-Mailadresse und Passwort hinzu, um den Gesprächsverlauf zu sichern.";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "Passwort festlegen";
+"self.settings.history_backup.password.cancel" = "Abbrechen";
+"self.settings.history_backup.password.next" = "Weiter";
+"self.settings.history_backup.password.placeholder" = "Mindestens 8 Zeichen";
+"self.settings.history_backup.password.description" = "Die Backup-Datei wird mit dem hier festgelegten Passwort komprimiert und verschlüsselt.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "Keine Internetverbindung";
+"system_status_bar.no_internet.explanation" = "Es scheint ein Problem mit deiner Internetverbindung zu geben. Bitte stelle sicher, dass sie funktioniert.";
+"system_status_bar.poor_connectivity.title" = "Schlechte Internetverbindung, Anrufen derzeit nicht möglich";
+"system_status_bar.poor_connectivity.explanation" = "Wir können keine gute Sprachqualität garantieren. Verbinde dich mit Wi-Fi oder gehe an einen anderen Ort.";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "Dein vollständiger Name";
+"name.guidance.tooshort" = "Mindestens 2 Zeichen";
+"name.guidance.toolong" = "Zu viele Zeichen";
+
+"email.placeholder" = "E-Mail";
+"email.guidance.invalid" = "Gib eine gültige E-Mail-Adresse ein";
+"email.guidance.tooshort" = "E-Mail-Adresse ist zu kurz";
+"email.guidance.toolong" = "Zu viele Zeichen";
+
+"password.placeholder" = "Passwort";
+"password.guidance.toolong" = "Zu viele Zeichen";
+
+"phone.guidance.invalid" = "Ungültige Telefonnummer";
+"phone.guidance.tooshort" = "Telefonnummer ist zu kurz";
+"phone.guidance.toolong" = "Zu viele Zeichen";
+
+// Landing screen
+
+
+"landing.app_name" = "Secret";
+
+"landing.header" = "Secret. Konto hinzufügen.";
+
+"landing.create_account.title" = "Privat";
+"landing.create_account.subtitle" = "Privat mit Freunden und der Familie\U00A0chatten";
+"landing.create_team.title" = "Pro";
+"landing.create_team.subtitle" = "Sichere Zusammenarbeit für Unternehmen, Institutionen und Organisationen";
+"landing.login.hints" = "Hast du bereits ein Benutzerkonto?";
+"landing.login.button.title" = "Login";
+
+"landing.custom_backend.title" = "Verbunden mit \"%@\"";
+"landing.custom_backend.more_info.button.title" = "Mehr anzeigen";
+"landing.custom_backend.more_info.alert.title" = " Mit dem Server eines Drittanbieters verbunden: %@";
+
+// Create team
+
+"team.name.headline" = "Benenne dein Team";
+"team.name.subheadline" = "Der Name kann später jederzeit geändert werden.";
+"team.name.textfield.placeholder" = "Team Name";
+"team.name.textfield.accessibility" = "Team benennen";
+
+"team.name.whatiswireforteams" = "Was ist Secret für Teams?";
+
+
+"team.email.headline" = "Dein Konto";
+"team.email.subheadline" = "Deine Unternehmens-E-Mail-Adresse eingeben.";
+"team.email.textfield.placeholder" = "E-Mail-Adresse des Unternehmens";
+"team.email.button.learn_more" = "Erfahre mehr";
+
+"team.activation_code.headline" = "Posteingang prüfen";
+"team.phone_activation_code.headline" = "Bestätigung";
+"team.activation_code.subheadline" = "Bitte gib den Verifizierungs-Code ein, den wir an %@ gesendet haben.";
+"team.activation_code.button.resend" = "Code erneut senden";
+"team.activation_code.button.change_email" = "E-Mail ändern";
+"team.activation_code.button.change_phone" = "Telefonnummer ändern";
+
+"team.full_name.headline" = "Dein Name";
+"team.full_name.textfield.placeholder" = "Vollständiger Name";
+"team.full_name.textfield.accessibility" = "Dein vollständiger Name";
+
+"team.password.headline" = "Passwort festlegen";
+
+"verification.code_label" = "Sechsstelliger Code. Textfeld.";
+"verification.code_hint" = "Doppeltippen, um den Code einzugeben.";
+
+// Invite Team Members
+
+"team.invite.header.title" = "Erstelle dein Team";
+"team.invite.header.subtitle" = "Das Wire-Team ist bereit. Jetzt alle Kollegen als Mitglieder einladen.";
+"team.invite.textfield.placeholder" = "E-Mail-Adresse des Kollegen";
+"team.invite.textfield.accesibility" = "E-Mail-Adresse des Kollegen eingeben.";
+"team.invite.learn_more.title" = "Erfahre mehr";
+"team.invite.top_bar.skip" = "Überspringen";
+"team.invite.top_bar.done" = "Fertig";
+
+// Team Invite Errors
+"team.invite.error.generic" = "Ein Fehler ist aufgetreten, bitte versuche es erneut";
+"team.invite.error.already_registered" = "Diese E-Mail-Adresse wird bereits verwendet";
+"team.invite.error.already_invited" = "Diese E-Mail-Adresse wurde bereits eingeladen";
+"team.invite.error.too_many_invitations" = "Die maximale Anzahl von Einladungen wurde versendet";
+"team.invite.error.no_internet" = "Keine Internetverbindung";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "Gäste und Dienste zulassen";
+"guest_room.allow_guests.subtitle" = "Öffne diese Unterhaltung für Dienste und Personen außerhalb des Teams.";
+"guest_room.remove_guests.message" = "Aktuelle Gäste und Dienste werden aus der Unterhaltung entfernt. Neue Gäste und Dienste sind nicht erlaubt.";
+"guest_room.remove_guests.action" = "Entfernen";
+"guest_room.revoke_link.message" = "Neue Gäste werden sich nicht mehr mit diesem Link anmelden können. Aktuelle Gäste haben weiterhin Zugang zum Gästebereich.";
+"guest_room.revoke_link.action" = "Link widerrufen";
+
+"guest_room.error.generic.title" = "Ein Fehler ist aufgetreten";
+"guest_room.error.generic.message" = "Prüfen Sie Ihre Datenverbindung und versuchen Sie es erneut";
+
+"guest_room.link.header.title" = "Andere per Link einladen";
+"guest_room.link.header.subtitle" = "Jeder kann der Gruppe mit diesem Link beitreten – auch ohne ein Secret-Benutzerkonto.";
+
+"guest_room.link.button.title" = "Link erstellen";
+
+"guest_room.actions.copy_link" = "Link kopieren";
+"guest_room.actions.copied_link" = "Link kopiert!";
+"guest_room.actions.share_link" = "Link teilen";
+"guest_room.actions.revoke_link" = "Link widerrufen…";
+
+"guest_room.share.message" = "Nimm an meiner Unterhaltung auf Secret teil:\n%@";
+
+"guest_room.expiration.hours_left" = "%@h verbleibend";
+"guest_room.expiration.less_than_minutes_left" = "Weniger als %@m verbleibend";
+
+// Registration
+
+"registration.launch_back_button.label" = "Zurück";
+
+"registration.title" = "Registrierung";
+"registration.close_email_invitation_button.email_title" = "Andere E-Mail verwenden";
+"registration.close_email_invitation_button.phone_title" = "Mit Tel.-Nr. registrieren";
+"registration.close_phone_invitation_button.email_title" = "Mit E-Mail registrieren";
+"registration.close_phone_invitation_button.phone_title" = "Andere Tel.-Nr. verwenden";
+
+"registration.register_by_phone" = "Telefon";
+"registration.register_by_email" = "E-Mail-Adresse";
+
+"registration.enter_phone_number.title" = "Telefonnummer bearbeiten";
+"registration.enter_phone_number.placeholder" = "Telefonnummer";
+
+"registration.verify_phone_number.instructions" = "Bitte gib den Bestätigungs-Code ein, den wir an %@ gesendet haben";
+"registration.verify_phone_number.resend" = "Erneut senden";
+"registration.verify_phone_number.resend_placeholder" = "Du hast keinen Code erhalten?\nDu kannst in %.0f Sekunden einen Neuen anfordern";
+
+"registration.verify_email.instructions" = "Wir habe eine E-Mail an %@ gesendet. \nBitte gehe auf den Link, um deine Adresse zu bestätigen.";
+"registration.verify_email.resend.instructions" = "E-Mail nicht erhalten?";
+"registration.verify_email.resend.button_title" = "Erneut senden";
+
+
+"registration.select_picture.subtitle" = "Secret ist so viel netter mit einem Bild.";
+"registration.select_picture.button_title" = "Wähle dein eigenes";
+"registration.keep_picture.button_title" = "Behalte dieses";
+"registration.camera_action.title" = "Foto aufnehmen";
+"registration.photo_gallery_action.title" = "Foto auswählen";
+"registration.cancel_action.title" = "Abbrechen";
+
+"registration.no_history.hero" = "Du benutzt Secret zum ersten Mal auf diesem Gerät.";
+
+"registration.no_history.subtitle" = "Aus Datenschutzgründen wird der bisherige Gesprächsverlauf nicht angezeigt.";
+"registration.no_history.got_it" = "OK";
+"registration.no_history.restore_backup" = "Backup wiederherstellen";
+
+"registration.alert.account_exists.title" = "Konto Vorhanden";
+"registration.alert.account_exists.message_phone" = "Die für die Registrierung verwendete Telefonnummer ist bereits mit einem Konto verknüpft.\n\nBitte andere Telefonnummer nutzen oder versuchen, sich mit dieser Telefonnummer einzuloggen.";
+"registration.alert.account_exists.message_email" = "Die für die Registrierung verwendete E-Mail-Adresse ist bereits mit einem Konto verknüpft.\n\nBitte andere E-Mail-Adresse nutzen oder versuchen, sich mit dieser E-Mail-Adresse einzuloggen.";
+"registration.alert.change_email_action" = "Mit einer andern E-Mail registrieren";
+"registration.alert.change_phone_action" = "Bitte mit anderer Nummer registrieren";
+"registration.alert.change_signin_action" = "Einloggen";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "Gesprächsverlauf wiederherstellen";
+"registration.no_history.restore_backup_warning.message" = "Der Inhalt der Backup-Datei ersetzt den Gesprächsverlauf auf diesem Gerät. Es können nur Backup-Dateien derselben Plattform wiederhergestellt werden.";
+"registration.no_history.restore_backup_warning.proceed" = "Backup-Datei auswählen";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "Erneut versuchen";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "Ein Fehler ist aufgetreten";
+"registration.no_history.restore_backup_failed.message" = "Der Gesprächsverlauf konnte nicht wiederhergestellt werden.";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "Inkompatibles Backup";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "Der Gesprächsverlauf eines anderen Kontos kann nicht wiederhergestellt werden.";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "Inkompatibles Backup";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "Diese Backup-Datei wurde von einer anderen Version von Secret erstellt und kann deshalb nicht wiederhergestellt werden.";
+
+// SSO – Company Login
+"login.sso.alert.title" = "Login für Unternehmen";
+"login.sso.alert.message" = "SSO-Zugangscode des Unternehmens eingeben.";
+"login.sso.alert.action" = "Einloggen";
+"login.sso.alert.text_field.placeholder" = "SSO Zugangscode";
+
+"login.sso.start_error_title" = "Login kann nicht gestartet werden";
+"login.sso.link_error_message" = "Der angeklickte Link zum Login ist nicht gültig. Um das Problem zu lösen, bitte an den Administrator wenden.";
+
+"login.sso.error.alert.title" = "Ein Fehler ist aufgetreten";
+"login.sso.error.alert.invalid_code.title" = "Ungültiger Code.";
+"login.sso.error.alert.invalid_code.message" = "Bitte den SSO-Zugangscode des Unternehmens überprüfen und erneut versuchen.";
+"login.sso.error.offline.alert.message" = "Bitte Internetverbindung überprüfen und nochmal versuchen.";
+"login.sso.error.alert.message" = "Bitte für Details an den Team-Administrator wenden (Fehler %@).";
+"login.sso.error.alert.unknown.message" = "Bitte später nochmal versuchen.";
+"login.sso.error.alert.invalid_status.message" = "Bitte später nochmal versuchen (Fehler %@).";
+
+// Restore In Progress Loading Titles
+"registration.no_history.restore_backup.restoring" = "Wiederherstellen…";
+"registration.no_history.restore_backup.completed" = "Wiederhergestellt";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "Dieses Backup ist passwortgeschützt.";
+"registration.no_history.restore_backup.password.message" = "Das Passwort wird benötigt, um dieses Backup wiederzuherstellen.";
+"registration.no_history.restore_backup.password.placeholder" = "Passwort";
+"registration.no_history.restore_backup.password_error.title" = "Ungültiges Passwort";
+
+"registration.no_history.logged_out.hero" = "Du hast Secret auf diesem Gerät bereits früher genutzt.";
+"registration.no_history.logged_out.subtitle" = "Nachrichten, die in der Zwischenzeit gesendet wurden, werden nicht angezeigt.";
+"registration.no_history.logged_out.got_it" = "OK";
+
+"registration.enter_name.title" = "Namen bearbeiten";
+"registration.enter_name.hero" = "Wie heißt du?";
+"registration.enter_name.placeholder" = "Dein vollständiger Name";
+
+"registration.terms_of_use.title" = "Willkommen bei Secret.";
+"registration.terms_of_use.terms" = "Wenn du fortfährst, \nerklärst du dich \nmit den AGB \neinverstanden.";
+"registration.terms_of_use.terms.link" = "AGB";
+"registration.terms_of_use.agree" = "Einverstanden";
+
+"registration.terms_of_use.terms.title" = "Nutzungsbedingungen";
+"registration.terms_of_use.terms.message" = "Bitte akzeptieren Sie die Nutzungsbedingungen, um fortzufahren.";
+"registration.terms_of_use.terms.view" = "Ansicht";
+"registration.terms_of_use.accept" = "Annehmen";
+
+"registration.email_flow.title" = "Mit E-Mail registrieren";
+"registration.email_flow.email_step.title" = "Eingaben bearbeiten";
+
+"registration.country_select.title" = "Land";
+
+"registration.share_contacts.hero.title" = "Finde Kontakte auf Secret";
+"registration.share_contacts.hero.paragraph" = "Wir verwenden deine Kontaktdaten, um dich mit anderen zu verbinden. Wir anonymisieren alle Informationen und teilen sie mit niemand anderem.";
+"registration.share_contacts.find_friends_button.title" = "Kontakte teilen";
+"registration.share_contacts.skip_button.title" = "Nicht jetzt";
+
+"registration.address_book_access_denied.hero.title" = "Secret hat keinen Zugriff auf deine Kontakte.";
+"registration.address_book_access_denied.hero.paragraph1" = "Secret hilft dir, deine Freunde zu finden, wenn du deine Kontakte teilst.";
+"registration.address_book_access_denied.hero.paragraph2" = "Um Zugriff zu erlauben, tippe bitte auf \"Kontakte\" in den Einstellungen.";
+"registration.address_book_access_denied.settings_button.title" = "Einstellungen";
+"registration.address_book_access_denied.maybe_later_button.title" = "Vielleicht später";
+
+"registration.push_access_denied.hero.title" = "Verpassen Sie keinen Anruf oder eine Nachricht.";
+"registration.push_access_denied.hero.paragraph1" = "Aktivieren Sie Benachrichtigungen in den Einstellungen.";
+"registration.push_access_denied.settings_button.title" = "Einstellungen öffnen";
+"registration.push_access_denied.maybe_later_button.title" = "Vielleicht später";
+
+"registration.personal.title" = "Ein Konto erstellen";
+"registration.signin.title" = "Login";
+"registration.signin.too_many_devices.title" = "Zu viele Geräte";
+"registration.signin.too_many_devices.subtitle" = "Entferne eines deiner anderen Geräte, um Wire hier zu nutzen.";
+
+"registration.signin.too_many_devices.manage_button.title" = "Geräte verwalten";
+"registration.signin.too_many_devices.sign_out_button.title" = "Ausloggen";
+
+"registration.signin.too_many_devices.manage_screen.title" = "Bitte ein Gerät entfernen";
+
+"registration.signin.alert.password_needed.title" = "Passwort erforderlich";
+"registration.signin.alert.password_needed.message" = "Bitte zum Anmelden Passwort eingeben.";
+
+"registration.devices.title" = "Geräte";
+"registration.devices.active_list_header" = "Aktiv";
+"registration.devices.current_list_header" = "Dieses Gerät";
+"registration.devices.active_list_subtitle" = "Falls du eines dieser Geräte nicht erkennst, entferne es und setze dein Passwort zurück.";
+"registration.devices.activated" = "Aktiviert %@";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "Mit E-Mail anmelden";
+"signin.use_phone.label" = "Mit Telefon anmelden";
+"signin.forgot_password" = "Passwort vergessen?";
+"signin.use_one_password.label" = "Mit 1Password anmelden";
+"signin.use_one_password.hint" = "Doppelt antippen, um Ihr Passwort mit 1Passwort einzugeben.";
+"signin.confirm" = "Einloggen";
+"signin.company_idp.button.title" = "Für Unternehmen";
+
+"signin_logout.subheadline" = "Die Session ist abgelaufen. Zum Fortfahren bitte erneut einloggen.";
+"signin_logout.email.subheadline" = "Die Session ist abgelaufen. Zum Fortfahren bitte E-Mail-Adresse und Passwort eingeben.";
+"signin_logout.phone.subheadline" = "Die Session ist abgelaufen. Zum Fortfahren bitte Telefonnummer eingeben.";
+"signin_logout.sso.subheadline" = "Die Session ist abgelaufen. Zum Fortfahren bitte mit dem Konto des Unternehmens einloggen.";
+"signin_logout.sso.buton" = "Login für Unternehmen";
+
+"signin.email.missing_password.subtitle" = "Um fortzufahren, bitte E-Mail-Adresse und Passwort eingeben.";
+"signin.phone.missing_password.subtitle" = "Um fortzufahren, bitte Telefonnummer eingeben.";
+
+"registration.phone_country" = "Land";
+"registration.phone_code" = "Landesvorwahl";
+"registration.phone_country.hint" = "Doppelt antippen, um ein anderes Land auszuwählen.";
+"registration.phone_code.hint" = "Doppelt antippen, um eine andere Landesvorwahl auszuwählen.";
+"registration.phone.verify.label" = "Rufnummer bestätigen";
+"registration.phone.verify_field.label" = "Bestätigungscode";
+
+"registration.add_phone_number.hero.title" = "Telefonnummer hinzufügen";
+"registration.add_phone_number.hero.paragraph" = "Dies hilft dir, Leute zu finden, die du kennst.";
+"registration.add_phone_number.skip_button.title" = "Jetzt nicht";
+
+
+"registration.add_email_password.hero.title" = "Bitte E-Mail-Adresse und Passwort hinzufügen";
+"registration.add_email_password.hero.paragraph" = "Hiermit kannst du Wire auf mehreren Geräten verwenden.";
+
+"registration.email_invitation.title" = "Einladung";
+"registration.email_invitation.hero.title" = "Hallo, %@";
+"registration.email_invitation.hero.paragraph" = "Wähle ein Passwort, um ein Benutzerkonto zu erstellen.";
+
+"registration.phone_invitation.title" = "Einladung";
+"registration.phone_invitation.hero.title" = "Hallo, %@";
+"registration.phone_invitation.hero.paragraph" = "Du bist nur einen Schritt davon entfernt dein Konto zu erstellen.";
+
+"registration.confirm" = "Registrieren";
+"registration.phone.country_code.hint" = "Doppelt antippen, um eine Telefonnummer aus diesem Land zu verwenden.";
+
+"error.name_and_email" = "Bitte gib deinen Namen und eine gültige E-Mail-Adresse ein";
+"error.full_name" = "Bitte gib deinen vollständigen Namen ein";
+"error.email" = "Bitte gib eine gültige E-Mail-Adresse ein";
+"error.input.too_long" = "Eingabe zu lang";
+"error.input.too_short" = "Eingabe zu kurz";
+"error.email.invalid" = "Bitte gib eine gültige \nE-Mail-Adresse ein";
+"error.phone.invalid" = "Bitte gib eine gültige \nTelefonnummer ein";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "Sichere dir deinen persönlichen Benutzernamen auf Secret.";
+"registration.select_handle.takeover.subtitle_link" = "Erfahre mehr";
+
+"registration.select_handle.takeover.choose_own" = "Namen selbst festlegen";
+"registration.select_handle.takeover.keep_suggested" = "Behalte diesen";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "Ein Fehler ist aufgetreten, bitte versuche es erneut";
+"error.user.needs_credentials" = "Bitte überprüfe deine Eingaben und versuche es erneut.";
+"error.user.invalid_credentials" = "Bitte überprüfe deine Eingaben und versuche es erneut.";
+"error.user.account_pending_activation" = "Dieses Benutzerkonto wartet auf Bestätigung. Bitte bestätige deine Angaben.";
+"error.user.network_error" = "Es gibt ein Problem mit deiner Internetverbindung. Bitte versuche es später noch einmal.";
+"error.user.email_is_taken" = "Die eingegebene E-Mail-Adresse wurde bereits registriert. Bitte versuche eine andere E-Mail-Adresse.";
+"error.user.phone_is_taken" = "Die verwendete Telefonnummer wurde bereits registriert. Bitte versuche es mit einer anderen.";
+"error.user.phone_code_invalid" = "Bitte gib einen gültigen Code ein";
+"error.user.phone_code_too_many" = "Wir haben dir bereits einen Code per SMS geschickt. Tippe nach 10 Minuten auf  \"Erneut senden\", um einen neuen Code zu erhalten.";
+"error.user.registration_unknown_error" = "Ein Fehler ist aufgetreten, bitte versuche es erneut.";
+"error.user.device_deleted_remotely" = "Du wurdest durch ein anderes Gerät abgemeldet.";
+"error.user.last_identity_cant_be_deleted" = "Es ist entweder eine E-Mail-Adresse oder eine Telefonnummer erforderlich.";
+"error.user.account_suspended" = "Benutzerkonto ist nicht mehr zum Login berechtigt.";
+"error.user.account_limit_reached" = "Es können maximal 3 Konten genutzt werden.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "Dein Passwort konnte nicht zurückgesetzt werden.";
+
+"error.group_call.too_many_members_in_conversation.title" = "Zu viele Teilnehmer";
+"error.group_call.too_many_members_in_conversation" = "Anrufe sind nur in Unterhaltungen mit bis zu %d Teilnehmern möglich.";
+"error.group_call.too_many_participants_in_the_call.title" = "Die maximale Teilnehmerzahl ist erreicht";
+"error.group_call.too_many_participants_in_the_call" = "Die maximale Teilnehmerzahl beträgt %d Personen.";
+"error.call.gsm_ongoing.title" = "Mobilfunkanruf";
+"error.call.gsm_ongoing" = "Bitte beende den Mobilfunkanruf vor deinem Secret Anruf.";
+"error.call.general.title" = "Anruf fehlgeschlagen";
+"error.call.general" = "Bitte versuche es in einigen Minuten noch einmal.";
+"error.call.slow_connection.title" = "Langsame Verbindung";
+"error.call.slow_connection" = "Eventuell kommt es zu Problemen während des Anrufs";
+"error.call.slow_connection.call_anyway" = "Trotzdem anrufen";
+
+"error.invite.no_email_provider" = "Bitte konfiguriere deinen E-Mail-Client, um Einladungen per E-Mail zu senden";
+"error.invite.no_messaging_provider" = "Bitte konfiguriere iMessage, um Einladungen per SMS senden zu können";
+
+"error.conversation.title" = "Fehler";
+"error.conversation.cannot_add" = "Teilnehmer konnte nicht hinzugefügt werden";
+"error.conversation.cannot_remove" = "Teilnehmer konnte nicht entfernt werden";
+"error.conversation.too_many_members" = "Die Unterhaltung ist voll";
+"error.conversation.offline" = "Es scheint ein Problem mit der Internetverbindung zu geben. Bitte sicherstellen, dass sie funktioniert.";
+
+"sketchpad.initial_hint" = "Tippe auf die Farben, um die Pinselgröße zu ändern";
+
+"migration.please_wait_message" = "Einen Moment bitte";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@ ist jetzt auch bei Secret";
+"push.notification.new_message" = "Neue Nachricht";
+
+
+//Force Update
+"force.update.title" = "Update ist notwendig";
+"force.update.message" = "Du verpasst neue Funktionen von Secret.\nHol dir die neueste Version im App Store.";
+"force.update.ok_button" = "Zum App Store";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Jailbreak erkannt";
+"jailbrokendevice.alert.message" = "Aus Sicherheitsgründen kann Wire auf diesem Gerät nicht verwendet werden. Alle vorhandenen Wire-Daten wurden gelöscht.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · via giphy.com";
+"giphy.conversation.random_message" = "via giphy.com";
+"giphy.error.no_more_results" = "keine weiteren gifs";
+"giphy.error.no_result" = "kein gif gefunden";
+
+"giphy.confirm" = "senden";
+"giphy.cancel" = "abbrechen";
+"giphy.search_placeholder" = "Auf Giphy suchen";
+
+"invite_banner.title" = "Hole deine Freunde zu Secret!";
+"invite_banner.message" = "Anrufen, Bilder teilen, Musik, GIFs\nund vieles mehr in persönlichen und Gruppenunterhaltungen.";
+"invite_banner.invite_button_title" = "Personen hinzufügen";
+
+// Collections
+"collections.section.images.title" = "Bilder";
+"collections.section.files.title" = "Dokumente";
+"collections.section.videos.title" = "Videos";
+"collections.section.links.title" = "Links";
+"collections.section.all.button" = "Zeige alle %d →";
+"collections.section.no_items" = "Keine Elemente in dieser Sammlung";
+"collections.image_viewer.copied.title" = "Foto kopiert";
+
+"collections.search.field.placeholder" = "Textnachrichten suchen";
+"collections.search.no_items" = "Keine Ergebnisse";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "Nachrichten";
+"compose.drafts.empty.title" = "Keine Nachrichten";
+"compose.drafts.empty.subtitle" = "Tippe auf +, um eine Nachricht zu erstellen";
+"compose.drafts.compose.title" = "Schreibe eine Nachricht";
+"compose.drafts.compose.subject.placeholder" = "Tippe um ein Titel festzulegen";
+
+"compose.drafts.compose.delete.confirm.title" = "Löschen bestätigen";
+"compose.drafts.compose.delete.confirm.message" = "Diese Aktion wird die Nachricht dauerhaft löschen und kann nicht widerrufen werden.";
+"compose.drafts.compose.delete.confirm.action.title" = "Löschen";
+
+"compose.drafts.compose.dismiss.confirm.title" = "Als Entwurf speichern";
+"compose.drafts.compose.dismiss.confirm.action.title" = "Speichern";
+"compose.drafts.compose.dismiss.delete.action.title" = "Löschen";
+
+"availability.message.cancel" = "Abbrechen";
+"availability.message.set_status" = "Wähle einen Status";
+"availability.accessibility_label.change_status" = "Status Ändern";
+"availability.accessibility_label.status" = "Status";
+
+"availability.none" = "Kein Status";
+"availability.available" = "Verfügbar";
+"availability.away" = "Abwesend";
+"availability.busy" = "Beschäftigt";
+"availability.available.placeholder" = "%@ ist verfügbar";
+"availability.away.placeholder" = "%@ ist abwesend";
+"availability.busy.placeholder" = "%@ ist beschäftigt";
+
+"availability.reminder.away.title" = "Status: Abwesend";
+"availability.reminder.away.message" = "Andere sehen den Status als Abwesend. Benachrichtigungen über eingehende Anrufe oder Nachrichten werden nicht angezeigt.";
+"availability.reminder.busy.title" = "Status: Beschäftigt";
+"availability.reminder.busy.message" = "Andere sehen den Status als Beschäftigt. Benachrichtigungen über Erwähnungen, Antworten und eingehende Anrufe werden in Unterhaltungen angezeigt, die nicht stummgeschaltet sind.";
+"availability.reminder.available.title" = "Status: Verfügbar";
+"availability.reminder.available.message" = "Andere sehen den Status als Verfügbar. Benachrichtigungen über eingehende Anrufe und Nachrichten werden anhand der Einstellungen in jeder Unterhaltung angezeigt.";
+"availability.reminder.none.title" = "Kein Status gesetzt";
+"availability.reminder.none.message" = "Benachrichtigungen über eingehende Anrufe und Nachrichten werden anhand der Einstellungen in jeder Unterhaltung angezeigt.";
+"availability.reminder.action.dont_remind_me" = "Diesen Hinweis nicht nochmal zeigen";
+"availability.reminder.action.ok" = "OK";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "Rückmeldung zur Anrufqualität";
+"calling.quality_survey.question" = "Wie würdest du die Gesamtqualität des Anrufs bewerten?";
+"calling.quality_survey.answer.1" = "Sehr Schlecht";
+"calling.quality_survey.answer.2" = "Schlecht";
+"calling.quality_survey.answer.3" = "Befriedigend";
+"calling.quality_survey.answer.4" = "Gut";
+"calling.quality_survey.answer.5" = "Sehr Gut";
+"calling.quality_survey.skip_button_title" = "Überspringen";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "Bestätigen";
+"url_action.title" = "URL-Aktion bestätigen";
+"url_action.connect_to_bot.message" = "Möchten Sie sich mit dem Bot verbinden?";
+
+"url_action.switch_backend.title" = "Mit Server verbinden";
+"url_action.switch_backend.message" = "Diese Konfiguration verbindet die App mit dem Server eines Drittanbieters:\n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Serverwechsel nicht möglich";
+"url_action.switch_backend.error.logged_in" = "Bereits eingeloggt: Um auf diesen Server zu wechseln, bitte aus allen Konten ausloggen und erneut versuchen.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "Der Server antwortet nicht";
+"url_action.switch_backend.error.invalid_backend" = "Bitte Internetverbindung überprüfen, den Link bestätigen und nochmal versuchen.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret kann diese Person nicht finden.";
+"url_action.invalid_user.message" = "Entweder fehlt die Berechtigung für dieses Konto oder es existiert nicht mehr.";
+
+"url_action.invalid_conversation.title" = "Secret kann diese Unterhaltung nicht öffnen.";
+"url_action.invalid_conversation.message" = "Entweder fehlt die Berechtigung für dieses Konto oder die Person nutzt Wire nicht.";
+
+"url_action.authorization_required.title" = "Berechtigung erforderlich.";
+"url_action.authorization_required.message" = "Bitte einloggen, um diesen Inhalt zu sehen.";
+
+"url_action.invalid_link.title" = "Ungültiger Link.";
+"url_action.invalid_link.message" = "Der geöffnete Link ist ungültig.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+"news_offers.consent.title" = "Möchtest du Neuigkeiten und Informationen zu Produktaktualisierungen von Secret per E-Mail erhalten?";
+"news_offers.consent.message" = "Du kannst dich jederzeit abmelden.";
+"news_offers.consent.button.privacy_policy.title" = "Datenschutzerklärung";
+
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat"  = "Create Group";
+"conversation_list.popover.add_friend"  = "Add Friends";
+"conversation_list.popover.scan"        = "Scan";
+"conversation_list.popover.startTempHouse"  = "Start Meeting";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "Niemand hat diese Nachricht bisher mit Gefällt mir markiert.";
+"message_details.empty_read_receipts" = "Niemand hat diese Nachricht bisher gelesen.";
+"message_details.read_receipts_disabled" = "Lesebestätigungen waren beim Senden dieser Nachricht nicht aktiviert.";
+"message_details.combined_title" = "Nachrichtendetails";
+"message_details.likes_title" = "Gefällt";
+"message_details.receipts_title" = "Gelesen";
+"message_details.tabs.seen" = "Gelesen (%d)";
+"message_details.tabs.likes" = "Gefällt (%d)";
+"message_details.subtitle_send_date" = "Gesendet: %@";
+"message_details.subtitle_edit_date" = "Bearbeitet: %@";
+"message_details.subtitle_label_voiceOver" = "Nachrichtendetails";
+"message_details.user_handle_subtitle_label" = "Benutzername";
+"message_details.user_read_timestamp_subtitle_label" = "Gelesen am";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+"registration.password.rules.no_requirements" = "Bitte %@ verwenden.";
+"registration.password.rules.with_requirements" = "Bitte %@ verwenden, %@.";
+
+
+"self.settings.account_details.equipment_model.title" = "Equipment model";
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "Gesetzliche Aufbewahrung wurde deaktiviert";
+"legal_hold.deactivated.message" = "Künftige Nachrichten werden nicht aufgezeichnet.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "Unterliegt der gesetzlichen Aufbewahrung.";
+"share_extension.voiceover.conversation_secure" = "Alle Geräte überprüft.";
+"share_extension.voiceover.conversation_secure_with_ignored" = "Nicht alle Geräte sind überprüft.";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = "Genehmigung ausstehend.";
+"legalhold_request.alert.title" = "Gesetzliche Aufbewahrung ersucht";
+"legalhold_request.alert.detail" = "Aufbewahrung aller künftigen Nachrichten vom Gerät mit Fingerabdruck:\n\n%@\n\nEinschließlich gelöschter, bearbeiteter und temporärer Nachrichten in allen Unterhaltungen.";
+"legalhold_request.alert.detail.enter_password" = "Bitte zur Bestätigung das Passwort eingeben.";
+"legalhold_request.alert.error_wrong_password" = "Falsches Passwort";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "Gesetzliche Aufbewahrung ist aktiv";
+"legalhold_active.alert.learn_more" = "Mehr erfahren";
+"legalhold_active.alert.message" = "Die gesetzliche Aufbewahrung wurde für dieses Konto aktiviert. Alle Nachrichten werden für den künftigen Zugriff aufbewahrt, einschließlich gelöschter, bearbeiteter und temporärer Nachrichten.\n\nAlle Gesprächspartner werden über die Aufnahme in Kenntnis gesetzt.";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "Session ist abgelaufen";
+"account_deleted_session_expired_alert.message" = "Die App hat über einen längeren Zeitraum nicht mit dem Server kommuniziert oder die Session wurde per Fernzugriff für ungültig erklärt.";

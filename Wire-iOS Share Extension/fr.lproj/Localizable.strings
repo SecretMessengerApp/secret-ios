@@ -1,0 +1,28 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+
+
+
+"share_extension.general.ok" = "OK";
+"share_extension.conversation_selection.account" = "Compte :";
+"share_extension.conversation_selection.title" = "Conversation :";
+"share_extension.send_button.title" = "Envoyer";
+"share_extension.conversation_selection.empty.value" = "Choisir";
+"share_extension.input.placeholder" = "Écrivez un message";
+"share_extension.sending_progress.title" = "Envoi…";
+"share_extension.preparing.title" = "Préparation en cours…";
+"share_extension.no_internet_connection.title" = "Pas de connexion internet";
+"share_extension.not_signed_in.title" = "Vous devez vous connecter sur Secret avant de pouvoir partager du contenu";
+"share_extension.not_signed_in.close_button" = "Fermer";
+"share_extension.timeout.title" = "La connexion a expiré.";
+"share_extension.timeout.message" = "Vérifiez votre connexion internet et réessayez. Les pièces jointes ont été enregistrées dans la conversation.";
+"share_extension.privacy_security.lock_app.description" = "Déverrouiller Secret";
+"share_extension.logged_out.title" = "Vous avez été déconnecté de ce compte.";
+"share_extension.logged_out.message" = "Veuillez choisir un autre compte.";
+
+"conversation.displayname.emptygroup" = "Conversation de groupe vide";
+"meta.degraded.degradation_reason_message.singular" = "%@ utilise un nouvel appareil.";
+"meta.degraded.degradation_reason_message.plural" = "%@ utilisent de nouveaux appareils.";
+"meta.degraded.dialog_message" = "Voulez-vous quand même envoyer votre message ?";
+"meta.degraded.cancel_sending_button" = "Ne pas envoyer";
+"meta.degraded.send_anyway_button" = "Envoyer quand même";

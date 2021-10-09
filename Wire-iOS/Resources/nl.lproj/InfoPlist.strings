@@ -1,0 +1,12 @@
+
+"NSContactsUsageDescription" = "Allow Secret to access your contacts to connect you with others. We anonymize all information before uploading it to our server and do not share it with anyone else.";
+"NSMicrophoneUsageDescription" = "Geef Secret toegang tot je microfoon zodat je met andere mensen kunt praten en audio-berichten kunt sturen.";
+"NSLocationWhenInUseUsageDescription" = "Geef Secret toegang tot je locatie, zodat je je locatie kunt versturen naar anderen.";
+"NSCameraUsageDescription" = "Geef Secret toegang tot je camera zodat je videogesprekken kunt voeren en foto's kunt sturen.";
+
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "Sta Secret toe om afbeeldingen op te slaan in je foto bibliotheek.";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Sta Secret toe om de afbeeldingen in je foto bibliotheek te zien.";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "Voor het ontgrendelen van de Secret app met Face ID, heeft Secret toegang nodig tot Face ID.";

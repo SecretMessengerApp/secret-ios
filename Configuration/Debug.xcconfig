@@ -1,0 +1,29 @@
+
+WIRE_BUILD_NUMBER = $(BUILD_NUMBER)
+SSO_URL_SCHEME = secret-sso-alpha
+WIRE_URL_SCHEME = secret
+
+//Code Signing
+CODE_SIGN_IDENTITY = Apple Development: Vago Michael (GB52VKW3KA)
+
+DEVELOPMENT_TEAM = K7PT8BFN3J
+PROVISIONING_PROFILE_SPECIFIER_APP = secret alpha development
+PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = secret alpha extensionshare development
+PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = secret alpha notification development
+// Use analytics / App Center for Release builds:
+USE_APP_CENTER = 0
+USE_APP_CENTER_KEY = 
+
+// Other flags that are passed to C preprocessor
+OTHER_PREPROCESSOR_FLAGS = 
+
+
+// Development
+WIRE_BUNDLE_ID = com.secret.alpha
+APPICON_NAME = AppIcon-Debug
+
+// Appstore
+//WIRE_BUNDLE_ID = com.secrect.qhsj
+//APPICON_NAME = AppIcon
+
+EXCLUDED_ARCHS[sdk=iphonesimulator*] = arm64

@@ -1,0 +1,2191 @@
+
+"conversion.message.deleted" = "메시지 삭제함";
+"conversion.announcement.issue.title" = "게시";
+
+"Loading.TrackSyncPhase.startLoading" = "로딩하기 시작";
+"Loading.TrackSyncPhase.fetchingConnections" = "친구 연결 정보 얻기";
+"Loading.TrackSyncPhase.fetchingConversations" = "세션 목록을 불러 오기";
+"Loading.TrackSyncPhase.fetchingUsers" = "친구 정보로드";
+"Loading.TrackSyncPhase.fetchingMissedEvents" = "사용자 정보 구성";
+
+//
+
+"conversation.system.client.login.title" = "장치 로그인";
+"conversation.system.client.remove.no.know" = "이 장치를 모르면 장치 제거로 이동하십시오.";
+"conversation.system.goto.client.manager" = "기기 관리로 이동";
+"conversation.system.you.account.at" = "귀하의 계정은";
+"conversation.system.you.account.on" = "안으로";
+"conversation.system.you.account.activation" = "활성화";
+"conversation.system.auth.title" = "웹 인증";
+"conversation.system.you.account.auth" = "인증";
+
+"conversation.group.nickName" = "그룹 별명";
+
+
+"conversation.groupinvite.invite" = "”%@“님이%@분 친구를 초대하려고 합니다";
+"conversation.groupinvite.do" = "확인하기";
+"conversation.groupinvite.done" = "확인함";
+"conversation.groupinvite.add.self" = "%@님을 그룹에 초대합니다";
+"conversation.groupinvite.add.self.title"= "그룹 채팅 초대";
+"conversation.groupinvite.member.title"= "초대 된 회원";
+"conversation.groupinvite.add.other" = "회원님을 그룹에 초대합니다";
+"conversation.groupinvite.add.title" = "%@님이%@님을 그룹에 초대합니다";
+"conversation.groupinvite.add.detial" = "%@님이%@님을%@그룹에 초대합니다，클릭하여 세부 사항을 볼 수 있습니다.";
+"conversation.groupinvite.statue" = "그룹 초대 메시지";
+"conversation.groupinvite.confirm.invite" = "초대를 확인";
+"conversation.groupinvite.confirm.title" = "그룹 가입에 확인";
+"conversation.groupinvite.confirm.join" = "해당 그룹에 가입";
+"conversation.groupinvite.confirm.refuse" = "가입에 거부";
+"conversation.groupinvite.confirm.joined" = "참여함";
+"conversation.groupinvite.confirm.refused" = "거부함";
+
+"conversation.group_invite.vc.nav.title" = "초대 세부 사항";
+"conversation.group_invite.vc.info.title" = "%d분의 친구를 그룹에 초대합니다";
+
+"conversation.group_invite.alert.title" = "그룹 소유자\"그룹 초대 확인\"을 켰습니다，친구를 그랩에 초대하려면 그룹 소유자에게 이유를 설명해 주세요";
+// MARK: - 네트워크 접근 권한
+"network.restricted.tips" = "회원님의 앱이 네트워크 접근 권한이 부여되지 않았습니다. 설정 센터로 이동하여 액세스하십시오.!";
+"network.notreachable.tips" = "설정 센터로 이동하여 네트워크를 열기!";
+
+// MARK: - 사진 접근 권한
+"photolibrary.permissions.shutdown.tips" = "앨범 접근 권한을 얻지 못했습니다. 설정으로 이동 하십시오.";
+"photolibrary.unavailable.systemreason.tips" = "시스템 이유로 인해 앨범에 액세스 할 수 없습니다";
+
+// MARK: - 건너 뛰기
+"general.skip" = "건너 뛰기";
+
+// MARK: - 사라지는 메시지
+"newProfile.conversation.destoryafterread.subtitle" = "이 옵션을 설정하면 채팅에서 주고받은 메시지가 읽은 후에 사라집니다.";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "오초";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "15초";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "30초";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "1분";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "5분";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "하루";
+
+// MARK: - QR 코드
+"settings.qrcode.tips" = "위의 QR 코드 스캔하여 Secret에서 저를 추가해 주세요";
+"settings.qrcode.save" = "내 QR 코드를 저장";
+"setting.privacy.setting.cell.title" = "개인 정보 설정";
+"conversation.group.tips" = "위의 QR 코드 스캔하여 Secret그룹에 참여해 주세요";
+"conversation.group.qrcode.save" = "secret그룹 QR 코드 저장";
+
+// MARK: - 그룹 메시지
+"newProfile.conversation.record" = "대화 기록";
+"newProfile.conversation.safe.title" = "암호화 된 보안 번호";
+"newProfile.conversation.safe.subtitle" = "대화 내용이 암호화되었습니다";
+"newProfile.conversation.announcement.title" = "그룹 공지";
+"newProfile.conversation.remark" = "별명을 설정";
+"newProfile.conversation.photo" = "모멘트";
+"newProfile.conversation.remarksave" = "져장";
+"newProfile.conversation.addremark" = "별명을 추가";
+
+"newProfile.conversation.remove_participant" = "그룹에서 제거";
+"newProfile.conversation.start_chat" = "채팅하기 시작";
+"newProfile.conversation.complaint" = "신고하기";
+"newProfile.conversation.complaint.title" = "신고 이유";
+"newProfile.conversation.complaint.submit" = "제출";
+"newProfile.conversation.complaint.placeHolder" = "신고 이유를 입력해 주세요";
+"newProfile.conversation.complaint.success" = "신고 성공되었습니다！";
+
+// MARK: - 그룹
+"participants.conversation.name" = "그룸명";
+
+
+"general.ok" = "예";
+"general.cancel" = "취소";
+"general.open_settings" = "Secret설정을 시작하기";
+// MARK: - 새 버전 제시
+"version.update_tips" = "새 버전! App Store에 이동하여 업데이트해 주세요";
+
+//
+"peoplepicker.button.share_url_to_conversation" = "发送链接给联系人";
+"peoplepicker.button.sub_to_conversation" = "멤버를 제거";
+"peoplepicker.button.delete_member" = "그룹 멤버를 삭제";
+
+//
+"participants.avatar.host.title" = "그룹 소유자";
+"participants.avatar.manager.title" = "관리자";
+"participants.avatar.me.title" = "나";
+"content.system.conversation.started.no.with" = " 채팅 하기 시작.";
+
+// MARK: - 설정 센터
+"self.settings.account_manager.title" = "계정 관리";
+"self.settings.photo.title" = "모멘트";
+"self.settings.praise.title" = "의견을 제기";
+
+// MARK: - Conversation Status
+"self.settings.status.title" = "상태";
+"self.settings.status.closed" = "암호화 모드";
+"self.settings.status.darwin" = "스마트 다윈 호스팅";
+"self.settings.status.angel" = "스마트 천사 호스팅";
+"self.settings.status.campusbelle" = "스마트 미녀 호스팅";
+"self.settings.status.ai" = "인공 훈련 모드";
+"self.settings.status.zuchongzhi" = "Zu Chongzhi모드";
+
+"self.settings.account_section.myQRCode.title" = "내 QR 코드";
+"self.settings.account_section.qrCode.title" = "Secret PC 버전 로그인 하기";
+
+// MARK: - Setting - Scan
+"self.settings.account_section.scan.title" = "코드 스캔";
+"self.settings.account_section.security.title" = "보안";
+
+// MARK: - 채탕 배경 호면을 변경修改聊天背景
+"conversation.setting.backgroundimage" = "채팅 배경 설정";
+"conversation.setting.backgroundimage.title" = "테마 변경하기";
+"conversation.setting.backgroundimage.description" = "다른 스타일 사용해보세요，\n수시로 신선한 테마를 사용할수 있습니다.";
+"conversation.setting.backgroundimage.apply" = "응용";
+"conversation.setting.backgroundimage.cancel" = "취소";
+"conversation.setting.originalMark" = "원본";
+
+// MARK: - 채팅을 맨 위에 고정
+"conversation.setting.place_top" = "맨 위에 고정";
+
+"conversation.setting.screenShot" = "스크린샷 알림";
+"conversation.setting.screenShot.detail" = "활성화 후 스크린샷을 찍을 때 메시지가 전송됩니다.";
+"conversation.setting.screenShot.open" = "열림";
+"conversation.setting.screenShot.close" = "닫힘";
+
+//그룹에서 금언을 설정
+"conversation.setting.disableSendMsg" = "그룹에서 금언을 설정";
+"conversation.setting.disableSendMsg.status.ing" = "금언중";
+"conversation.setting.disableSendMsg.duration.forever" = "영원히";
+"conversation.setting.disableSendMsg.time.left" = "잉여";
+//그룹 관리자를 설정
+"conversation.setting.manager.systemMsg.became" = "관리자로 승격";
+"conversation.setting.manager.systemMsg.drop" = "그룹 소유자한테 관리자직을 해고";
+
+///관리자 변경 메시지
+"conversation.setting.creator.systemMsg.change" = "새 그룹 소유자가되었습니다";
+
+// MARK: - 만명이상의 그룹으로 업그레이드
+"conversation.setting.to.huge.conversation" = "만명이상의 그룹으로 업그레이드";
+"conversation.setting.to.upgraded.huge.conversation" = "만 명이상의 그룹으로 업그레이드되었습니다";
+"conversation.setting.to.upgrade.over.100" = "그룹 멤버가 100명을 초과하면 승격할 수 있습니다";
+"conversation.setting.to.openjoin.url" = "링크로 가입 함을 켜기";
+"conversation.setting.to.message.visible.only.manager.creator" = "다른 멤버가 보낸 메시지를 볼수 없습니다";
+"conversation.setting.to.inviters.visible" = "그룹 초대 목록 볼 수 있음";
+"conversation.setting.to.openjoin.QRCode" = "링크로 가입하는것을 켜기";
+"conversation.setting.to.group.allowViewMembers" = "그룹 멤버 보는것을 허용";
+"conversation.setting.to.group.qrcode" = "그룹 QR 코드";
+"conversation.setting.to.group.urlshare" = "에게 공유";
+"conversation.setting.to.group.urlsubtitle" = "공유";
+"conversation.setting.to.group.confirmTitle" = "그룹 채팅 초대 확인";
+"conversation.setting.to.group.confirmSubtitle" = "사용 가능하다면 멤버는 친구를 그룹에 초대하기전에 그룹 방장의 승인이 필요합니다.기능 가입을 위한 그룹 QR 코드 스캔은 사용할 수 없습니다";
+"conversation.setting.to.group.ownerInvite" = "그룹 소유자만 친구를 그룹에 초대할수 있음";
+"conversation.setting.to.group.ownerChange" = "그룹 소유권 이전";
+"conversation.setting.to.group.attendant" = "관리자";
+"conversation.setting.to.group.speaker" = "강연자";
+"conversation.setting.to.group.addSpeaker" = "추가";
+"conversation.setting.to.group.manager" = "그룹 관리";
+"conversation.setting.to.group.icon" = "그룹 프로필 사진";
+"conversation.setting.to.group.MemberConfirm" = "멤버 확인이 필요함";
+"conversation.setting.to.group.shortcut" = "메뉴 바에 추가";
+"conversation.setting.to.group.add_to_home_screen" = "주 화면에 추가하기";
+"conversation.setting.to.group.forbid_add_friend" = "그룹 멤버간에 친구를 추가하지 못하도록 금지";
+"conversation.setting.to.group.member_change_unvisible" = "멤버 초대, 이탈이 볼수 없습니다";
+"conversation.setting.to.group.disablesendmsg" = "전원 금언";
+"conversation.setting.to.group.disablesendmsg.status" = "전원 금언 기능이 설정되면 그룹 소유자만 말할 수 있고,그룹 멤버 명함 카드를 입력하면 개별 멤버에 대한 금언을 설정할 수 있습니다";
+"Group.settings.allow_member_add" = "이 사용자 정보를 볼 수있는 권한이 없습니다";
+"conversation.setting.to.showMemsum" = "멤버 인수를 디스플레이";
+"conversation.setting.to.enableEditMsg" = "메시지가 편집,삭제 가능함";
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "웹 페이지가 로그인되었습니다";
+"hud.success.saved" = "저장됨";
+"hud.success.added" = "추가함";
+"hud.success.sent" = "보냄";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "잘못된 QR 코드";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "알지 못한 오류";
+"hud.error.invalid.qrcode" = "잘못된 QR 코드";
+"hud.error.no.qrcode" = "QR 코드를 찾을 수 없음";
+"hud.error.self.qrcode" = "자신의 QR 코드를 스캔할 수 없습니다";
+"hud.error.not.find.user" = "사용자를 찾을 수 없음";
+"hud.error.not.choose.coin.type" = "코인 유형을 옵션하지 않았습니다";
+
+// MARK: - Global HUD
+"hud.cancelled" = "취소함";
+"hud.copied" = "복사됨";
+// MARK: - AlertController
+"controller.alert.ok" = "확인";
+"controller.alert.title.error" = "오류";
+"controller.alert.desc.no.permission.to.album" = "앨범에 액세스 할 수 없습니다. 설정으로 이동하여 설정해 주세요";
+
+// MARK: - 그룹에 초대
+"join_invite_response_error_code_2001"  = "이미 그룹에 참여하는 중";
+"join_invite_response_error_code_2002"  = "그룹 소유자가url로 멤버 추가하는것을 금지합니다";
+
+// MARK: - Global
+"secret_unknown_error" = "알지 못한 오류";
+"secret_server_error" = "서버 사용량이 너무 많음";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "최신 메시지로 이동";
+
+// MARK: Describe Text
+"controller.scan.desktop.login" = "컴퓨터를 사용하여https://webapp.secret.chat로 이동한 후 QR 코드를 스캔하십시오.";
+
+//수권
+"app.scheme.loadFailure" = "앱 로드하는데 실패했습니다. 다시 시도하십시오";
+"app.scheme.load.reLoad" = "다시 불러오기";
+"app.scheme.login.authorizationFailure" = "로그인 인증에 실패했습니다. 네트워크를 확인하고 다시 시도하십시오";
+"app.scheme.login.reAuthorization" = "재 수권";
+"app.scheme.login.authorization" = "수권";
+"app.scheme.login.apply.permission" = "아래의 권한 허용을 신청힙니다";
+"app.scheme.login.get.information" = "공개 정보를 얻으려고합니다";
+"app.scheme.login.auth.allow" = "허용";
+"app.scheme.login.auth.refuse" = "거부";
+
+// 알림
+"notification.title" = "알림";
+"notification.cell.comment" = "댓글";
+"notification.cell.reply" = "답장";
+"notification.cell.like" = "좋아요";
+"notification.cell.transimit" = "공유";
+
+// MARK: - 새 버전 프롬프트
+"new_version_info" = "그룹 초대 링크가 표시되지 않는 문제 수정\n메시지 표시 최적화\n스캔 코드 기능 최적화\n일부 버그 수정";
+
+"new_version_title" = "버전 업데이션";
+"login.intro.text" = "모든 사람의 커뮤니케이션을 보안하기";
+"login.intro.text.new" = "연결이 더 가치있게";
+
+"general.ok" = "확인";
+"general.next" = "다음";
+"general.cancel" = "취소";
+"general.close" = "닫기";
+"general.back" = "뒤로";
+"general.open_settings" = "설정";
+"general.edit" = "수정";
+"general.done" = "완료";
+"general.confirm" = "예";
+
+"general.skip" = "지금 아니요";
+"general.accept" = "수락";
+
+"general.decline" = "아니오,감사합나다";
+"general.failure" = "오류가 발샌한것 같습니다.";
+"general.failure.try_again" = "다시 시도해 주세요";
+"general.service" = "서비스";
+"general.off" = "끔";
+"general.on" = "열기";
+"general.loading" = "불러오는 중...";
+"general.paste" = "붙여 넣기";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = "\U200B";
+
+"general.guest-room-name" = "访客聊天室";
+
+// User Cell
+"user_cell.title.you_suffix" = "(님)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.title" = "연락처로 추가";
+"peoplepicker.search_placeholder" = "이름 또는 아이디로 검색";
+"peoplepicker.header.top_people" = "즐겨찾기";
+"peoplepicker.button.create_conversation" = "그룹 만들기";
+"peoplepicker.button.add_to_conversation" = "참여자를 그룸에 참여";
+"peoplepicker.header.conversations" = "그룹";
+"peoplepicker.header.team_conversations" = "%@ 팀";
+"peoplepicker.header.send_invitation" = "초대";
+"peoplepicker.header.contacts" = "연락처";
+"peoplepicker.header.contacts_personal" = "연락처";
+"peoplepicker.header.directory" = "친구 추가";
+
+"peoplepicker.group.title.singular" = "참여자 추가";
+"peoplepicker.group.title.plural" = "참여자 추가(%d)";
+"peoplepicker.group.skip" = "건너 뛰기";
+"peoplepicker.group.done" = "완료";
+"peoplepicker.group.create" = "만들기";
+
+"peoplepicker.header.people" = "연락처";
+"peoplepicker.header.services" = "서비스";
+"peoplepicker.services.open_conversation.item" = "대화를 열기";
+"peoplepicker.services.add_service.button" = "서비스 추가";
+"peoplepicker.services.add_service.error.title" = "서비스를 가입 할 수 없습니다";
+"peoplepicker.services.add_service.error.default" = "서비스를 일시적으로 이용할 수 없습니다";
+"peoplepicker.services.add_service.error.full" = "대화 인수가 상한에 도달했습니다";
+
+"peoplepicker.title.create_conversation" = "그룹 만들기\n";
+"peoplepicker.title.add_to_conversation" = "참여자 추가";
+
+"peoplepicker.no_contacts_title" = "연락처를 찾을 수 없습니다.";
+
+"peoplepicker.no_matching_results_title" = "결과가 없습니다.";
+"peoplepicker.no_matching_results_message" = "전체 이메일 주소를 입력하십시오.";
+
+"peoplepicker.no_matching_results.action.send_invite" = "초대함";
+"peoplepicker.no_matching_results.action.share_contacts" = "연락처를 공유";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "유효한 이메일 주소를 입력하십시오";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "결과가 없습니다.";
+"peoplepicker.no_matching_results_services_title" = "워크 플로 개선에 도움이되는 서비스가 제공됩니다. 서비스를 활성화하려면 관리자에게 문의하십시오.";
+"peoplepicker.no_matching_results_services_admin_title" = "워크 플로 개선에 도움이되는 서비스가 제공됩니다.";
+"peoplepicker.no_matching_results_services_manage_services_title" = "서비스 관리";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "정확한 이메일 주소를 입력하거나";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "연락처를 공유";
+
+"peoplepicker.share_contacts.no_results.title" = "이름 또는 이메일 주소로 검색";
+
+"peoplepicker.send_invitation.dialog.title" = "초대 보냄.";
+"peoplepicker.send_invitation.dialog.message" = "초대는 2주간 유효합니다. 만료되면 다시 초대하십시오.";
+"peoplepicker.send_invitation.dialog.ok" = "예";
+
+"peoplepicker.invite_more_people" = "더 많은 분을 초대";
+"peoplepicker.invite_team_members" = "친구에게 Secret를 사용하도록 초대";
+"peoplepicker.quick-action.open-conversation" = "오픈";
+"peoplepicker.quick-action.create-conversation" = "그룹 만들기";
+"peoplepicker.quick-action.create-guest-room" = "손님 대화방 만들기";
+
+"peoplepicker.quick-action.create-hugegroup" = "백만명 이상 그룹 만들기";
+"peoplepicker.quick-action.invite-addressbook" = "주소록 친구 초대";
+"peoplepicker.quick-action.core-friends" = "핵심 친구";
+
+"peoplepicker.quick-action.admin-services" = "서비스 관리";
+
+"add_participants.all_contacts_added" = "모든 사용자가 그룹 채팅에 참여했습니다";
+
+"add_participants.alert.title" = "통화 인수가 상한에 도달했습니다";
+"add_participants.alert.message.new_conversation" = "최대 %d 명이 같은 그룹 채팅에 참여할 수 있습니다.";
+"add_participants.alert.message.existing_conversation" = "최대 %1$d 명， 그룹 채팅에 참여할 수 있습니다.현재 %2$d 분 가입할 수 있습니다.";
+
+"add_participants.alert.limitInOneChoose.title" = "선택 인수가 상한에 도달";
+"add_participants.alert.limitInOneChoose.message" = "최대로 동시에 %1$d 분을 초대할 수 있음";
+
+"shareToConversationViewController.context.sharePicture" = "사진 공유하기";
+"shareToConversationViewController.context.shareVideo" = "비디오 공유하기";
+"shareToConversationViewController.context.shareGroupLink" = "그룹 링크 공유하기";
+"shareToConversationViewController.context.choose_new_owner" = "새 그룹 소유자를 선택";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "이름으로 검색";
+"contacts_ui.invite_others" = "다른 사람 초대";
+"contacts_ui.name_in_contacts" = "%@님이 연락처에 있음";
+"contacts_ui.connection_request" = "친구로 추가 요청";
+"contacts_ui.action_button.invite" = "초대";
+"contacts_ui.action_button.open" = "오픈";
+"contacts_ui.invite_sheet.cancel_button_title" = "취소";
+"contacts_ui.notification.invitation_sent" = "초대함.";
+"contacts_ui.notification.invitation_failed" = "초대할 수 없습니다";
+"contacts_ui.title" = "연락처 초대";
+
+"conversation_list.empty.all_archived.message" = "모두 보관되었습니다";
+"conversation_list.empty.no_contacts.message" = "채탕하기 시작 또는\n그룹 만들기.";
+"conversation_list.message.expression" = "[이모티콘 정보]";
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "가입";
+"conversation_list.header.self_team.accessibility_value" = "%@계정";
+"conversation_list.header.self_team.accessibility_value.inactive" = "클릭하여 활성화";
+"conversation_list.header.self_team.accessibility_value.active" = "즉시 활성화";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "새 메시지 있습니다.";
+
+// Conversation List Data Usage Permission Dialog
+
+"conversation_list.data_usage_permission_alert.title" = "Secret을 개선하도록 도와주세요";
+"conversation_list.data_usage_permission_alert.message" = "본인은 Secret이 익명 및 오류 보고서를 작성하고 사용하여 소프트웨어 품질을 향상시킬 수 있음에 동의합니다. 언제든지이 승인을 취소 할 수 있습니다.";
+
+"conversation_list.data_usage_permission_alert.disagree" = "아니요";
+"conversation_list.data_usage_permission_alert.agree" = "동의";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "연락처에서";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "대화 열기";
+"conversation_list.voiceover.status.pending_connection" = "응답 대기 중";
+"conversation_list.voiceover.status.active_call" = "통화중";
+"conversation_list.voiceover.status.missed_call" = "부재중 통화";
+"conversation_list.voiceover.status.pause_media" = "일시 중지";
+"conversation_list.voiceover.status.play_media" = "재생";
+"conversation_list.voiceover.status.silenced" = "음 소거";
+"conversation_list.voiceover.status.typing" = "입력 중";
+"conversation_list.voiceover.status.ping" = "인사";
+"conversation_list.voiceover.status.mention" = "누군가 나를 멘션함";
+"conversation_list.voiceover.status.reply" = "답장";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "recent";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "list of recent conversations";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "folders";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "list of conversations organized in folders";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "보관됨";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "보관된 대화 목록";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "연락처";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "Secret에서 친구 찾기";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "메세지 편집 밒 저장";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "카메라";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "사진을 찍고 즉시 보내기";
+"conversation_list.voiceover.unread_messages.hint" = "읽지 않은 메시지가 있습니다";
+
+// Archived List
+"archived_list.title" = "档案";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "여기에서 채팅하기 시작";
+"tool_tip.contacts.message" = "开启新的聊天室。尽情在个人或群组聊天室中传达讯息、通话和分享。";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "%@님을 알고 있습니다";
+"peoplepicker.suggested.knows_two" = "认识 %@님과 %@";
+"peoplepicker.hide_search_result" = "隐藏";
+"peoplepicker.hide_search_result_progress" = "躲藏......";
+
+"send_invitation.subject" = "Secret에서 친구 됩시다";
+"send_invitation.text" = "Secret을 사용하고 있습니다，%@을 하거나 www.secret.chat/#download을 액세스해 주세요";
+"send_invitation_no_email.text" = "Secret을 사용하고 있습니다.访问 www.secret.chat/#download 을 액세스하여 저를 추가해 주세요.";
+
+// Folders
+
+"folder.creation.name.title" = "Create new folder";
+"folder.creation.name.button.create" = "만들기";
+"folder.creation.name.header" = "Move the conversation \"%@\" to a new folder.";
+"folder.creation.name.footer" = "Maximum 64 characters";
+"folder.creation.name.placeholder" = "Folder name";
+
+"folder.picker.title" = "Move to";
+"folder.picker.empty.hint" = "Create a new folder by pressing the + button";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "사진을 공유하였습니다";
+"notifications.pinged" = "ping했네요";
+"notifications.sent_file" = "파일을 공유하였습니다";
+"notifications.sent_location" = "위치정보를 공유하였습니다";
+"notifications.sent_video" = "비디오를 공유하였습니다";
+"notifications.sent_audio" = "오디오를 공유하였습니다";
+"notifications.in_conversation" = "%@  -  %@";
+"notifications.this_conversation" = "%@ 님이 이 채팅방에 있습니다";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "대화";
+"list.archived_conversations" = "归档";
+"list.archived_conversations_close" = "关闭归档";
+
+"list.section.groups" = "그룹";
+"list.section.contacts" = "연락처";
+"list.section.requests" = "Requests";
+"list.section.favorites" = "Favorites";
+
+"conversation.voiceover.verified" = "검증됨";
+"conversation.voiceover.legalhold" = "증거 보존";
+"conversation.voiceover.value.active" = "활동 중";
+"conversation.voiceover.value.disabled" = "사용 금니함";
+
+"conversation.status.typing" = "입력중...";
+"conversation.status.typing.group" = "%@︰입력중...";
+"conversation.status.silenced" = "음 소거";
+"conversation.status.poor_connection" = "연결 품질 불량";
+"conversation.status.blocked" = "차단 함";
+"conversation.status.incoming_call" = "%@ 응답 기다리는 중…";
+"conversation.status.incoming_call.unknown" = "전화를 받았습니다";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "링크를 공유하기";
+"conversation.status.message.image" = "사진을 공유함";
+"conversation.status.message.location" = "위치를 공유함";
+"conversation.status.message.audio" = "음성 메시지를 공유함";
+"conversation.status.message.video" = "비디오를 공유함";
+"conversation.status.message.file" = "파일을 공유함";
+"conversation.status.message.knock" = "인사 함";
+"conversation.status.message.missedcall" = "부재중 통화";
+"conversation.status.message.missedcall.groups" = "%@ 에서 보낸 부재중 통화";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "메시지를 보냄";
+"conversation.status.message.ephemeral.group" = "누군가 메시지를 보냈습니다";
+"conversation.status.message.ephemeral.mention" = "누군가 나를 멘션함";
+"conversation.status.message.ephemeral.mention.group" = "누군가 나를 멘션함";
+"conversation.status.message.ephemeral.reply" = "누군가 회원님의 메세지에 답장";
+"conversation.status.message.ephemeral.reply.group" = "누군가 회원님의 메세지에 답장";
+"conversation.status.message.ephemeral.knock" = "인사 함";
+"conversation.status.message.ephemeral.knock.group" = "누군가 인사 함";
+
+"conversation.status.unsent" = "⚠️ 보내지 못한 메시지";
+"conversation.status.you" = "회원님";
+"conversation.status.someone" = "누군가";
+
+"conversation.status.added_multiple" = "이미 연락처를 추가하었습니다";
+
+"conversation.status.you_was_added" = "%@님이 회원님을 추가하였습니ㅇ다";
+"conversation.status.you_were_removed" = "회원님이 삭제되었습니다";
+"conversation.status.you_left" = "회원님이 퇴출했습니다";
+"conversation.status.started_conversation" = "%@ 대화하기 시작";
+"conversation.status.removed_users" = "%@님이%@을(를) 제거";
+"conversation.status.everyone_left" = "모두가 떠났습니다";
+"conversation.status.group_join" = "그룹에 참여하는지 확인해 주세요?";
+"conversation.status.group_joined" = "회원님은 이미 그룹에 참여하고 있습니다";
+"conversation.status.group_join_success" = "그룹에 가입했습니다";
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "채팅";
+"compose.message.title" = "메세지";
+
+"conversation_details.open_button.accessibility_hint" = "이중 클릭하여 대화 내용을 보기";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "모두에게 알려주십시오！";
+"conversation.invite_more_people.description" = "새로 추가한 친구 이 채팅방에 가입해주세요";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "새로 추가한 친구";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "빈 채팅";
+
+"conversation.input_bar.verified" = "인증";
+"conversation.input_bar.placeholder" = "메시지 입력";
+"conversation.input_bar.placeholder_ephemeral" = "읽은 후 사라짐";
+"conversation.input_bar.placeholder_limited" = "회원님과 그룹 관리자만 볼수 있음";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "위로 쓸어올려 보내기";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "클릭하여 보내기";
+"conversation.input_bar.audio_message.too_long.title" = "녹화가 중지되었습니다";
+"conversation.input_bar.audio_message.too_long.message" = "음성 메시지의 최대 길이는%@。";
+
+
+"conversation.input_bar.audio_message.too_long_size.message" = "음성 메시지의 파일 크기는 %@。 초과 할 수 없습니다.";
+
+"conversation.input_bar.audio_message.send" = "보내기";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "클릭하여 음성 메세지를 녹음합니다\n나중에 해당 메세지를%@할수 있습니다";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "특수 효과룰 선택";
+
+"conversation.call.many_participants_confirmation.title" = "전화를 시작";
+"conversation.call.many_participants_confirmation.message" = "이는%d분에게 젼화 겁니다";
+"conversation.call.many_participants_confirmation.call" = "통화";
+
+"conversation.connection_view.in_address_book" = "연락처에 있음";
+
+"conversation.input_bar.shortcut.send" = "메시지를 보내기";
+"conversation.input_bar.shortcut.newline" = "Insert line break";
+"conversation.input_bar.shortcut.edit_last_message" = "마지막 메시지를 편집";
+"conversation.input_bar.shortcut.cancel_editing_message" = "취소";
+
+"conversation.input_bar.message_too_long.title" = "메시지가 너무 깁니다.";
+"conversation.input_bar.message_too_long.message" = "최대로 %d 자의 메시지를 보낵수 있습니다.";
+
+"conversation.create.group_name.title" = "그룹 만들기";
+"conversation.create.group_name.placeholder" = "그룹명";
+"conversation.create.guidance.empty" = "최소 1개 캐릭터";
+"conversation.create.guidance.toolong" = "글자 수 한도 초과";
+
+"conversation.create.options.title" = "대화 옵션";
+"conversation.create.options.subtitle" = "외부 사용자 및 서비스: %@, 영수증 읽기: %@";
+
+"conversation.create.guests.title" = "허용 된 방문객 및 서비스";
+"conversation.create.guests.subtitle" = "이 대화를 팀 외부의 서비스 및 사람들에게 공개";
+"conversation.create.receipts.title" = "已读回执";
+"conversation.create.receipts.subtitle" = "When this is on, people can see when their messages in this conversation are read.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "응답 기다리는 중";
+
+"conversation.input_bar.ongoing_call_alert.audio.message" = "통화시 음성 메시지를 녹음 할 수 없습니다.";
+"conversation.input_bar.ongoing_call_alert.video.message" = "통화시 비디오를 녹화 할 수 없습니다.";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "통화시 사진을 찍을 수 없습니다.";
+
+"conversation.alert.message_deleted" = "메시지가 삭제되었습니다.";
+"conversation.alert.confirmAddContact.message_corrupted" = "메시지 가 손상 되 었 습 니 다.";
+
+"conversation.guests_present" = "访客在对话中";
+"conversation.services_present" = "서비스가 시작되었습니다";
+"conversation.guests_services_present" = "외부 연락처 및 서비스 포함";
+"conversation.action.search" = "검색";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "사진";
+"conversation.input_bar.message_preview.location" = "위치정보";
+"conversation.input_bar.message_preview.video" = "동엉상";
+"conversation.input_bar.message_preview.audio" = "음성 메시지";
+
+"conversation.input_bar.message_preview.file" = "파일";
+"conversation.input_bar.close_reply" = "답장을 취소";
+
+"conversation.input_bar.message_preview.accessibility_description" = "답장 메시지: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "사진 메시지";
+"conversation.input_bar.message_preview.accessibility.location_message" = "位置消息";
+"conversation.input_bar.message_preview.accessibility.video_message" = "비디오 메시지";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "음성 메시지";
+"conversation.input_bar.message_preview.accessibility.file_message" = "파일 메시지 (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "알지 못한 메시지";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ from %@";
+
+
+"image_confirmer.confirm" = "예";
+"image_confirmer.cancel" = "취소";
+"image.add_sketch" = "핸드 드로잉 추가";
+"image.edit_image" = "이미지 편집";
+
+// Camera access
+
+"camera_access.denied" = "Secret이(가) 카메라 접근 권한을 사용해야합니다.";
+"video_call.camera_access.denied" = "Secret카메라 사용 권한이 없습니다";
+
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "Secret설정에서 사용";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "설정";
+
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "Secret需要使用你的\n相机和照片。"; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "Secret가 카메라를 사용해야합니다.";
+"keyboard_photos_access.denied.keyboard.camera" = "Secret를 사용하려면 카메라 권한을 승인해야합니다.";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "여상 통화시 카메라를 사용할 수 없습니다.";
+
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE / AF잠금";
+
+// Location
+"location.send_button.title" = "잠금";
+"location.unauthorized_alert.title" = "위치 확정 서비스 사용";
+"location.unauthorized_alert.message" = "위치를 보내려면 위치 서비스를 활성화하고 Secret이 위치에 액세스하도록 허용하십시오.";
+"location.unauthorized_alert.cancel" = "취소";
+"location.unauthorized_alert.settings" = "설정";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ 트위터에서";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "끔";
+"input.ephemeral.title" = "읽은 후 사라지는 사간을 설정";
+
+// System messages
+"content.system.you_nominative" = "회원님";
+"content.system.you_dative" = "회원님";
+"content.system.and_you_dative" = "회원님과";
+"content.system.you_accusative" = "회원님";
+
+"content.system.continued_conversation" = "%@와(과) 채팅하기 시작";
+
+"content.system.started_conversation.truncated_people" = "와(과) %@";
+"content.system.started_conversation.truncated_people.others" = "%@ others";
+"content.system.started_conversation.complete_team" = "모든 팀 멤버";
+"content.system.started_conversation.complete_team.guests" = "모든 팀 멤버와 %@ 관광객";
+
+
+"content.system.other_started_conversation" = "%@ 와(과) %@ 채팅하기 시작";
+"content.system.you_started_conversation" = "%@님과 채팅하기 사작";
+
+"content.system.you_added_participant" = "%@님을 추가했습니다";
+"content.system.other_added_participant" = "%@님이%@님을 추가했습니다";
+"content.system.other_added_you" = "%@이 회원님을 추가했습니다";
+
+"content.system.participants_you" = "회원님";
+"content.system.participants_1_other" = "%@ 와(과) %@";
+"content.system.other_left" = "%@ 나감";
+"content.system.you_left" = "회원님이 나감";
+"content.system.other_removed_other" = "%@을(를)%@제거했습니다.";
+"content.system.other_removed_you" = "%@이 회원님을 제거했습니다.";
+"content.system.you_removed_other" = "회원님이%@을(를) 제거했습니다.";
+
+"content.system.services.warning" = "서비스는 이 대화 내용에 액세스 할 수 있습니다";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "YouTube비디오 미리보기";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "SoundCloud노래 미리보기";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "SoundCloud 재생 목록 미리보기";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ 와(과) %@ 채팅하기 시작";
+"content.system.conversation.other.added" = "%@님이%@님을 추가했습니다";
+"content.system.conversation.other.removed" = "%@이(가)%@을(를) 제거했습니다.";
+"content.system.conversation.other.left" = "%@ 님이 나갔습니다";
+
+"content.system.conversation.you.started" = "%@ 와(과%@채팅하기 시작";
+"content.system.conversation.you.added" = "%@님이%@(을)를 추가했습니다";
+"content.system.conversation.you.removed" = "%@이(가)%@을(를) 제거했습니다.";
+"content.system.conversation.you.left" = "%@ 님이 나갔습니다.";
+"content.system.conversation.team.member-leave" = "%@을(를) 팀에서 제거했습니다";
+"content.system.conversation.guest.joined" = "%@已加入";
+
+"content.system.conversation.invite.title" = "팀 외부의 방문객 및 서비스가 이 대화에 참여할 수 있습니다.";
+"content.system.conversation.invite.button" = "대화상대 초대";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ 채팅 이름 삭제";
+"content.system.you_renamed_conv_to_nothing" = "채팅방 이름을 삭제했습니다";
+"content.system.pending_message_timestamp" = "전송 중...";
+"content.system.message_sent_timestamp" = "전송함";
+"content.system.message_delivered_timestamp" = "공유됨";
+"content.system.message_read_timestamp" = "읽음";
+"content.system.failedtosend_message_timestamp" = "전송 실패。";
+"content.system.failedtosend_message_timestamp_resend" = "다시 보내기";
+"content.system.failedtosend_message_timestamp_delete" = "삭제";
+"content.system.like_tooltip" = "点击赞我";
+"content.system.deleted_message_prefix_timestamp" = "삭제함: %@";
+"content.system.edited_message_prefix_timestamp" = "편직함: %@";
+"content.system.connecting_to" = "불러 오는 중%@。채팅하기 시작";
+"content.system.connected_to" = "%@님을 친구로 추가함\n채팅하기 시작";
+"content.system.other_wanted_to_talk" = "%@님이 전화건적 있습니다";
+"content.system.you_wanted_to_talk" = "전화한적 있습니다";
+"content.system.ephemeral_time_remaining" = "아직%@남음";
+
+"content.system.you_started" = "회원님";
+"content.system.this_device" = "이 기기";
+
+"content.system.call.you" = "회원님";
+"content.system.call.called" = "%@전화한적 있습니다";
+"content.system.call.called-you" = "%@전화한적 있습니다";
+
+"content.system.renamed_conv.title" = "%@ 님이 채팅방 이름을 변경했습니다";
+"content.system.renamed_conv.title-you" = "%@ 님이 채팅방 이름을 변경했습니다";
+"content.system.renamed_conv.title.you" = "회원님";
+
+"content.system.conversation.with_name.title" = "%@채팅하기 시작";
+"content.system.conversation.with_name.title-you" = "%@채탕하기 시작";
+
+"content.system.conversation.with_name.participants" = "와(과)";
+
+
+"content.system.message_timer_changes" = "%@ 님이 메시지 타이머를 %@로(으로)설정";
+"content.system.message_timer_changes-you" = "%@ 님이 메시지 타이머를 %@로(으로)설정";
+
+"content.system.message_timer_off" = "%@님이 메시지 타이머를 끔";
+"content.system.message_timer_off-you" = "%@님이 메시지 타이머를 끔";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@为所有人打开了已读提示";
+"content.system.message_read_receipt_on-you" = "%@为所有人打开了已读提示";
+
+"content.system.message_read_receipt_off" = "%@关闭了所有人的已读提示";
+"content.system.message_read_receipt_off-you" = "%@关闭了所有人的已读提示";
+
+"content.system.message_read_receipt_on_add_to_group" = "已读提示已打开";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "当前对话处于证据保全状态";
+"content.system.message_legal_hold.disabled" = "此对话解除证据保全状态";
+
+"content.system.message_legal_hold.learn_more" = "더 알아보기";
+
+//
+"content.system.screen.shot" = "%@이(가) 스크린샷을 찍었습니다";
+
+"content.system.reactivated_device" = "%@을(를) 다시 사용하기 시작합니다。이 시간 동안 전송 된 정보는 여기에 표시되지 않습니다.";
+
+"content.system.new_device" = "새로운 기기";
+"content.system.started_using" = "사용하기 시작";
+"content.system.is_verified" = "모든 지문 확인";
+
+"content.system.new_users" = "새로운 사용자 가입";
+"content.system.verify_devices" = "기기를 검증";
+
+"content.system.unverified" = "%@ 未经证实 %@ 之一"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "님의 기기";
+"content.system.other_devices" = "%@ 의 기기";
+
+"content.system.missing_messages.title" = "이 기기를 한동안 사용하지 않았습니다, 일부 정보가 여기에 표시되지 않을 수 있습니다";
+"content.system.missing_messages.subtitle_start" = "동시，";
+
+"content.system.cannot_decrypt" = "%@ 에서 보낸 메시지를받지 못했습니다.";
+
+"content.system.cannot_decrypt.you_part" = "회원님";
+"content.system.cannot_decrypt.why_part" = "왜서인가요？";
+"content.system.cannot_decrypt.reset_session" = "session재설정?";
+
+"content.system.cannot_decrypt.identity" = "%@ 기기 식별 변경.공유 되지 않은 메시지.";
+"content.system.cannot_decrypt.identity.you_part" = "기기";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@의"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "더 알아보기";
+"content.system.cannot_decrypt.otherDevice_part" = "(设备 %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "이 메시지는 표시 할 수 없습니다. 이전 버전의 Secret을 사용하고 있기 때문일 수 있습니다.";
+
+"content.file.uploading" = "업로드...";
+"content.file.downloading" = "로드중...";
+"content.file.upload_failed" = "업로드 실패";
+"content.file.upload_cancelled" = "업로드가 취소되었습니다";
+"content.file.upload_video" = "비디오";
+"content.file.take_video" = "비디오를 녹화";
+"content.file.browse" = "둘러 보기";
+
+"content.file.save_video" = "저장";
+"content.file.save_audio" = "저장";
+"content.image.save_image" = "저장";
+
+"content.message.delete" = "삭제";
+"content.message.save" = "저장";
+"content.message.resend" = "다시 보내기";
+
+"content.message.delete_ellipsis" = "삭제...";
+
+"content.message.like" = "좋아요";
+"content.message.unlike" = "좋아요를 취소";
+"content.message.forward" = "공유";
+"content.message.go_to_conversation" = "현시";
+"content.message.forward.to" = "검색";
+"content.message.open" = "열기";
+"content.message.copy" = "복사";
+"content.message.download" = "다운로드";
+"content.message.details" = "세부 사항";
+"content.message.add" = "즐겨 찾기에 추가";
+
+// Reply
+"content.message.reply" = "답장";
+"content.message.original_label" = "메세지 원본";
+
+"content.message.reply.original_timestamp.date" = "原消息于%@";
+"content.message.reply.original_timestamp.time" = "原消息于%@";
+"content.message.reply.broken_message" = "이 메시지를 볼 수 없습니다";
+
+"content.message.reply.edited_message" = "편집함";
+
+"content.message.open_link_alert.title" = "링크 열기";
+"content.message.open_link_alert.message" = "\n%@에로 이동";
+"content.message.open_link_alert.open" = "열기";
+
+"content.message.audio_message.accessibility" = "오디오 메시지 재생하기";
+
+"content.reactions_list.likers" = "좋아요";
+
+"content.file.too_big" = "최대로%@의 파일을 보낼수 있습니다.";
+// Someone pinged
+"content.ping.text" = "%@인사함";
+"content.ping.text-you" = "%@인사함";
+
+// Current user pinged
+"content.ping.text.you" = "회원님";
+
+// Inline Player
+"content.player.unable_to_play" = "재생할 수 없습니다";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "%@님을 추가"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "안녕하세요%@，Secret에서 채팅합시다. %@";
+
+"connection_request_pending_title" = "친구 초대";
+"connection_request.send_button_title" = "친구 추가";
+"inbox.connection_request.connect_button_title" = "추가";
+"inbox.connection_request.ignore_button_title" = "취소";
+
+// Save image errors
+"library.alert.permission_warning.title" = "Secret가 사진 라이브러리에 액세스해야합니다";
+"library.alert.permission_warning.restrictions.explaination" = "제한이 활성화되어 있으므로 Secret은 데이터베이스에 액세스 할 수 없습니다.";
+"library.alert.permission_warning.not_allowed.explaination" = "휴대 폰의 「설정」으로 이동하여 Secret이 앨범 접근 권한을 허용해 주세요.";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@\n수신통화";
+"voice.status.group_call.incoming" = "%@\n그룹 통화";
+"voice.status.one_to_one.outgoing" = "%@\n다이얼링";
+"voice.status.joining" = "%@\n연결중";
+"voice.status.leaving" = "%@\n통화가 종려되었습니다";
+"voice.status.video_not_available" = "영상 통화 끄기";
+"voice.status.low_connection" = "연결 상태가 좋지 않습니다";
+"voice.network_error.title" = "인터넷 신호가 없습니다";
+"voice.status.cbr" = "Constant bitrate";
+"voice.network_error.body" = "성 통화를 사용하려면 인터넷에 연결되어 있어야합니다. 네트워크를 확인하고 다시 시도하십시오.";
+"voice.degradation.new_self_device" = "회원님이 새 기기를 사용하기 시작합니다.";
+"voice.degradation.new_user_device" = "%@ 님이 새 기기를 사용하기 시작합니다.";
+"voice.degradation_outgoing.prompt" = "전화 걸겠습니까？";
+"voice.degradation_incoming.prompt" = "전화를 받으시겠니습까？";
+"voice.accept_button.title" = "수락";
+"voice.decline_button.title" = "거부";
+"voice.hang_up_button.title" = "통화 종료";
+"voice.mute_button.title" = "음 소거";
+"voice.video_button.title" = "비디오";
+"voice.flip_video_button.title" = "전환";
+"voice.speaker_button.title" = "스피커";
+"voice.cancel_button.title" = "취소";
+"voice.call_button.title" = "통화";
+"voice.end_call_button.title" = "통화 종료";
+
+"voice.call_error.unsupported_version.title" = "Secret을 업데이트해 주세요";
+"voice.call_error.unsupported_version.message" = "현재 버전의 Secret을 지원하지 않는 전화를 받았습니다.\n존재하다 App Store 최신 버전 받기.";
+"voice.call_error.unsupported_version.dismiss" = "나중에";
+
+
+
+"voice.alert.call_in_progress.title" = "통화 중";
+"voice.alert.call_in_progress.message" = "전화 한통만 허용합니다";
+"voice.alert.call_in_progress.confirm" = "예";
+
+"voice.alert.microphone_warning.title" = "Secret이 마이크 사용권한이 필요됩니다.";
+"voice.alert.microphone_warning.explanation" = "시스템-Secret설정에세 활성화.";
+
+"voice.alert.camera_warning.title" = "Secret이카메라 사용권한이 필요됩니다.";
+"voice.alert.camera_warning.explanation" = "휴대 폰 「설정」에 이동하여 Secret이 카메라 접근 권한을 허용해 주세요.";
+
+"voice.top_overlay.tap_to_return" = "클릭하면 통화로 돌아갑니다";
+"voice.top_overlay.accessibility_title" = "발신중";
+
+// Voice New
+
+"call.status.connecting" = "연결중...";
+
+"call.status.incoming.user" = "%@발신중...";
+"call.status.incoming" = "발신중...";
+"call.status.outgoing" = "벨이 울리고 있음...";
+"call.status.outgoing.user" = "발신중%@…";
+"call.status.reconnecting" = "다시 연결...";
+
+"call.status.terminating" = "끊기...";
+"call.status.constant_bitrate" = "고정 비트 레이트";
+
+"call.participants.show_all_without_count" = "모두 표시";
+"call.participants.show_all" = "모두 표시 (%@)";
+"call.participants.list.title" = "참가자";
+
+"call.video.paused" = "비디오 일시 중지";
+
+"call.video.too_many.alert.title" = "영상 통화 한도 이상";
+"call.video.too_many.alert.message" = "화상 통화는 최대 4명의 그룹에서만 사용할 수 있습니다.";
+
+
+"call.degraded.alert.title" = "새로운 기기";
+"call.degraded.alert.message.self" = "새 기기를 사용하기 시작합니다.";
+"call.degraded.alert.message.user" = "%@ 새 기기를 사용하기 시작합니다.";
+"call.degraded.alert.message.unknown" = "누군가 새 기기를 사용하기 시작합니다.";
+"call.degraded.alert.action.continue" = "여전히 통화합니다";
+
+
+"call.alert.ongoing.alert_title" = "이는 당신의 다른 전화를 종료합니다.";
+
+"call.alert.ongoing.start.message" = "다른 대화에서 다른 통화가 있스니다. \n지금 전화를 걸면 해당 통화가 끊게됩니다.";
+"call.alert.ongoing.join.message" = "른 대화에서 다른 통화가 있스니다.  \n지금 전화를 밥으면 해당 통화가 끊게됩니다.";
+"call.alert.ongoing.start.button" = "여전히 걸겠습니다";
+
+"call.alert.ongoing.join.button" = "여전히 가입하겠습니다";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "%@님의 전화";
+"call.actions.label.toggle_mute_on" = "음 소거";
+"call.actions.label.toggle_mute_off" = "음 소거를 끔";
+"call.actions.label.flip_camera" = "카메러 전화";
+"call.actions.label.toggle_speaker_on" = "음성필터 열기";
+"call.actions.label.toggle_speaker_off" = "음성필터 닫기";
+"call.actions.label.accept_call" = "전화 수락";
+"call.actions.label.reject_call" = "전화 거부";
+"call.actions.label.terminate_call" = "통화 종료";
+"call.actions.label.toggle_video_on" = "카메라를 엽니다";
+"call.actions.label.toggle_video_off" = "카메라를 닫습니다";
+"call.actions.label.switch_to_back_camera" = "후면 카메라로 전환";
+"call.actions.label.switch_to_front_camera" = "전면 카메라로 전환";
+"call.actions.label.minimize_call" = "통화 화면 최소화";
+"call.actions.label.make_audio_call" = "음성 통화하기 시작";
+"call.actions.label.make_video_call" = "영상 통화하기 시작";
+"call.actions.label.join_call" = "통화에 가입";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "새로 추가";
+"participants.avatar.guest.title" = "관광객";
+
+"participants.title" = "세부 정보";
+"participants.all.title" = "연락처";
+"participants.section.participants" = "참여자(%d)";
+"participants.section.services" = "서비스 (%d)";
+"participants.section.settings" = "옵션";
+"participants.footer.add_title" = "참여자 추가";
+"participants.section.name.footer" = "최대 %1$d 명의 참가자가 그룹 대화에 참여할 수 있습니다.다른 %2$d명의 사람과 화상 통화가 가능합니다.";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "더 많은 작업";
+"meta.menu.rename" = "이름 변경";
+"meta.menu.leave" = "퇴출";
+"meta.menu.archive" = "보관";
+"meta.menu.unarchive" = "보관 취소";
+
+"meta.menu.delete" = "그룹 채팅 삭제...";
+"meta.menu.clear_content" = "내용을 삭제…";
+"meta.menu.move_to_folder" = "Move to…";
+"meta.menu.remove_from_folder" = "Remove from \"%@\"";
+
+"meta.menu.do_not_disturb_group" = "방해받지 않고 조수를 돕다";
+"meta.menu.add_do_not_disturb_group" = "방해받지 않는 그룹으로 설정";
+"meta.menu.cancel_do_not_disturb_group" = "방해받지 않는 그룹 취소";
+
+"meta.menu.silence.mute" = "음 소거";
+"meta.menu.silence.unmute" = "음 소거 끔";
+"meta.menu.cancel" = "취소";
+"meta.menu.cancel_connection_request" = "요청 취소...";
+"meta.menu.mark_unread" = "읽지 않음으로 표시";
+"meta.menu.mark_read" = "읽음으로 표시";
+"shortcut.mark_all_as_read.title" = "标记所有为已读";
+"meta.menu.configure_notifications" = "알림…";
+"meta.menu.place_top" = "맨 위에 고정";
+"meta.menu.cancel_place_top" = "'맨 위에 고정'을 취소";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "Clear content?";
+"meta.menu.delete_content.dialog_message" = "기기의 모든 세션 기록이 지워집니다.";
+"meta.menu.delete_content.leave_as_well_message" = "도 채탕에서 나갔습니다";
+"meta.menu.delete_content.button_cancel" = "취소";
+"meta.menu.delete_content.button_delete" = "모두 지우다";
+"meta.menu.delete_content.button_delete_and_leave" = "대화 내용을 삭제하고 나가기";
+
+
+"meta.menu.inviter_list" = "초대자 목록";
+
+// Configure conversation notifications
+
+"meta.menu.configure_notification.dialog_message" = "나를 알림：";
+"meta.menu.configure_notification.button_everything" = "Everything";
+"meta.menu.configure_notification.button_mentions_and_replies" = "멘션 및 답장";
+
+"meta.menu.configure_notification.button_nothing" = "없음";
+"meta.menu.configure_notification.button_cancel" = "취소";
+
+// Leave conversation
+"meta.leave_conversation_selfIsCreator_dialog_title" = "회원님은 해당 그룹의 소유자입니다.그룹 소유자의 관리 권한을 양도하거나 또는 그룹을 해산한 후 그룹에서 탈퇴하세요.";
+"meta.leave_conversation_dialog_title" = "채팅방에서 나가겠습니까？";
+"meta.leave_conversation_dialog_message" = "기타 멤버에게 알림이 표시되고 그룹 목록에서 제거됩니다.";
+"meta.leave_conversation.delete_content_as_well_message" = "Also clear the content";
+"meta.leave_conversation_button_cancel" = "취소";
+"meta.leave_conversation_button_leave" = "나가기";
+"meta.leave_conversation_button_leave_and_delete" = "Leave and clear content";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ 님이 새 기기를 사용하기 시작합니다.";
+"meta.degraded.degradation_reason_message.plural" = "%@ 님이 새 기기를 사용하기 시작합니다.";
+"meta.degraded.degradation_reason_message.someone" = "누군가 새 기기를 사용하기 시작합니다.";
+"meta.degraded.dialog_message" = "여전히 메시지를 보내시겠습니까?？";
+"meta.degraded.verify_devices_button" = "Verify Devices…";
+"meta.degraded.send_anyway_button" = "Send Anyway";
+"meta.degraded.cancel_sending_button" = "취소";
+"meta.legalhold.info_button" = "증거 보존이란？";
+"meta.legalhold.send_alert_title" = "The conversation is now subject to legal hold.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "제거？";
+"profile.remove_dialog_message" = "%@ 님이 해당 그룹에서 메시지를 주고 받을 수 없습니다.";
+"profile.remove_dialog_button_cancel" = "취소";
+"profile.remove_dialog_button_remove" = "그룹에서 제거…";
+"profile.remove_dialog_button_remove_confirm" = "Remove From Group";
+
+// Block dialog
+"profile.block_dialog.title" = "차단？";
+"profile.block_dialog.message" = "%@ 님이 회원님을 연락하거나 그룹에 추가 할 수 없습니다.";
+"profile.block_dialog.button_cancel" = "취소";
+"profile.block_dialog.button_block" = "차단";
+
+// Delete message dialog
+"message.delete_dialog.message" = "이 작업은 취소할 수 없습니다.";
+"message.delete_dialog.action.cancel" = "취소";
+"message.delete_dialog.action.hide" = "나의 기기에서만 삭제";
+"message.delete_dialog.action.delete" = "모두에게서 삭제";
+
+// Edit message
+"message.menu.edit.title" = "수정";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "허용？";
+"profile.connection_request_dialog.message" = "이는 회원님과%@을(를)연결하고 채팅이 시작합니다.";
+"profile.connection_request_dialog.button_cancel" = "취소";
+"profile.connection_request_dialog.button_connect" = "친구 추가";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Delete group conversation?";
+"conversation.delete_request_dialog.message" = "This will delete the group and all content for all participants on all devices. There is no option to restore the content. All participants will be notified.";
+"conversation.delete_request_error_dialog.title" = "An error occured while trying to delete the group %@. Please try again.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Delete Group";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "초대를 취소 하시겠습니까?";
+"profile.cancel_connection_request_dialog.message" = "%@에 연결된 초대를 취소 하시겠습니까?";
+"profile.cancel_connection_request_dialog.button_no" = "아니오";
+"profile.cancel_connection_request_dialog.button_yes" = "예";
+
+// Unblock button
+"profile.block_button_title" = "차단 목록에 가입...";
+"profile.unblock_button_title" = "차단 목록 해제...";
+
+// Favorite button
+"profile.favorite_button_title" = "Add to Favorites";
+"profile.unfavorite_button_title" = "";
+
+"profile.block_button_title_action" = "차단";
+"profile.unblock_button_title_action" = "차단 취소";
+
+"profile.cancel_connection_button_title" = "요청 취소";
+"profile.connection_request_state.blocked" = "차단 목록에 넣다";
+"profile.create_conversation_button_title" = "그룹 만들기";
+"profile.open_conversation_button_title" = "대화 열기";
+
+"profile.read_receipts_enabled_memo.header" = "YOU HAVE ENABLED READ RECEIPTS";
+"profile.read_receipts_disabled_memo.header" = "YOU HAVE DISABLED READ RECEIPTS";
+"profile.read_receipts_memo.body" = "양 당사자가 읽기 영수증을 열면 메시지 읽는 시간을 확인할 수 있습니다.\n\n계정 설정에서이 옵션을 변경할 수 있습니다.";
+
+"profile.extended_metadata.header" = "메시지";
+
+// User Details
+"profile.details.title" = "세부 사항";
+"profile.details.guest" = "관광객";
+
+"profile_view.accessibility.handle" = "아이디";
+"profile_view.accessibility.name" = "이름";
+"profile_view.accessibility.team_name" = "팀 이름";
+
+// Device list
+"profile.devices.title" = "기기";
+"profile.devices.fingerprint_message_unencrypted" = "%@이전 버전의 Secret을 사용하여 기기를 표시 할 수 없습니다.";
+"profile.devices.fingerprint_message.title" = "Secret는 각 기기에게 고유 한 지문을 설정합니다.%@님은 비교하여 채팅방을 검증하세요.";
+"profile.devices.fingerprint_message.link" = "왜 대화를 확인해야합니까?";
+
+// Device detail
+"profile.devices.detail.verify_message" = "%@기기의 기기지문을 인증";
+"profile.devices.detail.verify_message.link" = "어떻게해야합니까?";
+"profile.devices.detail.show_my_device.title" = "기기 지문 표시";
+"profile.devices.detail.reset_session.title" = "Session 재설정";
+"device.verified" = "인증";
+"device.not_verified" = "확인하지 않음";
+
+
+"device.class.legalhold" = "증거 보존";
+"device.class.desktop" = "데스크탑";
+"device.class.tablet" = "태블릿 PC";
+"device.class.phone" = "전화";
+"device.class.unknown" = "미지";
+
+"device.type.permanent" = "Permanent";
+"device.type.temporary" = "Temporary";
+"device.type.legalhold" = "증거 보존";
+"device.type.unknown" = "미지";
+
+
+// Bot
+"participants.services.remove_integration.button" = "서비스 제거";
+
+// Group details
+
+"group_details.guest_options_cell.title" = "관광객 옵션";
+
+"group_details.guest_options_cell.enabled" = "열기";
+"group_details.guest_options_cell.disabled" = "끔";
+"group_details.timeout_options_cell.title" = "읽은 후 사리짐";
+"group_details.notification_options_cell.title" = "알림";
+"group_details.notification_options_cell.description" = "회원님은 모든 내용에 관련한 알림을 받을 수 있습니다(오디오 및 영상통화를 포함).또는 누군가 회원님을 @하거나 회원님의 메시지에 답장을 하였을 경우 알림음 받을 수 있습니다.";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Legal hold subjects";
+"legalhold.header.title" = "증거 보존";
+"legalhold.header.other_description" = "이 대화에서 한 명 이상이 증거 보존을 활성화했습니다.\n편집, 삭제 및 '읽은 후 사라짐'메시지를 포함하여 나중에 액세스 할 수 있도록 모든 메시지가 저장됩니다.";
+"legalhold.header.self_description" = "회원님의 계정에 대한 증거 보존이 설정되어 있습니다.\n편집, 삭제 및 '읽은 후 사라짐'메시지를 포함하여 나중에 액세스 할 수 있도록 모든 메시지가 저장됩니다.\n회원님의 대화가 미리 알릴것입니다.";
+"legalhold.accessibility" = "증거 보존 세부 사항";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "계정";
+"self.profile" = "사용자 정보";
+"self.account" = "계정";
+"self.help_center" = "도움말";
+"self.help_center.support_website" = "Secret帮助网站";
+"self.help_center.contact_support" = "고객 서비스에 문의하세요";
+"self.about" = "Secret 관하여";
+"self.sign_out" = "로그 아웃";
+"self.report_abuse" = "보고서 악용";
+"self.voiceover.label" = "사용자 정보";
+"self.voiceover.hint" = "데이터를 열고 설정함";
+"self.new-device.voiceover.label" = "추가 된 재료 및 새로운 기기";
+
+"self.profile.change_user_image.accessibility" = "클릭하여 프로필 사진을 변경하기";
+
+"self.add_phone_number" = "전화번호 추가";
+"self.add_email_password" = "이메일 주소와 비밀번호를 추가";
+
+"self.accessibility.profile_photo_image" = "Profile picture";
+"self.accessibility.profile_photo_edit_button" = "Change profile picture";
+
+// About screen
+"about.tos.title" = "이용 약관";
+"about.privacy.title" = "개인 정보 처리 방침";
+"about.license.title" = "인증 정보";
+"about.website.title" = "홈페이지";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "세부 정보";
+
+"about.license.open_project_button" = "View Project Page";
+"about.license.license_header" = "사례";
+
+
+// Self new devices
+"self.new_device_alert.title" = "회원님의 계정은 아래 기기에 사용됩니다：";
+"self.new_device_alert.message" = "%@\n\n해당 기기를 승인하지 않으면 이 기기를 제거하고 비밀번호를 재설정하십시오.";
+"self.new_device_alert.message_plural" = "\n%@\n\n해당 기기를 승인하지 않으면 이 기기를 제거하고 비밀번호를 재설정하십시오.";
+"self.new_device_alert.manage_devices" = "기기 관리";
+"self.new_device_alert.trust_devices" = "예";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "您已启用已读回执";
+"self.read_receipts_disabled.title" = "您已禁用已读回执";
+"self.read_receipts_description.title" = "You can change this option in your account settings.";
+
+// Settings - top level
+"self.settings.create_team.title" = "팀 만들기";
+"self.settings.manage_team.title" = "팀을 관리";
+"self.settings.add_team_or_account.title" = "계정 추가";
+"self.settings.add_account.title" = "계정 추가";
+
+"self.settings.add_account.error.title" = "세 계정을 활성화함";
+"self.settings.add_account.error.message" = "동시에 3개의 계정을 로그인 할 수 있습니다. 새 계정을 추가할려면 임의의 계정을 로그 아웃하십시오.";
+
+"self.settings.switch_account.message" = "이 계정에 진행 중인 통화가 있습니다.\n계정을 전환하면 전화가 중단됩니다.";
+"self.settings.switch_account.action" = "여전히 전환하기";
+"self.settings.delete_account.tips" = "이 계정에서 로그 아웃하겠습니까?";
+
+// Settings - Account details
+"self.settings.account_section" = "계정";
+
+"self.settings.account_details_group.info.title" = "개인 정보";
+"self.settings.account_details_group.personal.title" = "개인 정보";
+
+"self.settings.account_section.name.title" = "이름";
+"self.settings.account_section.email.title" = "이메일 주소";
+"self.settings.account_section.phone.title" = "전화번호";
+"self.settings.account_section.handle.title" = "아이디";
+"self.settings.account_section.add_handle.title" = "아이디 추가";
+
+"self.settings.account_details_group.info.footer" = "다른 사용자는 이 정보를 통하여 회원님을 찾을 수 있습니다.";
+"self.settings.account_details_group.personal.footer" = "이 메시지는 표시되지 않을것입니다.";
+
+"self.settings.account_details.remove_device.title" = "기기 삭제";
+"self.settings.account_details.key_fingerprint.title" = "지문 식별";
+"self.settings.account_details.remove_device.message" = "비밀번호를 입력하여 기기삭제를 확인해주세요";
+"self.settings.account_details.remove_device.password" = "비밀번호";
+"self.settings.account_details.remove_device.password.error" = "잘못된 비밀번호";
+
+"self.settings.account_appearance_group.title" = "외관";
+
+"self.settings.privacy_section_group.title" = "프라이버시 설정";
+"self.settings.enable_read_receipts.title" = "판독 수령증을 수신";
+"self.settings.privacy_section_group.subtitle" = "끄면,회원님은 대화 상대의 읽음 제시를 받지 않을것입니다.이 설정은 그룹에 응용되지 않을것입니다";
+
+"self.settings.account_picture_group.picture" = "프로필 사진";
+"self.settings.account_picture_group.color" = "테마";
+
+
+"self.settings.account_personal_information_group.title" = "개인 정보";
+
+
+"self.settings.account_picture_group.theme" = "어두운 테마";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret은 기기마다 고정된 지문을 설정하였습나다.지문 비교를 통해 회원님의 기기와 그룹을 인증할수 있습니다.";
+"self.settings.device_details.reset_session.subtitle" = "기기 지문 일치하지 않을때 Sessionl을 재설정하어 새로운 키를 생성해 주세요.";
+"self.settings.device_details.remove_device.subtitle" = "회원님이 해당 기기를 사용하지 않을 겨우 이 기기를 제거해 주세요.즉시 해당 기기에서 로그아웃할 것입다.";
+"self.settings.device_details.reset_session.success" = "Session 이미 재설정 됨";
+
+"self.settings.account_details.actions.title" = "액션";
+
+"self.settings.account_details.delete_account.title" = "계좌 삭제";
+
+"self.settings.account_details.delete_account.alert.title" = "계좌 삭제";
+"self.settings.account_details.delete_account.alert.message" = "이메일 또는 SMS를 통해 링크를 보내드립니다. 계정을 완전히 삭제하려면 링크를 클릭하십시오.";
+
+"self.settings.account_details.log_out.alert.title" = "로그아웃";
+"self.settings.account_details.log_out.alert.message" = "회원님의 대화 기록이 이 기기에서 삭제됩니다";
+"self.settings.account_details.log_out.alert.password" = "비밀번호";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "사용 및 충돌 보고서";
+"self.settings.privacy_analytics.title" = "익명의 데이터 보내기";
+"self.settings.privacy_analytics_menu.description.title" = "Secret을 개선시키기 위해 익명의 사용기록 및 충돌 보고서를 보냅니다.";
+
+"self.settings.receiveNews_and_offers.title" = "뉴스를 접수하기";
+"self.settings.receiveNews_and_offers.description.title" = "Secret에서 뉴스 및 제품 업데이트 이메일을받습니다.";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "아이디";
+"self.settings.account_section.handle.change.save" = "저장";
+"self.settings.account_section.handle.change.footer" = "최소 2개 문자，a—z, 0—9및밑줄만 사용합수 있습니다.";
+"self.settings.account_section.handle.change.footer.unavailable" = "이미 점령함";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "아이디를 설정할 수 없습니다";
+"self.settings.account_section.handle.change.failure_alert.message" = "아이다 설정하는데 오류가 발생했습니다.다시 시도해 주세요.";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "이메일";
+"self.settings.account_section.email.change.save" = "저장";
+
+"self.settings.account_section.email.change.verify.title" = "이메일 주소를 검증";
+"self.settings.account_section.email.change.verify.description" = "检查您的电子邮箱收件箱并按照说明进行操作。";
+"self.settings.account_section.email.change.verify.resend" = "%@에 다시 발송해 주세요";
+
+"self.settings.account_section.email.change.resend.title" = "이메일 다시 받기";
+"self.settings.account_section.email.change.resend.message" = "%@에 전송했는지 확인해 주세요. 받은 메일을 확인하고 지침을 따르십시오.";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "전화번호";
+"self.settings.account_section.phone_number.change.save" = "저장";
+"self.settings.account_section.phone_number.change.remove" = "전화번호 제거";
+
+"self.settings.account_section.phone_number.change.remove.action" = "전화번호 제거";
+
+"self.settings.account_section.phone_number.change.verify.save" = "저장";
+"self.settings.account_section.phone_number.change.verify.title" = "인증";
+"self.settings.account_section.phone_number.change.verify.description" = " %@ 에 안내받은 인증번호를 입력해주세요.";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "인증번호 입력";
+"self.settings.account_section.phone_number.change.verify.resend" = "인증번호 다시 받기";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "인증번호를 받지 못했습니까?\30 초마다 다시 얻을 수 있습니다.";
+
+"self.settings.account_section.phone_number.change.resend.title" = "인증번호가 재전송되었습니다";
+"self.settings.account_section.phone_number.change.resend.message" = "인증번호를%@。에 재전송";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "알림";
+"self.settings.notifications.push_notification.toogle" = "알림 메시지 미리 보기";
+"self.settings.notifications.push_notification.footer" = "발신자 이름 및 정보 컨텐츠는 화면 잠금 인터페이스 및 알림 센터에 표시됩니다.";
+
+"self.settings.notifications.chat_alerts.toggle" = "메시지 바";
+"self.settings.notifications.chat_alerts.footer" = "기타 메기지에서 온 새 메시지.";
+
+"self.settings.sound_menu.sounds.title" = "음향 효과";
+"self.settings.sound_menu.ringtone.title" = "벨소리";
+"self.settings.sound_menu.message.title" = "메시지 소리";
+"self.settings.sound_menu.ping.title" = "인사";
+"self.settings.sound_menu.ringtones.title" = "벨소리";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "없음";
+
+"self.settings.callkit.title" = "통화";
+"self.settings.callkit.caption" = "iOS와 공유";
+"self.settings.callkit.description" = "Secret의 발신자 정보는 잠금 화면 인터페이스와 통화 로그에 표시됩니다. iCloud를 시작한 경우 통화 내역도 Apple 서버와 동기화됩니다.";
+
+"self.settings.vbr.title" = "가변 비트 레이트 코딩";
+"self.settings.vbr.description" = "데이터가 적고 속도가 느린 네트워크에서 더 잘 작동하는 음성 통화. 고정 인코딩 사용을 해제하십시오.";
+
+"self.settings.sound_menu.sounds.wire_call" = "Secret 통화";
+"self.settings.sound_menu.sounds.wire_message" = "Secret 메세지";
+"self.settings.sound_menu.sounds.wire_ping" = "Secret 인사";
+
+// By popular demand
+"self.settings.popular_demand.title" = "권장 옵션";
+"self.settings.popular_demand.send_button.title" = "보내기 버튼";
+"self.settings.popular_demand.send_button.footer" = "시스템 키보드 캐리지 리턴 메시지 기능을 끕니다.";
+"self.settings.popular_demand.dark_mode.footer" = "Switch between dark and light theme.";
+
+// Open in
+"self.settings.external_apps.header" = "열기";
+
+"self.settings.link_options.twitter.title" = "Tweets";
+"self.settings.link_options.maps.title" = "위치";
+"self.settings.link_options.browser.title" = "브라우저";
+
+"open_link.twitter.option.default" = "Browser / Twitter";
+"open_link.twitter.option.tweetbot" = "Tweetbot";
+"open_link.twitter.option.twitterrific" = "Twitterrific";
+
+"open_link.maps.option.apple" = "지도";
+"open_link.maps.option.google" = "Google지도";
+"open_link.maps.footer" = "일부 위치 링크는 기본적으로 Apple Maps를 사용합니다.。";
+
+"open_link.browser.option.safari" = "Safari";
+"open_link.browser.option.chrome" = "Chrome";
+"open_link.browser.option.firefox" = "Firefox";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "음향 효과 알림";
+"self.settings.sound_menu.no_sounds.title" = "없음";
+"self.settings.sound_menu.all_sounds.title" = "전부";
+"self.settings.sound_menu.mute_while_talking.title" = "첫 메시지 또는 인사말";
+
+// Developer options
+"self.settings.developer_options.title" = "개발자 옵션";
+"self.settings.apns_logging.title" = "APNS기록";
+
+// Dark Mode
+"self.settings.dark_mode.title" = "블랙 모드";
+"self.settings.dark_mode.manual.title" = "수동";
+"self.settings.dark_mode.state_system.title" = "시스템 따라가기";
+"self.settings.dark_mode.state_system.desc" = "이것을 선택하면 어두운 색 모드가 켜지거나 꺼집니다";
+"self.settings.dark_mode.state_dark.title" = "어두운 색 모드";
+"self.settings.dark_mode.state_light.title" = "일반 모드";
+
+// Language
+"self.settings.language.title" = "언어";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "메시지 알림";
+
+"self.settings.privacy_contacts_section.title" = "연락처";
+"self.settings.privacy_contacts_menu.settings_button.title" = "연락처 설정 열기";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "친구를 찾는 데 도움이됩니다. 당사는 귀하의 모든 정보를 익명으로 취급하며 제3자에게 공개하지 않습니다.请설치 > 개인 정보 보호 > 연락처로 액세스 권한을 허용합니다.";
+
+"self.settings.privacy_security.lock_app" = "Passcode를 통해 잠금";
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "10초 후 백그라운드에서 Secret을(를) 잠금";
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "Touch ID를 사용하여 잠금 해제하거나 비밀번호룰 입력하세요.";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "使用Face ID잠금 해제 또는 비밀번호를 입력하세요.";
+"self.settings.privacy_security.lock_app.subtitle.none" = "비밀번허를 입력하여 해제 잠금";
+
+"self.settings.privacy_security.lock_app.description" = "Secret해제";
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Unlock Secret with Face ID or Passcode";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "Touch ID또는Passcode을(를) 통하여 해제";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Unlock Secret with Passcode";
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "To unlock Secret, turn on Passcode in your device settings";
+"self.settings.privacy_security.lock_cancelled.action" = "해제";
+
+"self.settings.privacy_security.disable_link_previews.title" = "링크 미리보기 만들기";
+"self.settings.privacy_security.disable_link_previews.footer" = "여전히 다른 사람의 링크에 대한 미리보기를 표시합니다";
+
+"self.settings.privacy_analytics_menu.devices.title" = "기기";
+
+"self.settings.privacy.clear_history.title" = "대화 기록을 삭제";
+"self.settings.privacy.clear_history.subtitle" = "모든 대화가 영구적으로 삭제됩니다.";
+
+"self.settings.advanced.title" = "고급";
+"self.settings.advanced.troubleshooting.title" = "문제 해결";
+"self.settings.advanced.troubleshooting.submit_debug.title" = "디버그 보고서";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "이 정보는 Secret이 통화 중에 발생한 문제를 식별하는데 도움이됩니다.";
+"self.settings.advanced.reset_push_token.title" = "정보 푸시 알림의 토큰을 재설정";
+"self.settings.advanced.reset_push_token.subtitle" = "정보 푸시 문제가 발생할 시 Secret은 토큰을 재설정하기로 건의합니다.";
+"self.settings.advanced.reset_push_token_alert.title" = "정보 푸시Token재설정됨";
+"self.settings.advanced.reset_push_token_alert.message" = "메시지 알림은 몇 초 안에 복구됩니다.";
+"self.settings.advanced.version_technical_details.title" = "버전 및 기술 정보";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "데이터 라이센스";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "기술 보고서";
+"self.settings.technical_report.send_report" = "Secret";
+"self.settings.technical_report.mail.subject" = "Secret저널 보고서";
+"self.settings.technical_report.include_log" = "상세한 저널 포함";
+"self.settings.technical_report.privacy_warning" = "상세 저널에는 개인 데이터가 포함됩니다";
+"self.settings.technical_report.no_mail_alert" = "이메일이 없습니다. \"확인\"버튼을 클릭하고 수동으로 저널을 보내기：";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "비밀번호 재설정";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "연락처를 요청";
+
+// History backup
+
+
+"self.settings.conversations.title" = "역사 기록";
+"self.settings.history_backup.title" = "대화 백업";
+"self.settings.history_backup.description" = "대화 기록을 보존하려면 백업하십시오. 분실하거나 새 기기로 전환 할 경우 이 보존한 기록을 사용할 수 있습니다.\n\n백업 파일을 보호하기 위해 강력한 암호를 선택하십시오.";
+"self.settings.history_backup.action" = "즉시 백업";
+"self.settings.history_backup.error.title" = "오류";
+
+"self.settings.history_backup.set_email.title" = "이메일과 비밀번호를 설정하십시오.";
+"self.settings.history_backup.set_email.message" = "대화 기록을 백업하려면 이메일과 비밀번호가 필요합니다. 「설정」의 「계정」 탭에서이 작업을 수행 할 수 있습니다.";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "비밀번호 설정";
+"self.settings.history_backup.password.cancel" = "취소";
+"self.settings.history_backup.password.next" = "다음";
+"self.settings.history_backup.password.placeholder" = "8자 이상";
+"self.settings.history_backup.password.description" = "입력 한 비밀번호로 백업을 압축 및 암호화합니다.";
+
+
+"self.settings.contact.title" = "문의하기";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "네트워크가 없습니다.";
+"system_status_bar.no_internet.explanation" = "네트워크 연결이 오류가 발생하였습니다.네트워크 연결을 확보해 주세오. ";
+"system_status_bar.poor_connectivity.title" = "네트워크 속도가 느려서 전화를 걸 수 없습니다.";
+"system_status_bar.poor_connectivity.explanation" = "음성 통화의 품질을 보장 ​​할 수 없습니다. Wi-Fi에 연결하거나 연결 위치를 변경하십시오.";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "닉 네임";
+"name.guidance.tooshort" = "2자 이상";
+"name.guidance.toolong" = "글자 수 한도 초과";
+
+"email.placeholder" = "이메일 주소";
+"email.guidance.invalid" = "잘못된 이메일 주소";
+"email.guidance.tooshort" = "이메일 주소가 너무 짧습니다";
+"email.guidance.toolong" = "글자 수 한도 초과";
+
+"password.placeholder" = "비밀번호";
+"password.guidance.toolong" = "글자 수 한도 초과";
+
+"phone.guidance.invalid" = "잘못돤 전화번호";
+"phone.guidance.tooshort" = "Phone number is too short";
+"phone.guidance.toolong" = "글자 수 한도 초과";
+
+// Landing screen
+
+"landing.app_name" = "Secret";
+"landing.create_account.title" = "개인정보";
+"landing.create_account.subtitle" = "Chat privately with groups of friends\U00A0and\U00A0family";
+"landing.create_team.title" = "프로페셔널 에디션";
+"landing.create_team.subtitle" = "Secure collaboration for businesses, institutions and professional\U00A0organizations";
+"landing.login.hints" = "이미 계정이 있으신가요？";
+"landing.login.button.title" = "로그인";
+
+"landing.custom_backend.title" = "Connected to \"%@\"";
+"landing.custom_backend.more_info.button.title" = "더보기";
+"landing.custom_backend.more_info.alert.title" = " 타사 서버에 연결: %@";
+
+// Create team
+
+"team.name.headline" = "팀 이름을 만들기";
+"team.name.subheadline" = "나중에 변경할 수 있습니다.";
+"team.name.textfield.placeholder" = "팀 이름";
+"team.name.textfield.accessibility" = "팀 이름을 만들기";
+
+"team.name.whatiswireforteams" = "Secret Pro 란？";
+
+
+"team.email.headline" = "회원님의 계젱";
+"team.email.subheadline" = "직장 이메일 주소를 입력하십시오.";
+"team.email.textfield.placeholder" = "회사의 이메일 주소";
+"team.email.button.learn_more" = "더 알아보기";
+
+"team.activation_code.headline" = "새 메일이 있습니다";
+"team.phone_activation_code.headline" = "검색";
+"team.activation_code.subheadline" = "%@ 에 발송한 인증번호를 입력해 주세요";
+"team.activation_code.button.resend" = "인증번호 다시 전송해 주세요";
+"team.activation_code.button.change_email" = "이메일 주소 변경하기";
+"team.activation_code.button.change_phone" = "전화번호 변경하기";
+
+"team.full_name.headline" = "이름";
+"team.full_name.textfield.placeholder" = "풀네임";
+"team.full_name.textfield.accessibility" = "设닉네임을  설정하십시오";
+
+"team.password.headline" = "비밀번호 설정";
+
+"verification.code_label" = "여섯 자리 코드.텍스트 필드.";
+"verification.code_hint" = "이중 클릭하여 비밀번호를 입력하기";
+
+// Invite Team Members
+
+"team.invite.header.title" = "그룹 만들기";
+"team.invite.header.subtitle" = "회원님의 Wire팀이 준비되었습니다.동료를 멤버로 초대하십시오.";
+"team.invite.textfield.placeholder" = "동료의 이메일 주소";
+"team.invite.textfield.accesibility" = "초대하려는 동료의 이메일 주소를 입력하십시오";
+"team.invite.learn_more.title" = "세부 사항";
+"team.invite.top_bar.skip" = "건너 뛰기";
+"team.invite.top_bar.done" = "완료";
+
+// Team Invite Errors
+"team.invite.error.generic" = "오류가 발생했습니다，다시 시도해주세요";
+"team.invite.error.already_registered" = "이 이메일 주소는 이미 사용 중입니다";
+"team.invite.error.already_invited" = "해당 이메일에 초대장을 발송하였습니다";
+"team.invite.error.too_many_invitations" = "최대 초대 횟수 상한에 이르기";
+"team.invite.error.no_internet" = "인터넷 신호가 없습니다";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "허용 된 방문객 및 서비스";
+"guest_room.allow_guests.subtitle" = "해당 대화를 팀 외부의 서비스 및 사람들에게 공개하기";
+"guest_room.remove_guests.message" = "현재 대화의 방문객 및 서비스가 지워지고 새 방문객 및 서비스도 추가되지 않을것입니다.";
+"guest_room.remove_guests.action" = "제거";
+"guest_room.revoke_link.message" = "새 방문객은 이 링크에 참여할 수 없습니다. 현재의 방문객들은 여전히 ​​이용 가능합니다.";
+"guest_room.revoke_link.action" = "연결 취소";
+
+"guest_room.error.generic.title" = "오류가 발생한 것 같습니다.";
+"guest_room.error.generic.message" = "연결을 확인하고 다시 시도하십시오";
+
+"guest_room.link.header.title" = "링크로 친구를 초대";
+"guest_room.link.header.subtitle" = "Secret이 설치되어 있지 않더라도 링크만 있으면 대화에 참여할 수 있습니다.";
+
+"guest_room.link.button.title" = "링크 만들기";
+
+"guest_room.actions.copy_link" = "링크 복사하기";
+"guest_room.actions.copied_link" = "링크를 복사함！";
+"guest_room.actions.share_link" = "링크를 공유하기";
+"guest_room.actions.revoke_link" = "링크를 취소…";
+
+"guest_room.share.message" = "나를 Secret대화에 초대:\n%@";
+
+"guest_room.expiration.hours_left" = "%@시간 남음";
+"guest_room.expiration.less_than_minutes_left" = "%@분 미만 남음";
+
+// Registration
+
+"registration.launch_back_button.label" = "뒤로";
+
+"registration.title" = "회원 가입";
+"registration.close_email_invitation_button.email_title" = "가타 이메일 주소를 사용하기";
+"registration.close_email_invitation_button.phone_title" = "전화번호로  회원 가입하기";
+"registration.close_phone_invitation_button.email_title" = "이메일로  회원 가입하기";
+"registration.close_phone_invitation_button.phone_title" = "기타 휴대 폰을 사용하기";
+
+"registration.register_by_phone" = "전화번호";
+
+"registration.register_by_email" = "이메일";
+
+"registration.enter_phone_number.title" = "전화번호를 편집";
+"registration.enter_phone_number.placeholder" = "전화번호";
+
+"registration.verify_phone_number.instructions" = "%@에 전송한 인증번호를 입력하세요";
+"registration.verify_phone_number.resend" = "다시 보내기";
+"registration.verify_phone_number.resend_placeholder" = "인증번호를 받지 못하셨나요？\n그리고 여러분은 %.0f 초후에 다시 시도해 주세요";
+
+"registration.verify_email.instructions" = "%@。에 이메일을 발송했습니다,주소 링크를 확인하십시오.";
+"registration.verify_email.resend.instructions" = "인증번호를 받지 못하셨나요？";
+"registration.verify_email.resend.button_title" = "다시 보내기";
+
+"registration.select_picture.subtitle" = "SecretSecret이 회원님의 프로필 사진이 있으면 더 멋집니다.";
+"registration.select_picture.button_title" = "홀로 선택";
+"registration.keep_picture.button_title" = "사전 설정한 이름을 사용";
+"registration.camera_action.title" = "사진 찍기";
+"registration.photo_gallery_action.title" = "사진 선택";
+"registration.cancel_action.title" = "취소";
+
+"registration.no_history.hero" = "이는 회원님이 해당 기기에서 Secret을 처음 사용하는 것입니다.";
+"registration.no_history.subtitle" = "개인 정보 보호를 기반하여 회원님의 채팅 기록이 표시되지 않을것입니다.";
+"registration.no_history.got_it" = "예";
+"registration.no_history.restore_backup" = "백업에서 복구";
+
+
+"registration.alert.account_exists.title" = "계정이 이미 존재합니다";
+"registration.alert.account_exists.message_phone" = "해당 전화번호는 이미 기타 계정과 연결되어 있습니다.\n\n기타 이메일 전화번호로 로그인하거나 해당 계정이 본인 계정일 경우 로그인하십시오.";
+"registration.alert.account_exists.message_email" = "해당 이메일 주소는 이미 기타 계정과 연결되어 있습니다.\n\n기타 이메일 주소로 로그인하거나 해당 계정이 본인 계정일 경우 로그인하십시오.";
+"registration.alert.change_email_action" = "다른 이메일로 회원 가입하기";
+"registration.alert.change_phone_action" = "다른 전호번호로 회원 가입 하기";
+"registration.alert.change_signin_action" = "로그인";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "이력 복구";
+"registration.no_history.restore_backup_warning.message" = "백업 내용이 해당 기기의 대화 기록을 대체합니다.\n백업 된 동일한 플랫폼에서만 히스토리를 복원 할 수 있습니다.";
+"registration.no_history.restore_backup_warning.proceed" = "백업할 파일을 선택하십시오";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "다시 시도";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "오류가 발생한것 같습니다.";
+
+"registration.no_history.restore_backup_failed.message" = "기록을 복구 할 수 없습니다.";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "호환되지 않는 백업";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "다른 계정의 기록을 복구 할 수 없습니다.";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "호환되지 않는 백업";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "해당 백업은 최신 버전 또는 오래된 Wire에서 생성되었으니 여기서 복구 할 수 없습니다.";
+
+// SSO – Company Login
+"login.sso.alert.title" = "회사 로그인";
+"login.sso.alert.message" = "회사 SSO 액세스 코드를 입력하십시오.";
+"login.sso.alert.action" = "로그인";
+"login.sso.alert.text_field.placeholder" = "SSO 액세스 코드";
+
+"login.sso.start_error_title" = "회사 로그인을 활성화할 수 없습니다";
+"login.sso.link_error_message" = "클릭 한 회사 로그인 링크가 유효하지 않습니다. 문제를 해결하려면 관리자에게 문의하십시오.。";
+
+"login.sso.error.alert.title" = "好오류가 발생한것 같습니다.";
+"login.sso.error.alert.invalid_code.title" = "잘못된 코드입니다.";
+"login.sso.error.alert.invalid_code.message" = "회사 SSO 액세스 코드를 확인한 후 다시 시도하십시오.";
+"login.sso.error.offline.alert.message" = "네트워크 연결을 확인하고 다시 시도하십시오";
+"login.sso.error.alert.message" = "세부 사항은 팀 관리자에게 문의하십시오 (오류 %@)。";
+"login.sso.error.alert.unknown.message" = "잠시후 다시 시도해주세요.";
+"login.sso.error.alert.invalid_status.message" = "잠시후 다시 시도해 주세요 (오류 %@)。";
+
+// Restore In Progress Loading Titles
+
+"registration.no_history.restore_backup.restoring" = "복구 중…";
+"registration.no_history.restore_backup.completed" = "완료";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "이 백업은 비밀번호에 의해 보호됩니다.";
+"registration.no_history.restore_backup.password.message" = "백업을 복구하려면 비밀번호가 필요합니다.";
+"registration.no_history.restore_backup.password.placeholder" = "비밀번호";
+"registration.no_history.restore_backup.password_error.title" = "잘못된 비밀번호";
+
+"registration.no_history.logged_out.hero" = "이 기기에서 Secret을 사용한적 있습니다.";
+"registration.no_history.logged_out.subtitle" = "이 동안 발송 된 메시지는 표시되지 않습니다.";
+"registration.no_history.logged_out.got_it" = "예";
+
+"registration.enter_name.title" = "이름을 편집";
+"registration.enter_name.hero" = "어떻게 불으시면 좋겠습니까？";
+"registration.enter_name.placeholder" = "닉네임";
+
+"registration.terms_of_use.title" = "에 오신 것을 환영합니다.";
+"registration.terms_of_use.terms" = "继续下一步表示您同意Secret的使用条款。";
+"registration.terms_of_use.terms.link" = "이용 약관";
+"registration.terms_of_use.agree" = "동의";
+
+"registration.terms_of_use.terms.title" = "이용 약관";
+"registration.terms_of_use.terms.message" = "계속하려면 서비스 약관에 동의하십시오.";
+"registration.terms_of_use.terms.view" = "보기";
+"registration.terms_of_use.accept" = "동의";
+
+"registration.email_flow.title" = "이메일 주소로 회원 가입 하기";
+"registration.email_flow.email_step.title" = "세부 사항 편집";
+
+"registration.country_select.title" = "국가";
+
+"registration.share_contacts.hero.title" = "Secret에서 친구 찾기";
+"registration.share_contacts.hero.paragraph" = "연락처를 공유하여 친구를 찾으십시오. 당사는 귀하의 정보를 익명으로 취급하며 제3자에게 공개하지 않습니다.";
+"registration.share_contacts.find_friends_button.title" = "연럭처 공유";
+"registration.share_contacts.skip_button.title" = "건너 뛰기";
+
+"registration.address_book_access_denied.hero.title" = "Secret이 주소록 접근 권한이 허용되지 않았습니다.";
+"registration.address_book_access_denied.hero.paragraph1" = "회원님이 주소록을 공유할 시 Secret이 회원님을 친구를 찾는데 도움이 됩니다.";
+"registration.address_book_access_denied.hero.paragraph2" = "휴대 폰 「설정」에서 주소록 접근 권한을 허용해 주세요.";
+"registration.address_book_access_denied.settings_button.title" = "설정";
+"registration.address_book_access_denied.maybe_later_button.title" = "나중에 하기";
+
+"registration.push_access_denied.hero.title" = "수신통화나 메시지를 놓치지 마십시오.";
+"registration.push_access_denied.hero.paragraph1" = "휴대 폰의 「설정」에서 알림 메시지에 대한 액세스를 켭니다.";
+"registration.push_access_denied.settings_button.title" = "설정 열기";
+"registration.push_access_denied.maybe_later_button.title" = "나중에 하기";
+
+"registration.personal.title" = "새 계정";
+"registration.signin.title" = "로그인";
+
+"registration.signin.too_many_devices.title" = "기기가 너무 많음";
+
+"registration.signin.too_many_devices.subtitle" = "해당 기기를 사용할려면 다른 기기 중 하나를 제거하십시오.";
+"registration.signin.too_many_devices.manage_button.title" = "기기 관리";
+"registration.signin.too_many_devices.sign_out_button.title" = "로그아웃";
+
+"registration.signin.too_many_devices.manage_screen.title" = "기기를 제거";
+
+"registration.signin.alert.password_needed.title" = "비밀번호를 입력해야합니다";
+"registration.signin.alert.password_needed.message" = "비밀번호를 입력하여 로그인하십시오.";
+
+"registration.devices.title" = "기기";
+"registration.devices.active_list_header" = "다른 활성화 된 기기";
+"registration.devices.current_list_header" = "해당 기기";
+"registration.devices.active_list_subtitle" = "회원님이 이상의 기기를 식별하지 못할 경우 즉시 제거하고 비밀번호를 재설정 하세요.";
+
+"registration.devices.activated" = "%@을(를) 활성화";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "이메일로 로그인";
+"signin.use_phone.label" = "전화번호로 로그인";
+"signin.forgot_password" = "비밀번호를 잊으셨나요？";
+"signin.use_one_password.label" = "1Password 로 로그인";
+"signin.use_one_password.hint" = "이중 클릭하여 1Password 비밀번호를 입력하기";
+
+"signin.confirm" = "로그인";
+"signin.company_idp.button.title" = "회사 사용하기";
+
+"signin_logout.subheadline" = "Your session expired. You need to log in again to continue.";
+"signin_logout.email.subheadline" = "Your session expired. Enter your email address and password to continue.";
+"signin_logout.phone.subheadline" = "Your session expired. Enter your phone number to continue.";
+"signin_logout.sso.subheadline" = "Your session expired. Log in with your company account to continue.";
+"signin_logout.sso.buton" = "회사 로그인";
+
+"signin.email.missing_password.subtitle" = "Enter your email address and password to continue.";
+"signin.phone.missing_password.subtitle" = "Enter your phone number to continue.";
+
+"registration.phone_country" = "국가";
+"registration.phone_code" = "국가번호";
+
+"registration.phone_country.hint" = "Double tap to select another country.";
+"registration.phone_code.hint" = "Double tap to select another country code.";
+"registration.phone.verify.label" = "전화번호 검증";
+"registration.phone.verify_field.label" = "인증번호";
+
+
+"registration.add_phone_number.hero.title" = "전화번호 추가하기";
+"registration.add_phone_number.hero.paragraph" = "이는 회원님이 친구를 찾는데 도움이 될 것입니다. 당사는 귀하의 정보를 제3자에게 공개하지 않을것입니다.";
+"registration.add_phone_number.skip_button.title" = "건너 뛰기";
+
+
+"registration.add_email_password.hero.title" = "이메일과 비밀번호를 추가해 주세요";
+"registration.add_email_password.hero.paragraph" = "이를 통해 여러 기기에서 Wire를 사용할 수 있습니다";
+
+"registration.email_invitation.title" = "초대";
+"registration.email_invitation.hero.title" = "안녕하세요，%@";
+"registration.email_invitation.hero.paragraph" = "비밀번호를 택하여 계정을 만드십시오.";
+
+"registration.phone_invitation.title" = "초대";
+"registration.phone_invitation.hero.title" = "안녕하세요，%@";
+"registration.phone_invitation.hero.paragraph" = "계정을 만드는데 마지막 절차가 남았습니다.";
+
+"registration.confirm" = "회워 가입 하기";
+
+"registration.phone.country_code.hint" = "Double tap to use a phone number from this country.";
+
+
+"error.name_and_email" = "풀네임과 유효한 이메일 주소,비밀번호를 입력하십시오.";
+"error.full_name" = "닉 네임을 입력해 주세요";
+"error.email" = "유효한 이메일 주소를 입력해 주세요";
+"error.input.too_long" = "입력이 너무 깁니다";
+"error.input.too_short" = "입력이 너무 짧습니다";
+"error.email.invalid" = "유효한 이메일 주소를 입력해 주세요";
+"error.phone.invalid" = "유효한 전화번화를 입력해 주세요";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "Secret에서 고유 한 아이디를 설정하십시오.";
+"registration.select_handle.takeover.subtitle_link" = "더 많은 정보";
+
+"registration.select_handle.takeover.choose_own" = "다시 선택";
+"registration.select_handle.takeover.keep_suggested" = "使用当前";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "오류가 발생했습니다,잠시후 다시 시도해주세요";
+"error.user.needs_credentials" = "계정 또는 비밀번호가 오류 생김,다시 입력해 주세요";
+"error.user.invalid_credentials" = "계정 또는 비밀번호가 오류 생김,다시 입력해 주세요";
+"error.user.account_pending_activation" = "계정이 활성화되지 않았습니다.회원님의 정보를 확인하십시오.";
+"error.user.network_error" = "연결할 수 없음,네트워크 연결 상태를 확인한 후 다시 시도해 주세요.";
+"error.user.email_is_taken" = "입력하신 이메일 주소가 이미 사용 중입니다.다른 이메일 주소를 사용해보십시오.";
+"error.user.phone_is_taken" = "해당 전화번호는 이미 등록되어 있습니다. 다른 번호로 시도해보십시오.";
+"error.user.phone_code_invalid" = "유효한 인증번호를 입력해 주세요";
+"error.user.phone_code_too_many" = "SMS를 통해 인증번호를 보냈습니다. 인증번호를 다시 받으려면 10후에 다시 보내기를 클릭하십시오.";
+"error.user.registration_unknown_error" = "오류가 발생하였습니다,다시 시도해 주세요.";
+"error.user.device_deleted_remotely" = "회원님의 다른 기기가 로그아웃 되였습니다.";
+"error.user.last_identity_cant_be_deleted" = "이메일 주소 또는 전화번호는 필수 항목입니다";
+"error.user.account_suspended" = "이 계정은 더 이상 로그인 권한이 없습니다";
+"error.user.account_limit_reached" = "최대로 3개 계정을 추가할 수 있습니다.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "비밀번호를 업데이트 할수 없습니다.";
+
+"error.group_call.too_many_members_in_conversation.title" = "그룹 통화 인원수를 초과하였습니다";
+"error.group_call.too_many_members_in_conversation" = "그룹 통화 기능 최대 %d 분을 지원할 수 있습니다";
+"error.group_call.too_many_participants_in_the_call.title" = "통화 인원수가 이미 찼다.";
+"error.group_call.too_many_participants_in_the_call" = "아직 %d 분만 수용학수 있습니다.";
+"error.call.gsm_ongoing.title" = "휴대 폰 통신";
+"error.call.gsm_ongoing" = "Secret으로 통화하기전에 휴대 폰으로 통화하는것을 종료해 주세요.";
+"error.call.general.title" = "통신실패";
+"error.call.general" = "몇 분 뒤에 다시 시도해 주십시오.";
+"error.call.slow_connection.title" = "연결 속도가 느림";
+"error.call.slow_connection" = "통화시 문제가 있을 수 있습니다";
+"error.call.slow_connection.call_anyway" = "계속 통화할 예젱입니다";
+
+"error.invite.no_email_provider" = "이메일로 초대장을 보낼 수 있도록 이메일 주소를 설정하십시오.";
+"error.invite.no_messaging_provider" = "SMS를 통해 초대장을 보낼 수 있도록 SMS 서비스를 설정하십시오.";
+
+"error.conversation.title" = "오류";
+"error.conversation.cannot_add" = "멤버 추가 실패";
+"error.conversation.cannot_remove" = "멤버 삭제 실패";
+"error.conversation.too_many_members" = "대화 인수가 상한선에 도달했습니다";
+"error.conversation.offline" = "인터넷 연결에 문제가 있는 것 같습니다. 네트워크 연결이상태를 확인해주세요.";
+
+"sketchpad.initial_hint" = "화필의 크기를 변경하려면 색상을 클릭하십시오";
+
+"migration.please_wait_message" = "잠시만 기다려주세요";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@님이 Secret에 가입 하였습니다";
+"push.notification.new_message" = "새 메시지";
+
+
+//Force Update
+"force.update.title" = "필요한 업데이트";
+"force.update.message" = "이와 같은 새로운 기능을 놓쳤습니다. App Store에서 Secre 최신 버전을 로드하세요.";
+"force.update.ok_button" = "App Store으로";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Jailbreak detected";
+"jailbrokendevice.alert.message" = "For security reasons, Wire can't be used on this device. Any existing Wire data has been erased.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · 출처 giphy.com";
+"giphy.conversation.random_message" = "출처 giphy.com";
+"giphy.error.no_more_results" = "gif 사진이 더 이상 없습니다.";
+"giphy.error.no_result" = "gif 사진을 찾을 수 없습니다.";
+
+"giphy.confirm" = "보내기";
+"giphy.cancel" = "취소";
+"giphy.search_placeholder" = "Giphy검색";
+
+"invite_banner.title" = "친구를 초대하여Secret에 가입해주세요！";
+"invite_banner.message" = "개인 또는 그룹 채팅방에서 대화하고 정보와 사진을 공유하십시오.";
+"invite_banner.invite_button_title" = "더 많은 사람들을 초대";
+
+// Collections
+"collections.section.images.title" = "사진";
+"collections.section.files.title" = "파일";
+"collections.section.videos.title" = "비디오";
+"collections.section.links.title" = "링크";
+"collections.section.all.button" = "전체 텍스트 %d →";
+"collections.section.no_items" = "저장소에는 아무 것도 없습니다.";
+"collections.image_viewer.copied.title" = "사진 복사 되엇음";
+
+"collections.search.field.placeholder" = "문서 메시지를 검색하기";
+"collections.search.no_items" = "찾지 못했습니다";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "짧은 메시지";
+"compose.drafts.empty.title" = "메시지 없음";
+"compose.drafts.empty.subtitle" = " + 를 클릭하여 새로 만들기";
+"compose.drafts.compose.title" = "메시지 입력하기";
+"compose.drafts.compose.subject.placeholder" = "클릭하여 테마를 설정하기";
+
+"compose.drafts.compose.delete.confirm.title" = "삭제를 확인";
+"compose.drafts.compose.delete.confirm.message" = "이 조작은 초고를 영구적으로 삭제하며 복구할 수 없습니다.";
+"compose.drafts.compose.delete.confirm.action.title" = "삭제";
+
+"compose.drafts.compose.dismiss.confirm.title" = "초고로 저장";
+"compose.drafts.compose.dismiss.confirm.action.title" = "저장";
+"compose.drafts.compose.dismiss.delete.action.title" = "삭제";
+
+"availability.message.cancel" = "취소";
+"availability.message.set_status" = "상태를 설정하기";
+"availability.accessibility_label.change_status" = "상태 변경하기";
+"availability.accessibility_label.status" = "상태";
+
+"availability.none" = "없음";
+"availability.available" = "온라인";
+"availability.away" = "나가기";
+"availability.busy" = "바쁨";
+"availability.available.placeholder" = "%@ 온라인";
+"availability.away.placeholder" = "%@ 나가기";
+"availability.busy.placeholder" = "%@ 바쁘고 있음";
+
+"availability.reminder.away.title" = "나감 상태로 섬정";
+"availability.reminder.away.message" = "다른 친구한테 나감으로 보여줄 것입니다. 전화 또는 메시지등 유형의 알림을 받지 않을것입나다.";
+"availability.reminder.busy.title" = "바쁨상태로 설정하였습니다";
+"availability.reminder.busy.message" = "You will appear as Busy to other people. You will only receive notifications for mentions, replies, and calls in conversations that are not muted.";
+"availability.reminder.available.title" = "온라인으로 설정함";
+"availability.reminder.available.message" = "You will appear as Available to other people. You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.none.title" = "상태가 설정되지 않았습니다";
+"availability.reminder.none.message" = "You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.action.dont_remind_me" = "다시 보지 않기";
+"availability.reminder.action.ok" = "예";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "통화 품질에 대해 피드백하기";
+"calling.quality_survey.question" = "통화의 품질에 평가해주십시오？";
+"calling.quality_survey.answer.1" = "糟透了";
+"calling.quality_survey.answer.2" = "차하다";
+"calling.quality_survey.answer.3" = "보통";
+"calling.quality_survey.answer.4" = "좋아요";
+"calling.quality_survey.answer.5" = "우수";
+"calling.quality_survey.skip_button_title" = "건너 뛰기";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "확인";
+
+"url_action.title" = "확인 URL 조작";
+"url_action.connect_to_bot.message" = "여전히 이 서버에 연결하시겠습니까？";
+
+
+"url_action.switch_backend.title" = "서버에 연결";
+"url_action.switch_backend.message" = "This configuration will connect the app to a third-party server:\n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Can’t switch servers";
+"url_action.switch_backend.error.logged_in" = "You are already logged in. To switch to this server, log out of all accounts and try again.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "서버가 응답하지 않습니다";
+"url_action.switch_backend.error.invalid_backend" = "Please check your internet connection, verify the link and try again.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret can't find this person.";
+"url_action.invalid_user.message" = "You may not have permission with this account or it no longer exists.";
+
+"url_action.invalid_conversation.title" = "Secret can't open this conversation.";
+"url_action.invalid_conversation.message" = "You may not have permission with this account or the person may not be on Wire.";
+
+"url_action.authorization_required.title" = "수권이 필요됩니다";
+"url_action.authorization_required.message" = "You need to log in to view this content.";
+
+"url_action.invalid_link.title" = "잘못된 링크.";
+"url_action.invalid_link.message" = "The link you opened is not valid.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+
+"news_offers.consent.title" = "Do you want to receive news and product updates from Wire via email?";
+"news_offers.consent.message" = "수시로 구독을 취소할 수 있습니다.";
+
+"news_offers.consent.button.privacy_policy.title" = "개인정보 처리방침";
+
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat" = "그룹 만들기";
+"conversation_list.popover.add_friend" = "친구 추가";
+"conversation_list.popover.scan"        = "QR 코드 스캔";
+"conversation_list.popover.startTempHouse"  = "회의 시작";
+"conversation.popover.detail.scan" = "쓸 야드";
+// MARK: - 서비스 메시지
+"conversation.app.notice.setting" = "서비스 알림 섬정";
+"conversation.app.notice.setting.reminder" = "메시지 알림 알림";
+
+
+// MARK: 
+"conversation.inviters.me_invite" = "보낸 신청";
+"conversation.inviters.invite_me" = "받은 신청";
+
+// MARK: - 
+"conversation_announcement.vc.edit_announcement" = "공지를 편집";
+"conversation_announcement.alert.no_announcement" = "이 그룹은 공지가 아직 없습니다";
+"conversation_announcement.hud.announcement_max_count" = "최대로250자를 입력해 주세요";
+
+// MARK: - 
+"message.disable" = "금언";
+"message.disable.you" = "회원님";
+"message.disable.creator" = "그룹 소유자";
+"message.disable.all.open" = "전원금언을 열기";
+"message.disable.all.close" = "전원금언을 끔";
+"message.disable.passivity" = "한테";
+"message.disable.manager" = "관리자";
+"message.disable.relieve" = "해제";
+
+// MARK: 
+"expression.add.title" = "이모티콘 추가";
+"expression.add" = "추가";
+"expression.added" = "추가";
+"expression.remove" = "없애다";
+"expression.send" = "이모티콘 보내기";
+"expression.check.album" = "앨범보기";
+"expression.favorite.add" = "즐겨 찾기에 추가";
+"expression.favorite.remove" = "즐겨 찾기 제거";
+"expression.cancel" = "취소";
+
+
+"message.disable.addfriend.open" = "그룹 멤버가 서로 친구를 추가하지 못하도록 설정";
+"message.disable.addfriend.close" = "'룹 멤버가 서로 친구를 추가하지 않도록 설정함'을 끔";
+
+
+"message.disable.messageVisible.open" = "다른 멤버에게 메시지가 보이지 않음을 열기";
+"message.disable.messageVisible.close" = "다른 멤버에게 메시지가 보이지 않음을 끔";
+
+
+"message.disable.enableEditMsg.open" = "열린 메시지는 편집 및 삭제할 수 있습니다.";
+"message.disable.enableEditMsg.close" = "닫기 메시지는 편집 및 삭제할 수 있습니다.";
+
+
+"message.disable.showMemsum.open" = "열기 전체 그룹 구성원 표시";
+"message.disable.showMemsum.close" = "닫기 전체 그룹 구성원 표시";
+
+
+"message.disable.allowViewMembers.open" = "열기 그룹 구성원 보기 허용";
+"message.disable.allowViewMembers.close" = "닫기 그룹 구성원 보기 허용";
+
+
+"message.disable.screenshot.open" = "스크린샷 알림이 활성화됨";
+"message.disable.screenshot.close" = "스크린샷 알림이 꺼져 있습니다";
+
+
+"login.email.title" = "이메일";
+"login.email.placeholder" = "이메일 주소";
+"login.email.password.title" = "비밀번호";
+"login.email.password.placeholder" = "비밀번호";
+"register.email.setname.title" = "성명";
+"register.email.setname.placeholder" = "성명";
+"register.email.setpassword.title" = "비밀번호";
+"register.email.setpassword.placeholder" = "비밀번호";
+"register.email.verifycode.title" = "인증번호";
+"register.email.verifycode.placeholder" = "인증번호";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "아무도 이 메시지를 좋아하지 않습니다.";
+"message_details.empty_read_receipts" = "No one has read this message yet.";
+"message_details.read_receipts_disabled" = "Read receipts were not on when this message was sent.";
+"message_details.combined_title" = "세부 사항";
+"message_details.likes_title" = "종아요";
+"message_details.receipts_title" = "읽음";
+"message_details.tabs.seen" = "읽음 (%d)";
+"message_details.tabs.likes" = "좋아요(%d)";
+"message_details.subtitle_send_date" = "보내기: %@";
+"message_details.subtitle_edit_date" = "편집함: %@";
+"message_details.subtitle_label_voiceOver" = "세부 사항";
+"message_details.user_handle_subtitle_label" = "아이디";
+"message_details.user_read_timestamp_subtitle_label" = "읽음";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+
+"registration.password.rules.no_requirements" = "Use %@.";
+// 기기 모델
+"self.settings.account_details.equipment_model.title" = "기기 모델";
+
+
+"registration.password.rules.no_requirements" = "사용 %@。";
+"registration.password.rules.with_requirements" = "Use %@, with %@.";
+
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "증거 보존이 비활성화되었습니다.";
+"legal_hold.deactivated.message" = "향후 정보는 기록되지 않습니다.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "증거 보존 모드에 처함";
+"share_extension.voiceover.conversation_secure" = "모든 사용자가 확인했습니다.";
+"share_extension.voiceover.conversation_secure_with_ignored" = "모든 사용자를 인증하지 않음.";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = " 대기 중。";
+"legalhold_request.alert.title" = "증거 보존을 신청하였스니다";
+"legalhold_request.alert.detail" = "이후의 모든 메시지는 기기에 의해 기록됩니다，지문：\n\n%@\n\n，이는 대화에서 편집 및 사라지는 메시지를 포함합니다.";
+"legalhold_request.alert.detail.enter_password" = "밀번호를 입력하여 확인해주십시오.";
+"legalhold_request.alert.error_wrong_password" = "잘못된 비밀번호";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "증거 보존을 활성화되하였습니다";
+"legalhold_active.alert.learn_more" = "더 알아보기";
+"legalhold_active.alert.message" = "회원님의 계정에 대한 증거 보존이 설정되어 있습니다.\n나중에 액세스 할 수 있도록 편집, 삭제 및 읽은후 사라지는 메시지를 포함한 모든 메시지가 저장됩니다.\n대화상대한테 알림을 보낼것입니다.";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "세션이 만료되었습니다";
+"account_deleted_session_expired_alert.message" = "앱이 오랫동안 서버와 통신하지 않아서 세션이 거부되었습니다.";
+
+
+"conversation.group.message.content.encrypted" = "단어와 통화는 모두 암호화됩니다.대화 외에 시크릿 앱을 포함한 다른 사람은 이를 읽거나 수신할 수 없습니다.";
+
+
+"conversation.group.report.title" = "신고";
+"conversation.group.report.chooseReason" = "해당 그룹을 신고할 이유를 택해 주세요";
+"conversation.group.report.reason.pornography" = "색정";
+"conversation.group.report.reason.illegalCrimes" = "위법 범죄 및 금지품";
+"conversation.group.report.reason.gambling" = "도박";
+"conversation.group.report.reason.politicalRumors" = "정치적 요언";
+"conversation.group.report.reason.terror" = "폭력 혈성";
+"conversation.group.report.reason.other" = "기타 규정 위반 내용";
+
+"conversation.group.report.describeReport" = "신고할 내용을 묘사해주세요";
+"conversation.group.report.clearlyDescribeReport" = "신고 이유를 더 상세하고 명확하게 묘사해 주세요";
+"conversation.group.report.uploadPic" = "사진을 올려 주세요（최소 1장）";
+"conversation.group.report.commitReport" = "신고 제출";
+"conversation.group.report.reportSuccess" = "신고 성공";
+"conversation.group.report.commitSuccess" = "제출 성공";
+"conversation.group.report.uploadPic.reUpload" = "다시 업로드 하기";
+
+"conversation.group.report.applyUnblocking" = "봉쇄 해제 신청";
+"conversation.group.report.applyUnblockingDesc" = "봉쇄 해제 신청 설명";
+
+"conversation.group.report.blockAlertTitle" = "사용자 신고로 인해 현재 그룹은 시스템에 의해 자동으로 봉쇄되었습니다. 그룹에 불법 콘텐츠가 없는 경우 그룹 소유자는 그룹 봉쇄 해제를 신청할 수 있습니다.";
+
+"conversation.group.report.response.error.512" = "회원님은 그룹 소유자가 아닙니다";
+"conversation.group.report.response.error.513" = "해당 그룹은 봉쇄 되지 않았습니다";
+"conversation.group.report.response.error.514" = "회원님은 해당 그룹에 가입하지 않음";
+"conversation.group.report.response.error.515" = "이미 항소했음";
+"conversation.group.report.response.error.516" = "이미 신고했음";
+
+"emojj.my.section" = "내 표현";
+"emojj.popular.title" = "인기있는 이모티콘";
+"emojj.setting.title" = "이모티콘 설정";

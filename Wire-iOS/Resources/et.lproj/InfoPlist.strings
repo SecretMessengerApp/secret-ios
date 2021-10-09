@@ -1,0 +1,11 @@
+
+"NSContactsUsageDescription" = "Allow Secret to access your contacts to connect you with others. We anonymize all information before uploading it to our server and do not share it with anyone else.";
+"NSMicrophoneUsageDescription" = "Luba Secret’le ligipääs oma mikrofonile, et saaksid teistega rääkida ja häälsõnumeid saata.";
+"NSLocationWhenInUseUsageDescription" = "Luba Secret’le ligipääs oma asukohale, et saaksid oma asukohta teistele saata.";
+"NSCameraUsageDescription" = "Luba Secret’le ligipääs oma kaamerale, et saaksid teha videokõnesid ja saata fotosid.";
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "Luba Secret’l salvestada pildistatud fotod sinu pildikogusse.";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Luba Secret’le ligipääs sinu pildikogus olevatele fotodele.";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "Audentimiseks luba Secret'e juurdepääs Face ID funktsioonile.";

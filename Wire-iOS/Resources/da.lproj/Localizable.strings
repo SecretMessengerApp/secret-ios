@@ -1,0 +1,1922 @@
+
+"conversation.groupinvite.invite" = "”%@“ wants to invite %@ friends to join group chat";
+"conversation.groupinvite.do" = "To confirm";
+"conversation.groupinvite.done" = "confirmed";
+"conversation.groupinvite.add.self" = "Invite %@ to join a group chat";
+"conversation.groupinvite.add.other" = "Invite you to join a group chat";
+"conversation.groupinvite.add.detial" = "%@ invites %@ to join %@ group, click to view details.";
+"conversation.groupinvite.statue" = "Group invitation information";
+"conversation.groupinvite.confirm.invite" = "Confirm invitation";
+"conversation.groupinvite.confirm.title" = "Be sure to join the group chat";
+"conversation.groupinvite.confirm.join" = "Join the group chat";
+"conversation.groupinvite.confirm.refuse" = "Refuse to join";
+"conversation.groupinvite.confirm.joined" = "Joined";
+"conversation.groupinvite.confirm.refused" = "Rejected";
+"conversation.group_invite.vc.nav.title" = "Invitation details ";
+"conversation.group_invite.vc.info.title" = "invite %d friends to join group chat";
+
+"network.restricted.tips" = "Your application has not yet been granted access to the network, go to the Settings center to open access!";
+"network.notreachable.tips" = "Go to setup center open network!";
+
+
+"photolibrary.permissions.shutdown.tips" = "Your application has not yet been granted access to the album, go to the Settings center to open access!";
+"photolibrary.unavailable.systemreason.tips" = "Unable to access the album for system reasons";
+
+
+"general.skip" = "skip";
+
+
+"newProfile.conversation.destoryafterread.subtitle" = "if this option is set, messages sent and received in the chat will disappear after reading.";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "five seconds";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "fifteen seconds";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "thirty seconds";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "one minutes";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "five minutes";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "one day";
+
+
+"settings.qrcode.tips" = "Secret，Scan the QR code to add me on Secret";
+"settings.qrcode.save" = "Save my QR code";
+"conversation.group.tips" = "Scan the QRcode to join the Secret group chat.";
+"conversation.group.qrcode.save" = "Save group QR code";
+
+"newProfile.conversation.record" = "Conversation Record";
+"newProfile.conversation.safe.title" = "Encryption Security Code";
+"newProfile.conversation.safe.subtitle" = "Chat information is encrypted";
+"newProfile.conversation.remark" = "Setting Remark";
+"newProfile.conversation.photo" = "Posts";
+"newProfile.conversation.addremark" = "Add note name";
+"newProfile.conversation.remarksave" = "Save";
+
+"newProfile.conversation.remove_participant" = "Remove Participant";
+"newProfile.conversation.start_chat" = "Start Chat";
+
+
+"participants.conversation.name" = "Conversation Name";
+
+"general.ok" = "OK";
+"general.cancel" = "Cancel";
+"general.open_settings" = "Open Secret Settings";
+
+"version.update_tips" = "New version! Go to APPSTORE for updating";
+
+
+//
+"peoplepicker.button.share_url_to_conversation" = "Send Url to contants";
+"peoplepicker.button.sub_to_conversation" = "Remove Member";
+"peoplepicker.button.delete_member" = "Delete group member";
+
+//
+"participants.avatar.host.title" = "Host";
+"participants.avatar.me.title" = "Me";
+"content.system.conversation.started.no.with" = " started a conversation.";
+
+
+"self.settings.account_manager.title" = "Account Manager";
+"self.settings.photo.title" = "My Posts";
+"self.settings.praise.title" = "Give us a five-star review";
+
+//Conversation Status
+"self.settings.status.title" = "Status";
+"self.settings.status.closed" = "Close";
+"self.settings.status.darwin" = "Intelligent Darwin Hostin";
+"self.settings.status.angel" = "Intelligent Darwin Hostin";
+"self.settings.status.campusbelle" = "Intelligent Darwin Hosting";
+"self.settings.status.ai" = "Artificial Intelligence Mode";
+"self.settings.status.zuchongzhi" = " ZuChongZhi";
+
+"self.settings.account_section.myQRCode.title" = "My QRCode";
+"self.settings.account_section.qrCode.title" = "Scan";
+
+// Setting - Scan
+"self.settings.account_section.scan.title" = "Scan QRCode";
+"self.settings.account_section.security.title" = "Security";
+
+
+"conversation.setting.backgroundimage" = "Set Background";
+"conversation.setting.backgroundimage.title" = "Choose Wallpaper";
+"conversation.setting.backgroundimage.description" = "Try other background.\nTry some new wallpapers at any time.";
+"conversation.setting.backgroundimage.apply" = "Apply";
+"conversation.setting.backgroundimage.cancel" = "Cancel";
+
+// MARK: - 
+"conversation.setting.place_top" = "Place Top";
+
+"conversation.setting.screenShot" = "Screenshot notification";
+"conversation.setting.screenShot.detail" = "After enabling, a message will be sent when the screenshot is taken";
+"conversation.setting.screenShot.open" = "Opened";
+"conversation.setting.screenShot.close" = "Closed";
+
+
+"conversation.setting.disableSendMsg" = "Setting Group DisableSendMsg";
+
+
+"conversation.setting.to.huge.conversation" = "Upgrade Group";
+"conversation.setting.to.upgraded.huge.conversation" = "Group Upgraded";
+"conversation.setting.to.upgrade.over.100" = "Members over 100 can open";
+"conversation.setting.to.openjoin.url" = "Open link join";
+"conversation.setting.to.openjoin.QRCode" = "Open QRCode join";
+"conversation.setting.to.group.allowViewMembers" = "Allow viewing of group members";
+"conversation.setting.to.group.qrcode" = "Group QRCode";
+"conversation.setting.to.group.urlshare" = "Share To";
+"conversation.setting.to.group.urlsubtitle" = "Choose to share";
+"conversation.setting.to.group.confirmTitle" = "Group chat invitation confirmation";
+"conversation.setting.to.group.confirmSubtitle" = "When enabled, group members need to confirm by the group owner to invite friends into the group, and scanning the QR code into the group is also disabled";
+"conversation.setting.to.group.ownerInvite" = "Only group owners invite to group chat";
+"conversation.setting.to.group.ownerChange" = "Group owner management transfer";
+"conversation.setting.to.group.manager" = "Group Manager";
+"conversation.setting.to.group.icon" = "Group Avatar";
+"conversation.setting.to.group.MemberConfirm" = "Group members are invited to confirm";
+"conversation.setting.to.group.shortcut" = "Add conversation to the Tab Bar";
+"conversation.setting.to.group.forbid_add_friend" = "Prohibit adding friends";
+"conversation.setting.to.group.member_change_unvisible" = "Close invitation, exit invisible";
+"conversation.setting.to.group.disablesendmsg" = "All DisableSendMsg";
+"conversation.setting.to.group.disablesendmsg.status" = "Only group manager is allowed to speak after all members' silence is enabled. Entering the name card of group members can set silence for individual members";
+"Group.settings.allow_member_add" = "No permission to view this user information";
+
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "Web page has been logged in";
+"hud.success.saved" = "Saved";
+"hud.success.added" = "Added";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "Invalid QRCode";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "Unkown error";
+"hud.error.invalid.qrcode" = "Invalid QRCode";
+"hud.error.no.qrcode" = "No QRCode found";
+"hud.error.not.find.user" = "The user could not be found.";
+"hud.error.not.choose.coin.type" = "Currency not selected";
+
+// MARK: - HUD Global
+"hud.cancelled" = "Cancelled";
+"hud.copied" = "Copied";
+
+// MARK: - AlertController
+"controller.alert.ok" = "OK";
+"controller.alert.title.error" = "Wrong";
+"controller.alert.desc.no.permission.to.album" = "Cannot access to Album, please go to Setting to open";
+
+// MARK: - 
+"join_invite_response_error_code_2001" = "You has been in the group";
+"join_invite_response_error_code_2002" = "Group manager does not allow new members to be added using url";
+
+// MARK: - Global
+"secret_unknown_error" = "Unknown error";
+"secret_server_error" = "Busy server";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "Scroll to latest";
+
+"app.scheme.login.authorization" = "Authorization";
+"app.scheme.login.apply.permission" = "Apply for the following permissions";
+"app.scheme.login.get.information" = "Get your public information";
+"app.scheme.login.auth.allow" = "Allow";
+"app.scheme.login.auth.refuse" = "Refuse";
+
+
+"notification.title" = " Notification";
+"notification.cell.comment" = "Commented";
+"notification.cell.reply" = "replied";
+"notification.cell.like" = "like you";
+"notification.cell.transimit" = "Forwarded";
+
+"new_version_title" = "Version Update";
+"login.intro.text" = "Keep All Chats Confidential";
+
+"general.ok" = "OK";
+"general.next" = "Næste";
+"general.cancel" = "Annuller";
+"general.close" = "Luk";
+"general.back" = "Tilbage";
+"general.open_settings" = "Åbn Secret Indstillinger";
+"general.edit" = "Rediger";
+"general.done" = "Færdig";
+"general.confirm" = "OK";
+"general.skip" = "Ikke nu";
+"general.accept" = "Besvar";
+"general.decline" = "No, thanks";
+"general.failure" = "Noget gik galt";
+"general.failure.try_again" = "Prøv venligst igen.";
+"general.service" = "Tjeneste";
+"general.off" = "Slået fra";
+"general.on" = "Aktiv";
+"general.loading" = "Loading…";
+"general.paste" = "Indsæt";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = " ";
+
+"general.guest-room-name" = "Gæsterum";
+
+// User Cell
+"user_cell.title.you_suffix" = " (You)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.search_placeholder" = "Søg på navn eller brugernavn";
+"peoplepicker.header.top_people" = "Top personer";
+"peoplepicker.button.create_conversation" = "Opret gruppe";
+"peoplepicker.button.add_to_conversation" = "Add Participants to Group";
+"peoplepicker.header.conversations" = "Grupper";
+"peoplepicker.header.team_conversations" = "%@ Groups";
+"peoplepicker.header.send_invitation" = "Invitér";
+"peoplepicker.header.contacts" = "Kontakter";
+"peoplepicker.header.contacts_personal" = "Personal Contacts";
+"peoplepicker.header.directory" = "Forbind";
+
+"peoplepicker.group.title.singular" = "Add Participants";
+"peoplepicker.group.title.plural" = "Add Participants (%d)";
+"peoplepicker.group.skip" = "Spring over";
+"peoplepicker.group.done" = "Færdig";
+"peoplepicker.group.create" = "Opret";
+
+"peoplepicker.header.people" = "Personer";
+"peoplepicker.header.services" = "Tjenester";
+"peoplepicker.services.open_conversation.item" = "Åben samtale";
+"peoplepicker.services.add_service.button" = "Tilføj tjeneste";
+"peoplepicker.services.add_service.error.title" = "The service can’t be added";
+"peoplepicker.services.add_service.error.default" = "The service is unavailable at the moment";
+"peoplepicker.services.add_service.error.full" = "The conversation is full";
+
+"peoplepicker.title.create_conversation" = "Opret gruppe";
+"peoplepicker.title.add_to_conversation" = "Tilføj deltagere";
+
+"peoplepicker.no_contacts_title" = "Ingen kontakter.";
+
+"peoplepicker.no_matching_results_title" = "Ingen resultater.";
+"peoplepicker.no_matching_results_message" = "Indtast en fuldstændig e-mail adresse.";
+
+"peoplepicker.no_matching_results.action.send_invite" = "Send en invitation";
+"peoplepicker.no_matching_results.action.share_contacts" = "Del kontakter";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "Indtast en gyldig e-mailadresse";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "Ingen resultater.";
+"peoplepicker.no_matching_results_services_title" = "Services are helpers that can improve your workflow. To enable them, ask your administrator.";
+"peoplepicker.no_matching_results_services_admin_title" = "Services are helpers that can improve your workflow.";
+"peoplepicker.no_matching_results_services_manage_services_title" = "Manage Services";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "Indtast en gyldig e-mailadresse eller";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "del kontakter";
+
+"peoplepicker.share_contacts.no_results.title" = "Find personer ved navn eller e-mail adresse";
+
+"peoplepicker.send_invitation.dialog.title" = "Invitation sendt";
+"peoplepicker.send_invitation.dialog.message" = "Den kan anvendes i 2 uger. Send en ny, hvis den udløber.";
+"peoplepicker.send_invitation.dialog.ok" = "OK";
+
+"peoplepicker.invite_more_people" = "Invitér flere personer";
+"peoplepicker.invite_team_members" = "Inviter personer til holdet";
+"peoplepicker.quick-action.open-conversation" = "Åbn";
+"peoplepicker.quick-action.create-conversation" = "Opret gruppe";
+"peoplepicker.quick-action.create-guest-room" = "Opret gæsterum";
+"peoplepicker.quick-action.admin-services" = "Manage Services";
+
+"add_participants.all_contacts_added" = "Everyone’s here.";
+
+"add_participants.alert.title" = "Fuldt hus";
+"add_participants.alert.message.new_conversation" = "Up to %d people can join a conversation.";
+"add_participants.alert.message.existing_conversation" = "Up to %1$d people can join a conversation. Currently there is only room for %2$d more.";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "Søg ved navn";
+"contacts_ui.invite_others" = "Invitér andre";
+"contacts_ui.name_in_contacts" = "%@ i Kontaktpersoner";
+"contacts_ui.connection_request" = "Har anmodet om at forbinde sig";
+"contacts_ui.action_button.invite" = "Invitér";
+"contacts_ui.action_button.open" = "Åbn";
+"contacts_ui.invite_sheet.cancel_button_title" = "Annuller";
+"contacts_ui.notification.invitation_sent" = "Invitation sendt";
+"contacts_ui.notification.invitation_failed" = "Kunne ikke sende invitation";
+"contacts_ui.title" = "Invitér personer";
+
+"conversation_list.empty.all_archived.message" = "Alt arkiveret";
+"conversation_list.empty.no_contacts.message" = "Start a conversation or\ncreate a group.";
+
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "Deltag";
+"conversation_list.header.self_team.accessibility_value" = "%@ account.";
+"conversation_list.header.self_team.accessibility_value.inactive" = "Tap to activate.";
+"conversation_list.header.self_team.accessibility_value.active" = "Active now.";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "Has new messages.";
+
+// Conversation List Data Usage Permission Dialog
+"conversation_list.data_usage_permission_alert.title" = "Help us make Secret better";
+"conversation_list.data_usage_permission_alert.message" = "I agree that Secret may create and use anonymous usage and error reports to improve the Secret App. I can revoke this consent at any time.";
+"conversation_list.data_usage_permission_alert.disagree" = "Nej";
+"conversation_list.data_usage_permission_alert.agree" = "Besvar";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "i Kontaktpersoner";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "Åben samtale";
+"conversation_list.voiceover.status.pending_connection" = "pending";
+"conversation_list.voiceover.status.active_call" = "active call";
+"conversation_list.voiceover.status.missed_call" = "missed call";
+"conversation_list.voiceover.status.pause_media" = "pause media";
+"conversation_list.voiceover.status.play_media" = "play media";
+"conversation_list.voiceover.status.silenced" = "Silenced";
+"conversation_list.voiceover.status.typing" = "typing";
+"conversation_list.voiceover.status.ping" = "ping";
+"conversation_list.voiceover.status.mention" = "you are mentioned";
+"conversation_list.voiceover.status.reply" = "reply";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "recent";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "list of recent conversations";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "folders";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "list of conversations organized in folders";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "archived";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "list of archived conversations";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "kontakter";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "search for people on Secret";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "compose";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "compose messages and save for later";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "camera";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "take picture and send quickly";
+"conversation_list.voiceover.unread_messages.hint" = "You have unread messages.";
+
+// Archived List
+"archived_list.title" = "arkiv";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "Samtaler starter her";
+"tool_tip.contacts.message" = "Start a conversation. Call, message and share in private or with groups.";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "Kender %@";
+"peoplepicker.suggested.knows_two" = "Kender %@ og %@";
+"peoplepicker.hide_search_result" = "Skjul";
+"peoplepicker.hide_search_result_progress" = "Skjuler…";
+
+"send_invitation.subject" = "Forbind dig med mig på Secret";
+"send_invitation.text" = "Jeg er på Secret. Søg efter %@ eller besøg secret.chat/#download";
+"send_invitation_no_email.text" = "Jeg er på Secret. Besøg secret.chat/#download for at forbinde dig med mig.";
+
+// Folders
+
+"folder.creation.name.title" = "Create new folder";
+"folder.creation.name.button.create" = "Opret";
+"folder.creation.name.header" = "Move the conversation \"%@\" to a new folder.";
+"folder.creation.name.footer" = "Maximum 64 characters";
+"folder.creation.name.placeholder" = "Folder name";
+
+"folder.picker.title" = "Move to";
+"folder.picker.empty.hint" = "Create a new folder by pressing the + button";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "delte et billede";
+"notifications.pinged" = "pinged";
+"notifications.sent_file" = "delte en fil";
+"notifications.sent_location" = "delte en placering";
+"notifications.sent_video" = "delte en video";
+"notifications.sent_audio" = "delte en lyd";
+"notifications.in_conversation" = "%@ - %@";
+"notifications.this_conversation" = "%@ i denne samtale";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "Conversations";
+"list.archived_conversations" = "ARKIV";
+"list.archived_conversations_close" = "Luk arkiv";
+
+"list.section.groups" = "Grupper";
+"list.section.contacts" = "Personer";
+"list.section.requests" = "Requests";
+"list.section.favorites" = "Favorites";
+
+"conversation.voiceover.verified" = "verified";
+"conversation.voiceover.legalhold" = "legal hold";
+"conversation.voiceover.value.active" = "active";
+"conversation.voiceover.value.disabled" = "disabled";
+
+"conversation.status.typing" = "Skriver en besked…";
+"conversation.status.typing.group" = "%@: typing a message…";
+"conversation.status.silenced" = "Muted";
+"conversation.status.poor_connection" = "Poor connection";
+"conversation.status.blocked" = "Blokeret";
+"conversation.status.incoming_call" = "%@ is calling…";
+"conversation.status.incoming_call.unknown" = "Someone is calling…";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "Shared a link";
+"conversation.status.message.image" = "Delte et billede";
+"conversation.status.message.location" = "Delte en placering";
+"conversation.status.message.audio" = "Delte en lyd besked";
+"conversation.status.message.video" = "Delte en video";
+"conversation.status.message.file" = "Delte en fil";
+"conversation.status.message.knock" = "Pingede";
+"conversation.status.message.missedcall" = "Ubesvarede opkald";
+"conversation.status.message.missedcall.groups" = "Missed call from %@";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "Sendte dig en besked";
+"conversation.status.message.ephemeral.group" = "Someone sent a message";
+"conversation.status.message.ephemeral.mention" = "Mentioned you";
+"conversation.status.message.ephemeral.mention.group" = "Someone mentioned you";
+"conversation.status.message.ephemeral.reply" = "Replied to your message";
+"conversation.status.message.ephemeral.reply.group" = "Someone replied to your message";
+"conversation.status.message.ephemeral.knock" = "Pinged";
+"conversation.status.message.ephemeral.knock.group" = "Someone pinged";
+
+"conversation.status.unsent" = "⚠️ Unsent message";
+"conversation.status.you" = "Dig";
+"conversation.status.someone" = "Nogen";
+"conversation.status.you_was_added" = "%@ har tilføjet dig";
+"conversation.status.you_were_removed" = "Du blev fjernet";
+"conversation.status.you_left" = "Du forlod";
+"conversation.status.started_conversation" = "%@ started a conversation";
+"conversation.status.removed_users" = "%@ har fjernet %@";
+"conversation.status.everyone_left" = "Alle forlod gruppen";
+"conversation.status.group_join" = "Are you sure to join the group chat";
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "Samtale";
+"compose.message.title" = "Besked";
+
+"conversation_details.open_button.accessibility_hint" = "Double tap to view the details of the conversation.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "Spred ordet!";
+"conversation.invite_more_people.description" = "Tilføj personer til denne samtale";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "Tilføj personer";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "Tom gruppesamtale";
+
+"conversation.input_bar.verified" = "Verificeret";
+"conversation.input_bar.placeholder" = "Skriv en besked";
+"conversation.input_bar.placeholder_ephemeral" = "Timet besked";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "Peg op for at sende";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "Tryk for at sende";
+"conversation.input_bar.audio_message.too_long.title" = "Optagelse stoppet";
+"conversation.input_bar.audio_message.too_long.message" = "Audio messages are limited to %@.";
+
+"conversation.input_bar.audio_message.too_long_size.message" = "File size for audio messages is limited to %@.";
+
+"conversation.input_bar.audio_message.send" = "Send";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "Tryk for at optage\nDu kan %@ efter det";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "Vælg et filter ovenfor";
+
+"conversation.call.many_participants_confirmation.title" = "Starte et opkald";
+"conversation.call.many_participants_confirmation.message" = "Dette vil kalde %d mennesker";
+"conversation.call.many_participants_confirmation.call" = "Ring op";
+
+"conversation.connection_view.in_address_book" = "i Kontaktpersoner";
+
+"conversation.input_bar.shortcut.send" = "Send Message";
+"conversation.input_bar.shortcut.newline" = "Insert line break";
+"conversation.input_bar.shortcut.edit_last_message" = "Edit Last Message";
+"conversation.input_bar.shortcut.cancel_editing_message" = "Annuller";
+
+"conversation.input_bar.message_too_long.title" = "Besked for lang";
+"conversation.input_bar.message_too_long.message" = "You can send messages up to %d characters long.";
+
+"conversation.create.group_name.title" = "Opret gruppe";
+"conversation.create.group_name.placeholder" = "Gruppenavn";
+"conversation.create.guidance.empty" = "Mindst 1 tegn";
+"conversation.create.guidance.toolong" = "For mange tegn";
+"conversation.create.options.title" = "Conversation options";
+"conversation.create.options.subtitle" = "Guests and services: %@, Read receipts: %@";
+"conversation.create.guests.title" = "Tillad gæster";
+"conversation.create.guests.subtitle" = "Åbn denne samtale for personer uden for dit team.";
+"conversation.create.receipts.title" = "Read receipts";
+"conversation.create.receipts.subtitle" = "When this is on, people can see when their messages in this conversation are read.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "Ongoing call";
+"conversation.input_bar.ongoing_call_alert.audio.message" = "You can’t record an audio message during a call.";
+"conversation.input_bar.ongoing_call_alert.video.message" = "You can’t record a video during a call.";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "You can’t take a picture during a call.";
+
+"conversation.alert.message_deleted" = "The message is deleted.";
+
+"conversation.guests_present" = "Gæster er til stede";
+"conversation.services_present" = "Services are active";
+"conversation.guests_services_present" = "Guests and services are present";
+"conversation.action.search" = "Søg";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "Image";
+"conversation.input_bar.message_preview.location" = "Placering";
+"conversation.input_bar.message_preview.video" = "Video";
+"conversation.input_bar.message_preview.audio" = "Audio Message";
+"conversation.input_bar.message_preview.file" = "File";
+"conversation.input_bar.close_reply" = "Cancel reply";
+
+"conversation.input_bar.message_preview.accessibility_description" = "Replying to message: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "Image message";
+"conversation.input_bar.message_preview.accessibility.location_message" = "Location message";
+"conversation.input_bar.message_preview.accessibility.video_message" = "Video message";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "Audio message";
+"conversation.input_bar.message_preview.accessibility.file_message" = "File message (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "Unknown message";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ from %@";
+
+"image_confirmer.confirm" = "OK";
+"image_confirmer.cancel" = "Annuller";
+"image.add_sketch" = "Tilføj en skitse";
+"image.edit_image" = "Rediger billede";
+
+// Camera access
+"camera_access.denied" = "Secret kræver adgang til Kameraet.";
+"video_call.camera_access.denied" = "Secret doesn’t have access to the camera";
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "Aktiver det i Secret Indstillinger";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "Indstillinger";
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "Secret needs access to your\ncamera and photos."; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "Secret needs access to your photos.";
+"keyboard_photos_access.denied.keyboard.camera" = "Secret needs access to your camera.";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "You can’t access the camera while you are on a video call.";
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE/AF Lås";
+
+// Location
+"location.send_button.title" = "Send";
+"location.unauthorized_alert.title" = "Aktiver Placeringstjenester";
+"location.unauthorized_alert.message" = "For at sende din placering, aktiver Placeringstjenester og giv Secret adgang til din placering.";
+"location.unauthorized_alert.cancel" = "Annuller";
+"location.unauthorized_alert.settings" = "Indstillinger";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ på Twitter";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "Fra";
+"input.ephemeral.title" = "Sæt en timer for midlertidige beskeder";
+
+// System messages
+"content.system.you_nominative" = "dig";
+"content.system.you_dative" = "dig";
+"content.system.and_you_dative" = "and you";
+"content.system.you_accusative" = "dig";
+
+"content.system.continued_conversation" = "Start en samtale med %@";
+"content.system.started_conversation.truncated_people" = "and %@";
+"content.system.started_conversation.truncated_people.others" = "%@ others";
+"content.system.started_conversation.complete_team" = "all team members";
+"content.system.started_conversation.complete_team.guests" = "all team members and %@ guests";
+
+"content.system.other_started_conversation" = "%@ startede en samtale med %@";
+"content.system.you_started_conversation" = "Du startede en samtale med %@";
+
+"content.system.you_added_participant" = "Du har tilføjet %@";
+"content.system.other_added_participant" = "%@ har tilføjet %@";
+"content.system.other_added_you" = "%@ har tilføjet dig";
+
+"content.system.participants_you" = "Dig";
+"content.system.participants_1_other" = "%@ og %@";
+"content.system.other_left" = "%@ har forladt";
+"content.system.you_left" = "Du forlod";
+"content.system.other_removed_other" = "%@ har fjernet %@";
+"content.system.other_removed_you" = "%@ har fjernet dig";
+"content.system.you_removed_other" = "Du har fjernet %@";
+
+"content.system.services.warning" = "Services have access to the content of this conversation";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "YouTube video preview";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "SoundCloud song preview";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "SoundCloud playlist preview";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ startede en samtale med %@";
+"content.system.conversation.other.added" = "%@ har tilføjet %@";
+"content.system.conversation.other.removed" = "%@ har fjernet %@";
+"content.system.conversation.other.left" = "%@ har forladt";
+
+"content.system.conversation.you.started" = "%@ startede en samtale med %@";
+"content.system.conversation.you.added" = "%@ har tilføjet %@";
+"content.system.conversation.you.removed" = "%@ har fjernet %@";
+"content.system.conversation.you.left" = "%@ har forladt";
+"content.system.conversation.team.member-leave" = "%@ was removed from the team.";
+"content.system.conversation.guest.joined" = "%@ joined";
+
+"content.system.conversation.invite.title" = "Services and people outside your team can join this conversation.";
+"content.system.conversation.invite.button" = "Invitér personer";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ fjernede samtalens navn";
+"content.system.you_renamed_conv_to_nothing" = "Du fjernede samtalens navn";
+"content.system.pending_message_timestamp" = "Sender…";
+"content.system.message_sent_timestamp" = "Sendt";
+"content.system.message_delivered_timestamp" = "Leveret";
+"content.system.message_read_timestamp" = "Seen";
+"content.system.failedtosend_message_timestamp" = "Send mislykkedes.";
+"content.system.failedtosend_message_timestamp_resend" = "Send igen";
+"content.system.failedtosend_message_timestamp_delete" = "Slet";
+"content.system.like_tooltip" = "Tryk for at syntes om";
+"content.system.deleted_message_prefix_timestamp" = "Deleted: %@";
+"content.system.edited_message_prefix_timestamp" = "Edited: %@";
+"content.system.connecting_to" = "Forbinder til %@.\nStart en samtale";
+"content.system.connected_to" = "Forbundet til %@\nStart en samtale";
+"content.system.other_wanted_to_talk" = "%@ har ringet";
+"content.system.you_wanted_to_talk" = "Du har ringet";
+"content.system.ephemeral_time_remaining" = "%@ har forladt";
+
+"content.system.you_started" = "Dig";
+"content.system.this_device" = "denne enhed";
+
+"content.system.call.you" = "Dig";
+"content.system.call.called" = "%@ har ringet";
+"content.system.call.called-you" = "%@ har ringet";
+
+"content.system.renamed_conv.title" = "%@ omdøbte samtalen";
+"content.system.renamed_conv.title-you" = "%@ omdøbte samtalen";
+"content.system.renamed_conv.title.you" = "Dig";
+
+"content.system.conversation.with_name.title" = "%@ started the conversation";
+"content.system.conversation.with_name.title-you" = "%@ started the conversation";
+
+"content.system.conversation.with_name.participants" = "with";
+
+"content.system.message_timer_changes" = "%@ set the message timer to %@";
+"content.system.message_timer_changes-you" = "%@ set the message timer to %@";
+
+"content.system.message_timer_off" = "%@ turned off the message timer";
+"content.system.message_timer_off-you" = "%@ turned off the message timer";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@ turned read receipts on for everyone";
+"content.system.message_read_receipt_on-you" = "%@ turned read receipts on for everyone";
+
+"content.system.message_read_receipt_off" = "%@ turned read receipts off for everyone";
+"content.system.message_read_receipt_off-you" = "%@ turned read receipts off for everyone";
+
+"content.system.message_read_receipt_on_add_to_group" = "Read receipts are on";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "This conversation is under legal hold";
+"content.system.message_legal_hold.disabled" = "Legal hold deactivated for this conversation";
+
+"content.system.message_legal_hold.learn_more" = "Lær mere";
+
+//
+"content.system.screen.shot" = "%@ has taken a screenshot";
+
+"content.system.reactivated_device" = "Du begyndte at bruge %@ igen. Beskeder der sendes, vises i mellemtiden ikke her.";
+
+"content.system.new_device" = "en ny enhed";
+"content.system.started_using" = "er begyndt at bruge";
+"content.system.is_verified" = "Alle fingeraftryk er bekræftet";
+
+"content.system.new_users" = "Ny bruger tilsluttet.";
+"content.system.verify_devices" = "Verificer enheder";
+
+"content.system.unverified" = "%@ har ubekræftet en af %@"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "dine enheder";
+"content.system.other_devices" = "%@'s enheder";
+
+"content.system.missing_messages.title" = "Du har ikke brugt denne enhed i et stykke tid. Nogle meddelelser vises måske ikke.";
+"content.system.missing_messages.subtitle_start" = "I mellemtiden,";
+
+"content.system.cannot_decrypt" = "En besked fra %@ blev ikke modtaget.";
+
+"content.system.cannot_decrypt.you_part" = "dig";
+"content.system.cannot_decrypt.why_part" = "Hvorfor?";
+
+"content.system.cannot_decrypt.identity" = "%@ enheds identitet ændret. Uleveret besked.";
+"content.system.cannot_decrypt.identity.you_part" = "Din";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@s"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "Få flere oplysninger";
+"content.system.cannot_decrypt.otherDevice_part" = "(enhed %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "This message can’t be displayed. You may be using an older version of Secret.";
+
+"content.file.uploading" = "Uploader…";
+"content.file.downloading" = "Downloader…";
+"content.file.upload_failed" = "Upload mislykkedes";
+"content.file.upload_cancelled" = "Upload annulleret";
+"content.file.upload_video" = "Videoer";
+"content.file.take_video" = "Optag en video";
+"content.file.browse" = "Browse";
+
+"content.file.save_video" = "Gem";
+"content.file.save_audio" = "Gem";
+"content.image.save_image" = "Gem";
+
+"content.message.delete" = "Slet";
+"content.message.save" = "Gem";
+"content.message.resend" = "Gensend";
+
+"content.message.delete_ellipsis" = "Delete…";
+
+"content.message.like" = "Synes om";
+"content.message.unlike" = "Synes ikke godt om";
+"content.message.forward" = "Del";
+"content.message.go_to_conversation" = "Vis";
+"content.message.forward.to" = "Send til…";
+"content.message.open" = "Åbn";
+"content.message.copy" = "Kopiér";
+"content.message.download" = "Download";
+"content.message.details" = "Detaljer";
+
+// Reply
+"content.message.reply" = "Svar";
+"content.message.original_label" = "Original message";
+"content.message.reply.original_timestamp.date" = "Original message from %@";
+"content.message.reply.original_timestamp.time" = "Original message from %@";
+"content.message.reply.broken_message" = "You cannot see this message.";
+"content.message.reply.edited_message" = "Edited";
+
+"content.message.open_link_alert.title" = "Visit Link";
+"content.message.open_link_alert.message" = "This will take you to\n%@";
+"content.message.open_link_alert.open" = "Åbn";
+
+"content.message.audio_message.accessibility" = "Play the audio message";
+
+"content.reactions_list.likers" = "Synes godt af";
+
+"content.file.too_big" = "Du kan sende filer op til %@";
+// Someone pinged
+"content.ping.text" = "%@ pinged";
+"content.ping.text-you" = "%@ pinged";
+
+// Current user pinged
+"content.ping.text.you" = "Dig";
+
+// Inline Player
+"content.player.unable_to_play" = "KAN IKKE AFSPILLE NUMMER";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "Forbind til %@"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "Hej %@\nLad os forbinde os med Secret.\n%@";
+
+"connection_request_pending_title" = "Connection Request";
+"connection_request.send_button_title" = "Forbind";
+"inbox.connection_request.connect_button_title" = "Forbind";
+"inbox.connection_request.ignore_button_title" = "Ignorer";
+
+// Save image errors
+"library.alert.permission_warning.title" = "Secret needs access to your Photos";
+"library.alert.permission_warning.restrictions.explaination" = "Secret cannot access your library because restrictions are enabled.";
+"library.alert.permission_warning.not_allowed.explaination" = "Go to Settings and allow Secret to access your photos.";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@\ncalling";
+"voice.status.group_call.incoming" = "%@\nringing";
+"voice.status.one_to_one.outgoing" = "%@\nringing";
+"voice.status.joining" = "%@\nForbinder";
+"voice.status.leaving" = "%@\nCall ended";
+"voice.status.video_not_available" = "Video slået fra";
+"voice.status.low_connection" = "Dårlig forbindelse";
+"voice.network_error.title" = "Ingen internetforbindelse";
+"voice.status.cbr" = "Constant Bit Rate";
+"voice.network_error.body" = "Du skal være online for at foretage opkald. Tjek din forbindelse og prøv igen.";
+"voice.degradation.new_self_device" = "Du begyndte at bruge en ny enhed.";
+"voice.degradation.new_user_device" = "%@ begyndte at bruge en ny enhed.";
+"voice.degradation_outgoing.prompt" = "Vil du stadig placere opkaldet?";
+"voice.degradation_incoming.prompt" = "Vil du stadig besvare opkaldet?";
+"voice.accept_button.title" = "Besvar";
+"voice.decline_button.title" = "Afvis";
+"voice.hang_up_button.title" = "Læg på";
+"voice.mute_button.title" = "Lyd fra";
+"voice.video_button.title" = "Video";
+"voice.flip_video_button.title" = "Flip";
+"voice.speaker_button.title" = "Højtaler";
+"voice.cancel_button.title" = "Annuller";
+"voice.call_button.title" = "Ring op";
+"voice.end_call_button.title" = "End Call";
+"voice.call_error.unsupported_version.title" = "Please update Secret";
+"voice.call_error.unsupported_version.message" = "You received a call that isn't supported by this version of Wire.\nGet the latest version in the App Store.";
+"voice.call_error.unsupported_version.dismiss" = "Senere";
+
+"voice.alert.call_in_progress.title" = "Opkald i gang";
+"voice.alert.call_in_progress.message" = "Kun ét opkald af gangen er muligt";
+"voice.alert.call_in_progress.confirm" = "OK";
+
+"voice.alert.microphone_warning.title" = "Secret kræver adgang til Mikrofonen.";
+"voice.alert.microphone_warning.explanation" = "Aktiver det i Secret Indstillinger.";
+
+"voice.alert.camera_warning.title" = "Secret kræver adgang til Kameraet.";
+"voice.alert.camera_warning.explanation" = "Gå til Indstillinger og tillad Secret adgang til kameraet.";
+
+"voice.top_overlay.tap_to_return" = "Tap to return to call";
+"voice.top_overlay.accessibility_title" = "Ongoing call";
+
+// Voice New
+
+"call.status.connecting" = "Forbinder…";
+"call.status.incoming.user" = "%@ is calling…";
+"call.status.incoming" = "Ringer op…";
+"call.status.outgoing" = "Ringer op…";
+"call.status.outgoing.user" = "Calling %@…";
+"call.status.reconnecting" = "Reconnecting…";
+"call.status.terminating" = "Hanging up…";
+"call.status.constant_bitrate" = "Constant Bit Rate";
+
+"call.participants.show_all" = "Show All (%@)";
+"call.participants.list.title" = "Participants";
+
+"call.video.paused" = "Video paused";
+
+"call.video.too_many.alert.title" = "Too many people for Video";
+"call.video.too_many.alert.message" = "Video calls only work in groups of 4 or less.";
+
+"call.degraded.alert.title" = "New Device";
+"call.degraded.alert.message.self" = "Du begyndte at bruge en ny enhed.";
+"call.degraded.alert.message.user" = "%@ begyndte at bruge en ny enhed.";
+"call.degraded.alert.message.unknown" = "Nogen er begyndt at bruge en ny enhed.";
+"call.degraded.alert.action.continue" = "Ring alligevel";
+
+"call.alert.ongoing.alert_title" = "This will end your other call.";
+
+"call.alert.ongoing.start.message" = "A call is active in another conversation.\nCalling here will hang up the other call.";
+"call.alert.ongoing.join.message" = "A call is active in another conversation.\nJoining this call will hang up the other one.";
+"call.alert.ongoing.start.button" = "Ring alligevel";
+"call.alert.ongoing.join.button" = "Join anyway";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "Incoming call from %@";
+"call.actions.label.toggle_mute_on" = "Lyd fra";
+"call.actions.label.toggle_mute_off" = "Lyd til";
+"call.actions.label.flip_camera" = "Flip camera";
+"call.actions.label.toggle_speaker_on" = "Enable speaker";
+"call.actions.label.toggle_speaker_off" = "Disable speaker";
+"call.actions.label.accept_call" = "Besvar opkald";
+"call.actions.label.reject_call" = "Decline call";
+"call.actions.label.terminate_call" = "Afslut opkald";
+"call.actions.label.toggle_video_on" = "Turn on camera";
+"call.actions.label.toggle_video_off" = "Turn off camera";
+"call.actions.label.switch_to_back_camera" = "Switch to back camera";
+"call.actions.label.switch_to_front_camera" = "Switch to front camera";
+"call.actions.label.minimize_call" = "Minimize call";
+"call.actions.label.make_audio_call" = "Start audio call";
+"call.actions.label.make_video_call" = "Start video call";
+"call.actions.label.join_call" = "Deltag i opkald";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "Tilføj";
+"participants.avatar.guest.title" = "Gæst";
+
+"participants.title" = "Detaljer";
+"participants.all.title" = "Personer";
+"participants.section.participants" = "People (%d)";
+"participants.section.services" = "Services (%d)";
+"participants.section.settings" = "Egenskaber";
+"participants.footer.add_title" = "Add Participants";
+"participants.section.name.footer" = "Up to %1$d participants can join a group conversation. Video calls work with up to %2$d other people and you.";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "Flere handlinger";
+"meta.menu.rename" = "Omdøb";
+"meta.menu.leave" = "Leave Group…";
+"meta.menu.archive" = "Arkiv";
+"meta.menu.unarchive" = "Fjern fra arkiv";
+"meta.menu.delete" = "Delete Group…";
+"meta.menu.clear_content" = "Clear Content…";
+"meta.menu.move_to_folder" = "Move to…";
+"meta.menu.remove_from_folder" = "Remove from \"%@\"";
+"meta.menu.silence.mute" = "Lyd fra";
+"meta.menu.silence.unmute" = "Lyd til";
+"meta.menu.cancel" = "Annuller";
+"meta.menu.cancel_connection_request" = "Annuller anmodning";
+"meta.menu.mark_unread" = "Mark as Unread";
+"meta.menu.mark_read" = "Mark as Read";
+"shortcut.mark_all_as_read.title" = "Mark All as Read";
+"meta.menu.configure_notifications" = "Notifications…";
+"meta.menu.open_self_profile" = "Open Profile";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "Clear content?";
+"meta.menu.delete_content.dialog_message" = "Dette vil fjerne samtaleoversigten på alle dine enheder.";
+"meta.menu.delete_content.leave_as_well_message" = "Forlad også samtalen";
+"meta.menu.delete_content.button_cancel" = "Annuller";
+"meta.menu.delete_content.button_delete" = "Clear";
+"meta.menu.delete_content.button_delete_and_leave" = "Clear and leave";
+
+// Configure conversation notifications
+"meta.menu.configure_notification.dialog_message" = "Notify me about:";
+"meta.menu.configure_notification.button_everything" = "Everything";
+"meta.menu.configure_notification.button_mentions_and_replies" = "Mentions and Replies";
+"meta.menu.configure_notification.button_nothing" = "Nothing";
+"meta.menu.configure_notification.button_cancel" = "Annuller";
+
+// Leave conversation
+"meta.leave_conversation_dialog_title" = "Forlad samtalen?";
+"meta.leave_conversation_dialog_message" = "Deltagerne vil blive meddelt og samtalen vil blive fjernet fra din liste.";
+"meta.leave_conversation.delete_content_as_well_message" = "Also clear the content";
+"meta.leave_conversation_button_cancel" = "Annuller";
+"meta.leave_conversation_button_leave" = "Forlad";
+"meta.leave_conversation_button_leave_and_delete" = "Leave and clear content";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ begyndte at bruge en ny enhed.";
+"meta.degraded.degradation_reason_message.plural" = "%@ begyndte at bruge nye enheder.";
+"meta.degraded.degradation_reason_message.someone" = "Nogen er begyndt at bruge en ny enhed.";
+"meta.degraded.dialog_message" = "Vil du stadig sende meddelelsen?";
+"meta.degraded.verify_devices_button" = "Verify Devices…";
+"meta.degraded.send_anyway_button" = "Send Anyway";
+"meta.degraded.cancel_sending_button" = "Annuller";
+"meta.legalhold.info_button" = "What Is Legal Hold?";
+"meta.legalhold.send_alert_title" = "The conversation is now subject to legal hold.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "Fjern?";
+"profile.remove_dialog_message" = "%@ vil ikke være i stand til at sende eller modtage beskeder i denne samtale.";
+"profile.remove_dialog_button_cancel" = "Annuller";
+"profile.remove_dialog_button_remove" = "Remove From Group…";
+"profile.remove_dialog_button_remove_confirm" = "Remove From Group";
+
+// Block dialog
+"profile.block_dialog.title" = "Blokér?";
+"profile.block_dialog.message" = "%@ vil ikke kunne kontakte dig eller tilføje dig til gruppesamtaler.";
+"profile.block_dialog.button_cancel" = "Annuller";
+"profile.block_dialog.button_block" = "Blokér";
+
+// Delete message dialog
+"message.delete_dialog.message" = "Dette kan ikke fortrydes.";
+"message.delete_dialog.action.cancel" = "Annuller";
+"message.delete_dialog.action.hide" = "Slet for mig";
+"message.delete_dialog.action.delete" = "Slet for alle";
+
+// Edit message
+"message.menu.edit.title" = "Rediger";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "Acceptér?";
+"profile.connection_request_dialog.message" = "Dette vil forbinde dig og åbne en ny samtale med %@.";
+"profile.connection_request_dialog.button_cancel" = "Ignorer";
+"profile.connection_request_dialog.button_connect" = "Forbind";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Delete group conversation?";
+"conversation.delete_request_dialog.message" = "This will delete the group and all content for all participants on all devices. There is no option to restore the content. All participants will be notified.";
+"conversation.delete_request_error_dialog.title" = "An error occured while trying to delete the group %@. Please try again.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Delete Group";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "Annuller anmodning?";
+"profile.cancel_connection_request_dialog.message" = "Cancel your connection request to %@?";
+"profile.cancel_connection_request_dialog.button_no" = "Nej";
+"profile.cancel_connection_request_dialog.button_yes" = "Ja";
+
+// Unblock button
+"profile.block_button_title" = "Bloker kontakt…";
+"profile.unblock_button_title" = "Fjern blokering af kontakt…";
+
+// Favorite button
+"profile.favorite_button_title" = "Add to Favorites";
+"profile.unfavorite_button_title" = "Remove from Favorites";
+
+"profile.block_button_title_action" = "Blokér";
+"profile.unblock_button_title_action" = "Fjern blokering";
+
+"profile.cancel_connection_button_title" = "ANNULER ANMODNING";
+"profile.connection_request_state.blocked" = "BLOKERET";
+"profile.create_conversation_button_title" = "Opret gruppe";
+"profile.open_conversation_button_title" = "Åben samtale";
+
+"profile.read_receipts_enabled_memo.header" = "YOU HAVE ENABLED READ RECEIPTS";
+"profile.read_receipts_disabled_memo.header" = "YOU HAVE DISABLED READ RECEIPTS";
+"profile.read_receipts_memo.body" = "If both sides turn on read receipts, you can see when messages are read.\n\nYou can change this option in your account settings.";
+
+"profile.extended_metadata.header" = "Information";
+
+// User Details
+"profile.details.title" = "Detaljer";
+"profile.details.guest" = "Gæst";
+
+"profile_view.accessibility.handle" = "Brugernavn";
+"profile_view.accessibility.name" = "Display name";
+"profile_view.accessibility.team_name" = "Team name";
+
+// Device list
+"profile.devices.title" = "Enheder";
+"profile.devices.fingerprint_message_unencrypted" = "%@ bruger en gammel version af Secret. Ingen enheder er vist her.";
+"profile.devices.fingerprint_message.title" = "Secret gives every device a unique fingerprint. Compare them with %@ and verify your conversation.";
+"profile.devices.fingerprint_message.link" = "Hvorfor verificere samtaler?";
+
+// Device detail
+"profile.devices.detail.verify_message" = "Verificer at dette matcher fingeraftrykket vist på %@'s enhed.";
+"profile.devices.detail.verify_message.link" = "Hvordan gør jeg det?";
+"profile.devices.detail.show_my_device.title" = "Vis min enheds fingeraftryk";
+"profile.devices.detail.reset_session.title" = "Nulstil session";
+"device.verified" = "Verificeret";
+"device.not_verified" = "Ikke verificeret";
+
+"device.class.legalhold" = "Legal Hold";
+"device.class.desktop" = "Skrivebord";
+"device.class.tablet" = "Tablet";
+"device.class.phone" = "Telefon";
+"device.class.unknown" = "Ukendt";
+
+"device.type.permanent" = "Permanent";
+"device.type.temporary" = "Temporary";
+"device.type.legalhold" = "Legal Hold";
+"device.type.unknown" = "Ukendt";
+
+// Bot
+"participants.services.remove_integration.button" = "remove integration";
+
+// Group details
+"group_details.guest_options_cell.title" = "Gæst indstillinger";
+"group_details.guest_options_cell.enabled" = "Aktiv";
+"group_details.guest_options_cell.disabled" = "Slået fra";
+"group_details.timeout_options_cell.title" = "Timed Messages";
+"group_details.notification_options_cell.title" = "Notifikationer";
+"group_details.notification_options_cell.description" = "You can be notified about everything (including audio and video calls) or only when someone mentions you or replies to one of your messages.";
+"group_details.receipt_options_cell.title" = "Read receipts";
+"group_details.receipt_options_cell.description" = "When this is on, people can see when their messages in this conversation are read.";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Legal hold subjects";
+"legalhold.header.title" = "Legal Hold";
+"legalhold.header.other_description" = "Legal Hold has been activated for at least one person in this conversation.\nAll messages will be preserved for future access, including deleted, edited, and timed messages.";
+"legalhold.header.self_description" = "Legal Hold has been activated for your account.\nAll messages will be preserved for future access, including deleted, edited, and timed messages.\nYour conversation partners will be aware of the recording.";
+"legalhold.accessibility" = "Legal hold details";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "Indstillinger";
+"self.profile" = "Profil";
+"self.account" = "Konto";
+"self.help_center" = "Support";
+"self.help_center.support_website" = "Secret support hjemmeside";
+"self.help_center.contact_support" = "Kontakt support";
+"self.about" = "Om";
+"self.sign_out" = "Log ud";
+"self.report_abuse" = "Rapporter misbrug";
+"self.voiceover.label" = "Profil";
+"self.voiceover.hint" = "Open profile and settings";
+"self.new-device.voiceover.label" = "Profile, new devices added";
+
+"self.add_phone_number" = "Tilføj telefonnummer";
+"self.add_email_password" = "Tilføj e-mail adresse og adgangskode";
+
+"self.accessibility.profile_photo_image" = "Profile picture";
+"self.accessibility.profile_photo_edit_button" = "Change profile picture";
+
+// About screen
+"about.tos.title" = "Vilkår for anvendelse";
+"about.privacy.title" = "Fortrolighedspolitik";
+"about.license.title" = "Licensoplysninger";
+"about.website.title" = "Secret hjemmeside";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "Detaljer";
+"about.license.open_project_button" = "View Project Page";
+"about.license.license_header" = "Acknowledgements";
+
+// Self new devices
+"self.new_device_alert.title" = "Din konto blev anvendt:";
+"self.new_device_alert.message" = "\n%@\n\nIf you don’t recognize the device above, remove it and reset your password.";
+"self.new_device_alert.message_plural" = "\n%@\n\nIf you don’t recognize the devices above, remove them and reset your password.";
+"self.new_device_alert.manage_devices" = "Administrer enheder";
+"self.new_device_alert.trust_devices" = "OK";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "You have enabled read receipts";
+"self.read_receipts_disabled.title" = "You have disabled read receipts";
+"self.read_receipts_description.title" = "You can change this option in your account settings.";
+
+// Settings - top level
+"self.settings.create_team.title" = "Opret team";
+"self.settings.manage_team.title" = "Administrer Team";
+"self.settings.add_team_or_account.title" = "Tilføj konto";
+"self.settings.add_account.title" = "Tilføj en konto";
+
+"self.settings.add_account.error.title" = "Three accounts active";
+"self.settings.add_account.error.message" = "You can only be logged in with three accounts at once. Log out from one to add another.";
+
+"self.settings.switch_account.message" = "A call is active in this account.\nSwitching accounts will hang up the current call.";
+"self.settings.switch_account.action" = "Switch anyway";
+
+// Settings - Account details
+"self.settings.account_section" = "Konto";
+
+"self.settings.account_details_group.info.title" = "Info";
+"self.settings.account_details_group.personal.title" = "Personligt";
+
+"self.settings.account_section.name.title" = "Navn";
+"self.settings.account_section.email.title" = "E-mail";
+"self.settings.account_section.phone.title" = "Telefon";
+"self.settings.account_section.handle.title" = "Brugernavn";
+"self.settings.account_section.add_handle.title" = "Tilføj brugernavn";
+
+"self.settings.account_details_group.info.footer" = "Folk kan finde dig med disse oplysninger.";
+"self.settings.account_details_group.personal.footer" = "Disse oplysninger er ikke synlige.";
+
+"self.settings.account_details.remove_device.title" = "Slet enhed";
+"self.settings.account_details.key_fingerprint.title" = "Nøgle fingeraftryk";
+"self.settings.account_details.remove_device.message" = "Din adgangskode er krævet for at fjerne denne enhed";
+"self.settings.account_details.remove_device.password" = "Adgangskode";
+"self.settings.account_details.remove_device.password.error" = "Forkert adgangskode";
+
+"self.settings.account_appearance_group.title" = "Udseende";
+
+"self.settings.privacy_section_group.title" = "Privatliv";
+"self.settings.enable_read_receipts.title" = "Send Read Receipts";
+"self.settings.privacy_section_group.subtitle" = "When this is off, you won’t be able to see read receipts from other people.\n\nThis setting does not apply to group conversations.";
+
+"self.settings.account_picture_group.picture" = "Billede";
+"self.settings.account_picture_group.color" = "Farve";
+
+"self.settings.account_personal_information_group.title" = "Personal Information";
+
+"self.settings.account_picture_group.theme" = "Mørkt tema";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret giver hver enhed et unikt fingeraftryk. Sammenlign dem og verificer dine enheder og samtaler.";
+"self.settings.device_details.reset_session.subtitle" = "Hvis fingeraftrykkene ikke stemmer overens, nulstil sessionen for at generere nye krypteringsnøgler hos begge parter.";
+"self.settings.device_details.remove_device.subtitle" = "Fjern denne enhed, hvis du ikke bruger den længere. Du bliver logget ud af enheden med det samme.";
+"self.settings.device_details.reset_session.success" = "Sessionen er blevet nulstillet";
+
+"self.settings.account_details.actions.title" = "Handlinger";
+
+"self.settings.account_details.delete_account.title" = "Slet konto";
+
+"self.settings.account_details.delete_account.alert.title" = "Slet konto";
+"self.settings.account_details.delete_account.alert.message" = "Vi vil sende en besked via e-mail eller SMS.\nFølg linket for at slette permanent din konto.";
+
+"self.settings.account_details.log_out.alert.title" = "Log ud";
+"self.settings.account_details.log_out.alert.message" = "Your message history will be erased on this device.";
+"self.settings.account_details.log_out.alert.password" = "Adgangskode";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "Forbrug og crash rapporter";
+"self.settings.privacy_analytics.title" = "Send Anonymous Data";
+"self.settings.privacy_analytics_menu.description.title" = "Help make Secret better by sending anonymous usage and crash reports.";
+
+"self.settings.receiveNews_and_offers.title" = "Receive Newsletter";
+"self.settings.receiveNews_and_offers.description.title" = "Receive news and product updates from Secret via email.";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "Brugernavn";
+"self.settings.account_section.handle.change.save" = "Gem";
+"self.settings.account_section.handle.change.footer" = "Mindst to tegn. Kun a-z, 0-9 og _";
+"self.settings.account_section.handle.change.footer.unavailable" = "Allerede i brug";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "Ikke angive brugernavnet";
+"self.settings.account_section.handle.change.failure_alert.message" = "Der opstod en fejl under opsætning af brugernavn. Prøv venligst igen.";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "Email";
+"self.settings.account_section.email.change.save" = "Gem";
+
+"self.settings.account_section.email.change.verify.title" = "Bekræft e-mailadresse";
+"self.settings.account_section.email.change.verify.description" = "Tjek din email indbakke og følg anvisningerne.";
+"self.settings.account_section.email.change.verify.resend" = "Send igen til %@";
+
+"self.settings.account_section.email.change.resend.title" = "E-mail sendt igen";
+"self.settings.account_section.email.change.resend.message" = "Bekræftelses e-mail er sendt til %@. Tjek din e-mail og følg instruktionerne.";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "Telefon";
+"self.settings.account_section.phone_number.change.save" = "Gem";
+"self.settings.account_section.phone_number.change.remove" = "Fjern telefonnummer";
+
+"self.settings.account_section.phone_number.change.remove.action" = "Fjern telefonnummer";
+
+"self.settings.account_section.phone_number.change.verify.save" = "Gem";
+"self.settings.account_section.phone_number.change.verify.title" = "Bekræft";
+"self.settings.account_section.phone_number.change.verify.description" = "Indtast bekræftelseskoden vi har sendt til: %@.";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "Indtast kode";
+"self.settings.account_section.phone_number.change.verify.resend" = "Send kode igen";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "Ingen kode modtaget?\nDu kan anmode om en ny hver 30. sekund.";
+
+"self.settings.account_section.phone_number.change.resend.title" = "Kode sendt igen";
+"self.settings.account_section.phone_number.change.resend.message" = "Bekræftelseskoden er sendt til %@.";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "Notifikationer";
+"self.settings.notifications.push_notification.toogle" = "Besked forhåndsvisning";
+"self.settings.notifications.push_notification.footer" = "Afsenders navn og besked på låseskærmen og i notifikations center.";
+
+"self.settings.notifications.chat_alerts.toggle" = "Besked bannere";
+"self.settings.notifications.chat_alerts.footer" = "Nye beskeder i andre samtaler.";
+
+"self.settings.sound_menu.sounds.title" = "Lyde";
+"self.settings.sound_menu.ringtone.title" = "Ringetone";
+"self.settings.sound_menu.message.title" = "Besked tone";
+"self.settings.sound_menu.ping.title" = "Ping";
+"self.settings.sound_menu.ringtones.title" = "Ringetoner";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "Ingen";
+
+"self.settings.callkit.title" = "Opkald";
+"self.settings.callkit.caption" = "Del med iOS";
+"self.settings.callkit.description" = "Show Secret calls on the lock screen and in iOS call history. If iCloud is enabled, call history is shared with Apple.";
+
+"self.settings.vbr.title" = "Variable bithastighed";
+"self.settings.vbr.description" = "Dette gør, at lydopkald bruger færre data og fungerer bedre med langsommere netværk. Sluk for at anvende konstant bithastighed.";
+
+"self.settings.sound_menu.sounds.wire_call" = "Secret Opkald";
+"self.settings.sound_menu.sounds.wire_message" = "Secret Besked";
+"self.settings.sound_menu.sounds.wire_ping" = "Secret Ping";
+
+// By popular demand
+"self.settings.popular_demand.title" = "Ved populær efterspørgsel";
+"self.settings.popular_demand.send_button.title" = "Send Knap";
+"self.settings.popular_demand.send_button.footer" = "Deaktiver for at sende via returtasten.";
+"self.settings.popular_demand.dark_mode.footer" = "Switch between dark and light theme.";
+
+// Open in
+"self.settings.external_apps.header" = "Åbn med";
+
+"self.settings.link_options.twitter.title" = "Tweets";
+"self.settings.link_options.maps.title" = "Lokationer";
+"self.settings.link_options.browser.title" = "Browser";
+
+"open_link.twitter.option.default" = "Browser / Twitter";
+"open_link.twitter.option.tweetbot" = "Tweetbot";
+"open_link.twitter.option.twitterrific" = "Twitterrific";
+
+"open_link.maps.option.apple" = "Kort";
+"open_link.maps.option.google" = "Google Maps";
+"open_link.maps.footer" = "Some location links will always open in Apple Maps.";
+
+"open_link.browser.option.safari" = "Safari";
+"open_link.browser.option.chrome" = "Chrome";
+"open_link.browser.option.firefox" = "Firefox";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "Lyd advarsler";
+"self.settings.sound_menu.no_sounds.title" = "Ingen";
+"self.settings.sound_menu.all_sounds.title" = "Alle";
+"self.settings.sound_menu.mute_while_talking.title" = "First message and pings";
+
+// Developer options
+"self.settings.developer_options.title" = "Indstillinger for udviklere";
+"self.settings.apns_logging.title" = "APNS logføring";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "Egenskaber";
+
+"self.settings.privacy_contacts_section.title" = "Kontakter";
+"self.settings.privacy_contacts_menu.settings_button.title" = "Åbn indstillinger for kontakter";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "Dette hjælper dig med at oprette forbindelse med andre. Vi anonymiserer alle informationer og deler ikke med andre. Tillad adgang via Indstillinger > Privatliv > Kontakter.";
+
+"self.settings.privacy_security.lock_app" = "Lås med adgangskode";
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "Lock Wire after %@ in the background.";
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "Unlock with Touch ID or enter your passcode.";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "Unlock with Face ID or enter your passcode.";
+"self.settings.privacy_security.lock_app.subtitle.none" = "Unlock by entering your passcode.";
+
+"self.settings.privacy_security.lock_app.description" = "Åben Secret";
+
+
+"self.settings.privacy_security.lock_cancelled.description" = "Åben Secret med Touch ID eller adgangskode";
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Unlock Secret with Face ID or Passcode";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "Åben Wire med Touch ID eller adgangskode";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Unlock Secret with Passcode";
+
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "To unlock Secret, turn on Passcode in your device settings";
+
+"self.settings.privacy_security.lock_cancelled.action" = "Åben";
+
+"self.settings.privacy_security.disable_link_previews.title" = "Create Link Previews";
+"self.settings.privacy_security.disable_link_previews.footer" = "Previews kan stadig blive vist for link fra andre.";
+
+"self.settings.privacy_analytics_menu.devices.title" = "Enheder";
+
+"self.settings.privacy.clear_history.title" = "Ryd historik";
+"self.settings.privacy.clear_history.subtitle" = "Dette vil slette permanent indholdet af alle dine samtaler.";
+
+"self.settings.advanced.title" = "Avanceret";
+"self.settings.advanced.troubleshooting.title" = "Fejlfinding";
+
+"self.settings.advanced.troubleshooting.submit_debug.title" = "Debug Report";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "This information helps Wire Support diagnose calling problems and improve the overall app experience.";
+
+"self.settings.advanced.reset_push_token.title" = "Nulstil Push Notifikationer Token";
+"self.settings.advanced.reset_push_token.subtitle" = "Hvis du oplever problemer med push notifikationer, kan Secret Support bede dig om at nulstille denne token.";
+"self.settings.advanced.reset_push_token_alert.title" = "Push token er blevet nulstillet";
+"self.settings.advanced.reset_push_token_alert.message" = "Notifikationer vil blive gendannet ved få sekunder.";
+"self.settings.advanced.version_technical_details.title" = "Version Tekniske Detaljer";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "Data Usage Permissions";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "Teknisk rapport";
+"self.settings.technical_report.send_report" = "Send rapport til Secret";
+"self.settings.technical_report.mail.subject" = "Secret Debug Report";
+"self.settings.technical_report.include_log" = "Inkludér detaljeret log";
+"self.settings.technical_report.privacy_warning" = "Detaljerede logfiler kan indeholde personoplysninger";
+"self.settings.technical_report.no_mail_alert" = "No mail client detected. Tap \"OK\" and send logs manually to: ";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "Nulstil adgangskode";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "Invitér personer";
+
+// History backup
+
+"self.settings.conversations.title" = "Historik";
+"self.settings.history_backup.title" = "Back Up Conversations";
+"self.settings.history_backup.description" = "Create a backup to preserve your conversation history. You can use this to restore history if you lose your device or switch to a new one.\n\nChoose a strong password to protect the backup file.";
+"self.settings.history_backup.action" = "Back Up Now";
+"self.settings.history_backup.error.title" = "Fejl";
+
+"self.settings.history_backup.set_email.title" = "Set an email and password.";
+"self.settings.history_backup.set_email.message" = "You need an email and a password in order to back up your conversation history. You can do it from the account page in Settings.";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "Set Password";
+"self.settings.history_backup.password.cancel" = "Annuller";
+"self.settings.history_backup.password.next" = "Næste";
+"self.settings.history_backup.password.placeholder" = "Mindst 8 tegn";
+"self.settings.history_backup.password.description" = "The backup will be compressed and encrypted with the password you set here.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "Ingen forbindelse";
+"system_status_bar.no_internet.explanation" = "Det lader til at der er problemer med din internet forbindelse. Venligst undersøg at det virker.";
+"system_status_bar.poor_connectivity.title" = "Langsomt net, kan ikke foretage opkald nu";
+"system_status_bar.poor_connectivity.explanation" = "Vi kan ikke garantere stemme kvaliteten. Forbind til et Wi-Fi eller prøv at ændre din position.";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "Dit fulde navn";
+"name.guidance.tooshort" = "Mindst 2 tegn";
+"name.guidance.toolong" = "For mange tegn";
+
+"email.placeholder" = "E-mail";
+"email.guidance.invalid" = "Ugyldig e-mailadresse";
+"email.guidance.tooshort" = "Email is too short";
+"email.guidance.toolong" = "For mange tegn";
+
+"password.placeholder" = "Adgangskode";
+"password.guidance.toolong" = "For mange tegn";
+
+"phone.guidance.invalid" = "Ugyldigt telefonnummer";
+"phone.guidance.tooshort" = "Phone number is too short";
+"phone.guidance.toolong" = "For mange tegn";
+
+// Landing screen
+
+
+"landing.app_name" = "Secret";
+
+"landing.header" = "Secret. Add your Account.";
+
+"landing.create_account.title" = "Personligt";
+"landing.create_account.subtitle" = "Chat privately with groups of friends\U00A0and\U00A0family";
+"landing.create_team.title" = "Pro";
+"landing.create_team.subtitle" = "Secure collaboration for businesses, institutions and professional\U00A0organizations";
+"landing.login.hints" = "Already have an account?";
+"landing.login.button.title" = "Log ind";
+
+"landing.custom_backend.title" = "Connected to \"%@\"";
+"landing.custom_backend.more_info.button.title" = "Show more";
+"landing.custom_backend.more_info.alert.title" = " You are connected to a third-party server: %@";
+
+// Create team
+
+"team.name.headline" = "Name your team";
+"team.name.subheadline" = "You can always change it later.";
+"team.name.textfield.placeholder" = "team name";
+"team.name.textfield.accessibility" = "Set team name";
+
+"team.name.whatiswireforteams" = "What is Secret for teams?";
+
+"team.email.headline" = "Your account";
+"team.email.subheadline" = "Enter your work email address.";
+"team.email.textfield.placeholder" = "Your company email";
+"team.email.button.learn_more" = "Få flere oplysninger";
+
+"team.activation_code.headline" = "You’ve got mail";
+"team.phone_activation_code.headline" = "Verification";
+"team.activation_code.subheadline" = "Enter the verification code we sent to %@.";
+"team.activation_code.button.resend" = "Resend code";
+"team.activation_code.button.change_email" = "Ændre email";
+"team.activation_code.button.change_phone" = "Ændre telefon nummer";
+
+"team.full_name.headline" = "Your name";
+"team.full_name.textfield.placeholder" = "Full name";
+"team.full_name.textfield.accessibility" = "Set full name";
+
+"team.password.headline" = "Set password";
+
+"verification.code_label" = "Six-digit code. Text field.";
+"verification.code_hint" = "Double tap to enter the code.";
+
+// Invite Team Members
+
+"team.invite.header.title" = "Build your team";
+"team.invite.header.subtitle" = "Your Wire team is ready to go. Invite your colleagues as members.";
+"team.invite.textfield.placeholder" = "Colleague's email";
+"team.invite.textfield.accesibility" = "Enter email address for colleague to invite.";
+"team.invite.learn_more.title" = "Lær mere";
+"team.invite.top_bar.skip" = "Spring over";
+"team.invite.top_bar.done" = "Færdig";
+
+// Team Invite Errors
+"team.invite.error.generic" = "Noget gik galt, prøv venligst igen";
+"team.invite.error.already_registered" = "This email address is already in use";
+"team.invite.error.already_invited" = "This email has already been invited";
+"team.invite.error.too_many_invitations" = "The maximum number of invitations has been sent";
+"team.invite.error.no_internet" = "Ingen internetforbindelse";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "Tillad gæster";
+"guest_room.allow_guests.subtitle" = "Åbn denne samtale for personer uden for dit team.";
+"guest_room.remove_guests.message" = "Aktuel gæst vil blive fjernet fra samtalen. Nye gæster vil ikke være tilladt.";
+"guest_room.remove_guests.action" = "Fjern";
+"guest_room.revoke_link.message" = "Nye gæster vil ikke kunne tilslutte med dette link. Aktuelle gæster vil stadig have adgang.";
+"guest_room.revoke_link.action" = "Revoke Link";
+
+"guest_room.error.generic.title" = "Noget gik galt";
+"guest_room.error.generic.message" = "Check your connection and try again";
+
+"guest_room.link.header.title" = "Inviter andre med et link";
+"guest_room.link.header.subtitle" = "Alle med linket kan tilføje sig til samtalen, også selvom de ikke har Secret.";
+
+"guest_room.link.button.title" = "Create Link";
+
+"guest_room.actions.copy_link" = "Copy Link";
+"guest_room.actions.copied_link" = "Link Copied!";
+"guest_room.actions.share_link" = "Share Link";
+"guest_room.actions.revoke_link" = "Revoke Link…";
+
+"guest_room.share.message" = "Join me in a conversation on Secret:\n%@";
+
+"guest_room.expiration.hours_left" = "%@h left";
+"guest_room.expiration.less_than_minutes_left" = "Less than %@m left";
+
+// Registration
+
+"registration.launch_back_button.label" = "Tilbage";
+
+"registration.title" = "Registrering";
+"registration.close_email_invitation_button.email_title" = "Brug en anden e-mail";
+"registration.close_email_invitation_button.phone_title" = "Registrer via telefon";
+"registration.close_phone_invitation_button.email_title" = "Registrer via e-mail";
+"registration.close_phone_invitation_button.phone_title" = "Brug en anden telefon";
+
+"registration.register_by_phone" = "Telefon";
+"registration.register_by_email" = "E-mail";
+
+"registration.enter_phone_number.title" = "Rediger telefonnummer";
+"registration.enter_phone_number.placeholder" = "Telefonnummer";
+
+"registration.verify_phone_number.instructions" = "Angiv bekræftelseskoden vi har sendt til %@";
+"registration.verify_phone_number.resend" = "Send igen";
+"registration.verify_phone_number.resend_placeholder" = "Ingen kode bliver vist?\nDu kan anmode om en ny om %.0f sekunder";
+
+"registration.verify_email.instructions" = "Vi har sendt en e-mail til %@.\nFølg linket for at bekræfte din adresse.";
+"registration.verify_email.resend.instructions" = "Fik du ikke beskeden?";
+"registration.verify_email.resend.button_title" = "Gensend";
+
+
+"registration.select_picture.subtitle" = "Secret er så meget pænere med et billede.";
+"registration.select_picture.button_title" = "Vælg dit eget";
+"registration.keep_picture.button_title" = "Behold denne";
+"registration.camera_action.title" = "Tag foto";
+"registration.photo_gallery_action.title" = "Vælg foto";
+"registration.cancel_action.title" = "Annuller";
+
+"registration.no_history.hero" = "Det er første gang du bruger Secret på denne enhed.";
+
+"registration.no_history.subtitle" = "Af hensyn til fortrolighed, vil din samtalehistorik ikke vises her.";
+"registration.no_history.got_it" = "OK";
+"registration.no_history.restore_backup" = "Gendan fra sikkerhedskopi";
+
+"registration.alert.account_exists.title" = "Account Exists";
+"registration.alert.account_exists.message_phone" = "The phone number you used to register is already linked to an account.\n\nUse another phone number, or try to log in if you own this account.";
+"registration.alert.account_exists.message_email" = "The email address you used to register is already linked to an account.\n\n Use another email address, or try to log in if you own this account.";
+"registration.alert.change_email_action" = "Register with Another Email";
+"registration.alert.change_phone_action" = "Register with Another Number";
+"registration.alert.change_signin_action" = "Log ind";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "Restore history";
+"registration.no_history.restore_backup_warning.message" = "The backup contents will replace the conversation history on this device.\nYou can only restore history from a backup of the same platform.";
+"registration.no_history.restore_backup_warning.proceed" = "Choose Backup File";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "Prøv igen";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "Noget gik galt";
+"registration.no_history.restore_backup_failed.message" = "Din historik kunne ikke gendannes.";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "Ukompatibel sikkerhedskopi";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "Du kan ikke gendanne historik fra en anden konto.";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "Ukompatibel sikkerhedskopi";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "Denne sikkerhedskopi er lavet på en nyere eller uddateret version af Secret og kan ikke blive gendannet her.";
+
+// SSO – Company Login
+"login.sso.alert.title" = "Company Log In";
+"login.sso.alert.message" = "Enter the company SSO access code.";
+"login.sso.alert.action" = "Log ind";
+"login.sso.alert.text_field.placeholder" = "SSO access code";
+
+"login.sso.start_error_title" = "Cannot Start Company Login";
+"login.sso.link_error_message" = "The company login link you clicked is not valid. Please contact your administrator to resolve the issue.";
+
+"login.sso.error.alert.title" = "Noget gik galt";
+"login.sso.error.alert.invalid_code.title" = "Invalid code.";
+"login.sso.error.alert.invalid_code.message" = "Please verify your company SSO access code and try again.";
+"login.sso.error.offline.alert.message" = "Tjek din internetforbindelse og prøv igen.";
+"login.sso.error.alert.message" = "Please contact your team administrator for details (error %@).";
+"login.sso.error.alert.unknown.message" = "Prøv venligst igen senere.";
+"login.sso.error.alert.invalid_status.message" = "Please try again later (error %@).";
+
+// Restore In Progress Loading Titles
+"registration.no_history.restore_backup.restoring" = "Restoring…";
+"registration.no_history.restore_backup.completed" = "Completed";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "This backup is password protected.";
+"registration.no_history.restore_backup.password.message" = "The password is required to restore this backup.";
+"registration.no_history.restore_backup.password.placeholder" = "Adgangskode";
+"registration.no_history.restore_backup.password_error.title" = "Wrong Password";
+
+"registration.no_history.logged_out.hero" = "Du har brugt Secret på denne enhed før.";
+"registration.no_history.logged_out.subtitle" = "Beskeder sendt i mellemtiden vises ikke.";
+"registration.no_history.logged_out.got_it" = "OK";
+
+"registration.enter_name.title" = "Rediger Navn";
+"registration.enter_name.hero" = "Hvad skal vi kalde dig?";
+"registration.enter_name.placeholder" = "Dit fulde navn";
+
+"registration.terms_of_use.title" = "Velkommen til Secret.";
+"registration.terms_of_use.terms" = "Ved at fortsætte, accepterer du vilkårene for anvendelse af Secret.";
+"registration.terms_of_use.terms.link" = "Vilkår for anvendelse";
+"registration.terms_of_use.agree" = "Jeg er enig";
+
+"registration.terms_of_use.terms.title" = "Vilkår for anvendelse";
+"registration.terms_of_use.terms.message" = "Please accept the Terms of Use to continue.";
+"registration.terms_of_use.terms.view" = "Vis";
+"registration.terms_of_use.accept" = "Besvar";
+
+"registration.email_flow.title" = "Registrer via e-mail";
+"registration.email_flow.email_step.title" = "Rediger oplysninger";
+
+"registration.country_select.title" = "Land";
+
+"registration.share_contacts.hero.title" = "Find personer på Secret";
+"registration.share_contacts.hero.paragraph" = "Del dine kontakter så vi kan forbinde dig med andre. Vi anonymiserer alle informationer og deler dem ikke med andre.";
+"registration.share_contacts.find_friends_button.title" = "Del kontakter";
+"registration.share_contacts.skip_button.title" = "Ikke nu";
+
+"registration.address_book_access_denied.hero.title" = "Secret har ikke adgang til dine kontakter.";
+"registration.address_book_access_denied.hero.paragraph1" = "Secret hjælper med at finde dine venner, hvis du deler dine kontaktpersoner.";
+"registration.address_book_access_denied.hero.paragraph2" = "For at aktivere adgang tryk på Indstillinger og slå kontaktpersoner til.";
+"registration.address_book_access_denied.settings_button.title" = "Indstillinger";
+"registration.address_book_access_denied.maybe_later_button.title" = "Måske senere";
+
+"registration.push_access_denied.hero.title" = "Gå aldrig glip af et opkald eller en besked.";
+"registration.push_access_denied.hero.paragraph1" = "Aktiver Notifikationer i Indstillinger.";
+"registration.push_access_denied.settings_button.title" = "Gå til Indstillinger";
+"registration.push_access_denied.maybe_later_button.title" = "Måske senere";
+
+"registration.personal.title" = "Opret en konto";
+"registration.signin.title" = "Log ind";
+
+"registration.signin.too_many_devices.title" = "Too Many Devices";
+"registration.signin.too_many_devices.subtitle" = "Fjern en af dine andre enheder for at begynde at bruge Wire med denne enhed.";
+
+"registration.signin.too_many_devices.manage_button.title" = "Administrer enheder";
+"registration.signin.too_many_devices.sign_out_button.title" = "Log ud";
+
+"registration.signin.too_many_devices.manage_screen.title" = "Remove a Device";
+
+"registration.signin.alert.password_needed.title" = "Password needed";
+"registration.signin.alert.password_needed.message" = "Please enter your Password in order to log in.";
+
+"registration.devices.title" = "Enheder";
+"registration.devices.active_list_header" = "Aktiv";
+"registration.devices.current_list_header" = "Aktuelle";
+"registration.devices.active_list_subtitle" = "Hvis du ikke kan genkende en enhed ovenfor, fjern den og nulstil din adgangskode.";
+"registration.devices.activated" = "Activated %@";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "Login with Email";
+"signin.use_phone.label" = "Login with Phone";
+"signin.forgot_password" = "Glemt adgangskode?";
+"signin.use_one_password.label" = "Log in with 1Password";
+"signin.use_one_password.hint" = "Double tap to fill your password with 1Password";
+"signin.confirm" = "Log ind";
+"signin.company_idp.button.title" = "For Companies";
+
+"signin_logout.subheadline" = "Your session expired. You need to log in again to continue.";
+"signin_logout.email.subheadline" = "Your session expired. Enter your email address and password to continue.";
+"signin_logout.phone.subheadline" = "Your session expired. Enter your phone number to continue.";
+"signin_logout.sso.subheadline" = "Your session expired. Log in with your company account to continue.";
+"signin_logout.sso.buton" = "Company Log In";
+
+"signin.email.missing_password.subtitle" = "Enter your email address and password to continue.";
+"signin.phone.missing_password.subtitle" = "Enter your phone number to continue.";
+
+"registration.phone_country" = "Land";
+"registration.phone_code" = "Landekode";
+"registration.phone_country.hint" = "Double tap to select another country.";
+"registration.phone_code.hint" = "Double tap to select another country code.";
+"registration.phone.verify.label" = "Verificer telefonnummer";
+"registration.phone.verify_field.label" = "Verification Code";
+
+"registration.add_phone_number.hero.title" = "Tilføj telefonnummer";
+"registration.add_phone_number.hero.paragraph" = "Dette hjælper os med at finde folk du måske kender. Vi deler det aldrig.";
+"registration.add_phone_number.skip_button.title" = "Ikke nu";
+
+
+"registration.add_email_password.hero.title" = "Add your email and password";
+"registration.add_email_password.hero.paragraph" = "Dette gør at du kan bruge Wire på flere enheder.";
+
+"registration.email_invitation.title" = "Invitation";
+"registration.email_invitation.hero.title" = "Hej, %@";
+"registration.email_invitation.hero.paragraph" = "Vælg en adgangskode for at oprette din konto.";
+
+"registration.phone_invitation.title" = "Invitation";
+"registration.phone_invitation.hero.title" = "Hej, %@";
+"registration.phone_invitation.hero.paragraph" = "Du er et skridt væk fra at oprette din konto.";
+
+"registration.confirm" = "Sign Up";
+"registration.phone.country_code.hint" = "Double tap to use a phone number from this country.";
+
+"error.name_and_email" = "Indtast dit fulde navn og en gyldig e-mailadresse";
+"error.full_name" = "Indtast dit fulde navn";
+"error.email" = "Indtast en gyldig e-mailadresse";
+"error.input.too_long" = "Den indtastede tekst er for lang";
+"error.input.too_short" = "Den indtastede tekst er for kort";
+"error.email.invalid" = "Angiv venligst en gyldig e-mail adresse";
+"error.phone.invalid" = "Indtast et gyldigt telefonnummer";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "Vælg dit unikke navn på Secret.";
+"registration.select_handle.takeover.subtitle_link" = "Lær mere";
+
+"registration.select_handle.takeover.choose_own" = "Vælg din";
+"registration.select_handle.takeover.keep_suggested" = "Behold denne";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "Noget gik galt, prøv venligst igen";
+"error.user.needs_credentials" = "Bekræft dine detaljer, og prøv igen.";
+"error.user.invalid_credentials" = "Bekræft dine detaljer, og prøv igen.";
+"error.user.account_pending_activation" = "Kontoen du prøver at få adgang til afventer aktivering. Bekræft venligst dine detaljer.";
+"error.user.network_error" = "Der synes at være problemer med dit netværk. Prøv igen senere.";
+"error.user.email_is_taken" = "Den e-mailadresse du indtastede er allerede registreret. Prøv venligst igen.";
+"error.user.phone_is_taken" = "Det telefonnummer du indtastede, er allerede registreret. Prøv igen.";
+"error.user.phone_code_invalid" = "Indtast en gyldig kode";
+"error.user.phone_code_too_many" = "Vi har allerede sendt dig en kode via SMS. Tryk på Gensend efter 10 minutter for at få en ny.";
+"error.user.registration_unknown_error" = "Noget gik galt. Venligst prøv igen.";
+"error.user.device_deleted_remotely" = "Du er blevet logget af fra en anden enhed.";
+"error.user.last_identity_cant_be_deleted" = "Der kræves enten en e-mailadresse eller et telefonnummer.";
+"error.user.account_suspended" = "Denne konto har ikke længere tilladelse til at logge ind.";
+"error.user.account_limit_reached" = "You can’t add more than 3 accounts.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "Kunne ikke opdatere din adgangskode.";
+
+"error.group_call.too_many_members_in_conversation.title" = "For mange personer til opkald";
+"error.group_call.too_many_members_in_conversation" = "Opkald virker i samtaler med op til %d personer.";
+"error.group_call.too_many_participants_in_the_call.title" = "Opkaldet er fuldt";
+"error.group_call.too_many_participants_in_the_call" = "There’s only room for %d participants in here.";
+"error.call.gsm_ongoing.title" = "Mobilt opkald";
+"error.call.gsm_ongoing" = "Venligst annuller det mobile opkald inden opkald med Secret.";
+"error.call.general.title" = "Opkaldsfejl";
+"error.call.general" = "Venligst prøv igen om flere minutter.";
+"error.call.slow_connection.title" = "Langsom forbindelse";
+"error.call.slow_connection" = "Du kan opleve problemer under opkaldet";
+"error.call.slow_connection.call_anyway" = "Ring alligevel";
+
+"error.invite.no_email_provider" = "Konfigurer din e-mail klient for at kunne sende invitationer via e-mail";
+"error.invite.no_messaging_provider" = "Konfigurer din SMS for at kunne sende invitationer vis SMS";
+
+"error.conversation.title" = "Fejl";
+"error.conversation.cannot_add" = "Adding the participant failed";
+"error.conversation.cannot_remove" = "Removing the participant failed";
+"error.conversation.too_many_members" = "The conversation is full";
+"error.conversation.offline" = "Det lader til at der er problemer med din internet forbindelse. Venligst undersøg at det virker.";
+
+"sketchpad.initial_hint" = "Tryk på farver for at ændre penselstørrelse";
+
+"migration.please_wait_message" = "Et øjeblik";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@ sluttede sig til Secret";
+"push.notification.new_message" = "Ny besked";
+
+
+//Force Update
+"force.update.title" = "Opdatering nødvendig";
+"force.update.message" = "Du går glip af nye funktioner.\nHent den seneste version af Secret i App Store.";
+"force.update.ok_button" = "Gå til App Store";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Jailbreak detected";
+"jailbrokendevice.alert.message" = "For security reasons, Wire can't be used on this device. Any existing Wire data has been erased.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · via giphy.com";
+"giphy.conversation.random_message" = "via giphy.com";
+"giphy.error.no_more_results" = "ikke flere gifs";
+"giphy.error.no_result" = "ingen gif fundet";
+
+"giphy.confirm" = "send";
+"giphy.cancel" = "annuller";
+"giphy.search_placeholder" = "Søg Giphy";
+
+"invite_banner.title" = "Bring dine venner med til Secret!";
+"invite_banner.message" = "Nyd opkald, beskeder, skitser, GIFs og mere, privat eller med grupper.";
+"invite_banner.invite_button_title" = "Invitér flere personer";
+
+// Collections
+"collections.section.images.title" = "Billeder";
+"collections.section.files.title" = "Filer";
+"collections.section.videos.title" = "Videoer";
+"collections.section.links.title" = "Links";
+"collections.section.all.button" = "Vis alle %d →";
+"collections.section.no_items" = "Ingen emner i samlingen";
+"collections.image_viewer.copied.title" = "Billedet er kopieret";
+
+"collections.search.field.placeholder" = "Søg i tekstbeskeder";
+"collections.search.no_items" = "Intet resultat";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "Messages";
+"compose.drafts.empty.title" = "No messages";
+"compose.drafts.empty.subtitle" = "Tap + to compose one";
+"compose.drafts.compose.title" = "Skriv en besked";
+"compose.drafts.compose.subject.placeholder" = "Tap to set a subject";
+
+"compose.drafts.compose.delete.confirm.title" = "Confirm Deletion";
+"compose.drafts.compose.delete.confirm.message" = "This action will permanently delete this draft and cannot be undone.";
+"compose.drafts.compose.delete.confirm.action.title" = "Slet";
+
+"compose.drafts.compose.dismiss.confirm.title" = "Save as draft";
+"compose.drafts.compose.dismiss.confirm.action.title" = "Gem";
+"compose.drafts.compose.dismiss.delete.action.title" = "Slet";
+
+"availability.message.cancel" = "Annuller";
+"availability.message.set_status" = "Sæt en status";
+"availability.accessibility_label.change_status" = "Change Status";
+"availability.accessibility_label.status" = "Status";
+
+"availability.none" = "Ingen";
+"availability.available" = "Ledig";
+"availability.away" = "Ikke til stede";
+"availability.busy" = "Optaget";
+"availability.available.placeholder" = "%@ is available";
+"availability.away.placeholder" = "%@ is away";
+"availability.busy.placeholder" = "%@ is busy";
+
+"availability.reminder.away.title" = "You are set to Away";
+"availability.reminder.away.message" = "You will appear as Away to other people. You will not receive notifications about any incoming calls or messages.";
+"availability.reminder.busy.title" = "You are set to Busy";
+"availability.reminder.busy.message" = "You will appear as Busy to other people. You will only receive notifications for mentions, replies, and calls in conversations that are not muted.";
+"availability.reminder.available.title" = "You are set to Available";
+"availability.reminder.available.message" = "You will appear as Available to other people. You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.none.title" = "No status set";
+"availability.reminder.none.message" = "You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.action.dont_remind_me" = "Do not display this information again";
+"availability.reminder.action.ok" = "OK";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "Call Quality Feedback";
+"calling.quality_survey.question" = "How do you rate the overall quality of the call?";
+"calling.quality_survey.answer.1" = "Bad";
+"calling.quality_survey.answer.2" = "Poor";
+"calling.quality_survey.answer.3" = "Fair";
+"calling.quality_survey.answer.4" = "Good";
+"calling.quality_survey.answer.5" = "Excellent";
+"calling.quality_survey.skip_button_title" = "Spring over";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "Bekræft";
+"url_action.title" = "Confirm URL action";
+"url_action.connect_to_bot.message" = "Would you like to connect to the bot?";
+
+"url_action.switch_backend.title" = "Connect to server";
+"url_action.switch_backend.message" = "This configuration will connect the app to a third-party server:\n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Can’t switch servers";
+"url_action.switch_backend.error.logged_in" = "You are already logged in. To switch to this server, log out of all accounts and try again.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "The server is not responding";
+"url_action.switch_backend.error.invalid_backend" = "Please check your internet connection, verify the link and try again.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret can't find this person.";
+"url_action.invalid_user.message" = "You may not have permission with this account or it no longer exists.";
+
+"url_action.invalid_conversation.title" = "Secret can't open this conversation.";
+"url_action.invalid_conversation.message" = "You may not have permission with this account or the person may not be on Wire.";
+
+"url_action.authorization_required.title" = "Authorization required.";
+"url_action.authorization_required.message" = "You need to log in to view this content.";
+
+"url_action.invalid_link.title" = "Invalid link.";
+"url_action.invalid_link.message" = "The link you opened is not valid.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+"news_offers.consent.title" = "Do you want to receive news and product updates from Secret via email?";
+"news_offers.consent.message" = "You can unsubscribe at any time.";
+"news_offers.consent.button.privacy_policy.title" = "Fortrolighedspolitik";
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat"  = "Create Group";
+"conversation_list.popover.add_friend"  = "Add Friends";
+"conversation_list.popover.scan"        = "Scan";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "No one has liked this message yet.";
+"message_details.empty_read_receipts" = "No one has read this message yet.";
+"message_details.read_receipts_disabled" = "Read receipts were not on when this message was sent.";
+"message_details.combined_title" = "Message Details";
+"message_details.likes_title" = "Liked";
+"message_details.receipts_title" = "Read";
+"message_details.tabs.seen" = "Read (%d)";
+"message_details.tabs.likes" = "Liked (%d)";
+"message_details.subtitle_send_date" = "Sent: %@";
+"message_details.subtitle_edit_date" = "Edited: %@";
+"message_details.subtitle_label_voiceOver" = "Message Details";
+"message_details.user_handle_subtitle_label" = "Brugernavn";
+"message_details.user_read_timestamp_subtitle_label" = "Read at";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+"registration.password.rules.no_requirements" = "Use %@.";
+
+
+"self.settings.account_details.equipment_model.title" = "Equipment model";
+
+"registration.password.rules.with_requirements" = "Use %@, with %@.";
+
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "Legal Hold Deactivated";
+"legal_hold.deactivated.message" = "Future messages will not be recorded.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "Under legal hold.";
+"share_extension.voiceover.conversation_secure" = "All clients verified.";
+"share_extension.voiceover.conversation_secure_with_ignored" = "Not all clients verified.";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = "Pending approval.";
+"legalhold_request.alert.title" = "Legal Hold Requested";
+"legalhold_request.alert.detail" = "All future messages will be recorded by the device with fingerprint:\n\n%@\n\nThis includes deleted, edited, and timed messages in all conversations.";
+"legalhold_request.alert.detail.enter_password" = "Enter your password to confirm.";
+"legalhold_request.alert.error_wrong_password" = "Wrong Password";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "Legal Hold is Active";
+"legalhold_active.alert.learn_more" = "Få flere oplysninger";
+"legalhold_active.alert.message" = "Legal Hold has been activated for your account. All messages will be preserved for future access, including deleted, edited, and timed messages.\n\nYour conversation partners will be aware of the recording.";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "Your session expired";
+"account_deleted_session_expired_alert.message" = "The application did not communicate with the server for a long period of time, or your session has been remotely invalidated.";
+

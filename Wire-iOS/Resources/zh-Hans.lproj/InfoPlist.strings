@@ -1,0 +1,12 @@
+
+
+"NSContactsUsageDescription" = "允许Secret读取您的通讯录从而帮助您找到更多的好友。 我们会将您的所有信息匿名处理并且不会泄漏给任何第三方。";
+"NSMicrophoneUsageDescription" = "允许Secret访问您的麦克风，从而您可以与好友进行语音聊天并且发送语音细腻。";
+"NSLocationWhenInUseUsageDescription" = "允许Secret获取您的位置信息，这样你将可以发送你的地理位置给您的朋友。";
+"NSCameraUsageDescription" = "允许Secret访问您的摄像头，从而可以拨打视频电话并发送照片。";
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "允许Secret存储图片到照片库。";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "允许Secret访问存储照片库。从而可以发送图片和视频给您的朋友。";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "为了进行身份验证, 允许Secret访问 \"Face ID\" 功能。";

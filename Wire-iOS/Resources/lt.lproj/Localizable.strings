@@ -1,0 +1,1916 @@
+
+"conversation.groupinvite.invite" = "”%@“ wants to invite %@ friends to join group chat";
+"conversation.groupinvite.do" = "To confirm";
+"conversation.groupinvite.done" = "confirmed";
+"conversation.groupinvite.add.self" = "Invite %@ to join a group chat";
+"conversation.groupinvite.add.other" = "Invite you to join a group chat";
+"conversation.groupinvite.add.detial" = "%@ invites %@ to join %@ group, click to view details.";
+"conversation.groupinvite.statue" = "Group invitation information";
+"conversation.groupinvite.confirm.invite" = "Confirm invitation";
+"conversation.groupinvite.confirm.title" = "Be sure to join the group chat";
+"conversation.groupinvite.confirm.join" = "Join the group chat";
+"conversation.groupinvite.confirm.refuse" = "Refuse to join";
+"conversation.groupinvite.confirm.joined" = "Joined";
+"conversation.groupinvite.confirm.refused" = "Rejected";
+"conversation.group_invite.vc.nav.title" = "Invitation details ";
+"conversation.group_invite.vc.info.title" = "invite %d friends to join group chat";
+
+"network.restricted.tips" = "Your application has not yet been granted access to the network, go to the Settings center to open access!";
+"network.notreachable.tips" = "Go to setup center open network!";
+
+
+"photolibrary.permissions.shutdown.tips" = "Your application has not yet been granted access to the album, go to the Settings center to open access!";
+"photolibrary.unavailable.systemreason.tips" = "Unable to access the album for system reasons";
+
+
+"general.skip" = "skip";
+
+
+"newProfile.conversation.destoryafterread.subtitle" = "if this option is set, messages sent and received in the chat will disappear after reading.";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "five seconds";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "fifteen seconds";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "thirty seconds";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "one minutes";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "five minutes";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "one day";
+
+
+"settings.qrcode.tips" = "Secret，Scan the QR code to add me on Secret";
+"settings.qrcode.save" = "Save my QR code";
+"conversation.group.tips" = "Scan the QRcode to join the Secret group chat.";
+"conversation.group.qrcode.save" = "Save group QR code";
+
+"newProfile.conversation.record" = "Conversation Record";
+"newProfile.conversation.safe.title" = "Encryption Security Code";
+"newProfile.conversation.safe.subtitle" = "Chat information is encrypted";
+"newProfile.conversation.remark" = "Setting Remark";
+"newProfile.conversation.photo" = "Posts";
+"newProfile.conversation.addremark" = "Add note name";
+"newProfile.conversation.remarksave" = "Save";
+
+"newProfile.conversation.remove_participant" = "Remove Participant";
+"newProfile.conversation.start_chat" = "Start Chat";
+
+
+"participants.conversation.name" = "Conversation Name";
+
+"general.ok" = "OK";
+"general.cancel" = "Cancel";
+"general.open_settings" = "Open Secret Settings";
+
+"version.update_tips" = "New version! Go to APPSTORE for updating";
+
+
+//
+"peoplepicker.button.share_url_to_conversation" = "Send Url to contants";
+"peoplepicker.button.sub_to_conversation" = "Remove Member";
+"peoplepicker.button.delete_member" = "Delete group member";
+
+//
+"participants.avatar.host.title" = "Host";
+"participants.avatar.me.title" = "Me";
+"content.system.conversation.started.no.with" = " started a conversation.";
+
+
+"self.settings.account_manager.title" = "Account Manager";
+"self.settings.photo.title" = "My Posts";
+"self.settings.praise.title" = "Give us a five-star review";
+
+//Conversation Status
+"self.settings.status.title" = "Status";
+"self.settings.status.closed" = "Close";
+"self.settings.status.darwin" = "Intelligent Darwin Hostin";
+"self.settings.status.angel" = "Intelligent Darwin Hostin";
+"self.settings.status.campusbelle" = "Intelligent Darwin Hosting";
+"self.settings.status.ai" = "Artificial Intelligence Mode";
+"self.settings.status.zuchongzhi" = " ZuChongZhi";
+
+"self.settings.account_section.myQRCode.title" = "My QRCode";
+"self.settings.account_section.qrCode.title" = "Scan";
+
+// Setting - Scan
+"self.settings.account_section.scan.title" = "Scan QRCode";
+"self.settings.account_section.security.title" = "Security";
+
+
+"conversation.setting.backgroundimage" = "Set Background";
+"conversation.setting.backgroundimage.title" = "Choose Wallpaper";
+"conversation.setting.backgroundimage.description" = "Try other background.\nTry some new wallpapers at any time.";
+"conversation.setting.backgroundimage.apply" = "Apply";
+"conversation.setting.backgroundimage.cancel" = "Cancel";
+
+// MARK: - 
+"conversation.setting.place_top" = "Place Top";
+
+"conversation.setting.screenShot" = "Screenshot notification";
+"conversation.setting.screenShot.detail" = "After enabling, a message will be sent when the screenshot is taken";
+"conversation.setting.screenShot.open" = "Opened";
+"conversation.setting.screenShot.close" = "Closed";
+
+
+"conversation.setting.disableSendMsg" = "Setting Group DisableSendMsg";
+
+
+"conversation.setting.to.huge.conversation" = "Upgrade Group";
+"conversation.setting.to.upgraded.huge.conversation" = "Group Upgraded";
+"conversation.setting.to.upgrade.over.100" = "Members over 100 can open";
+"conversation.setting.to.openjoin.url" = "Open link join";
+"conversation.setting.to.openjoin.QRCode" = "Open QRCode join";
+"conversation.setting.to.group.allowViewMembers" = "Allow viewing of group members";
+"conversation.setting.to.group.qrcode" = "Group QRCode";
+"conversation.setting.to.group.urlshare" = "Share To";
+"conversation.setting.to.group.urlsubtitle" = "Choose to share";
+"conversation.setting.to.group.confirmTitle" = "Group chat invitation confirmation";
+"conversation.setting.to.group.confirmSubtitle" = "When enabled, group members need to confirm by the group owner to invite friends into the group, and scanning the QR code into the group is also disabled";
+"conversation.setting.to.group.ownerInvite" = "Only group owners invite to group chat";
+"conversation.setting.to.group.ownerChange" = "Group owner management transfer";
+"conversation.setting.to.group.manager" = "Group Manager";
+"conversation.setting.to.group.icon" = "Group Avatar";
+"conversation.setting.to.group.MemberConfirm" = "Group members are invited to confirm";
+"conversation.setting.to.group.shortcut" = "Add conversation to the Tab Bar";
+"conversation.setting.to.group.forbid_add_friend" = "Prohibit adding friends";
+"conversation.setting.to.group.member_change_unvisible" = "Close invitation, exit invisible";
+"conversation.setting.to.group.disablesendmsg" = "All DisableSendMsg";
+"conversation.setting.to.group.disablesendmsg.status" = "Only group manager is allowed to speak after all members' silence is enabled. Entering the name card of group members can set silence for individual members";
+"Group.settings.allow_member_add" = "No permission to view this user information";
+
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "Web page has been logged in";
+"hud.success.saved" = "Saved";
+"hud.success.added" = "Added";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "Invalid QRCode";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "Unkown error";
+"hud.error.invalid.qrcode" = "Invalid QRCode";
+"hud.error.no.qrcode" = "No QRCode found";
+"hud.error.not.find.user" = "The user could not be found.";
+"hud.error.not.choose.coin.type" = "Currency not selected";
+
+// MARK: - HUD Global
+"hud.cancelled" = "Cancelled";
+"hud.copied" = "Copied";
+
+// MARK: - AlertController
+"controller.alert.ok" = "OK";
+"controller.alert.title.error" = "Wrong";
+"controller.alert.desc.no.permission.to.album" = "Cannot access to Album, please go to Setting to open";
+
+
+// MARK: - 
+"join_invite_response_error_code_2001" = "You has been in the group";
+"join_invite_response_error_code_2002" = "Group manager does not allow new members to be added using url";
+
+// MARK: - Global
+"secret_unknown_error" = "Unknown error";
+"secret_server_error" = "Busy server";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "Scroll to latest";
+
+"app.scheme.login.authorization" = "Authorization";
+"app.scheme.login.apply.permission" = "Apply for the following permissions";
+"app.scheme.login.get.information" = "Get your public information";
+"app.scheme.login.auth.allow" = "Allow";
+"app.scheme.login.auth.refuse" = "Refuse";
+
+
+"notification.title" = " Notification";
+"notification.cell.comment" = "Commented";
+"notification.cell.reply" = "replied";
+"notification.cell.like" = "like you";
+"notification.cell.transimit" = "Forwarded";
+
+"new_version_title" = "Version Update";
+"login.intro.text" = "Keep All Chats Confidential";
+
+"general.ok" = "GERAI";
+"general.next" = "Kitas";
+"general.cancel" = "Atsisakyti";
+"general.close" = "Užverti";
+"general.back" = "Atgal";
+"general.open_settings" = "Atidaryti Secret nustatymus";
+"general.edit" = "Taisa";
+"general.done" = "Baigta";
+"general.confirm" = "GERAI";
+"general.skip" = "Ne dabar";
+"general.accept" = "Priimti";
+"general.decline" = "Ne, dėkui";
+"general.failure" = "Kažkas nutiko";
+"general.failure.try_again" = "Bandykite dar kartą.";
+"general.service" = "Paslauga";
+"general.off" = "Išjungta";
+"general.on" = "Įjungta";
+"general.loading" = "Kraunama…";
+"general.paste" = "Įdėti";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = " ";
+
+"general.guest-room-name" = "Svečių kambarys";
+
+// User Cell
+"user_cell.title.you_suffix" = " (jūs)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.search_placeholder" = "Ieškokite pagal vardą ar naudotojo vardą";
+"peoplepicker.header.top_people" = "Mėgstami žmonės";
+"peoplepicker.button.create_conversation" = "Sukurti grupę";
+"peoplepicker.button.add_to_conversation" = "Pridėti pašnekovų į grupę";
+"peoplepicker.header.conversations" = "Grupės";
+"peoplepicker.header.team_conversations" = "%@ grupės";
+"peoplepicker.header.send_invitation" = "Pakviesti";
+"peoplepicker.header.contacts" = "Kontaktai";
+"peoplepicker.header.contacts_personal" = "Asmeniniai kontaktai";
+"peoplepicker.header.directory" = "Užmegzti kontaktą";
+
+"peoplepicker.group.title.singular" = "Pridėti dalyvių";
+"peoplepicker.group.title.plural" = "Pridėti pašnekovų (%d)";
+"peoplepicker.group.skip" = "Praleisti";
+"peoplepicker.group.done" = "Baigta";
+"peoplepicker.group.create" = "Kurti";
+
+"peoplepicker.header.people" = "Žmonės";
+"peoplepicker.header.services" = "Paslaugos";
+"peoplepicker.services.open_conversation.item" = "Atverti pokalbį";
+"peoplepicker.services.add_service.button" = "Pridėti paslaugą";
+"peoplepicker.services.add_service.error.title" = "Paslauga negali būti pridėta";
+"peoplepicker.services.add_service.error.default" = "Paslauga šiuo metu negalima";
+"peoplepicker.services.add_service.error.full" = "Susirašinėjimas pilnas";
+
+"peoplepicker.title.create_conversation" = "Sukurti grupę";
+"peoplepicker.title.add_to_conversation" = "Pridėti pašnekovų";
+
+"peoplepicker.no_contacts_title" = "Nėra kontaktų.";
+
+"peoplepicker.no_matching_results_title" = "Rezultatų nėra.";
+"peoplepicker.no_matching_results_message" = "Įveskite pilną el. pašto adresą.";
+
+"peoplepicker.no_matching_results.action.send_invite" = "Siųsti pakvietimą";
+"peoplepicker.no_matching_results.action.share_contacts" = "Dalintis kontaktais";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "Iveskite teisingą el. pašto adresą";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "Rezultatų nėra.";
+"peoplepicker.no_matching_results_services_title" = "Paslaugos yra pagalbininkai, kurie padeda pagerinti darbo eigą. Norėdami jomis naudotis, prašykite savo administratoriaus.";
+"peoplepicker.no_matching_results_services_admin_title" = "Paslaugos yra pagalbininkai, kurie padeda pagerinti darbo eigą.";
+"peoplepicker.no_matching_results_services_manage_services_title" = "Valdyti paslaugas";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "Įveskite pilną el. pašto adresą arba";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "dalintis kontaktais";
+
+"peoplepicker.share_contacts.no_results.title" = "Rasti žmones pagal vardą arba el. pašto adresą";
+
+"peoplepicker.send_invitation.dialog.title" = "Pakvietimas išsiųstas";
+"peoplepicker.send_invitation.dialog.message" = "Pakvietimą galima naudoti 2 savaites. Išsiųskite naują jei galiojimas baigėsi.";
+"peoplepicker.send_invitation.dialog.ok" = "GERAI";
+
+"peoplepicker.invite_more_people" = "Pakviesti daugiau žmonių";
+"peoplepicker.invite_team_members" = "Kvieskite žmonių prisijungti prie komandos";
+"peoplepicker.quick-action.open-conversation" = "Atverti";
+"peoplepicker.quick-action.create-conversation" = "Sukurti grupę";
+"peoplepicker.quick-action.create-guest-room" = "Kurti kambarį svečiams";
+"peoplepicker.quick-action.admin-services" = "Valdyti paslaugas";
+
+"add_participants.all_contacts_added" = "Visi jau čia.";
+
+"add_participants.alert.title" = "Grupė pilna";
+"add_participants.alert.message.new_conversation" = "Susirašinėjime gali būti iki %d pašnekovų.";
+"add_participants.alert.message.existing_conversation" = "Susirašinėjime gali būti iki %1$d pašnekovų. Šiuo metu dar gali prisijungti %2$d.";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "Ieškokite pagal vardą";
+"contacts_ui.invite_others" = "Pakviesti kitus";
+"contacts_ui.name_in_contacts" = "%@ kontaktuose";
+"contacts_ui.connection_request" = "Pakvietė susijungti";
+"contacts_ui.action_button.invite" = "Pakviesti";
+"contacts_ui.action_button.open" = "Atverti";
+"contacts_ui.invite_sheet.cancel_button_title" = "Atsisakyti";
+"contacts_ui.notification.invitation_sent" = "Pakvietimas išsiųstas";
+"contacts_ui.notification.invitation_failed" = "Nepavyko išsiųsti pakvietimo";
+"contacts_ui.title" = "Pakviesti žmones";
+
+"conversation_list.empty.all_archived.message" = "Viskas archyve";
+"conversation_list.empty.no_contacts.message" = "Pradėkite susirašinėjimą arba\nsukurkite grupę.";
+
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "Prisijungti";
+"conversation_list.header.self_team.accessibility_value" = "Paskyros savininkas yra %@.";
+"conversation_list.header.self_team.accessibility_value.inactive" = "Spustelėję aktyvuosite.";
+"conversation_list.header.self_team.accessibility_value.active" = "Aktyvi dabar.";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "Turi naujų žinučių.";
+
+// Conversation List Data Usage Permission Dialog
+"conversation_list.data_usage_permission_alert.title" = "Padėkite mums pagerinti \"Secret\"";
+"conversation_list.data_usage_permission_alert.message" = "Sutinku, kad \"Secret\" galėtų sukurti ir naudoti anoniminę vartojimo ir klaidų ataskaitą \"Secret\" aplikacijos tobulinimui. Aš galėsiu atšaukti sutikimą bet kada vėliau.";
+"conversation_list.data_usage_permission_alert.disagree" = "Ne";
+"conversation_list.data_usage_permission_alert.agree" = "Sutinku";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "konktaktuose";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "Atverti pokalbį";
+"conversation_list.voiceover.status.pending_connection" = "laukiama";
+"conversation_list.voiceover.status.active_call" = "vykstantis skambutis";
+"conversation_list.voiceover.status.missed_call" = "praleistas skambutis";
+"conversation_list.voiceover.status.pause_media" = "pristabdyti įrašą";
+"conversation_list.voiceover.status.play_media" = "paleisti įrašą";
+"conversation_list.voiceover.status.silenced" = "nutildytas";
+"conversation_list.voiceover.status.typing" = "rašo";
+"conversation_list.voiceover.status.ping" = "skambtelėjimas";
+"conversation_list.voiceover.status.mention" = "jus paminėjo";
+"conversation_list.voiceover.status.reply" = "atsakyti";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "recent";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "list of recent conversations";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "folders";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "list of conversations organized in folders";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "archyvuotas";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "archyvuotų susirašinėjimų sąrašas";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "kontaktai";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "ieškoti žmonių naudojančių „Secret“";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "sukurti";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "sukurti žinutę ir išsaugoti vėlesniam laikui";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "fotoaparatas";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "nufotografuokite ir greitai siųskite";
+"conversation_list.voiceover.unread_messages.hint" = "Gavote žinutę.";
+
+// Archived List
+"archived_list.title" = "archyvas";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "Pokalbiai prasideda čia";
+"tool_tip.contacts.message" = "Pradėkite pokalbį. Skambinkite, rašykite ir dalinkitės privačiai arba su grupėmis.";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "Pažįsta %@";
+"peoplepicker.suggested.knows_two" = "Pažįsta %@ ir %@";
+"peoplepicker.hide_search_result" = "Paslėpti";
+"peoplepicker.hide_search_result_progress" = "Slepiama…";
+
+"send_invitation.subject" = "Susijunkite su manimi per Secret";
+"send_invitation.text" = "Naudojuosi „Secret“, ieškokite %@ arba eikit į secret.chat/#download";
+"send_invitation_no_email.text" = "Aš naudoju Secret. Apsilankyk secret.chat/#download , kad su manimi susisiektum.";
+
+// Folders
+
+"folder.creation.name.title" = "Create new folder";
+"folder.creation.name.button.create" = "Kurti";
+"folder.creation.name.header" = "Move the conversation \"%@\" to a new folder.";
+"folder.creation.name.footer" = "Maximum 64 characters";
+"folder.creation.name.placeholder" = "Folder name";
+
+"folder.picker.title" = "Move to";
+"folder.picker.empty.hint" = "Create a new folder by pressing the + button";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "pasidalino nuotrauka";
+"notifications.pinged" = "skambtelėjo";
+"notifications.sent_file" = "pasidalino failu";
+"notifications.sent_location" = "pasidalino buvimo vieta";
+"notifications.sent_video" = "pasidalino vaizdo įrašu";
+"notifications.sent_audio" = "pasidalino garso įrašu";
+"notifications.in_conversation" = "%@ - %@";
+"notifications.this_conversation" = "%@ šiame pokalbyje";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "Susirašinėjimai";
+"list.archived_conversations" = "ARCHYVUOTI";
+"list.archived_conversations_close" = "Uždaryti archyvą";
+
+"list.section.groups" = "Grupės";
+"list.section.contacts" = "Žmonės";
+"list.section.requests" = "Requests";
+"list.section.favorites" = "Favorites";
+
+"conversation.voiceover.verified" = "patvirtintas";
+"conversation.voiceover.legalhold" = "sulaikyta teisiškai";
+"conversation.voiceover.value.active" = "aktyvus";
+"conversation.voiceover.value.disabled" = "išjungtas";
+
+"conversation.status.typing" = "Rašo žinutę…";
+"conversation.status.typing.group" = "%@: rašo žinutę…";
+"conversation.status.silenced" = "Išjungtas garsas";
+"conversation.status.poor_connection" = "Prastas ryšys";
+"conversation.status.blocked" = "Užblokuotas(-a)";
+"conversation.status.incoming_call" = "%@ skambina…";
+"conversation.status.incoming_call.unknown" = "Kažkas skambina…";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "Pasidalino nuoroda";
+"conversation.status.message.image" = "Pasidalino paveikslu";
+"conversation.status.message.location" = "Pasidalino vieta";
+"conversation.status.message.audio" = "Pasidalino garso žinute";
+"conversation.status.message.video" = "Pasidalino vaizdo įrašu";
+"conversation.status.message.file" = "Pasidalino failu";
+"conversation.status.message.knock" = "Patikrinti ryšį";
+"conversation.status.message.missedcall" = "Praleistas skambutis";
+"conversation.status.message.missedcall.groups" = "Skambino %@";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "Atsiuntė jums žinutę";
+"conversation.status.message.ephemeral.group" = "Kažkas atsiuntė žinutę";
+"conversation.status.message.ephemeral.mention" = "Jus paminėjo";
+"conversation.status.message.ephemeral.mention.group" = "Kažkas jus paminėjo";
+"conversation.status.message.ephemeral.reply" = "Atsakę į jūsų žinutę";
+"conversation.status.message.ephemeral.reply.group" = "Kažkas atsakė į jūsų žinutę";
+"conversation.status.message.ephemeral.knock" = "Skambtelėjo";
+"conversation.status.message.ephemeral.knock.group" = "Kažkas skambtelėjo";
+
+"conversation.status.unsent" = "⚠ Neišsiųsta žinutė";
+"conversation.status.you" = "Jūs";
+"conversation.status.someone" = "Kažkas";
+"conversation.status.you_was_added" = "%@ pridėjo jus";
+"conversation.status.you_were_removed" = "Jūs buvote pašalinti";
+"conversation.status.you_left" = "Jūs išėjote";
+"conversation.status.started_conversation" = "%@ pradėjo susirašinėjimą";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "Pokalbis";
+"compose.message.title" = "Žinutė";
+
+"conversation_details.open_button.accessibility_hint" = "Spustelėję dukart pamatysite susirašinėjimo duomenis.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "Skleiskite žodį!";
+"conversation.invite_more_people.description" = "Pridėti žmonių į šį pokalbį";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "Pridėti žmones";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "Tuščias grupės pokalbis";
+
+"conversation.input_bar.verified" = "Patvirtintas";
+"conversation.input_bar.placeholder" = "Rašykite žinutę";
+"conversation.input_bar.placeholder_ephemeral" = "Laikina žinutė";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "Perbraukę aukštyn išsiųsite";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "Spustelėję išsiųsite";
+"conversation.input_bar.audio_message.too_long.title" = "Įrašymas sustabdytas";
+"conversation.input_bar.audio_message.too_long.message" = "Garso pranešimai yra riboti iki %@.";
+
+"conversation.input_bar.audio_message.too_long_size.message" = "Failo dydis garso žinutei yra ribotas (%@).";
+
+"conversation.input_bar.audio_message.send" = "Siųsti";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "Spustelėkite norėdami įrašyti\nGalėsite %@ po to";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "Pasirinkite filtrą aukščiau";
+
+"conversation.call.many_participants_confirmation.title" = "Pradėti pokalbį";
+"conversation.call.many_participants_confirmation.message" = "Skambinsite %d žmonėms";
+"conversation.call.many_participants_confirmation.call" = "Skambinti";
+
+"conversation.connection_view.in_address_book" = "konktaktuose";
+
+"conversation.input_bar.shortcut.send" = "Siųsti žinutę";
+"conversation.input_bar.shortcut.newline" = "Įterpti naują eilutę";
+"conversation.input_bar.shortcut.edit_last_message" = "Keisti naujausią žinutę";
+"conversation.input_bar.shortcut.cancel_editing_message" = "Atsisakyti";
+
+"conversation.input_bar.message_too_long.title" = "Žinutė per ilga";
+"conversation.input_bar.message_too_long.message" = "Galite siųsti žinutes, kurių ilgis iki %d simbolių.";
+
+"conversation.create.group_name.title" = "Sukurti grupę";
+"conversation.create.group_name.placeholder" = "Grupės pavadinimas";
+"conversation.create.guidance.empty" = "Bent 1 simbolis";
+"conversation.create.guidance.toolong" = "Per daug simbolių";
+"conversation.create.options.title" = "Susirašinėjimo parinktys";
+"conversation.create.options.subtitle" = "Svečiai ir paslaugos: %@, perskaitymo patvirtinimai: %@";
+"conversation.create.guests.title" = "Leisti svečius ir paslaugas";
+"conversation.create.guests.subtitle" = "Leiskite šį susirašinėjimą matyti paslaugoms ir žmonėms, kurie nėra jūsų komandoje.";
+"conversation.create.receipts.title" = "Perskaitymo patvirtinimai";
+"conversation.create.receipts.subtitle" = "Įjungus, žmonės gali matyti ar jų žinutės buvo perskaitytos.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "Vykstantis skambutis";
+"conversation.input_bar.ongoing_call_alert.audio.message" = "Kol kalbate, garso pranešimo įrašyti negalite.";
+"conversation.input_bar.ongoing_call_alert.video.message" = "Kol kalbate, vaizdo pranešimo įrašyti negalite.";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "Kol kalbate, fotografuoti negalite.";
+
+"conversation.alert.message_deleted" = "Žinutė ištrinta.";
+
+"conversation.guests_present" = "Yra svečių";
+"conversation.services_present" = "Tarnybos aktyvios";
+"conversation.guests_services_present" = "Yra svečių ir paslaugų";
+"conversation.action.search" = "Ieškoti";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "Paveikslėlis";
+"conversation.input_bar.message_preview.location" = "Buvimo vieta";
+"conversation.input_bar.message_preview.video" = "Vaizdas";
+"conversation.input_bar.message_preview.audio" = "Garso žinutė";
+"conversation.input_bar.message_preview.file" = "Failas";
+"conversation.input_bar.close_reply" = "Atšaukti atsakymą";
+
+"conversation.input_bar.message_preview.accessibility_description" = "Atsakant į žinutę: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "Žinutė su paveikslėliu";
+"conversation.input_bar.message_preview.accessibility.location_message" = "Buvimo vietos žinutė";
+"conversation.input_bar.message_preview.accessibility.video_message" = "Vaizdo žinutė";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "Garso žinutė";
+"conversation.input_bar.message_preview.accessibility.file_message" = "Žinutė su failu (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "Nežinoma žinutė";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ nuo %@";
+
+"image_confirmer.confirm" = "GERAI";
+"image_confirmer.cancel" = "Atsisakyti";
+"image.add_sketch" = "Pridėti piešinuką";
+"image.edit_image" = "Redaguoti nuotrauką";
+
+// Camera access
+"camera_access.denied" = "Secret reikalingas priėjimas prie kameros.";
+"video_call.camera_access.denied" = "„Secret“ neturi leidimo naudotis kamera";
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "Įjunkite Secret nustatymuose";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "Nustatymai";
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "„Secret“ būtinas prisijungimas prie \nkameros ir nuotraukų."; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "„Secret“ būtinas prisijungimas prie jūsų nuotraukų.";
+"keyboard_photos_access.denied.keyboard.camera" = "„Secret“ būtinas prisijungimas prie jūsų kameros.";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "Kol kalbate su vaizdu, negalite naudotis kamera.";
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE/AF užraktas";
+
+// Location
+"location.send_button.title" = "Siųsti";
+"location.unauthorized_alert.title" = "Aktyvuoti vietovės paslaugas";
+"location.unauthorized_alert.message" = "Norėdami pasidalinti savo vieta, aktyvuokite vietovės paslaugas ir leiskite „Secret“ pasiekti jūsų būvimo vietą.";
+"location.unauthorized_alert.cancel" = "Atsisakyti";
+"location.unauthorized_alert.settings" = "Nustatymai";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ socialiniame tinkle „Twitter“";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "Išjungta";
+"input.ephemeral.title" = "Nustatykite po kiek laiko žinutė turi dingti";
+
+// System messages
+"content.system.you_nominative" = "jūs";
+"content.system.you_dative" = "jums";
+"content.system.and_you_dative" = "ir jūs";
+"content.system.you_accusative" = "jus";
+
+"content.system.continued_conversation" = "Pradėti susirašinėjimą su %@";
+"content.system.started_conversation.truncated_people" = "ir %@";
+"content.system.started_conversation.truncated_people.others" = "%@ kiti";
+"content.system.started_conversation.complete_team" = "visi komandos nariai";
+"content.system.started_conversation.complete_team.guests" = "visi komandos nariai ir %@ svečiai";
+
+"content.system.other_started_conversation" = "%@ pradėjo susirašinėjimą su %@";
+"content.system.you_started_conversation" = "Pradėjote susirašinėjimą su %@";
+
+"content.system.you_added_participant" = "Jūs pridėjote pašnekovą %@";
+"content.system.other_added_participant" = "%@ pridėjo pašnekovą %@";
+"content.system.other_added_you" = "%@ jus pridėjo";
+
+"content.system.participants_you" = "Jūs";
+"content.system.participants_1_other" = "%@ ir %@";
+"content.system.other_left" = "%@ išėjo";
+"content.system.you_left" = "Jūs išėjote";
+"content.system.other_removed_other" = "%@ pašalino pašnekovą %@";
+"content.system.other_removed_you" = "%@ jus pašalino";
+"content.system.you_removed_other" = "Jūs pašalinote pašnekovą %@";
+
+"content.system.services.warning" = "Paslaugos turi galimybę matyti šio susirašinėjimo turinį";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "„YouTube“ vaizdo peržiūra";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "„SoundCloud“ dainos perklausa";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "„SoundCloud“ grojaraščio perklausa";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ pradėjo susirašinėjimą su %@";
+"content.system.conversation.other.added" = "%@ pridėjo pašnekovą %@";
+"content.system.conversation.other.removed" = "%@ pašalino pašnekovą %@";
+"content.system.conversation.other.left" = "%@ išėjo";
+
+"content.system.conversation.you.started" = "%@ pradėjo susirašinėjimą su %@";
+"content.system.conversation.you.added" = "%@ pridėjo pašnekovą %@";
+"content.system.conversation.you.removed" = "%@ pašalino pašnekovą %@";
+"content.system.conversation.you.left" = "%@ išėjote";
+"content.system.conversation.team.member-leave" = "%@ buvo pašalintas iš komandos.";
+"content.system.conversation.guest.joined" = "%@ prisijungė";
+
+"content.system.conversation.invite.title" = "Paslaugos ir žmonės nesantys jūsų komandoje gali prisijungti prie susirašinėjimo.";
+"content.system.conversation.invite.button" = "Pakviesti žmones";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ ištrynė susirašinėjimo pavadinimą";
+"content.system.you_renamed_conv_to_nothing" = "Jūs ištrynėte susirašinėjimo pavadinimą";
+"content.system.pending_message_timestamp" = "Siunčiama…";
+"content.system.message_sent_timestamp" = "Išsiųsta";
+"content.system.message_delivered_timestamp" = "Pristatyta";
+"content.system.message_read_timestamp" = "Perskaityta";
+"content.system.failedtosend_message_timestamp" = "Išsiųsti nepavyko.";
+"content.system.failedtosend_message_timestamp_resend" = "Siųsti iš naujo";
+"content.system.failedtosend_message_timestamp_delete" = "Ištrinti";
+"content.system.like_tooltip" = "Bakstelėję pažymėsite, kad patinka";
+"content.system.deleted_message_prefix_timestamp" = "Ištrinta: %@";
+"content.system.edited_message_prefix_timestamp" = "Pakeista: %@";
+"content.system.connecting_to" = "Susijungiama su %@.\nPradėkite bendrauti";
+"content.system.connected_to" = "Susijungta su %@\nPradėkite bendrauti";
+"content.system.other_wanted_to_talk" = "%@ skambino";
+"content.system.you_wanted_to_talk" = "Skambinote";
+"content.system.ephemeral_time_remaining" = "Liko %@";
+
+"content.system.you_started" = "Jūs";
+"content.system.this_device" = "šį įrenginį";
+
+"content.system.call.you" = "Jūs";
+"content.system.call.called" = "%@ skambino";
+"content.system.call.called-you" = "%@ skambinote";
+
+"content.system.renamed_conv.title" = "%@ pakeitė susirašinėjimo pavadinimą";
+"content.system.renamed_conv.title-you" = "%@ pakeitėte susirašinėjimo pavadinimą";
+"content.system.renamed_conv.title.you" = "Jūs";
+
+"content.system.conversation.with_name.title" = "%@ pradėjo susirašinėjimą";
+"content.system.conversation.with_name.title-you" = "%@ pradėjo susirašinėjimą";
+
+"content.system.conversation.with_name.participants" = "su";
+
+"content.system.message_timer_changes" = "%@ nustatė žinutės laikmatį į %@";
+"content.system.message_timer_changes-you" = "%@ nustatė žinutės laikmatį į %@";
+
+"content.system.message_timer_off" = "%@ išjungė žinutės laikmatį";
+"content.system.message_timer_off-you" = "%@ išjungė žinutės laikmatį";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@ visiems įjungė perskaitymo patvirtinimus";
+"content.system.message_read_receipt_on-you" = "%@ visiems įjungė perskaitymo patvirtinimus";
+
+"content.system.message_read_receipt_off" = "%@ visiems išjungė perskaitymo patvirtinimus";
+"content.system.message_read_receipt_off-you" = "%@ visiems išjungė perskaitymo patvirtinimus";
+
+"content.system.message_read_receipt_on_add_to_group" = "Perskaitymo patvirtinimai įjungti";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "Šis susirašinėjimas yra teisiškai sulaikytas";
+"content.system.message_legal_hold.disabled" = "Šio susirašinėjimo teisinis sulaikymas atšauktas";
+
+"content.system.message_legal_hold.learn_more" = "Sužinoti daugiau";
+
+//
+"content.system.screen.shot" = "%@ has taken a screenshot";
+
+"content.system.reactivated_device" = "Vėl pradėjote naudotis „%@“. Žinutės parašytos įrenginio nenaudojimo laikotarpiu čia neatsiras.";
+
+"content.system.new_device" = "naujas įrenginys";
+"content.system.started_using" = "pradėjo naudoti";
+"content.system.is_verified" = "Visi kontroliniai kodai patvirtinti";
+
+"content.system.new_users" = "Prisijungė naujas vartotojas.";
+"content.system.verify_devices" = "Patvirtinkite įrenginius";
+
+"content.system.unverified" = "%@ panaikinote vieno iš %@ patvirtinimą"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "savo įrenginių";
+"content.system.other_devices" = "%@ įrenginių";
+
+"content.system.missing_messages.title" = "Jūs kurį laiką nenaudojote šio įrenginio. Kai kurios žinutės čia gali neatsirasti.";
+"content.system.missing_messages.subtitle_start" = "Tuo tarpu,";
+
+"content.system.cannot_decrypt" = "Žinutė, kurią parašė %@ nebuvo gauta.";
+
+"content.system.cannot_decrypt.you_part" = "jūs";
+"content.system.cannot_decrypt.why_part" = "Kodėl?";
+
+"content.system.cannot_decrypt.identity" = "Pasikeitė %@ įrenginio tapatybė. Žinutė nenusiųsta.";
+"content.system.cannot_decrypt.identity.you_part" = "Jūsų";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "Sužinokite daugiau";
+"content.system.cannot_decrypt.otherDevice_part" = "(įrenginys %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "Žinutės negalima parodyti. Gali būti, kad naudojate senesnę „Secret“ versiją.";
+
+"content.file.uploading" = "Įkeliama…";
+"content.file.downloading" = "Atsiunčiama…";
+"content.file.upload_failed" = "Įkelti nepavyko";
+"content.file.upload_cancelled" = "Įkėlimas atšauktas";
+"content.file.upload_video" = "Vaizdo įrašai";
+"content.file.take_video" = "Įrašyti vaizdą";
+"content.file.browse" = "Browse";
+
+"content.file.save_video" = "Įrašyti";
+"content.file.save_audio" = "Įrašyti";
+"content.image.save_image" = "Įrašyti";
+
+"content.message.delete" = "Ištrinti";
+"content.message.save" = "Įrašyti";
+"content.message.resend" = "Siųsti iš naujo";
+
+"content.message.delete_ellipsis" = "Ištrinti…";
+
+"content.message.like" = "Patinka";
+"content.message.unlike" = "Nebepatinka";
+"content.message.forward" = "Dalintis";
+"content.message.go_to_conversation" = "Parodyti";
+"content.message.forward.to" = "Ieškoti…";
+"content.message.open" = "Atverti";
+"content.message.copy" = "Kopijuoti";
+"content.message.download" = "Atsisiųsti";
+"content.message.details" = "Išsamiau";
+
+// Reply
+"content.message.reply" = "Atsakyti";
+"content.message.original_label" = "Pirminė žinutė";
+"content.message.reply.original_timestamp.date" = "Pirminė žinutė iš %@";
+"content.message.reply.original_timestamp.time" = "Pirminė žinutė iš %@";
+"content.message.reply.broken_message" = "Jūs negalite matyti šitos žinutės.";
+"content.message.reply.edited_message" = "Pakeista";
+
+"content.message.open_link_alert.title" = "Atverti nuorodą";
+"content.message.open_link_alert.message" = "Nueisite į \n%@";
+"content.message.open_link_alert.open" = "Atverti";
+
+"content.message.audio_message.accessibility" = "Groti garso žinutę";
+
+"content.reactions_list.likers" = "Patinka";
+
+"content.file.too_big" = "Siunčiamų failų dydis negali viršyti %@";
+// Someone pinged
+"content.ping.text" = "%@ skambtelėjo";
+"content.ping.text-you" = "%@ skambtelėjote";
+
+// Current user pinged
+"content.ping.text.you" = "Jūs";
+
+// Inline Player
+"content.player.unable_to_play" = "NEĮMANOMA PALEISTI ĮRAŠO";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "Prisijungti prie %@"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "Labas %@,\nBendraukime per „Secret“.\n%@";
+
+"connection_request_pending_title" = "Prašymas susijungti";
+"connection_request.send_button_title" = "Užmegzti kontaktą";
+"inbox.connection_request.connect_button_title" = "Užmegzti kontaktą";
+"inbox.connection_request.ignore_button_title" = "Nepaisyti";
+
+// Save image errors
+"library.alert.permission_warning.title" = "„Secret“ reikia leidimo matyti jūsų nuotraukas";
+"library.alert.permission_warning.restrictions.explaination" = "„Secret“ negali prisijungti prie bibliotekos, nes yra draudžiama prieiga.";
+"library.alert.permission_warning.not_allowed.explaination" = "Eikite į nustatymus ir leiskite „Secret“ matyti jūsų nuotraukas.";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@\njums skambina";
+"voice.status.group_call.incoming" = "%@\njums skambina";
+"voice.status.one_to_one.outgoing" = "Jūs skambinate\n%@";
+"voice.status.joining" = "%@\nJungiamasi";
+"voice.status.leaving" = "%@\nskambutis baigtas";
+"voice.status.video_not_available" = "Vaizdas nerodomas";
+"voice.status.low_connection" = "Prastas ryšys";
+"voice.network_error.title" = "Nėra interneto ryšio";
+"voice.status.cbr" = "Pastovi sparta (bitais)";
+"voice.network_error.body" = "Norint skambinti, turi būti ryšys. Patikrinkite interneto ryšį ir bandykite dar kartą.";
+"voice.degradation.new_self_device" = "Pradėjote naudotis nauju įrenginiu.";
+"voice.degradation.new_user_device" = "%@ pradėjo naudotis nauju įrenginiu.";
+"voice.degradation_outgoing.prompt" = "Ar vis dar norite atlikti skambutį?";
+"voice.degradation_incoming.prompt" = "Ar vis dar norite priimti skambutį?";
+"voice.accept_button.title" = "Priimti";
+"voice.decline_button.title" = "Atmesti";
+"voice.hang_up_button.title" = "Užbaigti";
+"voice.mute_button.title" = "Nutildyti";
+"voice.video_button.title" = "Vaizdas";
+"voice.flip_video_button.title" = "Apversti";
+"voice.speaker_button.title" = "Garsiakalbis";
+"voice.cancel_button.title" = "Atsisakyti";
+"voice.call_button.title" = "Skambutis";
+"voice.end_call_button.title" = "Baigti pokalbį";
+"voice.call_error.unsupported_version.title" = "Atnaujinkite „Secret“";
+"voice.call_error.unsupported_version.message" = "Jums skambina, bet ši „Secret“ versija skambinimo nepalaiko.\nNaujausią versiją gaukite „App Store“.";
+"voice.call_error.unsupported_version.dismiss" = "Vėliau";
+
+"voice.alert.call_in_progress.title" = "Vykstantis pokalbis";
+"voice.alert.call_in_progress.message" = "Vienu metu gali vykti tik vienas skambutis";
+"voice.alert.call_in_progress.confirm" = "GERAI";
+
+"voice.alert.microphone_warning.title" = "„Secret“ būtina prieiga prie mikrofono.";
+"voice.alert.microphone_warning.explanation" = "Aktyvuokite „Secret“ nustatymuose.";
+
+"voice.alert.camera_warning.title" = "Secret reikalingas priėjimas prie kameros.";
+"voice.alert.camera_warning.explanation" = "Eikite į nustatymus ir leiskite „Secret“ naudoti kamerą.";
+
+"voice.top_overlay.tap_to_return" = "Bakstelėję grįšite į skambutį";
+"voice.top_overlay.accessibility_title" = "Vykstantis skambutis";
+
+// Voice New
+
+"call.status.connecting" = "Jungiamasi…";
+"call.status.incoming.user" = "%@ skambina…";
+"call.status.incoming" = "Skambinama…";
+"call.status.outgoing" = "Kviečiama…";
+"call.status.outgoing.user" = "Skambinate %@…";
+"call.status.reconnecting" = "Jungiamasi iš naujo…";
+"call.status.terminating" = "Baigiama…";
+"call.status.constant_bitrate" = "Pastovi sparta (bitais)";
+
+"call.participants.show_all_without_count" = "Rodyti visus";
+"call.participants.show_all" = "Rodyti visus (%@)";
+"call.participants.list.title" = "Dalyviai";
+
+"call.video.paused" = "Vaizdas pristabdytas";
+
+"call.video.too_many.alert.title" = "Per daug žmonių, norint bendrauti vaizdu";
+"call.video.too_many.alert.message" = "Bendrauti vaizdu galite tik iki 4 pašnekovų.";
+
+"call.degraded.alert.title" = "Naujas įrenginys";
+"call.degraded.alert.message.self" = "Pradėjote naudotis nauju įrenginiu.";
+"call.degraded.alert.message.user" = "%@ pradėjo naudotis nauju įrenginiu.";
+"call.degraded.alert.message.unknown" = "Kažkas pradėjo naudotis nauju įrenginiu.";
+"call.degraded.alert.action.continue" = "Vis tiek skambinti";
+
+"call.alert.ongoing.alert_title" = "Tai baigs kitą jūsų skambutį.";
+
+"call.alert.ongoing.start.message" = "Kitame susirašinėjime vyksta pokalbis.\nSkambindami čia baigsite aną pokalbį.";
+"call.alert.ongoing.join.message" = "Kitame susirašinėjime vyksta pokalbis.\nPrisijungę prie šio pokalbio baigsite aną.";
+"call.alert.ongoing.start.button" = "Vis tiek skambinti";
+"call.alert.ongoing.join.button" = "Vis tiek jungtis";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "Jums skambina %@";
+"call.actions.label.toggle_mute_on" = "Išjungti mikrofoną";
+"call.actions.label.toggle_mute_off" = "Įjungti mikrofoną";
+"call.actions.label.flip_camera" = "Perjungti kamerą";
+"call.actions.label.toggle_speaker_on" = "Įjungti garsiakalbį";
+"call.actions.label.toggle_speaker_off" = "Išjungti garsiakalbį";
+"call.actions.label.accept_call" = "Atsiliepti";
+"call.actions.label.reject_call" = "Atmesti skambutį";
+"call.actions.label.terminate_call" = "Baigti pokalbį";
+"call.actions.label.toggle_video_on" = "Įjungti vaizdą";
+"call.actions.label.toggle_video_off" = "Išjungti vaizdą";
+"call.actions.label.switch_to_back_camera" = "Rodyti galinę kamerą";
+"call.actions.label.switch_to_front_camera" = "Rodyti priekinę kamerą";
+"call.actions.label.minimize_call" = "Minimizuoti skambutį";
+"call.actions.label.make_audio_call" = "Pradėti garso skambutį";
+"call.actions.label.make_video_call" = "Pradėti vaizdo skambutį";
+"call.actions.label.join_call" = "Jungtis prie pokalbio";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "Pridėti";
+"participants.avatar.guest.title" = "Svečias";
+
+"participants.title" = "Išsamiau";
+"participants.all.title" = "Žmonės";
+"participants.section.participants" = "Žmonės (%d)";
+"participants.section.services" = "Paslaugos (%d)";
+"participants.section.settings" = "Parinktys";
+"participants.footer.add_title" = "Pridėti dalyvių";
+"participants.section.name.footer" = "Prie grupės susirašinėjimo gali prisijungti iki %1$d dalyvių. Bendrauti vaizdu gali iki %2$d žmonių ir jumis.";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "Daugiau veiksmų";
+"meta.menu.rename" = "Pervadinti";
+"meta.menu.leave" = "Išeiti iš grupės…";
+"meta.menu.archive" = "Archyvuoti";
+"meta.menu.unarchive" = "Išarchyvuoti";
+"meta.menu.delete" = "Delete Group…";
+"meta.menu.clear_content" = "Clear Content…";
+"meta.menu.move_to_folder" = "Move to…";
+"meta.menu.remove_from_folder" = "Remove from \"%@\"";
+"meta.menu.silence.mute" = "Išjungti pranešimus";
+"meta.menu.silence.unmute" = "Įjungti pranešimus";
+"meta.menu.cancel" = "Atsisakyti";
+"meta.menu.cancel_connection_request" = "Atšaukti prašymą";
+"meta.menu.mark_unread" = "Žymėti kaip neskaitytą";
+"meta.menu.mark_read" = "Žymėti kaip skaitytą";
+"shortcut.mark_all_as_read.title" = "Žymėti visus kaip skaitytus";
+"meta.menu.configure_notifications" = "Pranešimai…";
+"meta.menu.open_self_profile" = "Atverti profilį";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "Clear content?";
+"meta.menu.delete_content.dialog_message" = "Tai išvalys bendravimo praeitį visuose jūsų įrenginiuose.";
+"meta.menu.delete_content.leave_as_well_message" = "Taip pat išeiti iš pokalbio";
+"meta.menu.delete_content.button_cancel" = "Atsisakyti";
+"meta.menu.delete_content.button_delete" = "Clear";
+"meta.menu.delete_content.button_delete_and_leave" = "Clear and leave";
+
+// Configure conversation notifications
+"meta.menu.configure_notification.dialog_message" = "Pranešti apie:";
+"meta.menu.configure_notification.button_everything" = "Viską";
+"meta.menu.configure_notification.button_mentions_and_replies" = "Paminėjimai ir atsakymai";
+"meta.menu.configure_notification.button_nothing" = "Nieką";
+"meta.menu.configure_notification.button_cancel" = "Atsisakyti";
+
+// Leave conversation
+"meta.leave_conversation_dialog_title" = "Išeiti iš susirašinėjimo?";
+"meta.leave_conversation_dialog_message" = "Dalyviams bus pranešta ir susirašinėjimas bus pašalintas iš sąrašo.";
+"meta.leave_conversation.delete_content_as_well_message" = "Also clear the content";
+"meta.leave_conversation_button_cancel" = "Atsisakyti";
+"meta.leave_conversation_button_leave" = "Išeiti";
+"meta.leave_conversation_button_leave_and_delete" = "Leave and clear content";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ pradėjo naudotis nauju įrenginiu.";
+"meta.degraded.degradation_reason_message.plural" = "%@ pradėjo naudotis naujais įrenginiais.";
+"meta.degraded.degradation_reason_message.someone" = "Kažkas pradėjo naudotis nauju įrenginiu.";
+"meta.degraded.dialog_message" = "Ar vis dar norite išsiųsti savo žinutę?";
+"meta.degraded.verify_devices_button" = "Patvirtinti įrenginius…";
+"meta.degraded.send_anyway_button" = "Vis tiek siųsti";
+"meta.degraded.cancel_sending_button" = "Atsisakyti";
+"meta.legalhold.info_button" = "Kas yra teisinis sulaikymas?";
+"meta.legalhold.send_alert_title" = "Susirašinėjimas gali būti teisiškai sulaikytas.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "Šalinti?";
+"profile.remove_dialog_message" = "%@ negalės siųsti ir gauti žinučių šiame susirašinėjime.";
+"profile.remove_dialog_button_cancel" = "Atsisakyti";
+"profile.remove_dialog_button_remove" = "Šalinti iš grupės…";
+"profile.remove_dialog_button_remove_confirm" = "Šalinti iš grupės";
+
+// Block dialog
+"profile.block_dialog.title" = "Užblokuoti?";
+"profile.block_dialog.message" = "%@ negalės su jumis susisiekti ar pridėti jus į grupės susirašinėjimą.";
+"profile.block_dialog.button_cancel" = "Atsisakyti";
+"profile.block_dialog.button_block" = "Užblokuoti";
+
+// Delete message dialog
+"message.delete_dialog.message" = "To negalima bus atšaukti.";
+"message.delete_dialog.action.cancel" = "Atsisakyti";
+"message.delete_dialog.action.hide" = "Ištrinti man";
+"message.delete_dialog.action.delete" = "Ištrinti visiems";
+
+// Edit message
+"message.menu.edit.title" = "Taisyti";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "Priimti?";
+"profile.connection_request_dialog.message" = "Tai užmegs kontaktą ir atvers susirašinėjimą su %@.";
+"profile.connection_request_dialog.button_cancel" = "Nepaisyti";
+"profile.connection_request_dialog.button_connect" = "Užmegzti kontaktą";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Delete group conversation?";
+"conversation.delete_request_dialog.message" = "This will delete the group and all content for all participants on all devices. There is no option to restore the content. All participants will be notified.";
+"conversation.delete_request_error_dialog.title" = "An error occured while trying to delete the group %@. Please try again.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Delete Group";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "Atsisakyti užklausos?";
+"profile.cancel_connection_request_dialog.message" = "Atšaukti prašymą susijungti su %@?";
+"profile.cancel_connection_request_dialog.button_no" = "Ne";
+"profile.cancel_connection_request_dialog.button_yes" = "Taip";
+
+// Unblock button
+"profile.block_button_title" = "Blokuoti…";
+"profile.unblock_button_title" = "Atblokuoti…";
+
+// Favorite button
+"profile.favorite_button_title" = "Add to Favorites";
+"profile.unfavorite_button_title" = "Remove from Favorites";
+
+"profile.block_button_title_action" = "Užblokuoti";
+"profile.unblock_button_title_action" = "Atblokuoti";
+
+"profile.cancel_connection_button_title" = "ATŠAUKTI PRAŠYMĄ";
+"profile.connection_request_state.blocked" = "UŽBLOKUOTA";
+"profile.create_conversation_button_title" = "Sukurti grupę";
+"profile.open_conversation_button_title" = "Atverti pokalbį";
+
+"profile.read_receipts_enabled_memo.header" = "JŪS ĮJUNGĖTE PERSKAITYMO PATVIRTINIMUS";
+"profile.read_receipts_disabled_memo.header" = "JŪS IŠUNGĖTE PERSKAITYMO PATVIRTINIMUS";
+"profile.read_receipts_memo.body" = "Jei abi pusės įjungia perskaitymo patvirtinimus, jūs galite matyti kai žinutė buvo perskaityta. \n\nGalite tai pakeisti paskyros nustatymuose.";
+
+"profile.extended_metadata.header" = "Informacija";
+
+// User Details
+"profile.details.title" = "Išsamiau";
+"profile.details.guest" = "Svečias";
+
+"profile_view.accessibility.handle" = "Naudotojo vardas";
+"profile_view.accessibility.name" = "Vardas pavardė";
+"profile_view.accessibility.team_name" = "Komandos pavadinimas";
+
+// Device list
+"profile.devices.title" = "Įrenginiai";
+"profile.devices.fingerprint_message_unencrypted" = "%@ naudoja seną „Secret“ versiją. Čia įrenginiai nerodomi.";
+"profile.devices.fingerprint_message.title" = "„Secret“ suteikia kiekvienam įrenginiui unikalų kontrolinį kodą. Palyginkite jį su %@ ir patvirtinkite savo susirašinėjimą.";
+"profile.devices.fingerprint_message.link" = "Kam tvirtinti susirašinėjimus?";
+
+// Device detail
+"profile.devices.detail.verify_message" = "Įsitikinkite, kad šis kontrolinis kodas yra toks pats, kaip ir įrenginyje, kurį naudoja %@.";
+"profile.devices.detail.verify_message.link" = "Kaip tai padaryti?";
+"profile.devices.detail.show_my_device.title" = "Rodyti mano įrenginio kontrolinį kodą";
+"profile.devices.detail.reset_session.title" = "Sukurti seansą iš naujo";
+"device.verified" = "Patvirtintas";
+"device.not_verified" = "Nepatvirtinta";
+
+"device.class.legalhold" = "Teisinis sulaikymas";
+"device.class.desktop" = "Kompiuteris";
+"device.class.tablet" = "Planšetinis kompiuteris";
+"device.class.phone" = "Telefonas";
+"device.class.unknown" = "Nežinoma";
+
+"device.type.permanent" = "Nuolatinis";
+"device.type.temporary" = "Laikinas";
+"device.type.legalhold" = "Teisinis sulaikymas";
+"device.type.unknown" = "Nežinoma";
+
+// Bot
+"participants.services.remove_integration.button" = "pašalinti integraciją";
+
+// Group details
+"group_details.guest_options_cell.title" = "Svečiai ir paslaugos";
+"group_details.guest_options_cell.enabled" = "Įjungta";
+"group_details.guest_options_cell.disabled" = "Išjungta";
+"group_details.timeout_options_cell.title" = "Laikinos žinutės";
+"group_details.notification_options_cell.title" = "Pranešimai";
+"group_details.notification_options_cell.description" = "Jūms bus pranešta apie viską (įskaitant garso ir vaizdo skambučius) arba tik kai kažkas jus pamini arba atsako į jūsų žinutę.";
+"group_details.receipt_options_cell.title" = "Perskaitymo patvirtinimai";
+"group_details.receipt_options_cell.description" = "Įjungus, žmonės gali matyti ar jų žinutės buvo perskaitytos.";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Teisinio sulaikymo subjektai";
+"legalhold.header.title" = "Teisinis sulaikymas";
+"legalhold.header.other_description" = "Susirašinėjime yra bent vienas žmogus teisiškai sulaikytas.\nVisos žinutės bus išsaugotos, įskaitant ištrintas, pakeistas ir laikinas žinutes.";
+"legalhold.header.self_description" = "Jūs buvote teisiškai sulaikytas.\nVisos žinutės bus išsaugotos, įskaitant ištrintas, pakeistas ir laikinas žinutes.\nJūsų pašnekovai bus apie tai informuoti.";
+"legalhold.accessibility" = "Teisinio sulaikymo duomenys";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "Nustatymai";
+"self.profile" = "Profilis";
+"self.account" = "Paskyra";
+"self.help_center" = "Palaikymas";
+"self.help_center.support_website" = "„Secret“ pagalbos svetainė";
+"self.help_center.contact_support" = "Susisiekti su palaikymu";
+"self.about" = "Apie";
+"self.sign_out" = "Atsijungti";
+"self.report_abuse" = "Pranešti apie piktnaudžiavimą";
+"self.voiceover.label" = "Profilis";
+"self.voiceover.hint" = "Atverti profilį ir nustatymus";
+"self.new-device.voiceover.label" = "Profilis, pridėtas naujas įrenginys";
+
+"self.add_phone_number" = "Pridėti telefono numerį";
+"self.add_email_password" = "Pridėkite el. pašto adresą ir slaptažodį";
+
+"self.accessibility.profile_photo_image" = "Profilio nuotrauka";
+"self.accessibility.profile_photo_edit_button" = "Keisti profilio nuotrauką";
+
+// About screen
+"about.tos.title" = "Naudojimosi sąlygos";
+"about.privacy.title" = "Privatumo politika";
+"about.license.title" = "Licencijos informacija";
+"about.website.title" = "Secret svetainė";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "Išsamiau";
+"about.license.open_project_button" = "Peržiūrėkite projekto puslapį";
+"about.license.license_header" = "Padėkos";
+
+// Self new devices
+"self.new_device_alert.title" = "Jūsų paskyra buvo naudota:";
+"self.new_device_alert.message" = "\n%@\n\nJei aukščiau esančio įrenginio neatpažįstate, pašalinkite jį ir pasikeiskite slaptažodį.";
+"self.new_device_alert.message_plural" = "\n%@\n\nJei aukščiau esančių įrenginių neatpažįstate, pašalinkite jį ir pasikeiskite slaptažodį.";
+"self.new_device_alert.manage_devices" = "Tvarkyti įrenginius";
+"self.new_device_alert.trust_devices" = "GERAI";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "Jūs įjungėte perskaitymo patvirtinimus";
+"self.read_receipts_disabled.title" = "Jūs išjungėte perskaitymo patvirtinimus";
+"self.read_receipts_description.title" = "Galite pakeisti šį pasirinkimą savo paskyros nustatymuose.";
+
+// Settings - top level
+"self.settings.create_team.title" = "Sukurti komandą";
+"self.settings.manage_team.title" = "Valdyti komandą";
+"self.settings.add_team_or_account.title" = "Pridėti paskyrą";
+"self.settings.add_account.title" = "Pridėti paskyrą";
+
+"self.settings.add_account.error.title" = "Aktyvios trys paskyros";
+"self.settings.add_account.error.message" = "Vienu metu galite būti prisijungęs iki trijų paskyrų. Atsijunkite nuo vienos, kad galėtumėte pridėti kitą.";
+
+"self.settings.switch_account.message" = "Vyksta skambutis šioje paskyroje.\nKeičiant paskyras nutrauksite vykstantį skambutį.";
+"self.settings.switch_account.action" = "Vis tiek pakeisti";
+
+// Settings - Account details
+"self.settings.account_section" = "Paskyra";
+
+"self.settings.account_details_group.info.title" = "Informacija";
+"self.settings.account_details_group.personal.title" = "Asmeninis";
+
+"self.settings.account_section.name.title" = "Vardas";
+"self.settings.account_section.email.title" = "El. paštas";
+"self.settings.account_section.phone.title" = "Telefonas";
+"self.settings.account_section.handle.title" = "Naudotojo vardas";
+"self.settings.account_section.add_handle.title" = "Pridėti naudotojo vardą";
+
+"self.settings.account_details_group.info.footer" = "Žmonės gali jus rasti pagal šią informaciją.";
+"self.settings.account_details_group.personal.footer" = "Ši informacija nerodoma.";
+
+"self.settings.account_details.remove_device.title" = "Šalinti įrenginį";
+"self.settings.account_details.key_fingerprint.title" = "Rakto kontrolinis kodas";
+"self.settings.account_details.remove_device.message" = "Norint pašalinti įrenginį, būtinas jūsų slaptažodis";
+"self.settings.account_details.remove_device.password" = "Slaptažodis";
+"self.settings.account_details.remove_device.password.error" = "Neteisingas slaptažodis";
+
+"self.settings.account_appearance_group.title" = "Išvaizda";
+
+"self.settings.privacy_section_group.title" = "Privatumas";
+"self.settings.enable_read_receipts.title" = "Siųsti perskaitymo patvirtinimus";
+"self.settings.privacy_section_group.subtitle" = "Išjungus, jūs nematysite kada gavėjas perskaito jūsų siųstas žinutes.\n\nŠis nustatymas negalioja susirašinėjimams grupėje.";
+
+"self.settings.account_picture_group.picture" = "Paveikslas";
+"self.settings.account_picture_group.color" = "Spalva";
+
+"self.settings.account_personal_information_group.title" = "Asmeninė informacija";
+
+"self.settings.account_picture_group.theme" = "Tamsi tema";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret kiekvienam įrenginiui suteikia unikalų kontrolinį kodą. Palyginkite juos ir patvirtinkite savo įrenginius ir pokalbius.";
+"self.settings.device_details.reset_session.subtitle" = "Jeigu kontroliniai kodai nesutampa, atstatykite seansą, kad abiejose pusėse būtų sugeneruoti nauji šifravimo raktai.";
+"self.settings.device_details.remove_device.subtitle" = "Jeigu nebenaudojate šio įrenginio, pašalinkite jį. Jūs būsite nedelsiant atjungti iš šio įrenginio.";
+"self.settings.device_details.reset_session.success" = "Seansas buvo atstatytas";
+
+"self.settings.account_details.actions.title" = "Veiksmai";
+
+"self.settings.account_details.delete_account.title" = "Ištrinti paskyrą";
+
+"self.settings.account_details.delete_account.alert.title" = "Ištrinti paskyrą";
+"self.settings.account_details.delete_account.alert.message" = "Atsiųsime žinutę el. paštu arba SMS žinute. Spustelėkite ten esančią nuorodą, kad visiškai ištrintumėte savo paskyrą.";
+
+"self.settings.account_details.log_out.alert.title" = "Atsijungti";
+"self.settings.account_details.log_out.alert.message" = "Susirašinėjimų praeitis šiame įrenginyje bus ištrinta.";
+"self.settings.account_details.log_out.alert.password" = "Slaptažodis";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "Naudojimo ir gedimo ataskaitos";
+"self.settings.privacy_analytics.title" = "Siųsti nuasmenintą informaciją";
+"self.settings.privacy_analytics_menu.description.title" = "Pagerinkite „Secret“ siųsdami anoniminę naudojimosi ir trikčių ataskaitą.";
+
+"self.settings.receiveNews_and_offers.title" = "Gaukite naujienlaiškį";
+"self.settings.receiveNews_and_offers.description.title" = "Gaukite naujienas ir produktų pakeitimo informaciją iš „Secret“ el. paštu.";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "Naudotojo vardas";
+"self.settings.account_section.handle.change.save" = "Įrašyti";
+"self.settings.account_section.handle.change.footer" = "Bent 2 simboliai. Tik a—z, 0—9 ir _.";
+"self.settings.account_section.handle.change.footer.unavailable" = "Jau užimtas";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "Nepavyko pakeisti vartotojo vardo";
+"self.settings.account_section.handle.change.failure_alert.message" = "Keičiant vartotojo vardą įvyko klaida. Pabandykite dar kartą.";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "El. paštas";
+"self.settings.account_section.email.change.save" = "Įrašyti";
+
+"self.settings.account_section.email.change.verify.title" = "Patvirtinti el. pašto adresą";
+"self.settings.account_section.email.change.verify.description" = "Patikrinkite savo el. paštą ir sekite nurodymus.";
+"self.settings.account_section.email.change.verify.resend" = "Siųsti dar kartą į %@";
+
+"self.settings.account_section.email.change.resend.title" = "El. laiškas nusiųstas iš naujo";
+"self.settings.account_section.email.change.resend.message" = "Patvirtinimo el. laiškas buvo išsiųstas į %@. Prašome pasitikrinti savo el. pašto dėžutę ir sekti instrukcijas.";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "Telefonas";
+"self.settings.account_section.phone_number.change.save" = "Įrašyti";
+"self.settings.account_section.phone_number.change.remove" = "Pašalinti telefono numerį";
+
+"self.settings.account_section.phone_number.change.remove.action" = "Pašalinti telefono numerį";
+
+"self.settings.account_section.phone_number.change.verify.save" = "Įrašyti";
+"self.settings.account_section.phone_number.change.verify.title" = "Patvirtinti";
+"self.settings.account_section.phone_number.change.verify.description" = "Įrašykite patvirtinimo kodą, kuris buvo išsiųstas į %@.";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "Įrašykite kodą";
+"self.settings.account_section.phone_number.change.verify.resend" = "Siųsti dar kartą";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "Kodas nepasirodo?\nNaują kodą galite gauti kas 30 sekundžių.";
+
+"self.settings.account_section.phone_number.change.resend.title" = "Kodas išsiųstas";
+"self.settings.account_section.phone_number.change.resend.message" = "Patvirtinimo kodas buvo išsiųstas į %@.";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "Pranešimai";
+"self.settings.notifications.push_notification.toogle" = "Žinutės peržiūra";
+"self.settings.notifications.push_notification.footer" = "Siuntėjo vardas ir žinutė užrakto ekrane ir pranešimų centre.";
+
+"self.settings.notifications.chat_alerts.toggle" = "Žinutės informacija";
+"self.settings.notifications.chat_alerts.footer" = "Nauji pranešimai kituose susirašinėjimuose.";
+
+"self.settings.sound_menu.sounds.title" = "Garsai";
+"self.settings.sound_menu.ringtone.title" = "Skambučio melodija";
+"self.settings.sound_menu.message.title" = "Pranešimo garsas";
+"self.settings.sound_menu.ping.title" = "Ryšio patikrinimas";
+"self.settings.sound_menu.ringtones.title" = "Melodijos";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "Jokių";
+
+"self.settings.callkit.title" = "Skambučiai";
+"self.settings.callkit.caption" = "Dalintis su „iOS“";
+"self.settings.callkit.description" = "Rodyti „Secret“ skambučius užrakto ekrane ir „iOS“ skambučių praeityje. Jei „iCloud“ aktyvuota, skambučių praeitis bus pasidalinta su „Apple“.";
+
+"self.settings.vbr.title" = "Kodavimas kintama sparta (bitais)";
+"self.settings.vbr.description" = "Tai padeda sumažinti naudojamų duomenų kieki garso skambučiuose lėtuose tinkluose. Išjungę naudosite kodavimą pastovia sparta (bitais).";
+
+"self.settings.sound_menu.sounds.wire_call" = "„Secret“ skambutis";
+"self.settings.sound_menu.sounds.wire_message" = "„Secret“ žinutė";
+"self.settings.sound_menu.sounds.wire_ping" = "„Secret“ skambtelėjimas";
+
+// By popular demand
+"self.settings.popular_demand.title" = "Pagal populiarius pageidavimus";
+"self.settings.popular_demand.send_button.title" = "Siuntimo mygtukas";
+"self.settings.popular_demand.send_button.footer" = "Išjungti siuntimą „Enter“ klavišu.";
+"self.settings.popular_demand.dark_mode.footer" = "Perjungti tarp tamsios ir šviesios temų.";
+
+// Open in
+"self.settings.external_apps.header" = "Atverti naudojant";
+
+"self.settings.link_options.twitter.title" = "„Tweets“";
+"self.settings.link_options.maps.title" = "Vieta";
+"self.settings.link_options.browser.title" = "Naršyklė";
+
+"open_link.twitter.option.default" = "Naršyklė / „Twitter“";
+"open_link.twitter.option.tweetbot" = "„Tweetbot“";
+"open_link.twitter.option.twitterrific" = "„Twitterrific“";
+
+"open_link.maps.option.apple" = "Žemėlapiai";
+"open_link.maps.option.google" = "„Google Maps“";
+"open_link.maps.footer" = "Kai kurios vietos nuorodos visada bus atvertos per „Apple Maps“.";
+
+"open_link.browser.option.safari" = "„Safari“";
+"open_link.browser.option.chrome" = "„Chrome“";
+"open_link.browser.option.firefox" = "„Firefox“";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "Garso signalai";
+"self.settings.sound_menu.no_sounds.title" = "Jokių";
+"self.settings.sound_menu.all_sounds.title" = "Visi";
+"self.settings.sound_menu.mute_while_talking.title" = "Pirmoji žinutė ir skambtelėjimas";
+
+// Developer options
+"self.settings.developer_options.title" = "Kūrėjo nustatymai";
+"self.settings.apns_logging.title" = "„APNS“ registravimas";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "Parinktys";
+
+"self.settings.privacy_contacts_section.title" = "Kontaktai";
+"self.settings.privacy_contacts_menu.settings_button.title" = "Atidaryti kontaktų nustatymus";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "Tai padeda jums susisiekti su kitais. Mes nuasmeniname visą informaciją ir nesidaliname su niekuo. Leiskite prisijungti per „Nustatymai“ > „Privatumas“ > „Kontaktai“.";
+
+"self.settings.privacy_security.lock_app" = "Užrakinti su slaptuoju kodu";
+
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "Užrakinkite „Secret“ po %@ veikimo fone.";
+
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "Atrakinkite naudodami „Touch ID“ arba įrašę savo „Passcode“.";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "Atrakinkite naudodami „Face ID“ arba įrašę savo „Passcode“.";
+"self.settings.privacy_security.lock_app.subtitle.none" = "Atrakinkite naudodami „Passcode“.";
+
+"self.settings.privacy_security.lock_app.description" = "Atrakinti „Secret“";
+
+"self.settings.privacy_security.lock_cancelled.description" = "Atrakinti „Secret“ naudojant „Touch ID“ arba slaptąjį kodą";
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Atrakinti „Secret“ naudojant „Face ID“ arba slaptąjį kodą";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "Atrakinti „Secret“ naudojant „Touch ID“ arba slaptąjį kodą";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Atrakinti „Secret“ naudojant slaptąjį kodą";
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "Norėdami atrakinti „Secret“ savo įrenginio nustatymuose įjunkite „Passcode“";
+"self.settings.privacy_security.lock_cancelled.action" = "Atrakinti";
+
+"self.settings.privacy_security.disable_link_previews.title" = "Rodyti svetainių vaizdą";
+"self.settings.privacy_security.disable_link_previews.footer" = "Kitų žmonių siunčiamų nuorodų peržiūros vis dar gali būti rodomos.";
+
+"self.settings.privacy_analytics_menu.devices.title" = "Įrenginiai";
+
+"self.settings.privacy.clear_history.title" = "Valyti praeitį";
+"self.settings.privacy.clear_history.subtitle" = "Tai negrįžtamai ištrins visą susirašinėjimų praeitį.";
+
+"self.settings.advanced.title" = "Papildomi";
+"self.settings.advanced.troubleshooting.title" = "Nesklandumų sprendimas";
+
+"self.settings.advanced.troubleshooting.submit_debug.title" = "Derinimo ataskaita";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "Ši informacija padeda „Secret“ pagalbos centrui aptikti skambinimo nesklandumus ir pagerinti bendrą programėlės veikimą.";
+
+"self.settings.advanced.reset_push_token.title" = "Sukurti naują pranešimų atpažinimo ženklą";
+"self.settings.advanced.reset_push_token.subtitle" = "Jei susiduriate su naujienų pranešimo tarnybos nesklandumais, „Secret“ pagalbos centras gali paprašyti nustatyti atpažinimo ženklą iš naujo.";
+"self.settings.advanced.reset_push_token_alert.title" = "Naujienų pranešimų tarnybos atpažinimo ženklas nustatytas iš naujo";
+"self.settings.advanced.reset_push_token_alert.message" = "Pranešimai bus atkurti po kelių sekundžių.";
+"self.settings.advanced.version_technical_details.title" = "Versijos techniniai duomenys";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "Duomenų naudojimo leidimas";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "Techninė ataskaita";
+
+"self.settings.technical_report.send_report" = "Siųsti ataskaitą į „Secret“";
+"self.settings.technical_report.mail.subject" = "„Secret“ derinimo ataskaita";
+
+"self.settings.technical_report.include_log" = "Pridėti išsamų žurnalą";
+"self.settings.technical_report.privacy_warning" = "Išsamiuose žurnaluose gali būti asmeninių duomenų";
+"self.settings.technical_report.no_mail_alert" = "El. pašto klientų nėra. Spustelėlę \"Gerai\" galėsite išsiųsti žurnalą rankiniu būdu: ";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "Atstatyti slaptažodį";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "Pakviesti žmones";
+
+// History backup
+
+"self.settings.conversations.title" = "Praeitis";
+"self.settings.history_backup.title" = "Kurti susirašinėjimų atsarginę kopiją";
+"self.settings.history_backup.description" = "Kurkite atsarginę kopiją, kad išsaugotumėte susirašinėjimo praeitį. Jei prarasite savo įrenginį arba pasikeisite nauju, tai galėsite panaudoti praeities atstatymui.\n\nPasirinkite stiprų slaptažodį, kad apsaugotumėte atsarginės kopijos failą.";
+"self.settings.history_backup.action" = "Kurti atsarginę kopiją dabar";
+"self.settings.history_backup.error.title" = "Klaida";
+
+"self.settings.history_backup.set_email.title" = "Nustatykite el. pašto adresą ir slaptažodį.";
+"self.settings.history_backup.set_email.message" = "Norėdami sukurti susirašinėjimo praeitis atsarginę kopiją, jums būtina naudoti el. pašto adresą ir slaptažodį. Sukurti galite paskyros puslapyje nustatymuose.";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "Nustatykite slaptažodį";
+"self.settings.history_backup.password.cancel" = "Atsisakyti";
+"self.settings.history_backup.password.next" = "Kitas";
+"self.settings.history_backup.password.placeholder" = "Bent 8 simbolių";
+"self.settings.history_backup.password.description" = "Atsarginė kopija bus suspausta ir užkoduota naudojant slaptažodį, kurį čia įrašysite.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "Nėra interneto";
+"system_status_bar.no_internet.explanation" = "Panašu, kad yra nesklandumų su interneto ryšiu. Įsitikinkite, kad jis yra.";
+"system_status_bar.poor_connectivity.title" = "Lėtas internetas, skambinti negalima";
+"system_status_bar.poor_connectivity.explanation" = "Negalime užtikrinti garso kokybės. Prisijunkite prie „Wi-Fi“ arba pareikite į kitą vietą.";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "Jūsų visas vardas";
+"name.guidance.tooshort" = "Bent 2 simboliai";
+"name.guidance.toolong" = "Per daug simbolių";
+
+"email.placeholder" = "El. paštas";
+"email.guidance.invalid" = "Neteisingas el. pašto adresas";
+"email.guidance.tooshort" = "El. pašto adresas per trumpas";
+"email.guidance.toolong" = "Per daug simbolių";
+
+"password.placeholder" = "Slaptažodis";
+"password.guidance.toolong" = "Per daug simbolių";
+
+"phone.guidance.invalid" = "Neteisingas telefono numeris";
+"phone.guidance.tooshort" = "Telefono numeris yra per trumpas";
+"phone.guidance.toolong" = "Per daug simbolių";
+
+// Landing screen
+
+"landing.app_name" = "„Secret“";
+"landing.create_account.title" = "Asmeninis";
+"landing.create_account.subtitle" = "Saugiai bendraukite su draugų grupėmis\U00A0ir\U00A0šeima";
+"landing.create_team.title" = "Pro";
+"landing.create_team.subtitle" = "Saugus bendradarbiavimas verslui, institucijoms ir profesionalioms\U00A0organizacijoms";
+"landing.login.hints" = "Jau turite paskyrą?";
+"landing.login.button.title" = "Prisijungti";
+
+"landing.custom_backend.title" = "Prisijungta prie „%@“";
+"landing.custom_backend.more_info.button.title" = "Rodyti daugiau";
+"landing.custom_backend.more_info.alert.title" = " Prisijungėte prie trečiosios šalies serverio: %@";
+
+// Create team
+
+"team.name.headline" = "Pavadinkite komandą";
+"team.name.subheadline" = "Bet kada vėliau galėsite pakeisti.";
+"team.name.textfield.placeholder" = "komandos pavadinimas";
+"team.name.textfield.accessibility" = "Suteikite komandai pavadinimą";
+
+"team.name.whatiswireforteams" = "Kas yra „Secret“ komandoms?";
+
+"team.email.headline" = "Jūsų paskyra";
+"team.email.subheadline" = "Įrašykite darbo el. pašto adresą.";
+"team.email.textfield.placeholder" = "Jūsų įmonės el. paštas";
+"team.email.button.learn_more" = "Sužinokite daugiau";
+
+"team.activation_code.headline" = "Gavote el. laišką";
+"team.phone_activation_code.headline" = "Patvirtinimas";
+"team.activation_code.subheadline" = "Įrašykite patvirtinimo kodą, kuris buvo išsiųstas į %@.";
+"team.activation_code.button.resend" = "Siųsti kodą dar kartą";
+"team.activation_code.button.change_email" = "Pakeisti el. pašto adresą";
+"team.activation_code.button.change_phone" = "Pakeisti telefono numerį";
+
+"team.full_name.headline" = "Jūsų vardas";
+"team.full_name.textfield.placeholder" = "Vardas pavardė";
+"team.full_name.textfield.accessibility" = "Įrašykite vardą ir pavardę";
+
+"team.password.headline" = "Įrašykite slaptažodį";
+
+"verification.code_label" = "Šešių skaitmenų kodas. Teksto laukas.";
+"verification.code_hint" = "Du kart paspauskite kad įvesti kodą.";
+
+// Invite Team Members
+
+"team.invite.header.title" = "Sukurkite savo komandą";
+"team.invite.header.subtitle" = "Jūsų „Secret“ komanda paruošta. Pakvieskite savo kolegas prisijungti.";
+"team.invite.textfield.placeholder" = "Kolegos el. paštas";
+"team.invite.textfield.accesibility" = "Įrašykite kolegos el. pašto adresą pakvietimui išsiųsti.";
+"team.invite.learn_more.title" = "Sužinoti daugiau";
+"team.invite.top_bar.skip" = "Praleisti";
+"team.invite.top_bar.done" = "Baigta";
+
+// Team Invite Errors
+"team.invite.error.generic" = "Įvyko klaida, bandykite dar kartą";
+"team.invite.error.already_registered" = "Šis el. pašto adresas jau naudojamas";
+"team.invite.error.already_invited" = "Šis el. pašto adresas jau buvo kviestas";
+"team.invite.error.too_many_invitations" = "Didžiausias galimas kvietimų skaičius išsiųstas";
+"team.invite.error.no_internet" = "Nėra interneto ryšio";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "Leisti svečius ir paslaugas";
+"guest_room.allow_guests.subtitle" = "Leiskite šį susirašinėjimą matyti paslaugoms ir žmonėms, kurie nėra jūsų komandoje.";
+"guest_room.remove_guests.message" = "Dabar esantys svečiai ir paslaugos bus pašalintos iš šio susirašinėjimo. Nauji svečiai ir tarnybos negalės prisijungti.";
+"guest_room.remove_guests.action" = "Šalinti";
+"guest_room.revoke_link.message" = "Nauji svečiai negalės prisijungti spustelėję nuorodą. Dabartiniai svečiai liks prisijungę.";
+"guest_room.revoke_link.action" = "Atšaukti nuorodą";
+
+"guest_room.error.generic.title" = "Kažkas atsitiko";
+"guest_room.error.generic.message" = "Patikrinkite interneto ryšį ir bandykite dar kartą";
+
+"guest_room.link.header.title" = "Kviesti kitus su nuoroda";
+"guest_room.link.header.subtitle" = "Bet kas turintis nuorodą gali prisijungti prie susirašinėjimo, net jei neturi „Secret“.";
+
+"guest_room.link.button.title" = "Kurti nuorodą";
+
+"guest_room.actions.copy_link" = "Kopijuoti nuorodą";
+"guest_room.actions.copied_link" = "Nuoroda nukopijuota!";
+"guest_room.actions.share_link" = "Bendrinti nuorodą";
+"guest_room.actions.revoke_link" = "Atšaukti nuorodą…";
+
+"guest_room.share.message" = "Bendraukime per „Secret“:\n%@";
+
+"guest_room.expiration.hours_left" = "Liko %@ val.";
+"guest_room.expiration.less_than_minutes_left" = "Liko mažiau nei %@ min.";
+
+// Registration
+
+"registration.launch_back_button.label" = "Atgal";
+
+"registration.title" = "Registracija";
+"registration.close_email_invitation_button.email_title" = "Naudoti kitą el. pašto adresą";
+"registration.close_email_invitation_button.phone_title" = "Registruotis telefonu";
+"registration.close_phone_invitation_button.email_title" = "Registruotis el. paštu";
+"registration.close_phone_invitation_button.phone_title" = "Naudoti kitą telefono numerį";
+
+"registration.register_by_phone" = "Telefonas";
+"registration.register_by_email" = "El. paštas";
+
+"registration.enter_phone_number.title" = "Keisti telefono numerį";
+"registration.enter_phone_number.placeholder" = "Telefono numeris";
+
+"registration.verify_phone_number.instructions" = "Įrašykite patvirtinimo kodą, kuris buvo išsiųstas į %@";
+"registration.verify_phone_number.resend" = "Siųsti iš naujo";
+"registration.verify_phone_number.resend_placeholder" = "Neatsiranda kodas?\nNaują kodą galite gauti po %.0f sekundžių";
+
+"registration.verify_email.instructions" = "Išsiuntėme el. laišką į %@.\nSpustelėkite ten esančią nuorodą adreso patvirtinimui.";
+"registration.verify_email.resend.instructions" = "Negavote el. laiško?";
+"registration.verify_email.resend.button_title" = "Siųsti iš naujo";
+
+"registration.select_picture.subtitle" = "„Secret“ yra kur kas gražesnė kai naudojate paveikslėlį.";
+"registration.select_picture.button_title" = "Pasirinkti savo asmeninį";
+"registration.keep_picture.button_title" = "Palikti šį";
+"registration.camera_action.title" = "Nufotografuokite";
+"registration.photo_gallery_action.title" = "Pasirinkite nuotrauką";
+"registration.cancel_action.title" = "Atsisakyti";
+
+"registration.no_history.hero" = "Pirmą kartą naudojate „Secret“ šiame įrenginyje.";
+"registration.no_history.subtitle" = "Privatumo sumetimais, jūsų pokalbio istorija čia nebus rodoma.";
+"registration.no_history.got_it" = "GERAI";
+"registration.no_history.restore_backup" = "Atkurti iš atsarginės kopijos";
+
+"registration.alert.account_exists.title" = "Paskyra jau yra";
+"registration.alert.account_exists.message_phone" = "Šis telefono numeris jau yra susietas su paskyra.\n\nNaudokite kitą telefono numerį arba bandykite prisijungti jei tai jūsų paskyra.";
+"registration.alert.account_exists.message_email" = "Šis el. pašto adresas jau yra susietas su paskyra.\n\nNaudokite kitą el. pašto adresą arba bandykite prisijungti jei tai jūsų paskyra.";
+"registration.alert.change_email_action" = "Registruokitės kitu el. pašto adresu";
+"registration.alert.change_phone_action" = "Registruokitės su kitu numeriu";
+"registration.alert.change_signin_action" = "Prisijungti";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "Atkurti praeitį";
+"registration.no_history.restore_backup_warning.message" = "Atsarginės kopijos turinys pakeis susirašinėjimo praeitį šiame įrenginyje. \nAtkurti atsarginėje kopijoje esančią praeitį galite tik toje pačioje platformoje, kur jis ir buvo sukurtas.";
+"registration.no_history.restore_backup_warning.proceed" = "Pasirinkite atsarginės kopijos failą";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "Bandykite dar kartą";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "Kažkas nutiko";
+"registration.no_history.restore_backup_failed.message" = "Praeities atkurti nepavyko.";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "Nesuderinama atsarginė kopija";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "Atkurti kitos paskyros atsarginės kopijos nepavyks.";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "Nesuderinama atsarginė kopija";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "Ši atsarginė kopija buvo sukurta naudojant arba naujesnę arba senesnę „Secret“ versiją, ir negali būti naudojama atkūrimui.";
+
+// SSO – Company Login
+"login.sso.alert.title" = "Įmonės prisijungimas";
+"login.sso.alert.message" = "Įrašykite įmonės SSO prieigos kodą.";
+"login.sso.alert.action" = "Prisijungti";
+"login.sso.alert.text_field.placeholder" = "SSO prieigos kodas";
+
+"login.sso.start_error_title" = "Nepavyko pradėti kompanijos prisijungimo";
+"login.sso.link_error_message" = "Kompanijos prisijungimo nuoroda negalioja. Prašome susisiekti su savo komandos administratoriumi.";
+
+"login.sso.error.alert.title" = "Kažkas nutiko";
+"login.sso.error.alert.invalid_code.title" = "Neteisingas kodas.";
+"login.sso.error.alert.invalid_code.message" = "Įsitikinkite, kad jūsų įmonės SSO prieigos kodas be klaidos, ir bandykite dar kartą.";
+"login.sso.error.offline.alert.message" = "Patikrinkite savo interneto ryšį ir bandykite dar kartą.";
+"login.sso.error.alert.message" = "Papildomai informacijai susisiekite su savo komandos administratoriumi (klaida %@).";
+"login.sso.error.alert.unknown.message" = "Bandykite dar kartą vėliau.";
+"login.sso.error.alert.invalid_status.message" = "Bandykite dar kartą vėliau (klaida %@).";
+
+// Restore In Progress Loading Titles
+"registration.no_history.restore_backup.restoring" = "Atkuriama…";
+"registration.no_history.restore_backup.completed" = "Baigta";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "Ši atsarginė kopija apsaugota slaptažodžiu.";
+"registration.no_history.restore_backup.password.message" = "Norint atkurti šią atsarginę kopiją būtinas slaptažodis.";
+"registration.no_history.restore_backup.password.placeholder" = "Slaptažodis";
+"registration.no_history.restore_backup.password_error.title" = "Neteisingas slaptažodis";
+
+"registration.no_history.logged_out.hero" = "Jūs jau esate naudoję Secret šiame įrenginyje.";
+"registration.no_history.logged_out.subtitle" = "Tuo laikotarpiu išsiųstos žinutės nebus rodomos.";
+"registration.no_history.logged_out.got_it" = "GERAI";
+
+"registration.enter_name.title" = "Keisti vardą";
+"registration.enter_name.hero" = "Kaip turėtume į jus kreiptis?";
+"registration.enter_name.placeholder" = "Jūsų visas vardas";
+
+"registration.terms_of_use.title" = "Sveiki prisijungę į „Secret“.";
+"registration.terms_of_use.terms" = "Tęsdami sutinkate su „Secret“ naudojimosi sąlygomis.";
+"registration.terms_of_use.terms.link" = "Naudojimosi sąlygos";
+"registration.terms_of_use.agree" = "Sutinku";
+
+"registration.terms_of_use.terms.title" = "Naudojimosi sąlygos";
+"registration.terms_of_use.terms.message" = "Sutikite su naudojimosi sąlygomis, kad galėtumėte tęsti.";
+"registration.terms_of_use.terms.view" = "Peržiūrėti";
+"registration.terms_of_use.accept" = "Priimti";
+
+"registration.email_flow.title" = "Registruotis el. paštu";
+"registration.email_flow.email_step.title" = "Keisti duomenis";
+
+"registration.country_select.title" = "Šalis";
+
+"registration.share_contacts.hero.title" = "Ieškoti žmonių, naudojančių „Secret“";
+"registration.share_contacts.hero.paragraph" = "Dalinkitės savo kontaktais, kad galėtumėme jus sujungti su kitais. Visą informaciją mes nuasmeniname ir su niekuo nesidaliname.";
+"registration.share_contacts.find_friends_button.title" = "Dalintis kontaktais";
+"registration.share_contacts.skip_button.title" = "Vėliau";
+
+"registration.address_book_access_denied.hero.title" = "„Secret“ neturi teisės prisijungti prie jūsų kontaktų.";
+"registration.address_book_access_denied.hero.paragraph1" = "„Secret“ padės rasti draugus jei pasidalinsite kontaktais.";
+"registration.address_book_access_denied.hero.paragraph2" = "Norėdami leisti prisijungti, spustelėkite Nustatymai ir įjunkite Kontaktai.";
+"registration.address_book_access_denied.settings_button.title" = "Nustatymai";
+"registration.address_book_access_denied.maybe_later_button.title" = "Gal vėliau";
+
+"registration.push_access_denied.hero.title" = "Niekada nepraleiskite skambučio ar žinutės.";
+"registration.push_access_denied.hero.paragraph1" = "Aktyvuokite Pranešimus Nustatymuose.";
+"registration.push_access_denied.settings_button.title" = "Eiti į Nustatymus";
+"registration.push_access_denied.maybe_later_button.title" = "Gal vėliau";
+
+"registration.personal.title" = "Sukurti paskyrą";
+"registration.signin.title" = "Prisijungti";
+"registration.signin.too_many_devices.title" = "";
+"registration.signin.too_many_devices.subtitle" = "Norėdami naudotis „Secret“ šiame įrenginyje, pašalinkite vieną iš savo įrenginių.";
+"registration.signin.too_many_devices.manage_button.title" = "Tvarkyti įrenginius";
+"registration.signin.too_many_devices.sign_out_button.title" = "Atsijungti";
+
+"registration.signin.too_many_devices.manage_screen.title" = "Pašalinti įrenginį";
+
+"registration.signin.alert.password_needed.title" = "Slaptažodis būtinas";
+"registration.signin.alert.password_needed.message" = "Įrašę slaptažodį galėsite prisijungti.";
+
+"registration.devices.title" = "Įrenginiai";
+"registration.devices.active_list_header" = "Aktyvūs";
+"registration.devices.current_list_header" = "Esamas";
+"registration.devices.active_list_subtitle" = "Jeigu jūs neatpažįstate aukščiau esančio įrenginio, pašalinkite jį ir atstatykite savo slaptažodį.";
+"registration.devices.activated" = "Aktyvuota %@";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "Prisijungti el. paštu";
+"signin.use_phone.label" = "Prisijungti telefono numeriu";
+"signin.forgot_password" = "Pamiršote slaptažodį?";
+"signin.use_one_password.label" = "Prisijungti naudojant 1Password";
+"signin.use_one_password.hint" = "Spustelėję dukart įrašysite slaptažodį su 1Password";
+"signin.confirm" = "Prisijungti";
+"signin.company_idp.button.title" = "Įmonėms";
+
+"signin_logout.subheadline" = "Jūsų seansui skirtasis laikas baigėsi. Norėdami tęsti prisijunkite iš naujo.";
+"signin_logout.email.subheadline" = "Jūsų seansui skirtasis laikas baigėsi. Norėdami tęsti įveskite savo el. paštą ir slaptažodį.";
+"signin_logout.phone.subheadline" = "Jūsų seansui skirtasis laikas baigėsi. Norėdami tęsti įveskite savo telefono numerį.";
+"signin_logout.sso.subheadline" = "Jūsų seansui skirtasis laikas baigėsi. Norėdami tęsti prisijunkite su savo kompanijos paskyra.";
+"signin_logout.sso.buton" = "Įmonės prisijungimas";
+
+"signin.email.missing_password.subtitle" = "Norėdami tęsti įveskite savo el. paštą ir slaptažodį.";
+"signin.phone.missing_password.subtitle" = "Norėdami tęsti įveskite savo telefono numerį.";
+
+"registration.phone_country" = "Šalis";
+"registration.phone_code" = "Šalies kodas";
+"registration.phone_country.hint" = "Dukart spustelėję galėsite pasirinkti kitą šalį.";
+"registration.phone_code.hint" = "Dukart spustelėję galėsite pasirinkite kitą šalies kodą.";
+"registration.phone.verify.label" = "Patvirtinti telefono numerį";
+"registration.phone.verify_field.label" = "Patvirtinimo kodas";
+
+"registration.add_phone_number.hero.title" = "Pridėti telefono numerį";
+"registration.add_phone_number.hero.paragraph" = "Tai padės mums rasti jūsų pažįstamus. Niekada šituo nesidaliname.";
+"registration.add_phone_number.skip_button.title" = "Vėliau";
+
+"registration.add_email_password.hero.title" = "Pridėkite el. pašto adresą ir slaptažodį.";
+"registration.add_email_password.hero.paragraph" = "Tai leidžia jums naudoti Secret keliuose įrenginiuose.";
+
+"registration.email_invitation.title" = "Kvietimas";
+"registration.email_invitation.hero.title" = "Sveiki, %@";
+"registration.email_invitation.hero.paragraph" = "Norėdami sukurti paskyrą, pasirinkite slaptažodį.";
+
+"registration.phone_invitation.title" = "Kvietimas";
+"registration.phone_invitation.hero.title" = "Sveiki, %@";
+"registration.phone_invitation.hero.paragraph" = "Liko tik vienas žingsnis ir baigsite kurti paskyrą.";
+
+"registration.confirm" = "Registruotis";
+"registration.phone.country_code.hint" = "Dukart spustelėję galėsite naudoti šios šalies telefono numerį.";
+
+"error.name_and_email" = "Įrašykite savo vardą ir pavardę ir naudojamą el. pašto adresą";
+"error.full_name" = "Įrašykite savo vardą ir pavardę";
+"error.email" = "Iveskite teisingą el. pašto adresą";
+"error.input.too_long" = "Įvestis per ilga";
+"error.input.too_short" = "Įvestis per trumpa";
+"error.email.invalid" = "Iveskite teisingą el. pašto adresą";
+"error.phone.invalid" = "Prašome įvesti teisingą telefono numerį";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "Užsirezervuokite savo unikalų Secret vardą.";
+"registration.select_handle.takeover.subtitle_link" = "Sužinoti daugiau";
+
+"registration.select_handle.takeover.choose_own" = "Pasirinkite savo";
+"registration.select_handle.takeover.keep_suggested" = "Palikti šį";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "Įvyko klaida, bandykite dar kartą";
+"error.user.needs_credentials" = "Patvirtinkite savo duomenis ir bandykite dar kartą.";
+"error.user.invalid_credentials" = "Patvirtinkite savo duomenis ir bandykite dar kartą.";
+"error.user.account_pending_activation" = "Paskyra, prie kurios bandote prisijungti, nepatvirtinta. Patvirtinkite duomenis.";
+"error.user.network_error" = "Panašu, kad yra nesklandumų su jūsų tinklu. Bandykite dar kartą.";
+"error.user.email_is_taken" = "Jūsų pateiktas el. pašto adresas jau yra užregistruotas. Pabandykite kitą.";
+"error.user.phone_is_taken" = "Jūsų pateiktas telefono numeris jau yra užregistruotas. Prašome bandyti dar kartą.";
+"error.user.phone_code_invalid" = "Įrašykite teisingą kodą";
+"error.user.phone_code_too_many" = "Kodą jau išsiuntėme jums SMS žinute. Spustelėkite „Siųsti dar kartą“ po 10 minučių ir gausite naują kodą.";
+"error.user.registration_unknown_error" = "Įvyko klaida. Bandykite dar kartą.";
+"error.user.device_deleted_remotely" = "Buvote atjungtas kitame įrenginyje.";
+"error.user.last_identity_cant_be_deleted" = "El. pašto adresas arba telefono numeris yra būtinas.";
+"error.user.account_suspended" = "Ši paskyra daugiau nebeturi įgaliojimų prisijungti.";
+"error.user.account_limit_reached" = "Negalite pridėti daugiau nei 3 paskyras.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "Nepavyko pakeisti jūsų slaptažodžio.";
+
+"error.group_call.too_many_members_in_conversation.title" = "Per daug žmonių, norint skambinti";
+"error.group_call.too_many_members_in_conversation" = "Skambinti galima pokalbiuose tik iki %d žmonių.";
+"error.group_call.too_many_participants_in_the_call.title" = "Pasiektas didžiausias pašnekovų skaičius";
+"error.group_call.too_many_participants_in_the_call" = "Čia dar tilps %d pašnekovai.";
+"error.call.gsm_ongoing.title" = "Mobiliojo ryšio skambutis";
+"error.call.gsm_ongoing" = "Baikite skambutį mobiliuoju ryšiu ir tada skambinkite per „Secret“.";
+"error.call.general.title" = "Skambučio klaida";
+"error.call.general" = "Bandykite skambinti dar kartą po kelių minučių.";
+"error.call.slow_connection.title" = "Lėtas ryšys";
+"error.call.slow_connection" = "Skambučio metu gali kilti nesklandumų";
+"error.call.slow_connection.call_anyway" = "Vis tiek skambinti";
+
+"error.invite.no_email_provider" = "Sukonfigūruokite el. pašto klientą, kad galėtumėte siųsti kvietimus el. paštu";
+"error.invite.no_messaging_provider" = "Sukonfigūruokite SMS siuntimą, kad galėtumėte siųsti kvietimus SMS žinute";
+
+"error.conversation.title" = "Klaida";
+"error.conversation.cannot_add" = "Pridėti pašnekovų nepavyko";
+"error.conversation.cannot_remove" = "Pašalinti pašnekovų nepavyko";
+"error.conversation.too_many_members" = "Susirašinėjimas pilnas";
+"error.conversation.offline" = "Panašu, kad yra nesklandumų su interneto ryšiu. Įsitikinkite, kad jis yra.";
+
+"sketchpad.initial_hint" = "Spustelėkite spalvas, kad pakeistumėte teptuko dydį";
+
+"migration.please_wait_message" = "Minutėlę";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@ prisijungė prie „Secret“";
+"push.notification.new_message" = "Nauja žinutė";
+
+
+//Force Update
+"force.update.title" = "Naujinti būtina";
+"force.update.message" = "Negalite naudotis naujausiomis galimybėmis.\nAtsisiųskite naujausią „Secret“ versiją iš „App Store“.";
+"force.update.ok_button" = "Eiti į „App Store“";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Aptiktas įsilaužimas";
+"jailbrokendevice.alert.message" = "Dėl saugumo „Secret“ negalite naudotis šiame įrenginyje. Esantys „Secret“ duomenys buvo ištrinti.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · iš giphy.com";
+"giphy.conversation.random_message" = "iš giphy.com";
+"giphy.error.no_more_results" = "daugiau jokių gif";
+"giphy.error.no_result" = "gif nerasta";
+
+"giphy.confirm" = "siųsti";
+"giphy.cancel" = "atšaukti";
+"giphy.search_placeholder" = "Ieškoti „Giphy“";
+
+"invite_banner.title" = "Sukvieskite draugus į „Secret“!";
+"invite_banner.message" = "Mėgaukitės skambučiais, susirašinėjimais, eskizais, GIF paveikslėliais ir dar daugiau asmeniškai arba grupėje.";
+"invite_banner.invite_button_title" = "Pakviesti daugiau žmonių";
+
+// Collections
+"collections.section.images.title" = "Paveikslai";
+"collections.section.files.title" = "Failai";
+"collections.section.videos.title" = "Vaizdo įrašai";
+"collections.section.links.title" = "Nuorodos";
+"collections.section.all.button" = "Rodyti visus %d →";
+"collections.section.no_items" = "Kolekcijoje elementų nėra";
+"collections.image_viewer.copied.title" = "Paveikslėlis nukopijuotas";
+
+"collections.search.field.placeholder" = "Ieškoti tekstinėse žinutėse";
+"collections.search.no_items" = "Rezultatų nėra";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "Žinutės";
+"compose.drafts.empty.title" = "Žinučių nėra";
+"compose.drafts.empty.subtitle" = "Bakstelėkit + naujos sukūrimui";
+"compose.drafts.compose.title" = "Rašykite žinutę";
+"compose.drafts.compose.subject.placeholder" = "Spustelėkite temos nustatymui";
+
+"compose.drafts.compose.delete.confirm.title" = "Patvirtinkite ištrynimą";
+"compose.drafts.compose.delete.confirm.message" = "Šis veiksmas ištrins juodraštį negrįžtamai ir negali būti atšauktas.";
+"compose.drafts.compose.delete.confirm.action.title" = "Ištrinti";
+
+"compose.drafts.compose.dismiss.confirm.title" = "Išsaugoti kaip juodraštį";
+"compose.drafts.compose.dismiss.confirm.action.title" = "Įrašyti";
+"compose.drafts.compose.dismiss.delete.action.title" = "Ištrinti";
+
+"availability.message.cancel" = "Atsisakyti";
+"availability.message.set_status" = "Nurodykite būseną";
+"availability.accessibility_label.change_status" = "Keisti būseną";
+"availability.accessibility_label.status" = "Būsena";
+
+"availability.none" = "Jokių";
+"availability.available" = "Prisijungęs";
+"availability.away" = "Pasišalinęs";
+"availability.busy" = "Užsiėmęs";
+"availability.available.placeholder" = "%@ yra prisijungęs";
+"availability.away.placeholder" = "%@ yra pasišalinęs";
+"availability.busy.placeholder" = "%@ yra užsiėmęs";
+
+"availability.reminder.away.title" = "Pasišalinote";
+"availability.reminder.away.message" = "Kiti žmonės matys jus kaip pasišalinusį. Negausite perspėjimų apie skambučius ir žinutes.";
+"availability.reminder.busy.title" = "Užsiėmęs";
+"availability.reminder.busy.message" = "Kiti žmonės matys jus kaip užsiėmusį. Gausite perspėjimų apie paminėjimus, atsakymus ir skambučius susirašinėjimuose kurie nėra nutildyti.";
+"availability.reminder.available.title" = "Pasiekiamas";
+"availability.reminder.available.message" = "Kitiems žmonėms būsite rodomi kaip Pasiekiama(-s). Jūs gausite pranešimus apie gaunamus skambučius ir žinutes pagal kiekviename pokalbyje nustatytą pranešimų nustatymą.";
+"availability.reminder.none.title" = "Nenustatyta jokia būsena";
+"availability.reminder.none.message" = "Gausite pranešimus apie gaunamus skambučius ir žinutes pagal kiekviename pokalbyje nustatytą pranešimų nustatymą.";
+"availability.reminder.action.dont_remind_me" = "Daugiau neberodyti šios informacijos";
+"availability.reminder.action.ok" = "GERAI";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "Pokalbio kokybės atsiliepimas";
+"calling.quality_survey.question" = "Kaip bendrai vertinate šio pokalbio kokybę?";
+"calling.quality_survey.answer.1" = "Bloga";
+"calling.quality_survey.answer.2" = "Vidutinė";
+"calling.quality_survey.answer.3" = "Nebloga";
+"calling.quality_survey.answer.4" = "Gera";
+"calling.quality_survey.answer.5" = "Puiki";
+"calling.quality_survey.skip_button_title" = "Praleisti";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "Patvirtinti";
+"url_action.title" = "Patvirtinti URL adresą";
+"url_action.connect_to_bot.message" = "Ar norite prisijungti prie roboto?";
+
+"url_action.switch_backend.title" = "Prisijungti prie serverio";
+"url_action.switch_backend.message" = "Ši konfigūracija prijungs programėlę prie trečiosios šalies serverio: \n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Nepavyko perjungti serverių";
+"url_action.switch_backend.error.logged_in" = "Esate prisijungę. Norėdami perjungti serverį, atsijunkite nuo visų paskyrų ir bandykite dar kartą.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "Serveris neatsako";
+"url_action.switch_backend.error.invalid_backend" = "Patikrinkite savo interneto ryšį bei nuorodą ir bandykite dar kartą.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret nepavyksta rasti šio žmogaus.";
+"url_action.invalid_user.message" = "Gali būti, kad neturite leidimo šiai paskyrai arba jos daugiau nebėra.";
+
+"url_action.invalid_conversation.title" = "Secret negali atverti šio pokalbio.";
+"url_action.invalid_conversation.message" = "Gali būti, kad neturite leidimo šiai paskyrai arba žmogus nesinaudoja Wire.";
+
+"url_action.authorization_required.title" = "Būtina autorizuotis.";
+"url_action.authorization_required.message" = "Norint peržiūrėti turinį būtina prisijungti.";
+
+"url_action.invalid_link.title" = "Neteisinga nuoroda.";
+"url_action.invalid_link.message" = "Jūsų atverta nuoroda yra neteisinga.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+"news_offers.consent.title" = "Ar norite gauti naujienas ir produktų pakeitimus iš „Secret“ el. paštu?";
+"news_offers.consent.message" = "Atsisakyti galite bet kada.";
+"news_offers.consent.button.privacy_policy.title" = "Privatumo politika";
+
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat"  = "Create Group";
+"conversation_list.popover.add_friend"  = "Add Friends";
+"conversation_list.popover.scan"        = "Scan";
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "Niekas dar nepažymėjo, kad patinka.";
+"message_details.empty_read_receipts" = "Niekas dar neperskaitė šios žinutės.";
+"message_details.read_receipts_disabled" = "Perskaitymo patvirtinimai nebuvo įjungti kai žinutė buvo išsiųsta.";
+"message_details.combined_title" = "Žinutės duomenys";
+"message_details.likes_title" = "Patinka";
+"message_details.receipts_title" = "Perskaityta";
+"message_details.tabs.seen" = "Perskaityta (%d)";
+"message_details.tabs.likes" = "Patinka (%d)";
+"message_details.subtitle_send_date" = "Išsiųsta: %@";
+"message_details.subtitle_edit_date" = "Pakeista: %@";
+"message_details.subtitle_label_voiceOver" = "Žinutės duomenys";
+"message_details.user_handle_subtitle_label" = "Naudotojo vardas";
+"message_details.user_read_timestamp_subtitle_label" = "Perskaityta";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+
+"registration.password.rules.no_requirements" = "Use %@.";
+
+"self.settings.account_details.equipment_model.title" = "Equipment model";
+
+
+"registration.password.rules.no_requirements" = "Naudoti %@.";
+"registration.password.rules.with_requirements" = "Naudoti %@ su %@.";
+
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "Sulaikymas dėl teisinių priežasčių išjungtas";
+"legal_hold.deactivated.message" = "Naujos žinutės nebus išsaugotos.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "Teisiškai sulaikytas.";
+"share_extension.voiceover.conversation_secure" = "Visi klientai patikrinti.";
+"share_extension.voiceover.conversation_secure_with_ignored" = "Ne visi klientai patvirtinti.";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = "Laukia patvirtinimo.";
+"legalhold_request.alert.title" = "Prašomas sulaikymas dėl teisinių priežasčių";
+"legalhold_request.alert.detail" = "Įrenginys įrašys būsimas žinutes naudojant kontrolinį kodą: \n\n%@\n\nĮskaitant ištrintas, pakeistas, ir laikinas žinutes visuose susirašinėjimuose.";
+"legalhold_request.alert.detail.enter_password" = "Norėdami patvirtinti, įveskite slaptažodį.";
+"legalhold_request.alert.error_wrong_password" = "Neteisingas slaptažodis";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "Sulaikymas dėl teisinių priežasčių aktyvus";
+"legalhold_active.alert.learn_more" = "Sužinokite daugiau";
+"legalhold_active.alert.message" = "Jūs buvote teisiškai sulaikytas. Visos žinutės bus išsaugotos, įskaitant ištrintas, pakeistas ir laikinas žinutes.\n\nJūsų pašnekovai bus apie tai informuoti.";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "Sesijai skirtas laikas pasibaigė";
+"account_deleted_session_expired_alert.message" = "Programėlė ilgą laiką neturėjo ryšio su serveriu, arba jūsų sesija buvo nustatyta kaip negaliojanti nuotoliniu būdu.";
+

@@ -1,0 +1,2207 @@
+"conversion.announcement.issue.title" = "发布";
+
+"Loading.TrackSyncPhase.startLoading" = "开始加载";
+"Loading.TrackSyncPhase.fetchingConnections" = "获取好友连接信息";
+"Loading.TrackSyncPhase.fetchingConversations" = "拉取会话列表";
+"Loading.TrackSyncPhase.fetchingUsers" = "加载好友信息";
+"Loading.TrackSyncPhase.fetchingMissedEvents" = "配置用户信息";
+
+
+"conversation.system.client.login.title" = "设备登录";
+"conversation.system.client.remove.no.know" = "如果不认识此设备，前往移除设备";
+"conversation.system.goto.client.manager" = "前往设备管理";
+"conversation.system.you.account.at" = "您的账号于";
+"conversation.system.you.account.on" = "在";
+"conversation.system.you.account.activation" = "激活";
+"conversation.system.auth.title" = "网页授权";
+"conversation.system.you.account.auth" = "授权";
+
+"conversation.group.nickName" = "群昵称";
+
+// MARK: -
+"conversation.groupinvite.invite" = "”%@“想邀请%@位好友加入群聊";
+"conversation.groupinvite.do" = "去确认";
+"conversation.groupinvite.done" = "已确认";
+"conversation.groupinvite.add.self" = "邀请%@加入群聊";
+"conversation.groupinvite.add.self.title" = "群聊邀请";
+"conversation.groupinvite.member.title" = "邀请的成员";
+"conversation.groupinvite.add.other" = "邀请你加入群聊";
+"conversation.groupinvite.add.title" = "%@邀请%@加入群聊";
+"conversation.groupinvite.add.detial" = "%@邀请%@加入%@群，点击可查看详情。";
+"conversation.groupinvite.statue" = "群邀请信息";
+"conversation.groupinvite.confirm.invite" = "确认邀请";
+"conversation.groupinvite.confirm.title" = "确定加入群聊";
+"conversation.groupinvite.confirm.join" = "加入该群聊";
+"conversation.groupinvite.confirm.refuse" = "拒绝加入";
+"conversation.groupinvite.confirm.joined" = "已加入";
+"conversation.groupinvite.confirm.refused" = "已拒绝";
+
+"conversation.group_invite.vc.nav.title" = "邀请详情";
+"conversation.group_invite.vc.info.title" = "邀请%d位朋友加入群聊";
+
+"conversation.group_invite.alert.title" = "群主已启用\"群聊邀请确认\"，邀请朋友进群可向群主描述原因";
+"conversation.group_invite.send.title" = "邀请已发送，请等待群主确认";
+// MARK: -
+"network.restricted.tips" = "您的应用尚未获得联网权限,前往设置中心开启权限!";
+"network.notreachable.tips" = "前往设置中心开启网络!";
+
+// MARK: -
+"photolibrary.permissions.shutdown.tips" = "没有获取相册权限,去设置";
+"photolibrary.unavailable.systemreason.tips" = "由于系统原因, 无法访问相册";
+
+// MARK: -
+"general.skip" = "跳过";
+
+// MARK: -
+"newProfile.conversation.destoryafterread.subtitle" = "如果设置了该选项，该聊天里面发送和接收的消息将在阅读后消失。";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "五秒钟";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "15秒钟";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "30秒钟";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "1分钟";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "5分钟";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "1天";
+
+// MARK: -
+"settings.qrcode.tips" = "扫一扫上面的二维码图案，加我Secret";
+"settings.qrcode.save" = "保存我的二维码";
+"setting.privacy.setting.cell.title" = "隐私设置";
+"conversation.group.tips" = "扫一扫上面的二维码图案，加入Secret群聊";
+"conversation.group.qrcode.save" = "保存secret群二维码";
+
+// MARK: 
+"newProfile.conversation.record" = "聊天记录";
+"newProfile.conversation.safe.title" = "加密安全码";
+"newProfile.conversation.safe.subtitle" = "聊天信息已加密";
+"newProfile.conversation.announcement.title" = "群公告";
+"newProfile.conversation.remark" = "设置备注";
+"newProfile.conversation.photo" = "朋友圈";
+"newProfile.conversation.remarksave" = "保存";
+"newProfile.conversation.addremark" = "添加备注名";
+
+"newProfile.conversation.remove_participant" = "从群聊中移除";
+"newProfile.conversation.start_chat" = "开始聊天";
+"newProfile.conversation.complaint" = "投诉";
+"newProfile.conversation.complaint.title" = "投诉理由";
+"newProfile.conversation.complaint.submit" = "提交";
+"newProfile.conversation.complaint.placeHolder" = "请输入投诉原因";
+"newProfile.conversation.complaint.success" = "投诉成功！";
+
+
+"participants.conversation.name" = "群聊名称";
+
+
+"general.ok" = "好";
+"general.cancel" = "取消";
+"general.open_settings" = "开启Secret设定";
+
+"version.update_tips" = "新版本! 前往App Store更新";
+
+//
+"peoplepicker.button.share_url_to_conversation" = "发送链接给联系人";
+"peoplepicker.button.sub_to_conversation" = "移除成员";
+"peoplepicker.button.delete_member" = "删除群成员";
+
+//
+"participants.avatar.host.title" = "群主";
+"participants.avatar.manager.title" = "管理员";
+"participants.avatar.me.title" = "我";
+"content.system.conversation.started.no.with" = " 开始了聊天.";
+
+"add_participants.all_contacts_added" = "所有用户已加入群聊";
+"add_participants.alert.title" = "通话人数已达上限";
+"add_participants.alert.message.new_conversation" = "最多 %d 人可以加入同一个群聊。";
+"add_participants.alert.message.existing_conversation" = "最多 %1$d 人，可以加入群聊。目前还可加入 %2$d 人。";
+"add_participants.alert.limitInOneChoose.title" = "选择人数已达上限";
+"add_participants.alert.limitInOneChoose.message" = "最多可以同时选择 %1$d 人";
+
+"self.settings.account_manager.title" = "账号管理";
+"self.settings.photo.title" = "朋友圈";
+"self.settings.praise.title" = "请给我们五星好评吧";
+
+// MARK: - Conversation Status
+"self.settings.status.title" = "状态";
+"self.settings.status.closed" = "加密模式";
+"self.settings.status.darwin" = "智能达尔文托管";
+"self.settings.status.angel" = "智能小天使托管";
+"self.settings.status.campusbelle" = "智能校花托管";
+"self.settings.status.ai" = "人工训练模式";
+"self.settings.status.zuchongzhi" = "祖冲之模式";
+
+"self.settings.account_section.myQRCode.title" = "我的二维码";
+"self.settings.account_section.qrCode.title" = "Secret电脑版扫描登录";
+
+// MARK: - Setting - Scan
+"self.settings.account_section.scan.title" = "扫描二维码";
+"self.settings.account_section.security.title" = "安全";
+
+
+"conversation.setting.backgroundimage" = "设置聊天背景";
+"conversation.setting.backgroundimage.title" = "更改此主题背景";
+"conversation.setting.backgroundimage.description" = "试试其他风格，\n随时都能尝试新鲜的主题背景。";
+"conversation.setting.backgroundimage.apply" = "应用";
+"conversation.setting.backgroundimage.cancel" = "取消";
+"conversation.setting.originalMark" = "原图";
+
+
+"conversation.setting.place_top" = "置顶";
+
+"conversation.setting.screenShot" = "截屏通知";
+"conversation.setting.screenShot.detail" = "开启截屏通知后，截屏时将会在聊天页面内发送通知消息";
+"conversation.setting.screenShot.open" = "已开启";
+"conversation.setting.screenShot.close" = "已关闭";
+
+
+"conversation.setting.disableSendMsg" = "设置群内禁言";
+"conversation.setting.disableSendMsg.status.ing" = "禁言中";
+"conversation.setting.disableSendMsg.duration.forever" = "永久";
+"conversation.setting.disableSendMsg.time.left" = "剩余";
+
+"conversation.setting.manager.systemMsg.became" = "成为管理员";
+"conversation.setting.manager.systemMsg.drop" = "被群主解除管理员";
+
+
+"conversation.setting.creator.systemMsg.change" = "已成为新群主";
+
+
+"conversation.setting.to.huge.conversation" = "升级为万人群";
+"conversation.setting.to.upgraded.huge.conversation" = "已升级为万人群";
+"conversation.setting.to.upgrade.over.100" = "群聊人数超过100方可开启";
+"conversation.setting.to.openjoin.url" = "开启链接加入";
+"conversation.setting.to.message.visible.only.manager.creator" = "其他成员发消息不可见";
+"conversation.setting.to.inviters.visible" = "群邀请列表可见";
+"conversation.setting.to.openjoin.QRCode" = "开启二维码加入";
+"conversation.setting.to.group.allowViewMembers" = "允许查看群成员";
+"conversation.setting.to.group.qrcode" = "群二维码";
+"conversation.setting.to.group.urlshare" = "分享给";
+"conversation.setting.to.group.urlsubtitle" = "选择分享";
+"conversation.setting.to.group.confirmTitle" = "群聊邀请确认";
+"conversation.setting.to.group.confirmSubtitle" = "启用后，群成员需群主确认才能邀请朋友进群，同时扫描二维码进群也停用";
+"conversation.setting.to.group.ownerInvite" = "仅限群主邀请进入群聊";
+"conversation.setting.to.group.ownerChange" = "群主管理权转让";
+"conversation.setting.to.group.attendant" = "管理员";
+"conversation.setting.to.group.speaker" = "演讲者";
+"conversation.setting.to.group.addSpeaker" = "添加";
+"conversation.setting.to.group.manager" = "群管理";
+"conversation.setting.to.group.icon" = "群头像";
+"conversation.setting.to.group.MemberConfirm" = "群成员被邀请确认";
+"conversation.setting.to.group.shortcut" = "添加至菜单栏";
+"conversation.setting.to.group.noShortcut" = "从菜单栏移除";
+"conversation.setting.to.group.add_to_home_screen" = "添加至主屏幕";
+"conversation.setting.to.group.forbid_add_friend" = "禁止群成员互加好友";
+"conversation.setting.to.group.member_change_unvisible" = "成员邀请、退出不可见";
+"conversation.setting.to.group.disablesendmsg" = "全员禁言";
+"conversation.setting.to.group.disablesendmsg.status" = "全员禁言启用后，只允许群主发言，进入群成员名片可对单个成员设置禁言";
+"Group.settings.allow_member_add" = "无权限查看该用户信息";
+"conversation.setting.to.showMemsum" = "显示成员数量";
+"conversation.setting.to.enableEditMsg" = "消息可编辑、删除";
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "网页端已登陆";
+"hud.success.saved" = "已保存";
+"hud.success.added" = "已添加";
+"hud.success.sent" = "已发送";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "无效的二维码";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "未知错误";
+"hud.error.invalid.qrcode" = "无效的二维码";
+"hud.error.no.qrcode" = "没有发现二维码";
+"hud.error.self.qrcode" = "您不能扫描自己的二维码";
+"hud.error.not.find.user" = "找不到该用户";
+"hud.error.not.choose.coin.type" = "币种未选择";
+
+// MARK: - Global HUD
+"hud.cancelled" = "已取消";
+"hud.copied" = "已复制";
+
+// MARK: - AlertController
+"controller.alert.ok" = "确定";
+"controller.alert.title.error" = "错误";
+"controller.alert.desc.no.permission.to.album" = "没有相册访问权限，请去设置中开启";
+
+// MARK: Describe Text
+"controller.scan.desktop.login" = "使用电脑前往到https://webapp.secret.chat，然后扫描二维码。";
+
+// MARK: - 
+"join_invite_response_error_code_2001"  = "您已在群内";
+"join_invite_response_error_code_2002"  = "该群已关闭链接进群";
+
+// MARK: - Global
+"secret_unknown_error" = "未知错误";
+"secret_server_error" = "服务器繁忙";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "跳转到最新消息";
+
+"app.scheme.loadFailure" = "应用加载失败，请重试";
+"app.scheme.load.reLoad" = "重新加载";
+"app.scheme.login.authorizationFailure" = "登录授权失败，请检查网络后重试";
+"app.scheme.login.reAuthorization" = "重新授权";
+"app.scheme.login.authorization" = "授权";
+"app.scheme.login.apply.permission" = "申请获取以下权限";
+"app.scheme.login.get.information" = "获取你的公开信息";
+"app.scheme.login.auth.allow" = "允许";
+"app.scheme.login.auth.refuse" = "拒绝";
+"app.scheme.h5.auth.success" = "授权成功";
+"app.scheme.h5.auth.failed" = "授权失败";
+
+
+"notification.title" = "通知";
+"notification.cell.comment" = "评论了";
+"notification.cell.reply" = "回复了";
+"notification.cell.like" = "给你点赞";
+"notification.cell.transimit" = "转发了";
+
+
+"new_version_info" = "修复群链接未展示问题\n优化消息展示\n优化扫码功能\n修复部分BUG";
+
+"new_version_title" = "版本更新";
+"login.intro.text" = "保密每个人之间的通讯";
+"login.intro.text.new" = "让连接更有价值";
+
+"general.ok" = "确定";
+"general.next" = "继续";
+"general.cancel" = "取消";
+"general.close" = "关闭";
+"general.back" = "返回";
+"general.open_settings" = "开启Secret设定";
+"general.edit" = "修改";
+"general.done" = "完成";
+"general.confirm" = "好";
+
+"general.skip" = "现在不要";
+"general.accept" = "接听";
+
+"general.decline" = "不用了，谢谢";
+"general.failure" = "好像出了点问题。";
+"general.failure.try_again" = "请再试一次";
+"general.service" = "服务";
+"general.off" = "关闭";
+"general.on" = "开启";
+"general.loading" = "载入中...";
+"general.paste" = "粘贴";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = "\U200B";
+
+"general.guest-room-name" = "访客聊天室";
+
+// User Cell
+"user_cell.title.you_suffix" = "(你)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.title" = "通讯录";
+"peoplepicker.search_placeholder" = "通过名字或用户名搜索";
+"peoplepicker.header.top_people" = "常联系的人";
+"peoplepicker.button.create_conversation" = "创建群聊";
+"peoplepicker.button.add_to_conversation" = "将参与者添加到群组";
+"peoplepicker.header.conversations" = "群组";
+"peoplepicker.header.team_conversations" = "%@ 组";
+"peoplepicker.header.send_invitation" = "邀请";
+"peoplepicker.header.contacts" = "联系人";
+"peoplepicker.header.contacts_personal" = "联系人";
+"peoplepicker.header.directory" = "添加好友";
+
+"peoplepicker.group.title.singular" = "添加参与者";
+"peoplepicker.group.title.plural" = "添加参与者(%d)";
+"peoplepicker.group.skip" = "跳过";
+"peoplepicker.group.done" = "完成";
+"peoplepicker.group.create" = "创建";
+
+"peoplepicker.header.people" = "联系人";
+"peoplepicker.header.services" = "服务";
+"peoplepicker.services.open_conversation.item" = "打开对话";
+"peoplepicker.services.add_service.button" = "添加服务";
+"peoplepicker.services.add_service.error.title" = "无法加入服务";
+"peoplepicker.services.add_service.error.default" = "服务暂时无法使用";
+"peoplepicker.services.add_service.error.full" = "对话人数已达上限";
+
+"peoplepicker.title.create_conversation" = "创建群聊\n";
+"peoplepicker.title.add_to_conversation" = "添加参与者";
+
+"peoplepicker.no_contacts_title" = "找不到联络人。";
+
+"peoplepicker.no_matching_results_title" = "没有结果。";
+"peoplepicker.no_matching_results_message" = "输入完整的邮箱地址。";
+
+"peoplepicker.no_matching_results.action.send_invite" = "发送邀请";
+"peoplepicker.no_matching_results.action.share_contacts" = "共享联络人";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "请输入有效的邮箱地址";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "没有结果。";
+"peoplepicker.no_matching_results_services_title" = "服务是可以为您的工作流程改善提供帮助。要启用服务，请联系您的管理员。";
+"peoplepicker.no_matching_results_services_admin_title" = "服务是可以为您的工作流程改善提供帮助。";
+"peoplepicker.no_matching_results_services_manage_services_title" = "管理服务";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "请输入完整的邮箱地址或";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "共享联络人";
+
+"peoplepicker.share_contacts.no_results.title" = "按名称或邮箱地址搜索";
+
+"peoplepicker.send_invitation.dialog.title" = "邀请已送出";
+"peoplepicker.send_invitation.dialog.message" = "邀请两周内有效。如果过期，请发送新的邀请。";
+"peoplepicker.send_invitation.dialog.ok" = "好";
+
+"peoplepicker.invite_more_people" = "邀请更多人";
+"peoplepicker.invite_team_members" = "邀请好友使用Secret";
+"peoplepicker.quick-action.open-conversation" = "开启";
+"peoplepicker.quick-action.create-conversation" = "创建群聊";
+"peoplepicker.quick-action.create-guest-room" = "创建访客聊天室";
+
+"peoplepicker.quick-action.create-hugegroup" = "创建万人群";
+"peoplepicker.quick-action.invite-addressbook" = "邀请通讯录好友";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "按名称搜索";
+"contacts_ui.invite_others" = "邀请其他人";
+"contacts_ui.name_in_contacts" = "%@在联系人中";
+"contacts_ui.connection_request" = "请求加为好友";
+"contacts_ui.action_button.invite" = "邀请";
+"contacts_ui.action_button.open" = "开启";
+"contacts_ui.invite_sheet.cancel_button_title" = "取消";
+"contacts_ui.notification.invitation_sent" = "邀请已送出";
+"contacts_ui.notification.invitation_failed" = "无法发送邀请";
+"contacts_ui.title" = "邀请联系人";
+
+"conversation_list.empty.all_archived.message" = "全部都已存档";
+"conversation_list.empty.no_contacts.message" = "开始对话或\n创建群组。";
+"conversation_list.message.expression" = "[表情信息]";
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "加入";
+"conversation_list.header.self_team.accessibility_value" = "%@帐号";
+"conversation_list.header.self_team.accessibility_value.inactive" = "点击激活";
+"conversation_list.header.self_team.accessibility_value.active" = "立即激活";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "有新消息。";
+
+// Conversation List Data Usage Permission Dialog
+
+"conversation_list.data_usage_permission_alert.title" = "帮助我們改善Secret";
+"conversation_list.data_usage_permission_alert.message" = "我同意Secret可以创建并使用匿名及错误报告以改进软件品质。 我可以随时撤销此授权。";
+
+"conversation_list.data_usage_permission_alert.disagree" = "否";
+"conversation_list.data_usage_permission_alert.agree" = "我接受";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "在联系人中";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "打开对话";
+"conversation_list.voiceover.status.pending_connection" = "等待接通";
+"conversation_list.voiceover.status.active_call" = "通话中";
+"conversation_list.voiceover.status.missed_call" = "未接来电";
+"conversation_list.voiceover.status.pause_media" = "暂停";
+"conversation_list.voiceover.status.play_media" = "播放";
+"conversation_list.voiceover.status.silenced" = "静音";
+"conversation_list.voiceover.status.typing" = "输入中";
+"conversation_list.voiceover.status.ping" = "打招呼";
+"conversation_list.voiceover.status.mention" = "您被提及";
+"conversation_list.voiceover.status.reply" = "回复";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "recent";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "list of recent conversations";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "folders";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "list of conversations organized in folders";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "已归档";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "已归档的聊天列表";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "联系人";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "在Secret上找人";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "新建";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "新建消息并保存";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "相机";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "拍照并立即发送";
+"conversation_list.voiceover.unread_messages.hint" = "您有未读消息";
+
+// Archived List
+"archived_list.title" = "档案";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "从这里开始对话";
+"tool_tip.contacts.message" = "开启新的聊天室。尽情在个人或群组聊天室中传达讯息、通话和分享。";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "认识 %@";
+"peoplepicker.suggested.knows_two" = "认识 %@ 和 %@";
+"peoplepicker.hide_search_result" = "隐藏";
+"peoplepicker.hide_search_result_progress" = "躲藏......";
+
+"send_invitation.subject" = "和我Secret上成为好友吧";
+"send_invitation.text" = "我在使用Secret，搜索%@或者访问www.secret.chat/#download";
+"send_invitation_no_email.text" = "我在使用Secret。访问 www.secret.chat/#download 来添加我为好友。";
+
+// Folders
+
+"folder.creation.name.title" = "Create new folder";
+"folder.creation.name.button.create" = "创建";
+"folder.creation.name.header" = "Move the conversation \"%@\" to a new folder.";
+"folder.creation.name.footer" = "Maximum 64 characters";
+"folder.creation.name.placeholder" = "Folder name";
+
+"folder.picker.title" = "Move to";
+"folder.picker.empty.hint" = "Create a new folder by pressing the + button";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "分享了图片";
+"notifications.pinged" = "ping了一下";
+"notifications.sent_file" = "共享文件";
+"notifications.sent_location" = "共享位置";
+"notifications.sent_video" = "共享视频";
+"notifications.sent_audio" = "共享音频";
+"notifications.in_conversation" = "%@  -  %@";
+"notifications.this_conversation" = "%@ 在这聊天室中";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "会话";
+"list.archived_conversations" = "归档";
+"list.archived_conversations_close" = "关闭归档";
+
+"list.section.groups" = "群组";
+"list.section.contacts" = "联系人";
+"list.section.requests" = "Requests";
+"list.section.favorites" = "Favorites";
+"list.section.topgroups" = "置顶";
+"list.section.topgroups_include_unreadmessage" = "未读消息置顶群组";
+"list.section.topgroups_exclude_unreadmessage" = "已读消息置顶群组";
+"list.section.excloud_top_groups" = "置顶群组";
+"list.section.excloud_top_item" = "置顶栏";
+"list.section.no_disturbe" = "免打扰群组";
+"list.section.conversation.list" = "个";
+"list.section.conversation.no_disturbe" = "免打扰群组";
+
+"conversation.voiceover.verified" = "已验证";
+"conversation.voiceover.legalhold" = "证据保全";
+"conversation.voiceover.value.active" = "活动中";
+"conversation.voiceover.value.disabled" = "已禁用";
+
+"conversation.status.typing" = "正在输入...";
+"conversation.status.typing.group" = "%@︰正在输入...";
+"conversation.status.silenced" = "静音";
+"conversation.status.poor_connection" = "连线质量不佳";
+"conversation.status.blocked" = "已拉黑";
+"conversation.status.incoming_call" = "%@ 正在呼叫…";
+"conversation.status.incoming_call.unknown" = "您接到一個来电";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "分享链接";
+"conversation.status.message.image" = "分享了一张图片";
+"conversation.status.message.location" = "分享了位置";
+"conversation.status.message.audio" = "分享了语音信息";
+"conversation.status.message.video" = "分享了影片";
+"conversation.status.message.file" = "分享了文件";
+"conversation.status.message.knock" = "打了招呼";
+"conversation.status.message.missedcall" = "未接电话";
+"conversation.status.message.missedcall.groups" = "从 %@ 的未接来电";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "发送消息";
+"conversation.status.message.ephemeral.group" = "有人发送了一则信息";
+"conversation.status.message.ephemeral.mention" = "你被提及";
+"conversation.status.message.ephemeral.mention.group" = "有人提到你";
+"conversation.status.message.ephemeral.reply" = "回复了你的消息";
+"conversation.status.message.ephemeral.reply.group" = "有人回复了你的消息";
+"conversation.status.message.ephemeral.knock" = "打了招呼";
+"conversation.status.message.ephemeral.knock.group" = "有人打了招呼";
+"conversation.status.message.illegal" = "一条违规消息";
+
+"conversation.status.unsent" = "⚠️ 未发信息";
+"conversation.status.you" = "你";
+"conversation.status.someone" = "某人";
+
+"conversation.status.added_multiple" = "联系人已添加";
+
+"conversation.status.you_was_added" = "%@加了您";
+"conversation.status.you_were_removed" = "你被删除";
+"conversation.status.you_left" = "您退出了";
+"conversation.status.started_conversation" = "%@开始了对话";
+"conversation.status.removed_users" = "%@移除了%@";
+"conversation.status.everyone_left" = "所有人都已离开";
+"conversation.status.group_join" = "是否确定加入群聊";
+"conversation.status.group_joined" = "您已在该群中";
+"conversation.status.group_join_success" = "您已成功加入该群聊";
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "聊天";
+"compose.message.title" = "信息";
+
+"conversation_details.open_button.accessibility_hint" = "双击查看对话详情";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "请大家告诉大家！";
+"conversation.invite_more_people.description" = "新增好友到此聊天室";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "新增好友";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "空聊天室";
+
+"conversation.input_bar.verified" = "验证";
+"conversation.input_bar.placeholder" = "键入一条消息";
+"conversation.input_bar.placeholder_ephemeral" = "阅后即焚";
+"conversation.input_bar.placeholder_limited" = "当前消息只有您和群管理可见";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "向上滑动发送";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "点击发送";
+"conversation.input_bar.audio_message.too_long.title" = "录制停止";
+"conversation.input_bar.audio_message.too_long.message" = "语音讯息长度上限是%@。";
+
+
+"conversation.input_bar.audio_message.too_long_size.message" = "语音消息的文件大小不能超过 %@。";
+
+"conversation.input_bar.audio_message.send" = "发送";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "点击录制语音讯息\n之后您可%@该讯息";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "选择特效";
+
+"conversation.call.many_participants_confirmation.title" = "开始呼叫";
+"conversation.call.many_participants_confirmation.message" = "这将会呼叫%d位联系人";
+"conversation.call.many_participants_confirmation.call" = "通话";
+
+"conversation.connection_view.in_address_book" = "在联系人中";
+
+"conversation.input_bar.shortcut.send" = "发送消息";
+"conversation.input_bar.shortcut.newline" = "Insert line break";
+"conversation.input_bar.shortcut.edit_last_message" = "编辑最后一条消息";
+"conversation.input_bar.shortcut.cancel_editing_message" = "取消";
+
+"conversation.input_bar.message_too_long.title" = "消息过长。";
+"conversation.input_bar.message_too_long.message" = "您可以发送最长 %d 字符的信息。";
+
+"conversation.create.group_name.title" = "创建群聊";
+"conversation.create.group_name.placeholder" = "群组名称";
+"conversation.create.guidance.empty" = "至少1个字符";
+"conversation.create.guidance.toolong" = "超出字符限制";
+
+"conversation.create.options.title" = "对话选项";
+"conversation.create.options.subtitle" = "外部用户和服务: %@, 读取收据: %@";
+
+"conversation.create.guests.title" = "允许的访客与服务";
+"conversation.create.guests.subtitle" = "向团队外的服务和人员开放此对话";
+"conversation.create.receipts.title" = "已读回执";
+"conversation.create.receipts.subtitle" = "When this is on, people can see when their messages in this conversation are read.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "正在呼叫";
+
+"conversation.input_bar.ongoing_call_alert.audio.message" = "在通话时不能录制语音讯息。";
+"conversation.input_bar.ongoing_call_alert.video.message" = "您不能在通话中录制视频。";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "你不能在通话中拍照。";
+
+"conversation.alert.message_deleted" = "消息已删除。";
+"conversation.alert.confirmAddContact.message_corrupted" = "消息已损坏";
+
+"conversation.guests_present" = "访客在对话中";
+"conversation.services_present" = "服务已启动";
+"conversation.guests_services_present" = "包含外部联系人和服务";
+"conversation.action.search" = "搜索";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "图像";
+"conversation.input_bar.message_preview.location" = "位置";
+"conversation.input_bar.message_preview.video" = "视频";
+"conversation.input_bar.message_preview.audio" = "语音消息";
+
+"conversation.input_bar.message_preview.file" = "文件";
+"conversation.input_bar.close_reply" = "取消回复";
+
+"conversation.input_bar.message_preview.accessibility_description" = "回复消息: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "图片消息";
+"conversation.input_bar.message_preview.accessibility.location_message" = "位置消息";
+"conversation.input_bar.message_preview.accessibility.video_message" = "视频消息";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "语音消息";
+"conversation.input_bar.message_preview.accessibility.file_message" = "文件消息 (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "未知消息";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ from %@";
+
+
+"image_confirmer.confirm" = "好";
+"image_confirmer.cancel" = "取消";
+"image.add_sketch" = "添加一个手绘图";
+"image.edit_image" = "编辑图像";
+
+// Camera access
+
+"camera_access.denied" = "Secret需要使用相机的权限。";
+"video_call.camera_access.denied" = "Secret没有权限使用相机";
+
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "在Secret设置中启用它";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "设置";
+
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "Secret需要使用你的\n相机和照片。"; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "Secret需要使用你的相机。";
+"keyboard_photos_access.denied.keyboard.camera" = "Secret需要你授权相机权限。";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "在视频通话中, 您无法使用相机。";
+
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE / AF锁定";
+
+// Location
+"location.send_button.title" = "发送";
+"location.unauthorized_alert.title" = "启用定位服务";
+"location.unauthorized_alert.message" = "若要发送您的位置，启用定位服务并允许Secret访问您的位置。";
+"location.unauthorized_alert.cancel" = "取消";
+"location.unauthorized_alert.settings" = "设置";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ 在推特上";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "关闭";
+"input.ephemeral.title" = "设置阅后即焚的显示时间";
+
+// System messages
+"content.system.you_nominative" = "你";
+"content.system.you_dative" = "你";
+"content.system.and_you_dative" = "和你";
+"content.system.you_accusative" = "你";
+
+"content.system.continued_conversation" = "开始和 %@ 聊天";
+
+"content.system.started_conversation.truncated_people" = "和 %@";
+"content.system.started_conversation.truncated_people.others" = "%@ others";
+"content.system.started_conversation.complete_team" = "所有团队成员";
+"content.system.started_conversation.complete_team.guests" = "所有团队成员和 %@ 访客";
+
+
+"content.system.other_started_conversation" = "%@ 和 %@ 开始了聊天";
+"content.system.you_started_conversation" = "您开始了和%@的聊天";
+
+"content.system.you_added_participant" = "您加了%@";
+"content.system.other_added_participant" = "%@加了%@";
+"content.system.other_added_you" = "%@加了您";
+
+"content.system.participants_you" = "你";
+"content.system.participants_1_other" = "%@ 和 %@";
+"content.system.other_left" = "%@ 离开了";
+"content.system.you_left" = "您退出了";
+"content.system.other_removed_other" = "%@移除了%@";
+"content.system.other_removed_you" = "%@移除了您";
+"content.system.you_removed_other" = "您移除了%@";
+
+"content.system.services.warning" = "服务可以存取这个对话内容";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "YouTube视频预览";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "SoundCloud歌曲预览";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "SoundCloud 播放列表预览";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ 和 %@ 开始了聊天";
+"content.system.conversation.other.added" = "%@加了%@";
+"content.system.conversation.other.removed" = "%@移除了%@";
+"content.system.conversation.other.left" = "%@ 离开了";
+
+"content.system.conversation.you.started" = "%@和%@开始了聊天";
+"content.system.conversation.you.added" = "%@加了%@";
+"content.system.conversation.you.removed" = "%@移除了%@";
+"content.system.conversation.you.left" = "%@ 离开了";
+"content.system.conversation.team.member-leave" = "%@从团队中被移除了";
+"content.system.conversation.guest.joined" = "%@已加入";
+
+"content.system.conversation.invite.title" = "你的团队以外的访客和服务可以参加这个对话。";
+"content.system.conversation.invite.button" = "邀请联系人";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ 删除聊天名称";
+"content.system.you_renamed_conv_to_nothing" = "您已删除聊天室名称";
+"content.system.pending_message_timestamp" = "正在发送...";
+"content.system.message_sent_timestamp" = "发送";
+"content.system.message_delivered_timestamp" = "已送达";
+"content.system.message_read_timestamp" = "已读";
+"content.system.failedtosend_message_timestamp" = "发送失败。";
+"content.system.failedtosend_message_timestamp_resend" = "重新发送";
+"content.system.failedtosend_message_timestamp_delete" = "删除";
+"content.system.like_tooltip" = "点击赞我";
+"content.system.deleted_message_prefix_timestamp" = "已删除: %@";
+"content.system.edited_message_prefix_timestamp" = "已编辑: %@";
+"content.system.connecting_to" = "正在添加%@为好友。开始聊天";
+"content.system.connected_to" = "已和%@成为好友\n开始对话";
+"content.system.other_wanted_to_talk" = "%@曾来电";
+"content.system.you_wanted_to_talk" = "您曾打电话";
+"content.system.ephemeral_time_remaining" = "还余%@";
+
+"content.system.you_started" = "你";
+"content.system.this_device" = "此设备";
+
+"content.system.call.you" = "你";
+"content.system.call.called" = "%@曾打电话";
+"content.system.call.called-you" = "%@曾打电话";
+
+"content.system.renamed_conv.title" = "%@ 重新命名了聊天室";
+"content.system.renamed_conv.title-you" = "%@ 重新命名了聊天室";
+"content.system.renamed_conv.title.you" = "你";
+
+"content.system.conversation.with_name.title" = "%@开始了对话";
+"content.system.conversation.with_name.title-you" = "%@开始了对话";
+
+"content.system.conversation.with_name.participants" = "和";
+
+
+"content.system.message_timer_changes" = "%@ 将阅后即焚时间设置为 %@";
+"content.system.message_timer_changes-you" = "%@ 将阅后即焚时间设置为 %@";
+
+"content.system.message_timer_off" = "%@关闭了阅后即焚";
+"content.system.message_timer_off-you" = "%@关闭了阅后即焚";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@为所有人打开了已读提示";
+"content.system.message_read_receipt_on-you" = "%@为所有人打开了已读提示";
+
+"content.system.message_read_receipt_off" = "%@关闭了所有人的已读提示";
+"content.system.message_read_receipt_off-you" = "%@关闭了所有人的已读提示";
+
+"content.system.message_read_receipt_on_add_to_group" = "已读提示已打开";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "当前对话处于证据保全状态";
+"content.system.message_legal_hold.disabled" = "此对话解除证据保全状态";
+
+"content.system.message_legal_hold.learn_more" = "更多信息";
+
+//
+"content.system.screen.shot" = "%@已截屏";
+
+"content.system.reactivated_device" = "您再次开始使用%@。在此期间发送的信息将不会在这里显示。";
+
+"content.system.new_device" = "一个新设备";
+"content.system.started_using" = "开始使用";
+"content.system.is_verified" = "所有的指纹完成验证";
+
+"content.system.new_users" = "新用户加入";
+"content.system.verify_devices" = "验证设备";
+
+"content.system.unverified" = "%@ 未经证实 %@ 之一"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "您的设备";
+"content.system.other_devices" = "%@ 的设备";
+
+"content.system.missing_messages.title" = "你有一段时间沒有使用此设备, 一些信息可能不会在这里出现";
+"content.system.missing_messages.subtitle_start" = "同时，";
+
+"content.system.cannot_decrypt" = "来至 %@ 的消息未被接收。";
+
+"content.system.cannot_decrypt.you_part" = "你";
+"content.system.cannot_decrypt.why_part" = "为什么呢？";
+"content.system.cannot_decrypt.reset_session" = "重置session?";
+
+"content.system.cannot_decrypt.identity" = "%@ 设备标识改变。未送达的信息。";
+"content.system.cannot_decrypt.identity.you_part" = "你";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@的"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "了解更多信息";
+"content.system.cannot_decrypt.otherDevice_part" = "(设备 %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "无法显示此消息。可能因为您使用旧版本的Secret。";
+
+"content.file.uploading" = "上传...";
+"content.file.downloading" = "正在下载...";
+"content.file.upload_failed" = "上传失败";
+"content.file.upload_cancelled" = "上传被取消";
+"content.file.upload_video" = "视频";
+"content.file.take_video" = "录制视频";
+"content.file.browse" = "浏览";
+
+"content.file.save_video" = "保存";
+"content.file.save_audio" = "保存";
+"content.image.save_image" = "保存";
+
+"content.message.delete" = "删除";
+"content.message.save" = "保存";
+"content.message.resend" = "重新发送";
+
+"content.message.delete_ellipsis" = "删除...";
+
+"content.message.like" = "赞";
+"content.message.unlike" = "取消赞";
+"content.message.forward" = "共享";
+"content.message.go_to_conversation" = "显示";
+"content.message.forward.to" = "搜索";
+"content.message.open" = "开启";
+"content.message.copy" = "复制";
+"content.message.download" = "下载";
+"content.message.details" = "详细信息";
+"content.message.illegal" = "违规";
+"content.message.add" = "加入收藏";
+"content.message.translate" = "翻译";
+"content.message.show_origin" = "原文";
+
+// Reply
+"content.message.reply" = "回复";
+"content.message.original_label" = "原始消息";
+
+"content.message.reply.original_timestamp.date" = "原消息于%@";
+"content.message.reply.original_timestamp.time" = "原消息于%@";
+"content.message.reply.broken_message" = "您不能看见这条消息";
+
+"content.message.reply.edited_message" = "已编辑";
+
+"content.message.open_link_alert.title" = "打开链接";
+"content.message.open_link_alert.message" = "这会带你去\n%@";
+"content.message.open_link_alert.open" = "开启";
+
+"content.message.audio_message.accessibility" = "播放音频消息";
+
+"content.reactions_list.likers" = "赞好";
+
+"content.file.too_big" = "您可以发送最大%@的文件。";
+// Someone pinged
+"content.ping.text" = "%@打了声招呼";
+"content.ping.text-you" = "%@打了声招呼";
+
+// Current user pinged
+"content.ping.text.you" = "你";
+
+// Inline Player
+"content.player.unable_to_play" = "无法播放";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "加 %@为好友"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "嗨%@，在Secret和我一起聊天吧。 %@";
+
+"connection_request_pending_title" = "好友请求";
+"connection_request.send_button_title" = "新增好友";
+"inbox.connection_request.connect_button_title" = "添加";
+"inbox.connection_request.ignore_button_title" = "取消";
+
+// Save image errors
+"library.alert.permission_warning.title" = "Secret需要存取你的照片库";
+"library.alert.permission_warning.restrictions.explaination" = "由于启用了限制，Secret无法访问您的资料库。";
+"library.alert.permission_warning.not_allowed.explaination" = "请前往手机「设定」并允许Secret使用相片库权限。";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@\n来电";
+"voice.status.group_call.incoming" = "%@\n群组来电";
+"voice.status.one_to_one.outgoing" = "%@\n拨号中";
+"voice.status.joining" = "%@\n连接中";
+"voice.status.leaving" = "%@\n通话结束";
+"voice.status.video_not_available" = "视频关闭";
+"voice.status.low_connection" = "连接质量不佳";
+"voice.network_error.title" = "没有互联网讯号";
+"voice.status.cbr" = "固定码率";
+"voice.network_error.body" = "使用语音通话，您必须连接到互联网。请检查您的网路然后重试。";
+"voice.degradation.new_self_device" = "您开始使用新的设备。";
+"voice.degradation.new_user_device" = "%@ 开始使用新的设备。";
+"voice.degradation_outgoing.prompt" = "你要拨打电话吗？";
+"voice.degradation_incoming.prompt" = "你要接电话吗？";
+"voice.accept_button.title" = "接听";
+"voice.decline_button.title" = "拒绝";
+"voice.hang_up_button.title" = "结束通话";
+"voice.mute_button.title" = "静音";
+"voice.video_button.title" = "视频";
+"voice.flip_video_button.title" = "翻转";
+"voice.speaker_button.title" = "免提";
+"voice.cancel_button.title" = "取消";
+"voice.call_button.title" = "通话";
+"voice.end_call_button.title" = "结束通话";
+
+"voice.call_error.unsupported_version.title" = "请更新Secret";
+"voice.call_error.unsupported_version.message" = "您收到了一个不支持当前版本的Secret 的呼叫。\n在 App Store 获取最新版本。";
+"voice.call_error.unsupported_version.dismiss" = "稍后";
+
+
+
+"voice.alert.call_in_progress.title" = "通话中";
+"voice.alert.call_in_progress.message" = "仅限一条通话";
+"voice.alert.call_in_progress.confirm" = "好";
+
+"voice.alert.microphone_warning.title" = "Secret需要使用麦克风的权限。";
+"voice.alert.microphone_warning.explanation" = "在Secret设置中激活。";
+
+"voice.alert.camera_warning.title" = "Secret需要使用相机的权限。";
+"voice.alert.camera_warning.explanation" = "请前往手机「设定」并允许Secret使用摄像头权限。";
+
+"voice.top_overlay.tap_to_return" = "点击返回通话";
+"voice.top_overlay.accessibility_title" = "正在呼叫";
+
+// Voice New
+
+"call.status.connecting" = "正在连接...";
+
+"call.status.incoming.user" = "%@正在呼叫...";
+"call.status.incoming" = "正在呼叫...";
+"call.status.outgoing" = "响铃中...";
+"call.status.outgoing.user" = "正在呼叫%@…";
+"call.status.reconnecting" = "重新连线中...";
+
+"call.status.terminating" = "正在挂断...";
+"call.status.constant_bitrate" = "固定码率";
+
+"call.participants.show_all_without_count" = "全部显示";
+"call.participants.show_all" = "全部显示 (%@)";
+"call.participants.list.title" = "参与者";
+
+"call.video.paused" = "视频已暂停";
+
+"call.video.too_many.alert.title" = "已超过视频通话限定人数";
+"call.video.too_many.alert.message" = "视频通话仅能在4个人以下的群组中使用。";
+
+
+"call.degraded.alert.title" = "新设备";
+"call.degraded.alert.message.self" = "您开始使用新的设备。";
+"call.degraded.alert.message.user" = "%@ 开始使用新的设备。";
+"call.degraded.alert.message.unknown" = "有人开始使用新的设备。";
+"call.degraded.alert.action.continue" = "仍然要通话";
+
+
+"call.alert.ongoing.alert_title" = "这将结束你的其他通话。";
+
+"call.alert.ongoing.start.message" = "在其他会话里有另一个通话。 \n现在打电话会挂断该通话。";
+"call.alert.ongoing.join.message" = "在其他会话里有另一个通话。 \n现在接通会挂断该通话。";
+"call.alert.ongoing.start.button" = "仍然要拨打";
+
+"call.alert.ongoing.join.button" = "仍要加入";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "%@的来电";
+"call.actions.label.toggle_mute_on" = "静音";
+"call.actions.label.toggle_mute_off" = "关闭静音";
+"call.actions.label.flip_camera" = "切换镜头";
+"call.actions.label.toggle_speaker_on" = "开启免提";
+"call.actions.label.toggle_speaker_off" = "关闭免提";
+"call.actions.label.accept_call" = "接受呼叫";
+"call.actions.label.reject_call" = "拒接来电";
+"call.actions.label.terminate_call" = "结束通话";
+"call.actions.label.toggle_video_on" = "打开摄像头";
+"call.actions.label.toggle_video_off" = "关闭摄像头";
+"call.actions.label.switch_to_back_camera" = "切换至后置摄像头";
+"call.actions.label.switch_to_front_camera" = "切换至前置摄像头";
+"call.actions.label.minimize_call" = "最小化通话画面";
+"call.actions.label.make_audio_call" = "开始语音通话";
+"call.actions.label.make_video_call" = "开始视频通话";
+"call.actions.label.join_call" = "加入通话";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "新增";
+"participants.avatar.guest.title" = "游客";
+
+"participants.title" = "详细信息";
+"participants.all.title" = "参与者";
+"participants.section.participants" = "参与者(%d)";
+"participants.section.services" = "服务 (%d)";
+"participants.section.settings" = "选项";
+"participants.footer.add_title" = "添加参与者";
+"participants.section.name.footer" = "最多%1$d参与者可以加入群组对话。视频通话可用以你与另外%2$d人。";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "更多操作";
+"meta.menu.rename" = "重新命名";
+"meta.menu.leave" = "退出";
+"meta.menu.archive" = "归档";
+"meta.menu.unarchive" = "取消归档";
+
+"meta.menu.delete" = "删除群聊...";
+"meta.menu.clear_content" = "清除内容…";
+"meta.menu.move_to_folder" = "Move to…";
+"meta.menu.remove_from_folder" = "Remove from \"%@\"";
+
+"meta.menu.silence.mute" = "静音";
+"meta.menu.do_not_disturb_group" = "免打扰助手";
+"meta.menu.add_do_not_disturb_group" = "设为免打扰群组";
+"meta.menu.cancel_do_not_disturb_group" = "取消免打扰群组";
+"meta.menu.silence.unmute" = "关闭静音";
+"meta.menu.cancel" = "取消";
+"meta.menu.cancel_connection_request" = "取消请求...";
+"meta.menu.mark_unread" = "标记为未读";
+"meta.menu.mark_read" = "标记为已读";
+"shortcut.mark_all_as_read.title" = "标记所有为已读";
+"meta.menu.configure_notifications" = "通知…";
+"meta.menu.place_top" = "置顶";
+"meta.menu.cancel_place_top" = "取消置顶";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "确定清除内容？";
+"meta.menu.delete_content.dialog_message" = "这将清除你所有设备上的会话历史。";
+"meta.menu.delete_content.leave_as_well_message" = "也退出聊天";
+"meta.menu.delete_content.button_cancel" = "取消";
+"meta.menu.delete_content.button_delete" = "清空";
+"meta.menu.delete_content.button_delete_and_leave" = "刪除并离开";
+
+
+"meta.menu.inviter_list" = "邀请人列表";
+
+// Configure conversation notifications
+
+"meta.menu.configure_notification.dialog_message" = "通知我：";
+"meta.menu.configure_notification.button_everything" = "Everything";
+"meta.menu.configure_notification.button_mentions_and_replies" = "提及与回复";
+
+"meta.menu.configure_notification.button_nothing" = "无";
+"meta.menu.configure_notification.button_cancel" = "取消";
+
+// Leave conversation
+"meta.leave_conversation_selfIsCreator_dialog_title" = "您是本群群主，请转让群主管理权限或解散群后退出群组";
+"meta.leave_conversation_dialog_title" = "离开聊天室？";
+"meta.leave_conversation_dialog_message" = "其他成员将收到通知，聊天室将从您的列表中删除。";
+"meta.leave_conversation.delete_content_as_well_message" = "也退出聊天";
+"meta.leave_conversation_button_cancel" = "取消";
+"meta.leave_conversation_button_leave" = "离开";
+"meta.leave_conversation_button_leave_and_delete" = "离开并清除聊天记录";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ 开始使用新的设备。";
+"meta.degraded.degradation_reason_message.plural" = "%@ 开始使用新的设备。";
+"meta.degraded.degradation_reason_message.someone" = "有人开始使用新的设备。";
+"meta.degraded.dialog_message" = "您仍然要发送您的信息吗？";
+"meta.degraded.verify_devices_button" = "Verify Devices…";
+"meta.degraded.send_anyway_button" = "Send Anyway";
+"meta.degraded.cancel_sending_button" = "取消";
+"meta.legalhold.info_button" = "什么是证据保全？";
+"meta.legalhold.send_alert_title" = "The conversation is now subject to legal hold.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "移除？";
+"profile.remove_dialog_message" = "%@将不能够在此聊天发送或接收消息。";
+"profile.remove_dialog_button_cancel" = "取消";
+"profile.remove_dialog_button_remove" = "从群聊中移除…";
+"profile.remove_dialog_button_remove_confirm" = "Remove From Group";
+
+// Block dialog
+"profile.block_dialog.title" = "拉黑？";
+"profile.block_dialog.message" = "%@ 将不能联系您或将您加入到任何群组中。";
+"profile.block_dialog.button_cancel" = "取消";
+"profile.block_dialog.button_block" = "加入黑名单";
+
+// Delete message dialog
+"message.delete_dialog.message" = "此操作将不可撤销。";
+"message.delete_dialog.action.cancel" = "取消";
+"message.delete_dialog.action.hide" = "仅在我的设备中删除";
+"message.delete_dialog.action.delete" = "在所有地方删除";
+
+// Edit message
+"message.menu.edit.title" = "修改";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "接受？";
+"profile.connection_request_dialog.message" = "这将连接您和%@并开启聊天。";
+"profile.connection_request_dialog.button_cancel" = "取消";
+"profile.connection_request_dialog.button_connect" = "新增好友";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Delete group conversation?";
+"conversation.delete_request_dialog.message" = "This will delete the group and all content for all participants on all devices. There is no option to restore the content. All participants will be notified.";
+"conversation.delete_request_error_dialog.title" = "An error occured while trying to delete the group %@. Please try again.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Delete Group";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "取消请求？";
+"profile.cancel_connection_request_dialog.message" = "取消连接到 %@的请求？";
+"profile.cancel_connection_request_dialog.button_no" = "否";
+"profile.cancel_connection_request_dialog.button_yes" = "是";
+
+// Unblock button
+"profile.block_button_title" = "加入黑名单...";
+"profile.unblock_button_title" = "解除黑名单...";
+
+// Favorite button
+"profile.favorite_button_title" = "Add to Favorites";
+"profile.unfavorite_button_title" = "从收藏移除";
+
+"profile.block_button_title_action" = "屏蔽";
+"profile.unblock_button_title_action" = "取消屏蔽";
+
+"profile.cancel_connection_button_title" = "取消请求";
+"profile.connection_request_state.blocked" = "已加入黑名单";
+"profile.create_conversation_button_title" = "创建群聊";
+"profile.open_conversation_button_title" = "打开对话";
+
+"profile.read_receipts_enabled_memo.header" = "YOU HAVE ENABLED READ RECEIPTS";
+"profile.read_receipts_disabled_memo.header" = "YOU HAVE DISABLED READ RECEIPTS";
+"profile.read_receipts_memo.body" = "如果双方都打开已读回执，你可以查看消息的阅读时间。\n\n您可以在帐户设置中更改此选项。";
+
+"profile.extended_metadata.header" = "信息";
+
+// User Details
+"profile.details.title" = "详细信息";
+"profile.details.guest" = "游客";
+
+"profile_view.accessibility.handle" = "用户名";
+"profile_view.accessibility.name" = "昵称";
+"profile_view.accessibility.team_name" = "团队名称";
+
+// Device list
+"profile.devices.title" = "设备";
+"profile.devices.fingerprint_message_unencrypted" = "%@使用旧版本的Secret，无法显示设备。";
+"profile.devices.fingerprint_message.title" = "Secret为每个设备设置了一个唯一的指纹。您可以和%@进行比对来验证聊天室。";
+"profile.devices.fingerprint_message.link" = "为什么要验证对话？";
+
+// Device detail
+"profile.devices.detail.verify_message" = "验证在%@设备上的设备指纹。";
+"profile.devices.detail.verify_message.link" = "我该怎么办？";
+"profile.devices.detail.show_my_device.title" = "显示我的设备指纹";
+"profile.devices.detail.reset_session.title" = "重置Session";
+"device.verified" = "验证";
+"device.not_verified" = "未验证";
+
+
+"device.class.legalhold" = "证据保全";
+"device.class.desktop" = "桌面";
+"device.class.tablet" = "平板电脑";
+"device.class.phone" = "电话";
+"device.class.unknown" = "未知";
+
+"device.type.permanent" = "Permanent";
+"device.type.temporary" = "Temporary";
+"device.type.legalhold" = "证据保全";
+"device.type.unknown" = "未知";
+
+
+// Bot
+"participants.services.remove_integration.button" = "移除服务";
+
+// Group details
+
+"group_details.guest_options_cell.title" = "访客选项";
+
+"group_details.guest_options_cell.enabled" = "开启";
+"group_details.guest_options_cell.disabled" = "关闭";
+"group_details.timeout_options_cell.title" = "阅后即焚";
+"group_details.notification_options_cell.title" = "通知";
+"group_details.notification_options_cell.description" = "您可以收到有关所有内容 (包括音频和视频通话) 的通知, 或者仅当有人@您或回复您的信息时才会收到通知。";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Legal hold subjects";
+"legalhold.header.title" = "证据保全";
+"legalhold.header.other_description" = "此对话中至少有一个人已激活证据保全。\n所有消息将被保存，以便将来访问，包括被编辑、已删除和阅后即焚消息。";
+"legalhold.header.self_description" = "您的帐户已开启证据保全。\n所有消息将被保存，以便用于未来访问，包括被编辑、已删除和阅后即焚消息。\n你的对话方将会被提醒。";
+"legalhold.accessibility" = "证据保全详情";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "设置";
+"self.profile" = "用户信息";
+"self.account" = "帐户";
+"self.help_center" = "帮助";
+"self.help_center.support_website" = "Secret帮助网站";
+"self.help_center.contact_support" = "与客服联系";
+"self.about" = "关于";
+"self.sign_out" = "登出";
+"self.report_abuse" = "滥用报告";
+"self.voiceover.label" = "用户信息";
+"self.voiceover.hint" = "打开资料及设置";
+"self.new-device.voiceover.label" = "已添加资料及新设备";
+
+"self.profile.change_user_image.accessibility" = "点击更改个人头像";
+
+"self.add_phone_number" = "新增手机号码";
+"self.add_email_password" = "新增邮箱地址和密码";
+
+"self.accessibility.profile_photo_image" = "Profile picture";
+"self.accessibility.profile_photo_edit_button" = "Change profile picture";
+
+// About screen
+"about.tos.title" = "使用条款";
+"about.privacy.title" = "隐私政策";
+"about.license.title" = "授权信息";
+"about.website.title" = "官网";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "详细信息";
+
+"about.license.open_project_button" = "View Project Page";
+"about.license.license_header" = "致谢";
+
+
+// Self new devices
+"self.new_device_alert.title" = "您的账号被使用在：";
+"self.new_device_alert.message" = "%@\n\n若您不认可该设备，请将它移除，并且重设您的密码。";
+"self.new_device_alert.message_plural" = "\n%@\n\n若您不认可该设备，请将它移除，并且重设您的密码。";
+"self.new_device_alert.manage_devices" = "设备管理";
+"self.new_device_alert.trust_devices" = "好";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "您已启用已读回执";
+"self.read_receipts_disabled.title" = "您已禁用已读回执";
+"self.read_receipts_description.title" = "You can change this option in your account settings.";
+
+// Settings - top level
+"self.settings.create_team.title" = "创建团队";
+"self.settings.manage_team.title" = "管理团队";
+"self.settings.add_team_or_account.title" = "添加帐户";
+"self.settings.add_account.title" = "添加帐户";
+
+"self.settings.add_account.error.title" = "已啓動三個帐户";
+"self.settings.add_account.error.message" = "您只能同时登录三个帐户。请先登出任何一个帐户，然后加入新帐户。";
+
+"self.settings.switch_account.message" = "此帐户中有一个通话进行中。\n切换帐户将挂断该通话。";
+"self.settings.switch_account.action" = "仍要切换";
+
+"self.settings.delete_account.tips" = "您确定退出本账号吗？";
+
+// Settings - Account details
+"self.settings.account_section" = "帐户";
+
+"self.settings.account_details_group.info.title" = "个人信息";
+"self.settings.account_details_group.personal.title" = "个人信息";
+
+"self.settings.account_section.name.title" = "名称";
+"self.settings.account_section.email.title" = "邮箱地址";
+"self.settings.account_section.phone.title" = "电话";
+"self.settings.account_section.handle.title" = "用户名";
+"self.settings.account_section.add_handle.title" = "添加用户名";
+
+"self.settings.account_details_group.info.footer" = "其他使用者能通过这些信息查找到您。";
+"self.settings.account_details_group.personal.footer" = "这个信息将不会显示。";
+
+"self.settings.account_details.remove_device.title" = "删除设备";
+"self.settings.account_details.key_fingerprint.title" = "指纹识别";
+"self.settings.account_details.remove_device.message" = "请输入密码以确定删除该设备";
+"self.settings.account_details.remove_device.password" = "密码";
+"self.settings.account_details.remove_device.password.error" = "错误的密码";
+
+"self.settings.account_appearance_group.title" = "外观";
+
+"self.settings.privacy_section_group.title" = "隐私设置";
+"self.settings.enable_read_receipts.title" = "接收读取回执";
+"self.settings.privacy_section_group.subtitle" = "当关闭时，你将不会收到来自对方的已读提示，这个设置不会应用于群组";
+
+"self.settings.account_picture_group.picture" = "头像";
+"self.settings.account_picture_group.color" = "主色调";
+
+
+"self.settings.account_personal_information_group.title" = "个人资料";
+
+
+"self.settings.account_picture_group.theme" = "暗色系主题";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret为每个设备设置了一个独特的指纹。您可以透過指纹比对来验证您的设备和聊天室。";
+"self.settings.device_details.reset_session.subtitle" = "如果设备指纹匹配失败， 请通过重置Sessionl来生成新的密匙。";
+"self.settings.device_details.remove_device.subtitle" = "如果您不再使用该设备请将其移除，您将会立即从该设备上登出。";
+"self.settings.device_details.reset_session.success" = "Session已被重设";
+
+"self.settings.account_details.actions.title" = "操作";
+
+"self.settings.account_details.delete_account.title" = "删除账号";
+
+"self.settings.account_details.delete_account.alert.title" = "删除账号";
+"self.settings.account_details.delete_account.alert.message" = "我们将通过电子邮件或手机短信发送链接给您。请点击链接从而永久删除您的账号。";
+
+"self.settings.account_details.log_out.alert.title" = "登出";
+"self.settings.account_details.log_out.alert.message" = "你的对话历史记录将从此设备擦除";
+"self.settings.account_details.log_out.alert.password" = "密码";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "使用与崩溃报告";
+"self.settings.privacy_analytics.title" = "发送匿名数据";
+"self.settings.privacy_analytics_menu.description.title" = "发送匿名使用纪录和崩溃报告以改善Secret。";
+
+"self.settings.receiveNews_and_offers.title" = "接收新闻";
+"self.settings.receiveNews_and_offers.description.title" = "接收Secret的新闻和产品更新电子邮件。";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "用户名";
+"self.settings.account_section.handle.change.save" = "保存";
+"self.settings.account_section.handle.change.footer" = "至少2个字符，仅可使用a—z, 0—9以及下划线。";
+"self.settings.account_section.handle.change.footer.unavailable" = "已经被占用";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "无法设置您的用户名";
+"self.settings.account_section.handle.change.failure_alert.message" = "设置用户名出错。请您重试。";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "邮箱地址";
+"self.settings.account_section.email.change.save" = "保存";
+
+"self.settings.account_section.email.change.verify.title" = "验证电子邮箱";
+"self.settings.account_section.email.change.verify.description" = "检查您的电子邮箱收件箱并按照说明进行操作。";
+"self.settings.account_section.email.change.verify.resend" = "重新发送至%@";
+
+"self.settings.account_section.email.change.resend.title" = "重新发送邮件";
+"self.settings.account_section.email.change.resend.message" = "确认邮件已经发送至%@。 请检查您的收件箱并按照说明进行操作。";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "电话";
+"self.settings.account_section.phone_number.change.save" = "保存";
+"self.settings.account_section.phone_number.change.remove" = "移除手机号码";
+
+"self.settings.account_section.phone_number.change.remove.action" = "移除手机号码";
+
+"self.settings.account_section.phone_number.change.verify.save" = "保存";
+"self.settings.account_section.phone_number.change.verify.title" = "验证";
+"self.settings.account_section.phone_number.change.verify.description" = "请输入我们发送至 %@ 的验证码。";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "输入验证码";
+"self.settings.account_section.phone_number.change.verify.resend" = "重新发送验证码";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "没有收到验证码？\n您可以每30秒重新获取一次。";
+
+"self.settings.account_section.phone_number.change.resend.title" = "验证码已重新发送";
+"self.settings.account_section.phone_number.change.resend.message" = "验证码已重新发送至%@。";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "通知";
+"self.settings.notifications.push_notification.toogle" = "通知消息预览";
+"self.settings.notifications.push_notification.footer" = "发送者名称和信息内容显示在屏幕锁界面与通知中心。";
+
+"self.settings.notifications.chat_alerts.toggle" = "消息栏";
+"self.settings.notifications.chat_alerts.footer" = "来自其他对话的新信息。";
+
+"self.settings.sound_menu.sounds.title" = "音效";
+"self.settings.sound_menu.ringtone.title" = "铃声";
+"self.settings.sound_menu.message.title" = "消息音效";
+"self.settings.sound_menu.ping.title" = "打招呼";
+"self.settings.sound_menu.ringtones.title" = "铃声";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "无";
+
+"self.settings.callkit.title" = "通话";
+"self.settings.callkit.caption" = "与iOS系统共用";
+"self.settings.callkit.description" = "在锁屏界面与通话记录中显示Secret的来电信息。如果您已启动iCloud，您的来电记录也将同步到Apple服务器。";
+
+"self.settings.vbr.title" = "可变码率编码";
+"self.settings.vbr.description" = "使用较少的数据和更好地工作在较慢的网络上的音频呼叫。请关闭使用固定编码。";
+
+"self.settings.sound_menu.sounds.wire_call" = "Secret 通话";
+"self.settings.sound_menu.sounds.wire_message" = "Secret 信息";
+"self.settings.sound_menu.sounds.wire_ping" = "Secret 打招呼";
+
+// By popular demand
+"self.settings.popular_demand.title" = "推荐选项";
+"self.settings.popular_demand.send_button.title" = "发送按钮";
+"self.settings.popular_demand.send_button.footer" = "关闭系统键盘回车发送信息功能。";
+"self.settings.popular_demand.dark_mode.footer" = "Switch between dark and light theme.";
+
+// Open in
+"self.settings.external_apps.header" = "打开";
+
+"self.settings.link_options.twitter.title" = "Tweets";
+"self.settings.link_options.maps.title" = "位置";
+"self.settings.link_options.browser.title" = "浏览器";
+
+"open_link.twitter.option.default" = "Browser / Twitter";
+"open_link.twitter.option.tweetbot" = "Tweetbot";
+"open_link.twitter.option.twitterrific" = "Twitterrific";
+
+"open_link.maps.option.apple" = "地图";
+"open_link.maps.option.google" = "Google地图";
+"open_link.maps.footer" = "有些地理位置链结默认使用Apple地图开启。";
+
+"open_link.browser.option.safari" = "Safari";
+"open_link.browser.option.chrome" = "Chrome";
+"open_link.browser.option.firefox" = "Firefox";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "音效通知";
+"self.settings.sound_menu.no_sounds.title" = "无";
+"self.settings.sound_menu.all_sounds.title" = "所有";
+"self.settings.sound_menu.mute_while_talking.title" = "首个消息或招呼";
+
+// Developer options
+"self.settings.developer_options.title" = "开发人员选项";
+"self.settings.apns_logging.title" = "APNS记录";
+
+// Dark Mode
+"self.settings.dark_mode.title" = "深色模式";
+"self.settings.dark_mode.manual.title" = "手动选择";
+"self.settings.dark_mode.state_system.title" = "跟随系统";
+"self.settings.dark_mode.state_system.desc" = "开启后，将根据系统打开或关闭深色模式";
+"self.settings.dark_mode.state_dark.title" = "深色模式";
+"self.settings.dark_mode.state_light.title" = "普通模式";
+
+// Language
+"self.settings.language.title" = "多语言";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "消息通知";
+
+"self.settings.privacy_contacts_section.title" = "联络人";
+"self.settings.privacy_contacts_menu.settings_button.title" = "打开联系人设置";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "这将帮助您找到其他好友。 我们将您的所有信息匿名处理并且不会泄漏给任何第三方。请通过设置 > 隐私 > 联系人来授权通讯录访问权限。";
+
+"self.settings.privacy_security.lock_app" = "通过Passcode锁定";
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "在后台10秒后锁定Secret。";
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "使用Touch ID解锁或输入你的密码。";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "使用Face ID解锁或输入你的密码。";
+"self.settings.privacy_security.lock_app.subtitle.none" = "输入密码解锁。";
+
+"self.settings.privacy_security.lock_app.description" = "解锁Secret";
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Unlock Secret with Face ID or Passcode";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "通过Touch ID或Passcode解锁";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Unlock Secret with Passcode";
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "To unlock Secret, turn on Passcode in your device settings";
+"self.settings.privacy_security.lock_cancelled.action" = "解锁";
+
+"self.settings.privacy_security.disable_link_previews.title" = "创建链接预览";
+"self.settings.privacy_security.disable_link_previews.footer" = "仍会为其他人的链接显示预览";
+
+"self.settings.privacy_analytics_menu.devices.title" = "设备";
+
+"self.settings.privacy.clear_history.title" = "清除历史记录";
+"self.settings.privacy.clear_history.subtitle" = "这将永久删除您的所有对话内容。";
+
+"self.settings.advanced.title" = "高级";
+"self.settings.advanced.troubleshooting.title" = "疑难排解";
+"self.settings.advanced.troubleshooting.submit_debug.title" = "提交调试报告";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "该信息帮助Secret确定您在通话过程中遇到的问题。";
+"self.settings.advanced.reset_push_token.title" = "重置信息推送通知的Token";
+"self.settings.advanced.reset_push_token.subtitle" = "当您遇到信息推送相关问题，Secret 建议您重置该Token。";
+"self.settings.advanced.reset_push_token_alert.title" = "信息推送Token已被重置";
+"self.settings.advanced.reset_push_token_alert.message" = "信息通知将在几秒钟内恢复。";
+"self.settings.advanced.version_technical_details.title" = "版本与技术信息";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "资料使用许可";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "技术报告";
+"self.settings.technical_report.send_report" = "发送报告给Secret";
+"self.settings.technical_report.mail.subject" = "Secret日志报告";
+"self.settings.technical_report.include_log" = "包括详细的日志";
+"self.settings.technical_report.privacy_warning" = "详细的日志将包含个人数据";
+"self.settings.technical_report.no_mail_alert" = "没有电邮程式。点击“确定”并手动将日志发送到：";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "重设密码";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "邀请联系人";
+
+// History backup
+
+
+"self.settings.conversations.title" = "历史记录";
+"self.settings.history_backup.title" = "备份对话";
+"self.settings.data_backup.title" = "数据备份";
+"self.settings.history_backup.description" = "建立备份以保留对话历史记录。如果丢失了或切换到一个新的设备，则可以使用此还原历史记录。\n\n请选择一个强密码以保护备份档案。";
+"self.settings.history_backup.action" = "立刻备份";
+"self.settings.history_backup.error.title" = "错误";
+
+"self.settings.history_backup.set_email.title" = "设定电子邮件和密码。";
+"self.settings.history_backup.set_email.message" = "您需要电子邮件和密码才能备份您的对话历史记录。您可以在「设置」的「帐户」分页中设定。";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "设置密码";
+"self.settings.history_backup.password.cancel" = "取消";
+"self.settings.history_backup.password.next" = "继续";
+"self.settings.history_backup.password.placeholder" = "至少8个字符";
+"self.settings.history_backup.password.description" = "备份会被压缩，并使用你输入的密码加密。";
+
+
+"self.settings.contact.title" = "联系我们";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "没有网路连线";
+"system_status_bar.no_internet.explanation" = "您的互联网连线似乎出现了问题。请确保您有网路连线。";
+"system_status_bar.poor_connectivity.title" = "网速慢，现在不能进行通话";
+"system_status_bar.poor_connectivity.explanation" = "我们无法保证语音通话质量。连接到Wi-Fi或尝试改变您的连线位置。";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "您的全名";
+"name.guidance.tooshort" = "至少2个字符";
+"name.guidance.toolong" = "超出字符限制";
+
+"email.placeholder" = "邮箱地址";
+"email.guidance.invalid" = "无效的邮箱地址";
+"email.guidance.tooshort" = "电子邮件地址太短";
+"email.guidance.toolong" = "超出字符限制";
+
+"password.placeholder" = "密码";
+"password.guidance.toolong" = "超出字符限制";
+
+"phone.guidance.invalid" = "无效的手机号码";
+"phone.guidance.tooshort" = "Phone number is too short";
+"phone.guidance.toolong" = "超出字符限制";
+
+// Landing screen
+
+"landing.app_name" = "Secret";
+"landing.create_account.title" = "个人信息";
+"landing.create_account.subtitle" = "Chat privately with groups of friends\U00A0and\U00A0family";
+"landing.create_team.title" = "专业版";
+"landing.create_team.subtitle" = "Secure collaboration for businesses, institutions and professional\U00A0organizations";
+"landing.login.hints" = "已有帐户？";
+"landing.login.button.title" = "登录";
+
+"landing.custom_backend.title" = "Connected to \"%@\"";
+"landing.custom_backend.more_info.button.title" = "显示更多";
+"landing.custom_backend.more_info.alert.title" = " 您连接到第三方服务器: %@";
+
+// Create team
+
+"team.name.headline" = "为你的团队命名";
+"team.name.subheadline" = "您之后可以在变更。";
+"team.name.textfield.placeholder" = "团队名称";
+"team.name.textfield.accessibility" = "设置团队名称";
+
+"team.name.whatiswireforteams" = "Secret Pro 是什么？";
+
+
+"team.email.headline" = "你的账户";
+"team.email.subheadline" = "请输入您的工作电子邮件地址。";
+"team.email.textfield.placeholder" = "您公司的电子邮箱";
+"team.email.button.learn_more" = "了解更多信息";
+
+"team.activation_code.headline" = "您有新邮件";
+"team.phone_activation_code.headline" = "验证";
+"team.activation_code.subheadline" = "输入我们发送到 %@ 的验证码";
+"team.activation_code.button.resend" = "重新发送验证码";
+"team.activation_code.button.change_email" = "更改电邮地址";
+"team.activation_code.button.change_phone" = "更改手机号码";
+
+"team.full_name.headline" = "您的名字";
+"team.full_name.textfield.placeholder" = "全名";
+"team.full_name.textfield.accessibility" = "设定您的全名";
+
+"team.password.headline" = "设置密码";
+
+"verification.code_label" = "六位数代码。文本字段。";
+"verification.code_hint" = "双击输入密码";
+
+// Invite Team Members
+
+"team.invite.header.title" = "创建您的团队";
+"team.invite.header.subtitle" = "您的Wire团队已准备就绪。邀请您的同事作为成员。";
+"team.invite.textfield.placeholder" = "同事的电子邮箱";
+"team.invite.textfield.accesibility" = "输入要邀请的同事的邮箱地址";
+"team.invite.learn_more.title" = "更多信息";
+"team.invite.top_bar.skip" = "跳过";
+"team.invite.top_bar.done" = "完成";
+
+// Team Invite Errors
+"team.invite.error.generic" = "出了点问题，请再试一次";
+"team.invite.error.already_registered" = "此电子邮件地址已被使用";
+"team.invite.error.already_invited" = "已发出邀请到此电子邮件";
+"team.invite.error.too_many_invitations" = "已达到发送邀请的最大数量";
+"team.invite.error.no_internet" = "没有互联网讯号";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "允许的访客与服务";
+"guest_room.allow_guests.subtitle" = "向团队外的服务和人员开放此对话";
+"guest_room.remove_guests.message" = "当前对话中的访客与服务将会被清除，新的访客与服务也不能再加入。";
+"guest_room.remove_guests.action" = "移除";
+"guest_room.revoke_link.message" = "新访客将无法加入此连结。 目前访客仍可使用。";
+"guest_room.revoke_link.action" = "撤销连结";
+
+"guest_room.error.generic.title" = "好像出了点问题。";
+"guest_room.error.generic.message" = "检查您的连接，然后再试一次";
+
+"guest_room.link.header.title" = "透过连结邀请其他人";
+"guest_room.link.header.subtitle" = "任何有连结的人都可以加入对话，即使他们没有安装Secret。";
+
+"guest_room.link.button.title" = "创建链接";
+
+"guest_room.actions.copy_link" = "复制链接";
+"guest_room.actions.copied_link" = "链接已复制！";
+"guest_room.actions.share_link" = "分享链接";
+"guest_room.actions.revoke_link" = "撤销链接…";
+
+"guest_room.share.message" = "加我到Secret对话:\n%@";
+
+"guest_room.expiration.hours_left" = "还余%@小时";
+"guest_room.expiration.less_than_minutes_left" = "余下少于%@分钟";
+
+// Registration
+
+"registration.launch_back_button.label" = "返回";
+
+"registration.title" = "注册";
+"registration.close_email_invitation_button.email_title" = "使用其他邮箱地址";
+"registration.close_email_invitation_button.phone_title" = "通过手机注册";
+"registration.close_phone_invitation_button.email_title" = "通过邮箱地址注册";
+"registration.close_phone_invitation_button.phone_title" = "使用其他手机";
+
+"registration.register_by_phone" = "电话";
+
+"registration.register_by_email" = "电子邮件";
+
+"registration.enter_phone_number.title" = "编辑手机号码";
+"registration.enter_phone_number.placeholder" = "手机号码";
+
+"registration.verify_phone_number.instructions" = "输入我们发送到%@的验证码";
+"registration.verify_phone_number.resend" = "重新发送";
+"registration.verify_phone_number.resend_placeholder" = "验证码没有收到？\n你可以在 %.0f 秒后再次申请";
+
+"registration.verify_email.instructions" = "我们发送了一封电子邮件到%@。请验证您的地址链接。";
+"registration.verify_email.resend.instructions" = "没有收到验证邮件？";
+"registration.verify_email.resend.button_title" = "重新发送";
+
+"registration.select_picture.subtitle" = "Secret有了您的头像图片就更酷炫了。";
+"registration.select_picture.button_title" = "自行选择";
+"registration.keep_picture.button_title" = "使用预设名称";
+"registration.camera_action.title" = "拍张照片";
+"registration.photo_gallery_action.title" = "选择照片";
+"registration.cancel_action.title" = "取消";
+
+"registration.no_history.hero" = "这是您第一次在此设备使用Secret。";
+"registration.no_history.subtitle" = "基于隐私考虑，您的历史聊天记录将不会被显示。";
+"registration.no_history.got_it" = "好";
+"registration.no_history.restore_backup" = "从备份恢复";
+
+
+"registration.alert.account_exists.title" = "帐户已存在";
+"registration.alert.account_exists.message_phone" = "这个用于注册的电话号码已经关联了一个帐户。\n\n使用另一个电话号码，或者如果您拥有此帐户，请尝试登录。";
+"registration.alert.account_exists.message_email" = "这个用于注册的电子邮箱地址已经关联了一个帐户。\n\n使用另一个电子邮箱地址，或者如果您拥有此帐户，请尝试登录。";
+"registration.alert.change_email_action" = "使用另一个电子邮件注册";
+"registration.alert.change_phone_action" = "用另一个号码注册";
+"registration.alert.change_signin_action" = "登录";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "恢复历史";
+"registration.no_history.restore_backup_warning.message" = "备份内容将取代此设备上的对话历史。\n你只能从备份的同一平台恢复历史记录。";
+"registration.no_history.restore_backup_warning.proceed" = "选择备份文件";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "再试一次";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "好像出了点问题。";
+
+"registration.no_history.restore_backup_failed.message" = "您的历史无法恢复。";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "不兼容的备份";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "你不能恢复其他帐号的历史记录。";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "不兼容的备份";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "此备份是由更新版本或已过时的Wire创建的，无法在此恢复。";
+
+// SSO – Company Login
+"login.sso.alert.title" = "公司登录";
+"login.sso.alert.message" = "输入公司SSO访问代码。";
+"login.sso.alert.action" = "登录";
+"login.sso.alert.text_field.placeholder" = "SSO 访问代码";
+
+"login.sso.start_error_title" = "无法启动公司登录";
+"login.sso.link_error_message" = "您点击的公司登录链接无效。请联系您的管理员解决问题。";
+
+"login.sso.error.alert.title" = "好像出了点问题。";
+"login.sso.error.alert.invalid_code.title" = "无效的代码。";
+"login.sso.error.alert.invalid_code.message" = "请验证您的公司SSO访问代码并重试。";
+"login.sso.error.offline.alert.message" = "请检查您的网络连接，然后重试";
+"login.sso.error.alert.message" = "请联系您的团队管理员详细信息 (错误 %@)。";
+"login.sso.error.alert.unknown.message" = "请稍后重试。";
+"login.sso.error.alert.invalid_status.message" = "请稍后再试 (错误 %@)。";
+
+// Restore In Progress Loading Titles
+
+"registration.no_history.restore_backup.restoring" = "正在恢复…";
+"registration.no_history.restore_backup.completed" = "完成";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "此备份受密码保护。";
+"registration.no_history.restore_backup.password.message" = "需要密码来恢复备份。";
+"registration.no_history.restore_backup.password.placeholder" = "密码";
+"registration.no_history.restore_backup.password_error.title" = "密码错误";
+
+"registration.no_history.logged_out.hero" = "您曾在此设备使用过Secret。";
+"registration.no_history.logged_out.subtitle" = "这段期间发送的信息将不会显示出来。";
+"registration.no_history.logged_out.got_it" = "好";
+
+"registration.enter_name.title" = "编辑名称";
+"registration.enter_name.hero" = "我们应该怎么称呼您？";
+"registration.enter_name.placeholder" = "您的全名";
+
+"registration.terms_of_use.title" = "欢迎来到Secret。";
+"registration.terms_of_use.terms" = "继续下一步表示您同意Secret的使用条款。";
+"registration.terms_of_use.terms.link" = "使用条款";
+"registration.terms_of_use.agree" = "我同意";
+
+"registration.terms_of_use.terms.title" = "使用条款";
+"registration.terms_of_use.terms.message" = "请接受我们的服务条款以继续。";
+"registration.terms_of_use.terms.view" = "查看";
+"registration.terms_of_use.accept" = "同意";
+
+"registration.email_flow.title" = "通过邮箱地址注册";
+"registration.email_flow.email_step.title" = "编辑详细信息";
+
+"registration.country_select.title" = "国家";
+
+"registration.share_contacts.hero.title" = "在Secret上搜寻联络人";
+"registration.share_contacts.hero.paragraph" = "分享您的通讯录来寻找其他好友。我们将您的信息匿名处理并且不会泄漏给任何第三方。";
+"registration.share_contacts.find_friends_button.title" = "共享联络人";
+"registration.share_contacts.skip_button.title" = "先跳过";
+
+"registration.address_book_access_denied.hero.title" = "Secret没有您的通讯录使用权限。";
+"registration.address_book_access_denied.hero.paragraph1" = "在您分享通讯录后，Secret将帮助您找到其他的好友。";
+"registration.address_book_access_denied.hero.paragraph2" = "请到手机「设置」来开启通讯录使用权限。";
+"registration.address_book_access_denied.settings_button.title" = "设置";
+"registration.address_book_access_denied.maybe_later_button.title" = "稍后再说";
+
+"registration.push_access_denied.hero.title" = "别错过来电或信息。";
+"registration.push_access_denied.hero.paragraph1" = "在手机「设置」中开启接收通知消息的权限。";
+"registration.push_access_denied.settings_button.title" = "打开设置";
+"registration.push_access_denied.maybe_later_button.title" = "稍后再说";
+
+"registration.personal.title" = "新增帐户";
+"registration.signin.title" = "登录";
+
+"registration.signin.too_many_devices.title" = "设备太多";
+
+"registration.signin.too_many_devices.subtitle" = "使用此设备前请先移除一个您的其他设备。";
+"registration.signin.too_many_devices.manage_button.title" = "设备管理";
+"registration.signin.too_many_devices.sign_out_button.title" = "登出";
+
+"registration.signin.too_many_devices.manage_screen.title" = "移除设备";
+
+"registration.signin.alert.password_needed.title" = "需要输入密码";
+"registration.signin.alert.password_needed.message" = "请输入您的密码以登入。";
+
+"registration.devices.title" = "设备";
+"registration.devices.active_list_header" = "其他已启用的设备";
+"registration.devices.current_list_header" = "当前设备";
+"registration.devices.active_list_subtitle" = "如果您不能识别以上设备，请立即移除并重设密码。";
+
+"registration.devices.activated" = "激活 %@";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "使用电子邮件登录";
+"signin.use_phone.label" = "使用电话登录";
+"signin.forgot_password" = "忘记密码？";
+"signin.use_one_password.label" = "使用 1Password 登录";
+"signin.use_one_password.hint" = "双击使用 1Password 填充密码";
+
+"signin.confirm" = "登录";
+"signin.company_idp.button.title" = "供公司使用";
+
+"signin_logout.subheadline" = "Your session expired. You need to log in again to continue.";
+"signin_logout.email.subheadline" = "Your session expired. Enter your email address and password to continue.";
+"signin_logout.phone.subheadline" = "Your session expired. Enter your phone number to continue.";
+"signin_logout.sso.subheadline" = "Your session expired. Log in with your company account to continue.";
+"signin_logout.sso.buton" = "公司登录";
+
+"signin.email.missing_password.subtitle" = "Enter your email address and password to continue.";
+"signin.phone.missing_password.subtitle" = "Enter your phone number to continue.";
+
+"registration.phone_country" = "国家";
+"registration.phone_code" = "国家代码";
+
+"registration.phone_country.hint" = "Double tap to select another country.";
+"registration.phone_code.hint" = "Double tap to select another country code.";
+"registration.phone.verify.label" = "驗證電話號碼";
+"registration.phone.verify_field.label" = "验证码";
+
+
+"registration.add_phone_number.hero.title" = "新增手机号码";
+"registration.add_phone_number.hero.paragraph" = "这将帮助我们找到您可能认识的人。我们不会向任何第三方泄漏您的信息。";
+"registration.add_phone_number.skip_button.title" = "先跳过";
+
+
+"registration.add_email_password.hero.title" = "添加您的电子邮件和密码";
+"registration.add_email_password.hero.paragraph" = "这可以让您在多个设备上使用Wire。";
+
+"registration.email_invitation.title" = "邀请";
+"registration.email_invitation.hero.title" = "您好，%@";
+"registration.email_invitation.hero.paragraph" = "选择一个密码来创建您的账户。";
+
+"registration.phone_invitation.title" = "邀请";
+"registration.phone_invitation.hero.title" = "您好，%@";
+"registration.phone_invitation.hero.paragraph" = "再一个步骤就完成建立您的账户。";
+
+"registration.confirm" = "注册";
+
+"registration.phone.country_code.hint" = "Double tap to use a phone number from this country.";
+
+
+"error.name_and_email" = "请输入您的全名和一个有效的电子邮箱和密码。";
+"error.full_name" = "请输入您的全名";
+"error.email" = "请输入有效的邮箱地址";
+"error.input.too_long" = "输入过长";
+"error.input.too_short" = "输入过短";
+"error.email.invalid" = "请输入有效的邮箱地址";
+"error.phone.invalid" = "请输入有效的手机号码";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "设置您在Secret上独一无二的用户名。";
+"registration.select_handle.takeover.subtitle_link" = "更多信息";
+
+"registration.select_handle.takeover.choose_own" = "重新选择";
+"registration.select_handle.takeover.keep_suggested" = "使用当前";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "出了点问题，请再试一次";
+"error.user.needs_credentials" = "账号或密码错误，请重新输入";
+"error.user.invalid_credentials" = "账号或密码错误，请重新输入";
+"error.user.account_pending_activation" = "您的账号未被启用，请验证您的信息。";
+"error.user.network_error" = "您的网络好像有些问题，请稍候再试。";
+"error.user.email_is_taken" = "您提供的电子邮箱已经被占用，请尝试其他的电子邮箱。";
+"error.user.phone_is_taken" = "该手机号码已被注册，请尝试其他号码。";
+"error.user.phone_code_invalid" = "请输入一个有限的验证码";
+"error.user.phone_code_too_many" = "我们已经将验证码通过短信发送给您。如需重新获取验证码，请等候10分钟后点击重新发送。";
+"error.user.registration_unknown_error" = "出了点问题，请再试一次。";
+"error.user.device_deleted_remotely" = "您的另一台设备已被登出。";
+"error.user.last_identity_cant_be_deleted" = "邮箱地址或手机号码是必填项。";
+"error.user.account_suspended" = "此账户不再被授权登录";
+"error.user.account_limit_reached" = "您最多添加3个账号。";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "无法更新您的密码。";
+
+"error.group_call.too_many_members_in_conversation.title" = "超出群组通话人数";
+"error.group_call.too_many_members_in_conversation" = "群组通话功能最多支援到%d 人";
+"error.group_call.too_many_participants_in_the_call.title" = "通话人数已满";
+"error.group_call.too_many_participants_in_the_call" = "只能再容纳%d 人。";
+"error.call.gsm_ongoing.title" = "行動通話";
+"error.call.gsm_ongoing" = "在使用Secret通話前請先結束您的行動通話。";
+"error.call.general.title" = "通話錯誤";
+"error.call.general" = "請稍候幾分鐘再嘗試通話。";
+"error.call.slow_connection.title" = "连接速度缓慢";
+"error.call.slow_connection" = "您可能会在通话期间遇到问题";
+"error.call.slow_connection.call_anyway" = "仍然要通话";
+
+"error.invite.no_email_provider" = "请设置您的电子邮箱从而通过邮件的形式发送邀请。";
+"error.invite.no_messaging_provider" = "请设定您的短信服务从而通过短信的方式发送邀请";
+
+"error.conversation.title" = "错误";
+"error.conversation.cannot_add" = "添加成员失败";
+"error.conversation.cannot_remove" = "删除成员失败";
+"error.conversation.too_many_members" = "对话人数已达上限";
+"error.conversation.offline" = "您的互联网连线似乎出现了问题。请确保您有网路连线。";
+
+"sketchpad.initial_hint" = "点击颜色更换画笔大小";
+
+"migration.please_wait_message" = "请稍等";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@加入了Secret";
+"push.notification.new_message" = "新信息";
+
+
+//Force Update
+"force.update.title" = "必要更新";
+"force.update.message" = "您错过了些新功能。快到App Store中下载最新版本的Secret呀。";
+"force.update.ok_button" = "到App Store";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Jailbreak detected";
+"jailbrokendevice.alert.message" = "For security reasons, Wire can't be used on this device. Any existing Wire data has been erased.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · 来源 giphy.com";
+"giphy.conversation.random_message" = "来源 giphy.com";
+"giphy.error.no_more_results" = "没有更多的gif图片";
+"giphy.error.no_result" = "找不到gif图片";
+
+"giphy.confirm" = "发送";
+"giphy.cancel" = "取消";
+"giphy.search_placeholder" = "搜寻Giphy";
+
+"invite_banner.title" = "邀请您的朋友加入Secret！";
+"invite_banner.message" = "尽情享受在个人或群组聊天室中通话，分享信息和图片。";
+"invite_banner.invite_button_title" = "邀请更多人";
+
+// Collections
+"collections.section.images.title" = "图片";
+"collections.section.files.title" = "文件";
+"collections.section.videos.title" = "视频";
+"collections.section.links.title" = "链接";
+"collections.section.all.button" = "显示全部 %d →";
+"collections.section.no_items" = "在资源库中什么都没有";
+"collections.image_viewer.copied.title" = "图片已复制";
+
+"collections.search.field.placeholder" = "搜索文字信息";
+"collections.search.no_items" = "没有找到";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "短消息";
+"compose.drafts.empty.title" = "无消息";
+"compose.drafts.empty.subtitle" = "点击 + 来新建";
+"compose.drafts.compose.title" = "键入一条消息";
+"compose.drafts.compose.subject.placeholder" = "点击设置主题";
+
+"compose.drafts.compose.delete.confirm.title" = "确认删除";
+"compose.drafts.compose.delete.confirm.message" = "此操作将永久删除草稿，且不可恢复。";
+"compose.drafts.compose.delete.confirm.action.title" = "删除";
+
+"compose.drafts.compose.dismiss.confirm.title" = "保存为草稿";
+"compose.drafts.compose.dismiss.confirm.action.title" = "保存";
+"compose.drafts.compose.dismiss.delete.action.title" = "删除";
+
+"availability.message.cancel" = "取消";
+"availability.message.set_status" = "设置状态";
+"availability.accessibility_label.change_status" = "更改状态";
+"availability.accessibility_label.status" = "状态";
+
+"availability.none" = "无";
+"availability.available" = "在线";
+"availability.away" = "离开";
+"availability.busy" = "忙碌";
+"availability.available.placeholder" = "%@ 在线";
+"availability.away.placeholder" = "%@ 离开";
+"availability.busy.placeholder" = "%@ 正忙";
+
+"availability.reminder.away.title" = "您设置为离开";
+"availability.reminder.away.message" = "您将对其他人显示为离开。您将不会收到任何电话或消息的通知。";
+"availability.reminder.busy.title" = "您已设置为忙碌";
+"availability.reminder.busy.message" = "You will appear as Busy to other people. You will only receive notifications for mentions, replies, and calls in conversations that are not muted.";
+"availability.reminder.available.title" = "您已设置为在线";
+"availability.reminder.available.message" = "You will appear as Available to other people. You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.none.title" = "没有设置状态";
+"availability.reminder.none.message" = "You will receive notifications for incoming calls and for messages according to the Notifications setting in each conversation.";
+"availability.reminder.action.dont_remind_me" = "不再显示此信息";
+"availability.reminder.action.ok" = "好";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "通话质量反馈";
+"calling.quality_survey.question" = "你如何评价整个通话过程的品质？";
+"calling.quality_survey.answer.1" = "糟透了";
+"calling.quality_survey.answer.2" = "差";
+"calling.quality_survey.answer.3" = "一般";
+"calling.quality_survey.answer.4" = "很好";
+"calling.quality_survey.answer.5" = "优秀";
+"calling.quality_survey.skip_button_title" = "跳过";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "确认";
+
+"url_action.title" = "确认 URL 操作";
+"url_action.connect_to_bot.message" = "你仍要连接到此服务器吗？";
+
+
+"url_action.switch_backend.title" = "连接到服务器";
+"url_action.switch_backend.message" = "This configuration will connect the app to a third-party server:\n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Can’t switch servers";
+"url_action.switch_backend.error.logged_in" = "You are already logged in. To switch to this server, log out of all accounts and try again.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "服务器无响应";
+"url_action.switch_backend.error.invalid_backend" = "Please check your internet connection, verify the link and try again.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret can't find this person.";
+"url_action.invalid_user.message" = "You may not have permission with this account or it no longer exists.";
+
+"url_action.invalid_conversation.title" = "Secret can't open this conversation.";
+"url_action.invalid_conversation.message" = "You may not have permission with this account or the person may not be on Wire.";
+
+"url_action.authorization_required.title" = "需要授权";
+"url_action.authorization_required.message" = "You need to log in to view this content.";
+
+"url_action.invalid_link.title" = "无效的链接。";
+"url_action.invalid_link.message" = "The link you opened is not valid.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+
+"news_offers.consent.title" = "Do you want to receive news and product updates from Wire via email?";
+"news_offers.consent.message" = "您可以随时取消订阅。";
+
+"news_offers.consent.button.privacy_policy.title" = "隐私政策";
+
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat"  = "发起群聊";
+"conversation_list.popover.add_friend"  = "添加朋友";
+"conversation_list.popover.scan"        = "扫一扫";
+"conversation_list.popover.money"       = "收款码";
+"conversation_list.popover.startTempHouse"  = "发起会议";
+"conversation.popover.detail.scan" = "扫码  ";
+// MARK: - 
+"conversation.app.notice.setting" = "服务通知设置";
+"conversation.app.notice.setting.reminder" = "消息通知提醒";
+
+
+// MARK: 
+"conversation.inviters.me_invite" = "我邀请的";
+"conversation.inviters.invite_me" = "邀请我的";
+
+// MARK: - 
+"conversation_announcement.vc.edit_announcement" = "编辑公告";
+"conversation_announcement.alert.no_announcement" = "本群暂无群公告";
+"conversation_announcement.hud.announcement_max_count" = "最多250字哦";
+
+// MARK: - 
+"message.disable" = "禁言";
+"message.disable.you" = "您";
+"message.disable.creator" = "群主";
+"message.disable.all.open" = "开启了全员禁言";
+"message.disable.all.close" = "关闭了全员禁言";
+"message.disable.passivity" = "被";
+"message.disable.manager" = "管理员";
+"message.disable.relieve" = "解除";
+
+// MARK: 
+"expression.add.title" = "添加表情";
+"expression.add" = "添加";
+"expression.added" = "已添加";
+"expression.remove" = "移除";
+"expression.send" = "发送表情";
+"expression.check.album" = "查看专辑";
+"expression.favorite.add" = "添加收藏";
+"expression.favorite.remove" = "移除收藏";
+"expression.cancel" = "取消";
+
+
+"message.disable.addfriend.open" = "开启了禁止群成员互加好友";
+"message.disable.addfriend.close" = "关闭了禁止群成员互加好友";
+
+
+"message.disable.messageVisible.open" = "开启了其他成员发消息不可见";
+"message.disable.messageVisible.close" = "关闭了其他成员发消息不可见";
+
+
+"message.disable.enableEditMsg.open" = "开启了消息可编辑、删除";
+"message.disable.enableEditMsg.close" = "关闭了消息可编辑、删除";
+
+
+"message.disable.showMemsum.open" = "开启了显示成员数量";
+"message.disable.showMemsum.close" = "关闭了显示成员数量";
+
+
+"message.disable.allowViewMembers.open" = "开启了群成员列表展示";
+"message.disable.allowViewMembers.close" = "关闭了群成员列表展示";
+
+
+"message.disable.screenshot.open" = "开启了截屏通知";
+"message.disable.screenshot.close" = "关闭了截屏通知";
+
+
+"login.email.title" = "你的邮箱";
+"login.email.placeholder" = "电邮箱地址";
+"login.email.password.title" = "你的密码";
+"login.email.password.placeholder" = "密码";
+"register.email.setname.title" = "你的全名";
+"register.email.setname.placeholder" = "全名";
+"register.email.setpassword.title" = "你的密码";
+"register.email.setpassword.placeholder" = "密码";
+"register.email.verifycode.title" = "验证码";
+"register.email.verifycode.placeholder" = "验证码";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "没有人喜欢这个消息。";
+"message_details.empty_read_receipts" = "No one has read this message yet.";
+"message_details.read_receipts_disabled" = "Read receipts were not on when this message was sent.";
+"message_details.combined_title" = "消息详情";
+"message_details.likes_title" = "喜欢";
+"message_details.receipts_title" = "已读";
+"message_details.tabs.seen" = "已读 (%d)";
+"message_details.tabs.likes" = "喜欢(%d)";
+"message_details.subtitle_send_date" = "发送: %@";
+"message_details.subtitle_edit_date" = "已编辑: %@";
+"message_details.subtitle_label_voiceOver" = "消息详情";
+"message_details.user_handle_subtitle_label" = "用户名";
+"message_details.user_read_timestamp_subtitle_label" = "读取于";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+
+"registration.password.rules.no_requirements" = "Use %@.";
+
+"self.settings.account_details.equipment_model.title" = "设备型号";
+
+
+"registration.password.rules.no_requirements" = "使用 %@。";
+"registration.password.rules.with_requirements" = "Use %@, with %@.";
+
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "证据保全已停用";
+"legal_hold.deactivated.message" = "未来的信息将不会被记录。";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "处于证据保全模式";
+"share_extension.voiceover.conversation_secure" = "所有客户都已验证。";
+"share_extension.voiceover.conversation_secure_with_ignored" = "没有验证所有客户。";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = "待同意。";
+"legalhold_request.alert.title" = "已请求证据保全";
+"legalhold_request.alert.detail" = "所有未来的消息都将由设备记录，指纹：\n\n%@\n\n，这包括在所有对话中被编辑、已和阅后即焚消息。";
+"legalhold_request.alert.detail.enter_password" = "请输入您的密码以确认。";
+"legalhold_request.alert.error_wrong_password" = "密码错误";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "已激活证据保全";
+"legalhold_active.alert.learn_more" = "了解更多信息";
+"legalhold_active.alert.message" = "您的帐户已开启证据保全。\n所有消息将被保存，以便用于未来访问，包括被编辑、已删除和阅后即焚消息。\n你的对话方将会被提醒。";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "会话已过期";
+"account_deleted_session_expired_alert.message" = "应用程序长期未与服务器通信，或您的会话已被拒绝。";
+
+
+// MARK: -
+"conversation.group.mark.message.illegal.by.admins" = "管理员%@隐藏了一条%@的违规消息。";
+"conversation.group.message.content.illegal" = "此内容违规，被管理员隐藏了。";
+"conversation.group.message.illegal.alert.describe" = "是否把这条消息标记为违规？标记之后該消息将会被隐藏。";
+"conversation.group.message.illegal.hint" = "提示";
+"conversation.group.message.illegal.warning" = "该群被大量用户举报，可能存在欺诈、违反地区法律等风险，请谨慎加入";
+"conversation.group.message.illegal.canceljoin" = "暂不加入";
+"conversation.group.message.illegal.stilljoin" = "我要加入";
+"conversation.group.message.illegal.lock" = "该群被大量用户举报，可能存在欺诈、违反地区法律等风险，已禁止该链接加群";
+"conversation.group.message.illegal.know" = "我知道了";
+
+// MARK: - 
+"conversation.group.message.content.encrypted" = "消息和通话都进行端到端加密。对话之外的任何人，甚至包含 SecretApp 都无法读取或接听。";
+
+
+"conversation.group.report.title" = "举报";
+"conversation.group.report.chooseReason" = "请选择投诉该群的原因";
+"conversation.group.report.reason.pornography" = "色情";
+"conversation.group.report.reason.illegalCrimes" = "违法犯罪及违禁品";
+"conversation.group.report.reason.gambling" = "赌博";
+"conversation.group.report.reason.politicalRumors" = "政治谣言";
+"conversation.group.report.reason.terror" = "暴恐血腥";
+"conversation.group.report.reason.other" = "其他违规内容";
+
+"conversation.group.report.describeReport" = "请描述举报内容";
+"conversation.group.report.clearlyDescribeReport" = "请清晰详细描述举报原因";
+"conversation.group.report.uploadPic" = "上传图片（最少一张）";
+"conversation.group.report.commitReport" = "提交举报";
+"conversation.group.report.reportSuccess" = "举报成功";
+"conversation.group.report.commitSuccess" = "提交成功";
+"conversation.group.report.uploadPic.reUpload" = "重新上传";
+
+"conversation.group.report.applyUnblocking" = "申请解封";
+"conversation.group.report.applyUnblockingDesc" = "申请解封说明";
+
+"conversation.group.report.blockAlertTitle" = "由于用户举报，当前群已被系统自动封禁。如群内没有违规内容，群主可申请对本群进行解封。";
+
+"conversation.group.report.response.error.512" = "你不是群主";
+"conversation.group.report.response.error.513" = "该群没有被封禁";
+"conversation.group.report.response.error.514" = "你不属于该群";
+"conversation.group.report.response.error.515" = "已经申诉过";
+"conversation.group.report.response.error.516" = "已经举报过";
+
+"emojj.my.section" = "我的表情";
+"emojj.popular.title" = "热门表情包";
+"emojj.setting.title" = "表情设置";

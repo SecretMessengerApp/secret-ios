@@ -1,0 +1,3 @@
+
+#include "../Project-Release.xcconfig"
+#include "Share-Extension-Base.xcconfig"

@@ -1,0 +1,50 @@
+
+#include "../../../Configuration/Base.xcconfig"
+#include "Warnings.xcconfig"
+#include "Version.xcconfig"
+
+// Architectures
+//
+SDKROOT = iphoneos
+
+// Packaging
+//
+INFOPLIST_EXPAND_BUILD_SETTINGS = YES
+DEFINES_MODULE = YES
+
+// Deployment
+//
+TARGETED_DEVICE_FAMILY = 1,2
+IPHONEOS_DEPLOYMENT_TARGET = 10.0
+
+//Icon
+ASSETCATALOG_COMPILER_APPICON_NAME = $(APPICON_NAME)
+
+// Code Signing
+CODE_SIGN_STYLE = Manual
+
+// Build Options
+//
+DEBUG_INFORMATION_FORMAT = dwarf-with-dsym
+
+// Linking
+LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks @loader_path/Frameworks
+
+// Search Paths
+//
+FRAMEWORK_SEARCH_PATHS = $(inherited) $(PROJECT_DIR)/Carthage/Build/iOS
+HEADER_SEARCH_PATHS = $(inherited) "$(TARGET_TEMP_DIR)/DerivedSources"
+ALWAYS_SEARCH_USER_PATHS = NO
+
+// LLVM compiler - Language
+GCC_PRECOMPILE_PREFIX_HEADER = YES
+CLANG_ENABLE_MODULES = YES
+CLANG_ENABLE_OBJC_ARC = YES
+ENABLE_BITCODE = NO
+ENABLE_STRICT_OBJC_MSGSEND = YES
+
+// LLVM compiler - Preprocessing
+
+SHARED_CUSTOM_VALUES = HOCKEY_APP_ID_KEY=$(HOCKEY_APP_ID) WIRE_SSO_URL_SCHEME=$(SSO_URL_SCHEME)
+
+SWIFT_VERSION = 5.0

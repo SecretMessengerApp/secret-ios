@@ -1,0 +1,3 @@
+
+#include "../Project-Debug.xcconfig"
+#include "Share-Extension-Base.xcconfig"

@@ -1,0 +1,2 @@
+[仅供iPad测试] by script v8, 348
+fix 尝试修复启动crash

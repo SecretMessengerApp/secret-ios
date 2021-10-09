@@ -1,0 +1,11 @@
+
+"NSContactsUsageDescription" = "친구 검색에 도움줄수 있게 Secret이 사용자의 연락처 접근 권한을 허용해 주세요.당사는 귀하의 모든 정보를 익명화하며 제삼자에게 공개하지 않을것입니다.";
+"NSMicrophoneUsageDescription" = "음성 통화 또는 음성 메시지를 전송하려먼 Secret에게 마이크 접근 권한을 허용해주세요.";
+"NSLocationWhenInUseUsageDescription" = "Secret이 사용자의 위치에 접근하도록 허용해주시면 회원님의 위치정보를 친구와 공유할 수 있습니다.";
+"NSCameraUsageDescription" = "영상 통화,사진 전송 기능을 사용하려면 Secret에게 카메라 접근 권한을 허용해야합니다.";
+/* Showed after taking a picture with camera, but only when NSPhotoLibraryUsageDescription permission was declined. Asks permission for only writing to photo library. */
+"NSPhotoLibraryAddUsageDescription" = "Secret이 사진을 앨범에 저장하는것을 허용해주세요.";
+/* Showed when trying to send picture from conversaiton list. Asks permissions for reading and writing to photo library */
+"NSPhotoLibraryUsageDescription" = "Secret이 앨범에 접근하는것을 허용해주세요. 따라서 친구에게 사진과 비디오를 보낼 수 있습니다.";
+/* Is shown to the user when app is locked with AppLock feature on the phone that supports Face ID */
+"NSFaceIDUsageDescription" = "신분을 검증하기 위하여 Secret이 \"Face ID\" 기능을 엑세스하도록 허용해 주세요.";

@@ -1,0 +1,22 @@
+
+// Custom
+SHARE_EXTENSION_BUNDLE_SUFFIX = extensionshare
+
+// Build Options
+APPLICATION_EXTENSION_API_ONLY = YES
+
+// Deployment
+SKIP_INSTALL = YES
+
+// Linking
+LD_RUNPATH_SEARCH_PATHS = $(inherited) @executable_path/Frameworks @executable_path/../../Frameworks @loader_path/Frameworks $(PROJECT_DIR)/Carthage/Build/iOS ;
+
+// Packaging
+DEFINES_MODULE = NO
+INFOPLIST_FILE = Wire-iOS Share Extension/Info.plist
+PRODUCT_NAME = $(TARGET_NAME)
+PRODUCT_BUNDLE_IDENTIFIER = $(WIRE_BUNDLE_ID).$(SHARE_EXTENSION_BUNDLE_SUFFIX)
+
+// Signing
+CODE_SIGN_ENTITLEMENTS = Wire-iOS Share Extension/Wire-iOS Share Extension.entitlements
+PROVISIONING_PROFILE_SPECIFIER = $(PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT)

@@ -1,0 +1,29 @@
+
+github "pukapp/wire-ios-sync-engine" "secret"
+github "pukapp/wire-ios-share-engine" "secret"
+github "pukapp/wire-ios-notification-engine" "secret"
+github "wireapp/wire-ios-canvas" "10.0.0"
+github "wireapp/wire-ios-ziphy" "13.0.0"
+
+github "wireapp/FormatterKit" "1.8.1-swift3.0.2"
+github "wireapp/Cartography" "4.0.0"
+github "wireapp/DifferenceKit" "1.1.1"
+github "wireapp/TTTAttributedLabel" "2.0.0-swift3.0.2"
+
+github "pukapp/onepassword-app-extension" "secret"
+github "pukapp/secret-ios-YPImagePicker" "secret"
+github "pukapp/Down" "secret"
+github "pukapp/SFLAnimatedImage" ~> 1.0.0
+github "pukapp/SSticker" "1.0.0"
+
+github "Alamofire/Alamofire" "5.2.2"
+github "suzuki-0000/SKPhotoBrowser" "6.1.0"
+github "jdg/MBProgressHUD" "1.1.0"
+github "SwiftyJSON/SwiftyJSON" "5.0.0"
+github "alibaba/HandyJSON"  "5.0.0"
+github "ibireme/YYText" "1.0.7"
+github "swisspol/GCDWebServer" "3.2.5"
+github "microsoft/appcenter-sdk-apple" "2.5.3"
+
+github "SDWebImage/SDWebImageWebPCoder" "0.6.1"
+

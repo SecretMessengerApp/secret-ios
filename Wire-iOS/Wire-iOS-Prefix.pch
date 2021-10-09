@@ -1,0 +1,17 @@
+
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#ifndef NS_DESIGNATED_INITIALIZER
+#define NS_DESIGNATED_INITIALIZER
+#endif
+
+#define STRINGIZE_INTERNAL(x) #x
+#define STRINGIZE(x) STRINGIZE_INTERNAL(x)
+
+#endif

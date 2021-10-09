@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#ffffff">
+        <meta name="apple-mobile-web-app-title" content="\(title)">
+        <link rel="apple-touch-icon-precomposed" href="data:image/jpeg;base64,\(feature_icon)"/>
+        <title>\(title)</title>
+    </head>
+    <script>document.documentElement.style.fontSize = 100 * document.documentElement.clientWidth / 375 + "px"</script>
+    <style>
+
+        * { margin: 0; padding: 0 }
+        body, html { height: 100%; width: 100%; overflow: hidden; background: #f3f2f2; text-align: center }
+        .main { color: #333; text-align: center }
+        .subject { margin-top: 1rem; font-size: .2rem }
+        .preview {margin-top:0.36rem;position: relative;}
+        .preview .content {position: relative;margin: 0 0.55rem;}
+        .preview .bg {width: 2.5rem;margin-left: 0.05rem;position: relative;}
+        .preview .icon {position: absolute;display: block;border-radius: 21%;}
+        .preview .title {position: absolute;text-align: center;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+        .preview .icon.large {width: 1.25rem;height: 1.25rem;left: 1.22rem;top: .42rem}
+        .preview .title.large {width: 1.5rem;left: 1.13rem;top: 1.70rem;font-size: 0.17rem;}
+        .preview .icon.small {width: 0.14rem;height: 0.14rem;left: 0.8rem;top: 1.125rem;}
+        .preview .title.small {width: 0.16rem;left: 0.78rem;top: 1.266rem;font-size: 0.025rem;}
+        .guide { width: 100%; position: absolute; left: 0; bottom: .3rem }
+        .guide .content{ position: relative; z-index: 20; width: 3.5rem; padding-top: .16rem; padding-bottom: .06rem; margin: 0 auto; border-radius: .04rem; box-shadow: 0 6px 15px rgba(0, 0, 0, .13); background:#fff; font-size: .14rem }
+        .guide .tips { position: relative; z-index: 20 }
+        .guide .icon { width: .2rem; height: .24rem; margin: 0 .035rem .02rem; vertical-align: bottom }
+        .guide .toolbar { width: 100%; height: auto; margin-top: -.12rem; position: relative; z-index: 10 }
+        .guide .arrow { width: .27rem; height: auto; position: absolute; left: 50%; bottom: -.26rem; margin-left: -.135rem; z-index: 10 }
+        .backguide { height: 100%; width: 100%; }
+        .backguide .enter {position: absolute;height: 0.44rem;width: 3.43rem;background: #2659B6;border: 0;font-size: 0.18rem;color: white;bottom: 0.52rem;left: 0.16rem;border-radius: 0.02rem; }
+        .backguide .tips {margin-top: 1.29rem;font-size: 0.14rem;line-height: 0.2rem;color: #999999; }
+        .backguide .icon {height: 0.71rem;width: 0.71rem;border-radius: 0.14rem; background: #4172ED;}
+        .backguide .appname {font-size: 0.18rem;line-height: 0.25rem;color: #333333;margin-top: -0.14rem;}
+
+    </style>
+    <body>
+        <a id="redirect" href="\(urlToRedirect.absoluteString)"></a>
+        <div id="B_container" class="backguide"  style="display: none;">
+            <div class="tips">You will enter soon</div>
+            <img id="B_icon" class="icon" src="data:image/jpeg;base64,\(feature_icon)"></img>
+            <div id="B_appname" class="appname">\(title)</div>
+            <button class="enter" onclick="jumpSchema()">enter right now</button>
+        </div>
+        <div id="container">
+            <div class="main">
+                <div class="subject">Add shortcut to desktop</div>
+                <div class="preview">
+                    <div class="content">
+                      <img class="bg" src="data:image/jpeg;base64,\(bg)">
+                      <img id="J_iconsmall" class="icon small" src="data:image/jpeg;base64,\(feature_icon)">
+                      <img id="J_iconlarge" class="icon large" src="data:image/jpeg;base64,\(feature_icon)">
+                      <div id="J_appname" class="title large">\(title)</div>
+                    </div>
+                  </div>
+            </div>
+            <div class="guide">
+                <div class="content">
+                    <p class="tips">
+                    Click the toolbar’s<img class="icon" src="data:image/jpeg;base64,\(click)">
+                    </p>
+                    
+                    <p class="tips">
+                        And choose<img class="icon" src="data:image/jpeg;base64,\(choose)">“<strong>Add to the Home screen</strong>”
+                    </p>
+                    <img class="toolbar" src="data:image/jpeg;base64,\(toolbar)">
+                        
+                    <img class="arrow" src="data:image/jpeg;base64,\(arrow)">
+                        
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+<script type="text/javascript">
+    function jumpSchema() {
+        let redirect = document.getElementById("redirect").getAttribute('href');
+        window.location.href = redirect;
+    }
+    if (window.navigator.standalone) {
+        
+        var element = document.getElementById('container');
+        element.style.display = "none";
+        var element = document.getElementById('B_container');
+        element.style.display = "block";
+        var element = document.getElementById('redirect');
+        var event = document.createEvent('MouseEvents');
+        event.initEvent('click', true, true, document.defaultView, 1, 0, 0, 0, 0, false, false, false, false, 0, null);
+        document.body.style.backgroundColor = '#FFFFFF';
+        setTimeout(function() { element.dispatchEvent(event); }, 25);
+    } else {
+        var element = document.getElementById('container');
+        element.style.display = "inline";
+    }
+
+</script>

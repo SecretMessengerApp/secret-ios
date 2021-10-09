@@ -1,0 +1,1919 @@
+
+"conversion.setting.autoReply.wrong" = "Cannot host this user at this time!";
+"conversion.safe.tips" = "The information in the conversation has added end-to-end encryption!";
+
+"conversation.replyMessage.your" = " your";
+"conversation.replyMessage.others" = "'s";
+"conversation.replyMessage.you" = " you";
+"conversation.replyMessage.image" = "Image";
+"conversation.replyMessage.video" =  "take a video";
+
+"conversation.groupinvite.invite" = "”%@“ wants to invite %@ friends to join group chat";
+"conversation.groupinvite.do" = "To confirm";
+"conversation.groupinvite.done" = "confirmed";
+"conversation.groupinvite.add.self" = "Invite %@ to join a group chat";
+"conversation.groupinvite.add.other" = "Invite you to join a group chat";
+"conversation.groupinvite.add.detial" = "%@ invites %@ to join %@ group, click to view details.";
+"conversation.groupinvite.statue" = "Group invitation information";
+"conversation.groupinvite.confirm.invite" = "Confirm invitation";
+"conversation.groupinvite.confirm.title" = "Be sure to join the group chat";
+"conversation.groupinvite.confirm.join" = "Join the group chat";
+"conversation.groupinvite.confirm.refuse" = "Refuse to join";
+"conversation.groupinvite.confirm.joined" = "Joined";
+"conversation.groupinvite.confirm.refused" = "Rejected";
+"conversation.group_invite.vc.nav.title" = "Invitation details ";
+"conversation.group_invite.vc.info.title" = "invite %d friends to join group chat";
+
+"network.restricted.tips" = "Your application has not yet been granted access to the network, go to the Settings center to open access!";
+"network.notreachable.tips" = "Go to setup center open network!";
+
+
+"photolibrary.permissions.shutdown.tips" = "Your application has not yet been granted access to the album, go to the Settings center to open access!";
+"photolibrary.unavailable.systemreason.tips" = "Unable to access the album for system reasons";
+
+
+"general.skip" = "skip";
+
+
+"newProfile.conversation.destoryafterread.subtitle" = "if this option is set, messages sent and received in the chat will disappear after reading.";
+"newProfile.conversation.destoryafterreadstatus.fiveSecs" = "five seconds";
+"newProfile.conversation.destoryafterreadstatus.fifteenSecs" = "fifteen seconds";
+"newProfile.conversation.destoryafterreadstatus.thirtySecs" = "thirty seconds";
+"newProfile.conversation.destoryafterreadstatus.oneMinute" = "one minutes";
+"newProfile.conversation.destoryafterreadstatus.fiveMinute" = "five minutes";
+"newProfile.conversation.destoryafterreadstatus.oneDay" = "one day";
+
+
+"settings.qrcode.tips" = "Secret，Scan the QR code to add me on Secret";
+"settings.qrcode.save" = "Save my QR code";
+"conversation.group.tips" = "Scan the QRcode to join the Secret group chat.";
+"conversation.group.qrcode.save" = "Save group QR code";
+
+"newProfile.conversation.record" = "Conversation Record";
+"newProfile.conversation.safe.title" = "Encryption Security Code";
+"newProfile.conversation.safe.subtitle" = "Chat information is encrypted";
+"newProfile.conversation.remark" = "Setting Remark";
+"newProfile.conversation.photo" = "Posts";
+"newProfile.conversation.addremark" = "Add note name";
+"newProfile.conversation.remarksave" = "Save";
+
+"newProfile.conversation.remove_participant" = "Remove Participant";
+"newProfile.conversation.start_chat" = "Start Chat";
+
+
+"participants.conversation.name" = "Conversation Name";
+
+"general.ok" = "OK";
+"general.cancel" = "Cancel";
+"general.open_settings" = "Open Secret Settings";
+
+"version.update_tips" = "New version! Go to APPSTORE for updating";
+
+
+//
+"peoplepicker.button.share_url_to_conversation" = "Send Url to contants";
+"peoplepicker.button.sub_to_conversation" = "Remove Member";
+"peoplepicker.button.delete_member" = "Delete group member";
+
+//
+"participants.avatar.host.title" = "Host";
+"participants.avatar.me.title" = "Me";
+"content.system.conversation.started.no.with" = " started a conversation.";
+
+
+"self.settings.account_manager.title" = "Account Manager";
+"self.settings.photo.title" = "My Posts";
+"self.settings.praise.title" = "Give us a five-star review";
+
+//Conversation Status
+"self.settings.status.title" = "Status";
+"self.settings.status.closed" = "Close";
+"self.settings.status.darwin" = "Intelligent Darwin Hostin";
+"self.settings.status.angel" = "Intelligent Darwin Hostin";
+"self.settings.status.campusbelle" = "Intelligent Darwin Hosting";
+"self.settings.status.ai" = "Artificial Intelligence Mode";
+"self.settings.status.zuchongzhi" = " ZuChongZhi";
+
+"self.settings.account_section.myQRCode.title" = "My QRCode";
+"self.settings.account_section.qrCode.title" = "Scan";
+
+// Setting - Scan
+"self.settings.account_section.scan.title" = "Scan QRCode";
+"self.settings.account_section.security.title" = "Security";
+
+
+"conversation.setting.backgroundimage" = "Set Background";
+"conversation.setting.backgroundimage.title" = "Choose Wallpaper";
+"conversation.setting.backgroundimage.description" = "Try other background.\nTry some new wallpapers at any time.";
+"conversation.setting.backgroundimage.apply" = "Apply";
+"conversation.setting.backgroundimage.cancel" = "Cancel";
+
+// MARK: - 
+"conversation.setting.place_top" = "Place Top";
+
+"conversation.setting.screenShot" = "Screenshot notification";
+"conversation.setting.screenShot.detail" = "After enabling, a message will be sent when the screenshot is taken";
+"conversation.setting.screenShot.open" = "Opened";
+"conversation.setting.screenShot.close" = "Closed";
+
+
+"conversation.setting.disableSendMsg" = "Setting Group DisableSendMsg";
+
+
+"conversation.setting.to.huge.conversation" = "Upgrade Group";
+"conversation.setting.to.upgraded.huge.conversation" = "Group Upgraded";
+"conversation.setting.to.upgrade.over.100" = "Members over 100 can open";
+"conversation.setting.to.openjoin.url" = "Open link join";
+"conversation.setting.to.openjoin.QRCode" = "Open QRCode join";
+"conversation.setting.to.group.allowViewMembers" = "Allow viewing of group members";
+"conversation.setting.to.group.qrcode" = "Group QRCode";
+"conversation.setting.to.group.urlshare" = "Share To";
+"conversation.setting.to.group.urlsubtitle" = "Choose to share";
+"conversation.setting.to.group.confirmTitle" = "Group chat invitation confirmation";
+"conversation.setting.to.group.confirmSubtitle" = "When enabled, group members need to confirm by the group owner to invite friends into the group, and scanning the QR code into the group is also disabled";
+"conversation.setting.to.group.ownerInvite" = "Only group owners invite to group chat";
+"conversation.setting.to.group.ownerChange" = "Group owner management transfer";
+"conversation.setting.to.group.manager" = "Group Manager";
+"conversation.setting.to.group.icon" = "Group Avatar";
+"conversation.setting.to.group.MemberConfirm" = "Group members are invited to confirm";
+"conversation.setting.to.group.shortcut" = "Add conversation to the Tab Bar";
+"conversation.setting.to.group.forbid_add_friend" = "Prohibit adding friends";
+"conversation.setting.to.group.member_change_unvisible" = "Close invitation, exit invisible";
+"conversation.setting.to.group.disablesendmsg" = "All DisableSendMsg";
+"conversation.setting.to.group.disablesendmsg.status" = "Only group manager is allowed to speak after all members' silence is enabled. Entering the name card of group members can set silence for individual members";
+"Group.settings.allow_member_add" = "No permission to view this user information";
+
+
+// MARK: - HUD Success
+"hud.success.setting.scan.login" = "Web page has been logged in";
+"hud.success.saved" = "Saved";
+"hud.success.added" = "Added";
+
+// MARK: - HUD Failed
+"hud.failed.setting.scan.login" = "Invalid QRCode";
+
+// MARK: - HUD Error
+"hud.error.unkown" = "Unkown error";
+"hud.error.invalid.qrcode" = "Invalid QRCode";
+"hud.error.no.qrcode" = "No QRCode found";
+"hud.error.not.find.user" = "The user could not be found.";
+"hud.error.not.choose.coin.type" = "Currency not selected";
+
+// MARK: - HUD Global
+"hud.cancelled" = "Cancelled";
+"hud.copied" = "Copied";
+
+// MARK: - AlertController
+"controller.alert.ok" = "OK";
+"controller.alert.title.error" = "Wrong";
+"controller.alert.desc.no.permission.to.album" = "Cannot access to Album, please go to Setting to open";
+
+// MARK: - 
+"join_invite_response_error_code_2001" = "You has been in the group";
+"join_invite_response_error_code_2002" = "Group manager does not allow new members to be added using url";
+
+// MARK: - Global
+"secret_unknown_error" = "Unknown error";
+"secret_server_error" = "Busy server";
+// MARK: - Guide Page
+"guide_page_start_title" = "Start Using";
+
+// MARK: - Conversation Content VC
+"conversation_content_vc_scroll_latest_msg" = "Scroll to latest";
+
+"app.scheme.login.authorization" = "Authorization";
+"app.scheme.login.apply.permission" = "Apply for the following permissions";
+"app.scheme.login.get.information" = "Get your public information";
+"app.scheme.login.auth.allow" = "Allow";
+"app.scheme.login.auth.refuse" = "Refuse";
+
+
+"notification.title" = " Notification";
+"notification.cell.comment" = "Commented";
+"notification.cell.reply" = "replied";
+"notification.cell.like" = "like you";
+"notification.cell.transimit" = "Forwarded";
+
+"new_version_title" = "Version Update";
+"login.intro.text" = "Keep All Chats Confidential";
+
+"general.ok" = "OK";
+"general.next" = "Järgmine";
+"general.cancel" = "Tühista";
+"general.close" = "Sulge";
+"general.back" = "Tagasi";
+"general.open_settings" = "Ava Secret sätted";
+"general.edit" = "Muuda";
+"general.done" = "Valmis";
+"general.confirm" = "OK";
+"general.skip" = "Mitte praegu";
+"general.accept" = "Vasta";
+"general.decline" = "Tänan, ei";
+"general.failure" = "Midagi läks valesti";
+"general.failure.try_again" = "Palun proovi uuesti.";
+"general.service" = "Teenus";
+"general.off" = "Väljas";
+"general.on" = "Sees";
+"general.loading" = "Laadimine…";
+"general.paste" = "Kleebi";
+
+// Language like Chinese does not use space to sperate words or sentences.
+"general.space_between_words" = " ";
+
+"general.guest-room-name" = "Külalistetuba";
+
+// User Cell
+"user_cell.title.you_suffix" = " (You)";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// People picker/start UI
+"peoplepicker.search_placeholder" = "Otsi nime või kasutajanime järgi";
+"peoplepicker.header.top_people" = "Aktiivsed vestlused";
+"peoplepicker.button.create_conversation" = "Loo grupivestlus";
+"peoplepicker.button.add_to_conversation" = "Lisa osalejaid gruppi";
+"peoplepicker.header.conversations" = "Grupid";
+"peoplepicker.header.team_conversations" = "%@ grupid";
+"peoplepicker.header.send_invitation" = "Kutsu";
+"peoplepicker.header.contacts" = "Kontaktid";
+"peoplepicker.header.contacts_personal" = "Isiklikud kontaktid";
+"peoplepicker.header.directory" = "Lisa kontakt";
+
+"peoplepicker.group.title.singular" = "Lisa osalejaid";
+"peoplepicker.group.title.plural" = "Lisa osalejaid (%d)";
+"peoplepicker.group.skip" = "Jäta vahele";
+"peoplepicker.group.done" = "Valmis";
+"peoplepicker.group.create" = "Loo";
+
+"peoplepicker.header.people" = "Inimesed";
+"peoplepicker.header.services" = "Teenused";
+"peoplepicker.services.open_conversation.item" = "Ava vestlus";
+"peoplepicker.services.add_service.button" = "Lisa teenus";
+"peoplepicker.services.add_service.error.title" = "Teenust ei saa lisada";
+"peoplepicker.services.add_service.error.default" = "Teenus pole hetkel saadaval";
+"peoplepicker.services.add_service.error.full" = "Vestlus on täis";
+
+"peoplepicker.title.create_conversation" = "Loo grupp";
+"peoplepicker.title.add_to_conversation" = "Lisa osalejaid";
+
+"peoplepicker.no_contacts_title" = "Ei ole kontakte.";
+
+"peoplepicker.no_matching_results_title" = "Tulemusi ei leitud.";
+"peoplepicker.no_matching_results_message" = "Sisesta täielik meiliaadress.";
+
+"peoplepicker.no_matching_results.action.send_invite" = "Saada kutse";
+"peoplepicker.no_matching_results.action.share_contacts" = "Jaga kontakte";
+
+"peoplepicker.no_matching_results_provide_valid_email" = "Palun sisesta korrektne e-posti aadress";
+"peoplepicker.no_matching_results_after_address_book_upload_title" = "Tulemusi ei leitud.";
+"peoplepicker.no_matching_results_services_title" = "Teenused on abistajad, mis võivad aidata sul töid teha. Nende lubamiseks pöördu oma administraatori poole.";
+"peoplepicker.no_matching_results_services_admin_title" = "Teenused on abistajad, mis võivad aidata sul töid teha.";
+"peoplepicker.no_matching_results_services_manage_services_title" = "Halda teenuseid";
+/* This sentence ends with button title, contained in peoplepicker.no_matching_results_after_address_book_upload_button */
+"peoplepicker.no_matching_results_after_address_book_upload_message" = "Otsi meiliaadressi järgi või";
+/*  */
+"peoplepicker.no_matching_results_after_address_book_upload_button" = "jaga kontakte";
+
+"peoplepicker.share_contacts.no_results.title" = "Otsi inimesi nime või meiliaadressi järgi";
+
+"peoplepicker.send_invitation.dialog.title" = "Kutse saadetud";
+"peoplepicker.send_invitation.dialog.message" = "See kehtib 2 nädalat. Saada kehtivuse lõppedes uus.";
+"peoplepicker.send_invitation.dialog.ok" = "OK";
+
+"peoplepicker.invite_more_people" = "Kutsu rohkem inimesi";
+"peoplepicker.invite_team_members" = "Kutsu inimesi meeskonnaga liituma";
+"peoplepicker.quick-action.open-conversation" = "Ava";
+"peoplepicker.quick-action.create-conversation" = "Loo grupivestlus";
+"peoplepicker.quick-action.create-guest-room" = "Loo külalistetuba";
+"peoplepicker.quick-action.admin-services" = "Halda teenuseid";
+
+"add_participants.all_contacts_added" = "Kõik on siin.";
+
+"add_participants.alert.title" = "Grupp on täis";
+"add_participants.alert.message.new_conversation" = "Vestlusega saab liituda kuni %d inimest.";
+"add_participants.alert.message.existing_conversation" = "Vestlusega saab liituda kuni %1$d inimest. Hetkel on siin ruumi veel %2$d inimesele.";
+
+// Contacts UI
+"contacts_ui.search_placeholder" = "Otsi nime järgi";
+"contacts_ui.invite_others" = "Kutsu teisi";
+"contacts_ui.name_in_contacts" = "%@ seadme kontaktides";
+"contacts_ui.connection_request" = "Ühendussoov";
+"contacts_ui.action_button.invite" = "Kutsu";
+"contacts_ui.action_button.open" = "Ava";
+"contacts_ui.invite_sheet.cancel_button_title" = "Tühista";
+"contacts_ui.notification.invitation_sent" = "Kutse saadetud";
+"contacts_ui.notification.invitation_failed" = "Kutse saatmine ebaõnnestus";
+"contacts_ui.title" = "Kutsu inimesi";
+
+"conversation_list.empty.all_archived.message" = "Kõik on arhiveeritud";
+"conversation_list.empty.no_contacts.message" = "Alusta vestlust või loo grupp.";
+
+
+// Conversation List Indicator
+"conversation_list.right_accessory.join_button.title" = "Liitu";
+"conversation_list.header.self_team.accessibility_value" = "Kasutaja %@ konto.";
+"conversation_list.header.self_team.accessibility_value.inactive" = "Vajuta aktiveerimiseks.";
+"conversation_list.header.self_team.accessibility_value.active" = "Praegu aktiivne.";
+"conversation_list.header.self_team.accessibility_value.has_new_messages" = "On uusi sõnumeid.";
+
+// Conversation List Data Usage Permission Dialog
+"conversation_list.data_usage_permission_alert.title" = "Aita meil Wire'i paremaks muuta";
+"conversation_list.data_usage_permission_alert.message" = "Nõustun, et Wire võib luua ja kasutada anonüümseid kasutus- ja veateateid, parandamaks Wire'i rakendust. Ma saan selle nõusoleku igal ajal tühistada.";
+"conversation_list.data_usage_permission_alert.disagree" = "Ei";
+"conversation_list.data_usage_permission_alert.agree" = "Nõustun";
+
+// Profile Header View
+"conversation.connection_view.in_address_book" = "seadme kontaktides";
+
+// Conversation list voiceover accessibility
+"conversation_list.voiceover.open_conversation.hint" = "Ava vestlus";
+"conversation_list.voiceover.status.pending_connection" = "ootel";
+"conversation_list.voiceover.status.active_call" = "aktiivne kõne";
+"conversation_list.voiceover.status.missed_call" = "vastamata kõne";
+"conversation_list.voiceover.status.pause_media" = "peata meedia esitlus";
+"conversation_list.voiceover.status.play_media" = "käivita meedia esitlus";
+"conversation_list.voiceover.status.silenced" = "hääletu";
+"conversation_list.voiceover.status.typing" = "trükib";
+"conversation_list.voiceover.status.ping" = "ping";
+"conversation_list.voiceover.status.mention" = "sind on mainitud";
+"conversation_list.voiceover.status.reply" = "vasta";
+"conversation_list.voiceover.bottom_bar.recent_button.label" = "recent";
+"conversation_list.voiceover.bottom_bar.recent_button.hint" = "list of recent conversations";
+"conversation_list.voiceover.bottom_bar.folder_button.label" = "folders";
+"conversation_list.voiceover.bottom_bar.folder_button.hint" = "list of conversations organized in folders";
+"conversation_list.voiceover.bottom_bar.archived_button.label" = "arhiveeritud";
+"conversation_list.voiceover.bottom_bar.archived_button.hint" = "arhiveeritud vestluste nimekiri";
+"conversation_list.voiceover.bottom_bar.contacts_button.label" = "kontaktid";
+"conversation_list.voiceover.bottom_bar.contacts_button.hint" = "otsi Secret kasutajate hulgast";
+"conversation_list.voiceover.bottom_bar.compose_button.label" = "koosta";
+"conversation_list.voiceover.bottom_bar.compose_button.hint" = "koosta sõnum ja salvesta hilisemaks";
+"conversation_list.voiceover.bottom_bar.camera_button.label" = "kaamera";
+"conversation_list.voiceover.bottom_bar.camera_button.hint" = "tee pilt ja saada kiirelt";
+"conversation_list.voiceover.unread_messages.hint" = "Sul on lugemata sõnumeid.";
+
+// Archived List
+"archived_list.title" = "arhiiv";
+
+// Add contact tool tip
+"tool_tip.contacts.title" = "Vestlused algavat siit";
+"tool_tip.contacts.message" = "Alusta vestlust. Helista, saada sõnumeid ja jaga üksikisikule või grupile.";
+
+// "Knows" subtitle in cell: "Knows Indrek", "Knows Indrek and Jane", "Knows Indrek and 5 others"
+"peoplepicker.suggested.knows_one" = "Tema tuttavad on %@";
+"peoplepicker.suggested.knows_two" = "Tema tuttavate hulgas on %@ ja %@";
+"peoplepicker.hide_search_result" = "Peida";
+"peoplepicker.hide_search_result_progress" = "Peidetakse…";
+
+"send_invitation.subject" = "Tule Secret'isse, suhtleme seal edasi";
+"send_invitation.text" = "Kasutan Secret'it, otsi mu kasutajanime %@, või kui sul seda äppi veel pole, siis tõmba siit: secret.chat/#download.";
+"send_invitation_no_email.text" = "Ma kasutan nüüd Secret’t. Külasta secret.chat/#download, et edasi suhelda.";
+
+// Folders
+
+"folder.creation.name.title" = "Create new folder";
+"folder.creation.name.button.create" = "Loo";
+"folder.creation.name.header" = "Move the conversation \"%@\" to a new folder.";
+"folder.creation.name.footer" = "Maximum 64 characters";
+"folder.creation.name.placeholder" = "Folder name";
+
+"folder.picker.title" = "Move to";
+"folder.picker.empty.hint" = "Create a new folder by pressing the + button";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++x
+// In-app notifications (chat heads)
+"notifications.shared_a_photo" = "jagas pildi";
+"notifications.pinged" = "pingis";
+"notifications.sent_file" = "jagas faili";
+"notifications.sent_location" = "jagas asukohta";
+"notifications.sent_video" = "jagas videot";
+"notifications.sent_audio" = "jagas häälsõnumit";
+"notifications.in_conversation" = "%@ - %@";
+"notifications.this_conversation" = "%@ selles vestluses";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// List (labels) - Needs to be revised with updated guidance
+"list.title" = "Vestlused";
+"list.archived_conversations" = "ARHIIV";
+"list.archived_conversations_close" = "Sulge arhiiv";
+
+"list.section.groups" = "Grupid";
+"list.section.contacts" = "Inimesed";
+"list.section.requests" = "Requests";
+"list.section.favorites" = "Favorites";
+
+"conversation.voiceover.verified" = "kinnitatud";
+"conversation.voiceover.legalhold" = "legal hold";
+"conversation.voiceover.value.active" = "active";
+"conversation.voiceover.value.disabled" = "disabled";
+
+"conversation.status.typing" = "Kirjutab…";
+"conversation.status.typing.group" = "%@: kirjutab…";
+"conversation.status.silenced" = "Vaigistatud";
+"conversation.status.poor_connection" = "Poor connection";
+"conversation.status.blocked" = "Blokeeritud";
+"conversation.status.incoming_call" = "%@ helistab…";
+"conversation.status.incoming_call.unknown" = "Someone is calling…";
+
+"conversation.status.message.text" = "%@";
+"conversation.status.message.link" = "Jagas lingi";
+"conversation.status.message.image" = "Jagas pilti";
+"conversation.status.message.location" = "Jagas asukohta";
+"conversation.status.message.audio" = "Jagas häälsõnumit";
+"conversation.status.message.video" = "Jagas videot";
+"conversation.status.message.file" = "Jagas faili";
+"conversation.status.message.knock" = "Pingis";
+"conversation.status.message.missedcall" = "Vastamata kõne";
+"conversation.status.message.missedcall.groups" = "Vastamata kõne kasutajalt %@";
+"conversation.status.message.mention" = "%@";
+"conversation.status.message.reply" = "%@";
+"conversation.status.message.ephemeral" = "Saatis sõnumi";
+"conversation.status.message.ephemeral.group" = "Keegi saatis sulle sõnumi";
+"conversation.status.message.ephemeral.mention" = "Mainis sind";
+"conversation.status.message.ephemeral.mention.group" = "Keegi mainis sind";
+"conversation.status.message.ephemeral.reply" = "Replied to your message";
+"conversation.status.message.ephemeral.reply.group" = "Someone replied to your message";
+"conversation.status.message.ephemeral.knock" = "Pingis";
+"conversation.status.message.ephemeral.knock.group" = "Keegi pingis";
+
+"conversation.status.unsent" = "⚠️ Saatmata sõnum";
+"conversation.status.you" = "Sina";
+"conversation.status.someone" = "Keegi";
+"conversation.status.you_was_added" = "%@ lisas sinu";
+"conversation.status.you_were_removed" = "Sind eemaldati vestlusest";
+"conversation.status.you_left" = "Lahkusid vestlusest";
+"conversation.status.started_conversation" = "%@ alustas vestlust";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Compose Entry Point
+
+"compose.contact.title" = "Vestlus";
+"compose.message.title" = "Sõnum";
+
+"conversation_details.open_button.accessibility_hint" = "Double tap to view the details of the conversation.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Conversation
+"conversation.invite_more_people.title" = "Kuulake kõik!";
+"conversation.invite_more_people.description" = "Lisa vestlusesse inimesi";
+"conversation.invite_more_people.explanation_url" = "https://support.secret.im";
+"conversation.invite_more_people.button_title" = "Lisa inimesi";
+
+// Conversation names
+"conversation.displayname.emptygroup" = "Tühi grupivestlus";
+
+"conversation.input_bar.verified" = "Kontrollitud";
+"conversation.input_bar.placeholder" = "Kirjuta sõnum";
+"conversation.input_bar.placeholder_ephemeral" = "Kustuv sõnum";
+
+"conversation.input_bar.audio_message.tooltip.pull_send" = "Saatmiseks nipsa üles";
+"conversation.input_bar.audio_message.tooltip.tap_send" = "Saatmiseks toksa";
+"conversation.input_bar.audio_message.too_long.title" = "Salvestamine peatatud";
+"conversation.input_bar.audio_message.too_long.message" = "Audiosõnumitte pikkuse piirang: %@";
+
+"conversation.input_bar.audio_message.too_long_size.message" = "Audio sõnumite maksimaalne faili suurus on %@.";
+
+"conversation.input_bar.audio_message.send" = "Saada";
+
+"conversation.input_bar.audio_message.keyboard.record_tip" = "Salvestamiseks toksa nuppu.\nSeejärel saad sellele %@ filtri lisada.";
+"conversation.input_bar.audio_message.keyboard.filter_tip" = "Vali ülevalt mõni filter";
+
+"conversation.call.many_participants_confirmation.title" = "Alusta kõnet";
+"conversation.call.many_participants_confirmation.message" = "Inimeste arv, kellele helistad: %d";
+"conversation.call.many_participants_confirmation.call" = "Helista";
+
+"conversation.connection_view.in_address_book" = "seadme kontaktides";
+
+"conversation.input_bar.shortcut.send" = "Saada teade";
+"conversation.input_bar.shortcut.newline" = "Lisa reavahetus";
+"conversation.input_bar.shortcut.edit_last_message" = "Viimase sõnumi muutmine";
+"conversation.input_bar.shortcut.cancel_editing_message" = "Tühista";
+
+"conversation.input_bar.message_too_long.title" = "Liiga pikk sõnum";
+"conversation.input_bar.message_too_long.message" = "Sõnum võib olla kuni %d tähemärki.";
+
+"conversation.create.group_name.title" = "Loo grupivestlus";
+"conversation.create.group_name.placeholder" = "Grupi nimi";
+"conversation.create.guidance.empty" = "Vähemalt 1 tähemärk";
+"conversation.create.guidance.toolong" = "Liiga pikk nimi";
+"conversation.create.options.title" = "Vestluse valikud";
+"conversation.create.options.subtitle" = "Guests and services: %@, Read receipts: %@";
+"conversation.create.guests.title" = "Luba külalisi ja teenuseid";
+"conversation.create.guests.subtitle" = "Ava see vestlus teenustele ja meeskonnast väljas olevatele inimestele.";
+"conversation.create.receipts.title" = "Lugemiskinnitused";
+"conversation.create.receipts.subtitle" = "Kui see on sees, saavad inimesed näha, kas nende vestluse sõnumid on loetud.";
+
+"conversation.input_bar.ongoing_call_alert.title" = "Aktiivne kõne";
+"conversation.input_bar.ongoing_call_alert.audio.message" = "Sa ei saa salvestada audiosõnumit kõne ajal.";
+"conversation.input_bar.ongoing_call_alert.video.message" = "Sa ei saa salvestada videot kõne ajal.";
+"conversation.input_bar.ongoing_call_alert.photo.message" = "Sa ei saa pildistada kõne ajal.";
+
+"conversation.alert.message_deleted" = "The message is deleted.";
+
+"conversation.guests_present" = "Kohal on külalisi";
+"conversation.services_present" = "Kohal on teenuseid";
+"conversation.guests_services_present" = "Kohal on külalisi ja teenuseid";
+"conversation.action.search" = "Otsing";
+
+// Reply message preview
+"conversation.input_bar.message_preview.image" = "Image";
+"conversation.input_bar.message_preview.location" = "Asukoht";
+"conversation.input_bar.message_preview.video" = "Video";
+"conversation.input_bar.message_preview.audio" = "Helisõnum";
+"conversation.input_bar.message_preview.file" = "File";
+"conversation.input_bar.close_reply" = "Cancel reply";
+
+"conversation.input_bar.message_preview.accessibility_description" = "Replying to message: %@";
+"conversation.input_bar.message_preview.accessibility.image_message" = "Image message";
+"conversation.input_bar.message_preview.accessibility.location_message" = "Location message";
+"conversation.input_bar.message_preview.accessibility.video_message" = "Video message";
+"conversation.input_bar.message_preview.accessibility.audio_message" = "Audio message";
+"conversation.input_bar.message_preview.accessibility.file_message" = "File message (%@)";
+"conversation.input_bar.message_preview.accessibility.unknown_message" = "Unknown message";
+"conversation.input_bar.message_preview.accessibility.message_from" = "%@ from %@";
+
+"image_confirmer.confirm" = "OK";
+"image_confirmer.cancel" = "Tühista";
+"image.add_sketch" = "Lisa joonistus";
+"image.edit_image" = "Muuda profiilipilti";
+
+// Camera access
+"camera_access.denied" = "Secret vajab ligipääsu kaamerale.";
+"video_call.camera_access.denied" = "Secret'l pole õigust kaamerat kasutada.";
+"camera_access.denied.instruction" = "";
+"camera_access.denied.open_settings" = "Lülita see sisse Secret seadetest";
+
+// Camera and photos access, keyboard
+"keyboard_photos_access.denied.keyboard.settings" = "Seaded";
+"keyboard_photos_access.denied.keyboard.camera_and_photos" = "Secret vajab juurdepääsuõigust kaamerale ja fotodele."; // split text on two lines for a better text balance
+"keyboard_photos_access.denied.keyboard.photos" = "Secret vajab juurdepääsuõigust fotodele.";
+"keyboard_photos_access.denied.keyboard.camera" = "Secret vajab juurdepääsuõigust kaamerale.";
+"keyboard_photos_access.denied.keyboard.ongoing_call" = "Sa ei saa kaamerat kasutada videokõne ajal.";
+
+// Camera Controls
+"camera_controls.aeaf_lock" = "AE/AF lukustus";
+
+// Location
+"location.send_button.title" = "Saada";
+"location.unauthorized_alert.title" = "Lülita sisse Asukohateenused";
+"location.unauthorized_alert.message" = "Oma asukoha jagamiseks lülita sisse Asukohateenused ja luba Secret’le ligipääs oma asukohale.";
+"location.unauthorized_alert.cancel" = "Tühista";
+"location.unauthorized_alert.settings" = "Seaded";
+
+// Twitter
+"twitter_status.on_twitter" = "%@ Twitter’is";
+
+// Ephemeral message
+"input.ephemeral.timeout.none" = "Väljas";
+"input.ephemeral.title" = "Määra kustuvate sõnumite taimeri pikkus";
+
+// System messages
+"content.system.you_nominative" = "sina";
+"content.system.you_dative" = "sina";
+"content.system.and_you_dative" = "ja sina";
+"content.system.you_accusative" = "sina";
+
+"content.system.continued_conversation" = "Alusta vestlust kasutajaga %@";
+"content.system.started_conversation.truncated_people" = "ja %@";
+"content.system.started_conversation.truncated_people.others" = "%@ veel";
+"content.system.started_conversation.complete_team" = "kõik meeskonna liikmed";
+"content.system.started_conversation.complete_team.guests" = "kõik meeskonna liikmed ja %@ külalist";
+
+"content.system.other_started_conversation" = "%@ alustas vestlust kasutajaga %@";
+"content.system.you_started_conversation" = "Alustasid vestlust kasutajaga %@";
+
+"content.system.you_added_participant" = "Sa lisasid kasutaja %@";
+"content.system.other_added_participant" = "%@ lisas kasutaja %@";
+"content.system.other_added_you" = "%@ lisas sinu";
+
+"content.system.participants_you" = "Sina";
+"content.system.participants_1_other" = "%@ ja %@";
+"content.system.other_left" = "%@ lahkus";
+"content.system.you_left" = "Lahkusid vestlusest";
+"content.system.other_removed_other" = "%@ eemaldas kasutaja %@";
+"content.system.other_removed_you" = "%@ eemaldas sind";
+"content.system.you_removed_other" = "Sa eemaldasid kasutaja %@";
+
+"content.system.services.warning" = "Teenustel on ligipääs selle vestluse sisule";
+
+// Link attachment messages
+
+"content.message.link_attachment.accessibility_label.youtube" = "YouTube video preview";
+"content.message.link_attachment.accessibility_label.soundcloud_song" = "SoundCloud song preview";
+"content.message.link_attachment.accessibility_label.soundcloud_set" = "SoundCloud playlist preview";
+
+// New conversation participants added / removed / started system message
+
+"content.system.conversation.other.started" = "%@ alustas vestlust kasutajaga %@";
+"content.system.conversation.other.added" = "%@ lisas kasutaja %@";
+"content.system.conversation.other.removed" = "%@ eemaldas kasutaja %@";
+"content.system.conversation.other.left" = "%@ lahkus";
+
+"content.system.conversation.you.started" = "%@ alustas vestlust kasutajaga %@";
+"content.system.conversation.you.added" = "%@ lisas kasutaja %@";
+"content.system.conversation.you.removed" = "%@ eemaldas kasutaja %@";
+"content.system.conversation.you.left" = "%@ lahkus";
+"content.system.conversation.team.member-leave" = "%@ eemaldati tiimist.";
+"content.system.conversation.guest.joined" = "%@ liitus";
+
+"content.system.conversation.invite.title" = "Teenused ja inimesed väljaspool sinu meeskonda saavad liituda selle vestlusega.";
+"content.system.conversation.invite.button" = "Jaga teistega";
+
+"content.system.other_renamed_conv_to_nothing" = "%@ eemaldas vestluselt nime";
+"content.system.you_renamed_conv_to_nothing" = "Eemaldasid vestluse nime";
+"content.system.pending_message_timestamp" = "Saadab…";
+"content.system.message_sent_timestamp" = "Saadetud";
+"content.system.message_delivered_timestamp" = "Kohale toimetatud";
+"content.system.message_read_timestamp" = "Seen";
+"content.system.failedtosend_message_timestamp" = "Saatmine ebaõnnestus.";
+"content.system.failedtosend_message_timestamp_resend" = "Saada uuesti";
+"content.system.failedtosend_message_timestamp_delete" = "Kustuta";
+"content.system.like_tooltip" = "Vajuta, kui meeldib";
+"content.system.deleted_message_prefix_timestamp" = "Kustutatud: %@";
+"content.system.edited_message_prefix_timestamp" = "Muudetud: %@";
+"content.system.connecting_to" = "Ühendatakse kasutajaga %@. Alusta vestlust";
+"content.system.connected_to" = "Ühendatatud kasutajaga %@. Alusta vestlust";
+"content.system.other_wanted_to_talk" = "%@ helistas";
+"content.system.you_wanted_to_talk" = "Sina helistasid";
+"content.system.ephemeral_time_remaining" = "%@ lahkus";
+
+"content.system.you_started" = "Sina";
+"content.system.this_device" = "see seade";
+
+"content.system.call.you" = "Sina";
+"content.system.call.called" = "%@ helistas";
+"content.system.call.called-you" = "%@ helistasid";
+
+"content.system.renamed_conv.title" = "%@ nimetas vestluse ümber";
+"content.system.renamed_conv.title-you" = "%@ nimetasid vestluse ümber";
+"content.system.renamed_conv.title.you" = "Sina";
+
+"content.system.conversation.with_name.title" = "%@ alustas vestlust";
+"content.system.conversation.with_name.title-you" = "%@ alustas vestlust";
+
+"content.system.conversation.with_name.participants" = "ja";
+
+"content.system.message_timer_changes" = "%@ määras sõnumi taimeriks: %@";
+"content.system.message_timer_changes-you" = "%@ määras sõnumi taimeriks: %@";
+
+"content.system.message_timer_off" = "%@ lülitas sõnumi taimeri välja";
+"content.system.message_timer_off-you" = "%@ lülitas sõnumi taimeri välja";
+
+// read receipt
+
+"content.system.message_read_receipt_on" = "%@ turned read receipts on for everyone";
+"content.system.message_read_receipt_on-you" = "%@ turned read receipts on for everyone";
+
+"content.system.message_read_receipt_off" = "%@ turned read receipts off for everyone";
+"content.system.message_read_receipt_off-you" = "%@ turned read receipts off for everyone";
+
+"content.system.message_read_receipt_on_add_to_group" = "Lugemiskinnitused on sees";
+
+// legal hold
+
+"content.system.message_legal_hold.enabled" = "This conversation is under legal hold";
+"content.system.message_legal_hold.disabled" = "Legal hold deactivated for this conversation";
+
+"content.system.message_legal_hold.learn_more" = "Loe lähemalt";
+
+//
+"content.system.screen.shot" = "%@ has taken a screenshot";
+
+"content.system.reactivated_device" = "Hakkasid uuesti kasutama seadet %@. Vahepeal saadetud sõnumid siia ei ilmu.";
+
+"content.system.new_device" = "uut seadet";
+"content.system.started_using" = "hakkasid kasutama";
+"content.system.is_verified" = "Kontrollitakse kõiki sõrmejälgi";
+
+"content.system.new_users" = "Uus kasutaja liitus.";
+"content.system.verify_devices" = "Kinnita seadmed";
+
+"content.system.unverified" = "%@ tunnistas valeks ühe %@"; // example "You unverified one of Jule’s devices"
+"content.system.your_devices" = "sinu seadmetest";
+"content.system.other_devices" = "kasutaja %@ seadmed";
+
+"content.system.missing_messages.title" = "Sa ei ole seda seadet mõnda aega kasutanud. Osad sõnumid ei pruugi siia ilmuda.";
+"content.system.missing_messages.subtitle_start" = "Samal ajal,";
+
+"content.system.cannot_decrypt" = "Sõnum, mille saatis %@, ei tulnud kohale.";
+
+"content.system.cannot_decrypt.you_part" = "sina";
+"content.system.cannot_decrypt.why_part" = "Miks?";
+
+"content.system.cannot_decrypt.identity" = "Seadme, mida kasutab %@, identiteet muutus. Sõnumi saatmine ebaõnnestus.";
+"content.system.cannot_decrypt.identity.you_part" = "Sinu";
+"content.system.cannot_decrypt.identity.otherUser_part" = "%@"; // possessive apostrophe - might differ in different languages
+"content.system.cannot_decrypt.identity.why_part" = "Loe lähemalt";
+"content.system.cannot_decrypt.otherDevice_part" = "(seade %@)"; // example " (device d1b23c54f34a)".
+// Full sentence: "A message from %@ was not received. [...] (device d1b23c54f34a). This is a debug information.
+
+"content.system.unknown_message.body" = "Sõnumit pole võimalik näidata. Võimalik, et kasutad mõnd Secret vanemat versiooni.";
+
+"content.file.uploading" = "Üleslaadimine…";
+"content.file.downloading" = "Allalaadimine…";
+"content.file.upload_failed" = "Üleslaadimine ebaõnnestus";
+"content.file.upload_cancelled" = "Üleslaadimine katkestati";
+"content.file.upload_video" = "Videod";
+"content.file.take_video" = "Salvesta video";
+"content.file.browse" = "Browse";
+
+"content.file.save_video" = "Salvesta";
+"content.file.save_audio" = "Salvesta";
+"content.image.save_image" = "Salvesta";
+
+"content.message.delete" = "Kustuta";
+"content.message.save" = "Salvesta";
+"content.message.resend" = "Saada uuesti";
+
+"content.message.delete_ellipsis" = "Kustuta…";
+
+"content.message.like" = "Meeldib";
+"content.message.unlike" = "Ei meeldi";
+"content.message.forward" = "Jaga";
+"content.message.go_to_conversation" = "Näita";
+"content.message.forward.to" = "Otsi…";
+"content.message.open" = "Ava";
+"content.message.copy" = "Kopeeri";
+"content.message.download" = "Laadi alla";
+"content.message.details" = "Üksikasjad";
+
+// Reply
+"content.message.reply" = "Vasta";
+"content.message.original_label" = "Original message";
+"content.message.reply.original_timestamp.date" = "Original message from %@";
+"content.message.reply.original_timestamp.time" = "Original message from %@";
+"content.message.reply.broken_message" = "Sa ei saa seda sõnumit näha.";
+"content.message.reply.edited_message" = "Muudetud";
+
+"content.message.open_link_alert.title" = "Ava lehekülg";
+"content.message.open_link_alert.message" = "Link viitab lehele: %@";
+"content.message.open_link_alert.open" = "Ava";
+
+"content.message.audio_message.accessibility" = "Play the audio message";
+
+"content.reactions_list.likers" = "Neile meeldib";
+
+"content.file.too_big" = "Saad saata faile suurusega %@";
+// Someone pinged
+"content.ping.text" = "%@ pingis";
+"content.ping.text-you" = "%@ pingis";
+
+// Current user pinged
+"content.ping.text.you" = "Sina";
+
+// Inline Player
+"content.player.unable_to_play" = "EI ÕNNESTU MÄNGIDA";
+
+// Connecting (NEW IMPLEMENTATION, REVIEW LATER)
+"connection_request.title" = "Ühendu kasutajaga %@"; // check UPPERCASE implementation in code
+"missive.connection_request.default_message" = "Hei, %@.\nSuhtleme Secret's edasi.\n%@";
+
+"connection_request_pending_title" = "Connection Request";
+"connection_request.send_button_title" = "Lisa kontakt";
+"inbox.connection_request.connect_button_title" = "Lisa kontakt";
+"inbox.connection_request.ignore_button_title" = "Ignoreeri";
+
+// Save image errors
+"library.alert.permission_warning.title" = "Secret vajab juurdepääsuõigust fotodele";
+"library.alert.permission_warning.restrictions.explaination" = "Secret’l puudub ligipääs sinu asjadele, kuna oled seadistanud piirangud.";
+"library.alert.permission_warning.not_allowed.explaination" = "Ava Seaded ja luba Secret’le ligipääs fotodele.";
+
+// Voice
+"voice.status.one_to_one.incoming" = "%@ \nhelistab";
+"voice.status.group_call.incoming" = "%@\nkutsub";
+"voice.status.one_to_one.outgoing" = "%@\nkutsub";
+"voice.status.joining" = "%@\nÜhendatakse";
+"voice.status.leaving" = "%@\nKõne lõpetatud";
+"voice.status.video_not_available" = "Video on välja lülitatud";
+"voice.status.low_connection" = "Kehv ühendus";
+"voice.network_error.title" = "Ühendus puudub";
+"voice.status.cbr" = "Ühtlane bitisagedus";
+"voice.network_error.body" = "Helistamiseks pead online olema. Kontrolli ühendust ja proovi uuesti.";
+"voice.degradation.new_self_device" = "Sa hakkasid uut seadet kasutama.";
+"voice.degradation.new_user_device" = "%@ hakkas uut seadet kasutama.";
+"voice.degradation_outgoing.prompt" = "Kas sa soovid siiski kõne teha?";
+"voice.degradation_incoming.prompt" = "Kas sa soovid siiski kõne vastu võtta?";
+"voice.accept_button.title" = "Vasta";
+"voice.decline_button.title" = "Keeldu";
+"voice.hang_up_button.title" = "Lõpeta kõne";
+"voice.mute_button.title" = "Hääletu";
+"voice.video_button.title" = "Video";
+"voice.flip_video_button.title" = "Pööra ümber";
+"voice.speaker_button.title" = "Kõlar";
+"voice.cancel_button.title" = "Tühista";
+"voice.call_button.title" = "Kõne";
+"voice.end_call_button.title" = "Lõpeta kõne";
+"voice.call_error.unsupported_version.title" = "Please update Secret";
+"voice.call_error.unsupported_version.message" = "You received a call that isn't supported by this version of Wire.\nGet the latest version in the App Store.";
+"voice.call_error.unsupported_version.dismiss" = "Hiljem";
+
+"voice.alert.call_in_progress.title" = "Kõne käimas";
+"voice.alert.call_in_progress.message" = "Sul saab olla vaid üks aktiivne kõne korraga";
+"voice.alert.call_in_progress.confirm" = "OK";
+
+"voice.alert.microphone_warning.title" = "Secret vajab lisipääsu mikrofonile.";
+"voice.alert.microphone_warning.explanation" = "Lülita see sisse Secret seadetest.";
+
+"voice.alert.camera_warning.title" = "Secret vajab ligipääsu kaamerale.";
+"voice.alert.camera_warning.explanation" = "Ava Seaded ja luba Secret’le ligipääs kaamerale.";
+
+"voice.top_overlay.tap_to_return" = "Toksa, et kõnesse naasta";
+"voice.top_overlay.accessibility_title" = "Aktiivne kõne";
+
+// Voice New
+
+"call.status.connecting" = "Ühendan…";
+"call.status.incoming.user" = "%@ helistab…";
+"call.status.incoming" = "Helistab…";
+"call.status.outgoing" = "Heliseb…";
+"call.status.outgoing.user" = "Helistan kontaktile %@…";
+"call.status.reconnecting" = "Ühenduse taastamine…";
+"call.status.terminating" = "Kõne lõpetamine…";
+"call.status.constant_bitrate" = "Ühtlane bitisagedus";
+
+"call.participants.show_all_without_count" = "Näita kõik";
+"call.participants.show_all" = "Näita kõik (%@)";
+"call.participants.list.title" = "Osalejad";
+
+"call.video.paused" = "Video pausil";
+
+"call.video.too_many.alert.title" = "Vestluses on videokõne alustamiseks liiga palju osalejaid";
+"call.video.too_many.alert.message" = "Videokõned töötavad kuni 4 osalejaga vestluses.";
+
+"call.degraded.alert.title" = "Uus seade";
+"call.degraded.alert.message.self" = "Hakkasid uut seadet kasutama.";
+"call.degraded.alert.message.user" = "%@ hakkas uut seadet kasutama.";
+"call.degraded.alert.message.unknown" = "Keegi hakkas uut seadet kasutama.";
+"call.degraded.alert.action.continue" = "Helista ikkagi";
+
+"call.alert.ongoing.alert_title" = "See lõpetab sinu teise kõne.";
+
+"call.alert.ongoing.start.message" = "Teises vestluses on hetkel aktiivne kõne.\nSiin helistades lõpetad käimasoleva kõne.";
+"call.alert.ongoing.join.message" = "Teises vestluses on aktiivne kõne.\nSelle kõnega liitumine lõpetab teise.";
+"call.alert.ongoing.start.button" = "Helista ikkagi";
+"call.alert.ongoing.join.button" = "Liitu ikkagi";
+
+// Call Actions (accessibility)
+
+"call.announcement.incoming" = "%@ helistab";
+"call.actions.label.toggle_mute_on" = "Hääletu";
+"call.actions.label.toggle_mute_off" = "Heli sisse";
+"call.actions.label.flip_camera" = "Pööra kaamera ümber";
+"call.actions.label.toggle_speaker_on" = "Luba kõlarid";
+"call.actions.label.toggle_speaker_off" = "Keela kõlarid";
+"call.actions.label.accept_call" = "Võta kõne vastu";
+"call.actions.label.reject_call" = "Keeldu kõnest";
+"call.actions.label.terminate_call" = "Lõpeta kõne";
+"call.actions.label.toggle_video_on" = "Lülita kaamera sisse";
+"call.actions.label.toggle_video_off" = "Lülita kaamera välja";
+"call.actions.label.switch_to_back_camera" = "Vali tagumine kaamera";
+"call.actions.label.switch_to_front_camera" = "Vali eesmine kaamera";
+"call.actions.label.minimize_call" = "Minimeeri kõne";
+"call.actions.label.make_audio_call" = "Alusta audiokõne";
+"call.actions.label.make_video_call" = "Alusta videokõne";
+"call.actions.label.join_call" = "Liitu kõnega";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Profile and Participants
+
+"participants.add_people_button_title" = "Lisa";
+"participants.avatar.guest.title" = "Külaline";
+
+"participants.title" = "Üksikasjad";
+"participants.all.title" = "Inimesed";
+"participants.section.participants" = "Inimesed (%d)";
+"participants.section.services" = "Teenused (%d)";
+"participants.section.settings" = "Valikud";
+"participants.footer.add_title" = "Lisa osalejaid";
+"participants.section.name.footer" = "Grupivestlusega saab liituda kuni %1$dinimest. Videokõned töötavad kuni %2$d inimesega, lisaks sinule.";
+
+// Meta Menu
+"meta.menu.accessibility_more_options_button" = "Veel toiminguid";
+"meta.menu.rename" = "Nimeta ümber";
+"meta.menu.leave" = "Lahku grupist…";
+"meta.menu.archive" = "Arhiveeri";
+"meta.menu.unarchive" = "Arhiivist tagasi";
+"meta.menu.delete" = "Delete Group…";
+"meta.menu.clear_content" = "Clear Content…";
+"meta.menu.move_to_folder" = "Move to…";
+"meta.menu.remove_from_folder" = "Remove from \"%@\"";
+"meta.menu.silence.mute" = "Hääletu";
+"meta.menu.silence.unmute" = "Heli sisse";
+"meta.menu.cancel" = "Tühista";
+"meta.menu.cancel_connection_request" = "Tühista ühendussoov";
+"meta.menu.mark_unread" = "Märgi mitteloetuks";
+"meta.menu.mark_read" = "Märgi loetuks";
+"shortcut.mark_all_as_read.title" = "Märgi kõik loetuks";
+"meta.menu.configure_notifications" = "Teavitused…";
+"meta.menu.open_self_profile" = "Open Profile";
+
+// Delete conversation
+"meta.menu.delete_content.dialog_title" = "Clear content?";
+"meta.menu.delete_content.dialog_message" = "See tühjendab vestlusajaloo sinu kõigis seadmetes.";
+"meta.menu.delete_content.leave_as_well_message" = "Lahku samuti vestlusest";
+"meta.menu.delete_content.button_cancel" = "Tühista";
+"meta.menu.delete_content.button_delete" = "Clear";
+"meta.menu.delete_content.button_delete_and_leave" = "Clear and leave";
+
+// Configure conversation notifications
+"meta.menu.configure_notification.dialog_message" = "Teavita mind:";
+"meta.menu.configure_notification.button_everything" = "Kõigest";
+"meta.menu.configure_notification.button_mentions_and_replies" = "Mainimistest ja vastustest";
+"meta.menu.configure_notification.button_nothing" = "Mitte millestki";
+"meta.menu.configure_notification.button_cancel" = "Tühista";
+
+// Leave conversation
+"meta.leave_conversation_dialog_title" = "Lahku vestlusest?";
+"meta.leave_conversation_dialog_message" = "Osalejaid teavitatakse ja vestlus eemaldatakse sinu nimekirjast.";
+"meta.leave_conversation.delete_content_as_well_message" = "Also clear the content";
+"meta.leave_conversation_button_cancel" = "Tühista";
+"meta.leave_conversation_button_leave" = "Lahku";
+"meta.leave_conversation_button_leave_and_delete" = "Leave and clear content";
+
+// Conversation Degraded (security level lowered)
+"meta.degraded.degradation_reason_message.singular" = "%@ hakkas kasutama uut seadet.";
+"meta.degraded.degradation_reason_message.plural" = "%@ hakkas kasutama uusi seadmeid.";
+"meta.degraded.degradation_reason_message.someone" = "Keegi hakkas uut seadet kasutama.";
+"meta.degraded.dialog_message" = "Kas tahad ikka seda sõnumit saata?";
+"meta.degraded.verify_devices_button" = "Verify Devices…";
+"meta.degraded.send_anyway_button" = "Send Anyway";
+"meta.degraded.cancel_sending_button" = "Tühista";
+"meta.legalhold.info_button" = "What Is Legal Hold?";
+"meta.legalhold.send_alert_title" = "The conversation is now subject to legal hold.";
+
+// Remove from conversation dialogue
+"profile.remove_dialog_title" = "Eemalda?";
+"profile.remove_dialog_message" = "%@ ei saa siin vestluses sõnumeid saata ega neid vastu võtta.";
+"profile.remove_dialog_button_cancel" = "Tühista";
+"profile.remove_dialog_button_remove" = "Remove From Group…";
+"profile.remove_dialog_button_remove_confirm" = "Remove From Group";
+
+// Block dialog
+"profile.block_dialog.title" = "Blokeeri?";
+"profile.block_dialog.message" = "%@ ei saa sulle sõnumeid saata ega sind grupivestlustesse lisada.";
+"profile.block_dialog.button_cancel" = "Tühista";
+"profile.block_dialog.button_block" = "Blokeeri";
+
+// Delete message dialog
+"message.delete_dialog.message" = "Seda ei saa tagasi võtta.";
+"message.delete_dialog.action.cancel" = "Tühista";
+"message.delete_dialog.action.hide" = "Kustuta minu jaoks";
+"message.delete_dialog.action.delete" = "Kustuta kõigi jaoks";
+
+// Edit message
+"message.menu.edit.title" = "Muuda";
+
+// Accept connection request
+"profile.connection_request_dialog.title" = "Lisa kontaktidesse?";
+"profile.connection_request_dialog.message" = "See ühendab teid ja avab vestluse kasutajaga %@.";
+"profile.connection_request_dialog.button_cancel" = "Ignoreeri";
+"profile.connection_request_dialog.button_connect" = "Lisa kontakt";
+
+// Delete group
+"conversation.delete_request_dialog.title" = "Delete group conversation?";
+"conversation.delete_request_dialog.message" = "This will delete the group and all content for all participants on all devices. There is no option to restore the content. All participants will be notified.";
+"conversation.delete_request_error_dialog.title" = "An error occured while trying to delete the group %@. Please try again.";
+"conversation.delete_request_error_dialog.button_delete_group" = "Delete Group";
+
+// Cancel connection request
+"profile.cancel_connection_request_dialog.title" = "Tühista ühendussoov?";
+"profile.cancel_connection_request_dialog.message" = "Cancel your connection request to %@?";
+"profile.cancel_connection_request_dialog.button_no" = "Ei";
+"profile.cancel_connection_request_dialog.button_yes" = "Jah";
+
+// Unblock button
+"profile.block_button_title" = "Blokeeri…";
+"profile.unblock_button_title" = "Tühista blokeering…";
+
+// Favorite button
+"profile.favorite_button_title" = "Add to Favorites";
+"profile.unfavorite_button_title" = "Remove from Favorites";
+
+"profile.block_button_title_action" = "Blokeeri";
+"profile.unblock_button_title_action" = "Tühista blokeering";
+
+"profile.cancel_connection_button_title" = "TÜHISTA ÜHENDUSSOOV";
+"profile.connection_request_state.blocked" = "BLOKEERITUD";
+"profile.create_conversation_button_title" = "Loo grupp";
+"profile.open_conversation_button_title" = "Ava vestlus";
+
+"profile.read_receipts_enabled_memo.header" = "SA LUBASID LUGEMISKINNITUSED";
+"profile.read_receipts_disabled_memo.header" = "SA KEELASID LUGEMISKINNITUSED";
+"profile.read_receipts_memo.body" = "If both sides turn on read receipts, you can see when messages are read.\n\nYou can change this option in your account settings.";
+
+"profile.extended_metadata.header" = "Information";
+
+// User Details
+"profile.details.title" = "Üksikasjad";
+"profile.details.guest" = "Külaline";
+
+"profile_view.accessibility.handle" = "Kasutajanimi";
+"profile_view.accessibility.name" = "Kuvatav nimi";
+"profile_view.accessibility.team_name" = "Tiimi nimi";
+
+// Device list
+"profile.devices.title" = "Seadmed";
+"profile.devices.fingerprint_message_unencrypted" = "%@ kasutab vana Secret versioon. Seadmete kohta puudub info.";
+"profile.devices.fingerprint_message.title" = "Secret annab igale seadmele unikaalse sõrmejälje. Võrdle neid kasutaja %@ ja kinnita vestluste turvalisus.";
+"profile.devices.fingerprint_message.link" = "Miks vestluste turvalisust kontrollida?";
+
+// Device detail
+"profile.devices.detail.verify_message" = "Veendu, et see vastab sõrmejäljele mis on näha kasutaja %@ seadmes.";
+"profile.devices.detail.verify_message.link" = "Kuidas seda teha?";
+"profile.devices.detail.show_my_device.title" = "Näita mu seadme sõrmejälge";
+"profile.devices.detail.reset_session.title" = "Lähtesta sessioon";
+"device.verified" = "Kontrollitud";
+"device.not_verified" = "Tõendamata";
+
+"device.class.legalhold" = "Legal Hold";
+"device.class.desktop" = "Arvuti";
+"device.class.tablet" = "Tahvel";
+"device.class.phone" = "Telefon";
+"device.class.unknown" = "Teadmata";
+
+"device.type.permanent" = "Permanent";
+"device.type.temporary" = "Temporary";
+"device.type.legalhold" = "Legal Hold";
+"device.type.unknown" = "Teadmata";
+
+// Bot
+"participants.services.remove_integration.button" = "eemalda integratsioon";
+
+// Group details
+"group_details.guest_options_cell.title" = "Külalised ja teenused";
+"group_details.guest_options_cell.enabled" = "Sees";
+"group_details.guest_options_cell.disabled" = "Väljas";
+"group_details.timeout_options_cell.title" = "Kustuvad sõnumid";
+"group_details.notification_options_cell.title" = "Teavitused";
+"group_details.notification_options_cell.description" = "Sind teavitatakse kõigest (s.h. hääl- ja videokõned) või ainult siis, kui sind mainitakse või su sõnumitele vastatakse.";
+"group_details.receipt_options_cell.title" = "Lugemiskinnitused";
+"group_details.receipt_options_cell.description" = "Kui see on sees, saavad inimesed näha, kas nende vestluse sõnumid on loetud.";
+
+// Legal hold details
+
+"legalhold.participants.section.title" = "Legal hold subjects";
+"legalhold.header.title" = "Legal Hold";
+"legalhold.header.other_description" = "Legal Hold has been activated for at least one person in this conversation.\nAll messages will be preserved for future access, including deleted, edited, and timed messages.";
+"legalhold.header.self_description" = "Legal Hold has been activated for your account.\nAll messages will be preserved for future access, including deleted, edited, and timed messages.\nYour conversation partners will be aware of the recording.";
+"legalhold.accessibility" = "Legal hold details";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Self profile
+// Options menu contents
+
+"self.settings" = "Seaded";
+"self.profile" = "Profiil";
+"self.account" = "Konto";
+"self.help_center" = "Klienditugi";
+"self.help_center.support_website" = "Secret klienditoe sait";
+"self.help_center.contact_support" = "Võta kasutajatoega ühendust";
+"self.about" = "Secret'st";
+"self.sign_out" = "Logi välja";
+"self.report_abuse" = "Teavita kuritarvitamisest";
+"self.voiceover.label" = "Profiil";
+"self.voiceover.hint" = "Ava profiil ja seaded";
+"self.new-device.voiceover.label" = "Profiil, lisatud uus seade";
+
+"self.add_phone_number" = "Lisa mobiilinumber";
+"self.add_email_password" = "Lisa meiliaadress ja parool";
+
+"self.accessibility.profile_photo_image" = "Profile picture";
+"self.accessibility.profile_photo_edit_button" = "Change profile picture";
+
+// About screen
+"about.tos.title" = "Kasutustingimused";
+"about.privacy.title" = "Privaatsuspoliitika";
+"about.license.title" = "Litsentsiteave";
+"about.website.title" = "Secret koduleht";
+"about.copyright.title" = "© Secret";
+
+// Licenses screen
+"about.license.project_header" = "Üksikasjad";
+"about.license.open_project_button" = "Ava projekti leht";
+"about.license.license_header" = "Tunnustused";
+
+// Self new devices
+"self.new_device_alert.title" = "Sinu kontot kasutati:";
+"self.new_device_alert.message" = "\n%@\n\nKui sa ei tunne mõnda ülalolevat seadet ära, eemalda see ja lähtesta oma parool.";
+"self.new_device_alert.message_plural" = "\n%@\n\nKui sa ei tunne ülalolevaid seadmeid ära, eemalda need ja lähtesta oma parool.";
+"self.new_device_alert.manage_devices" = "Halda seadmeid";
+"self.new_device_alert.trust_devices" = "OK";
+
+// Settings changed alert
+
+"self.read_receipts_enabled.title" = "Sa lubasid lugemiskinnitused";
+"self.read_receipts_disabled.title" = "Sa keelasid lugemiskinnitused";
+"self.read_receipts_description.title" = "Sa saad seda valikut oma konto seadetes muuta.";
+
+// Settings - top level
+"self.settings.create_team.title" = "Loo uus tiim";
+"self.settings.manage_team.title" = "Tiimi haldus";
+"self.settings.add_team_or_account.title" = "Lisa konto";
+"self.settings.add_account.title" = "Lisa konto";
+
+"self.settings.add_account.error.title" = "Kolm aktiivset kontot";
+"self.settings.add_account.error.message" = "Korraga saad kasutada kolme kontot. Lisakonto kasutamiseks pead ühega olemasolevatest välja logima.";
+
+"self.settings.switch_account.message" = "Sellel kontol on käimasolev kõne.\nKontode vahetamine lõpetab käimasoleva kõne.";
+"self.settings.switch_account.action" = "Vaheta ikkagi";
+
+// Settings - Account details
+"self.settings.account_section" = "Konto";
+
+"self.settings.account_details_group.info.title" = "Info";
+"self.settings.account_details_group.personal.title" = "Isiklik";
+
+"self.settings.account_section.name.title" = "Nimi";
+"self.settings.account_section.email.title" = "E-post";
+"self.settings.account_section.phone.title" = "Telefon";
+"self.settings.account_section.handle.title" = "Kasutajanimi";
+"self.settings.account_section.add_handle.title" = "Lisa kasutajanimi";
+
+"self.settings.account_details_group.info.footer" = "Inimesed leiavad sind nende andmete põhjal.";
+"self.settings.account_details_group.personal.footer" = "Need andmed pole avalikud.";
+
+"self.settings.account_details.remove_device.title" = "Eemalda Seade";
+"self.settings.account_details.key_fingerprint.title" = "Sõrmejälg";
+"self.settings.account_details.remove_device.message" = "Seadme eemaldamiseks pead sisestama parooli";
+"self.settings.account_details.remove_device.password" = "Parool";
+"self.settings.account_details.remove_device.password.error" = "Vale parool";
+
+"self.settings.account_appearance_group.title" = "Välimus";
+
+"self.settings.privacy_section_group.title" = "Privaatsus";
+"self.settings.enable_read_receipts.title" = "Saada lugemiskinnitusi";
+"self.settings.privacy_section_group.subtitle" = "When this is off, you won’t be able to see read receipts from other people.\n\nThis setting does not apply to group conversations.";
+
+"self.settings.account_picture_group.picture" = "Profiilipilt";
+"self.settings.account_picture_group.color" = "Värv";
+
+"self.settings.account_personal_information_group.title" = "Isikuandmed";
+
+"self.settings.account_picture_group.theme" = "Tume kujundus";
+
+"self.settings.device_details.fingerprint.subtitle" = "Secret annab igale seadmele unikaalse sõrmejälje. Võrdle neid ja kinnita seadmete ja vestluste turvalisust.";
+"self.settings.device_details.reset_session.subtitle" = "Kui sõrmejäljed ei kattu, lähtesta sessioon - see loob mõlemal poolel uued krüpteerimisvõtmed.";
+"self.settings.device_details.remove_device.subtitle" = "Eemalda see seade kui sa seda enam ei kasuta. Sind logitakse seadmest koheselt välja.";
+"self.settings.device_details.reset_session.success" = "Sessioon on lähtestatud";
+
+"self.settings.account_details.actions.title" = "Tegevused";
+
+"self.settings.account_details.delete_account.title" = "Kustuta konto";
+
+"self.settings.account_details.delete_account.alert.title" = "Kustuta konto";
+"self.settings.account_details.delete_account.alert.message" = "Me saadame sulle sõnumi e-posti või SMS-ga. Külasta veebiaadressi, et oma konto lõplikult kustutada.";
+
+"self.settings.account_details.log_out.alert.title" = "Logi välja";
+"self.settings.account_details.log_out.alert.message" = "Kogu vestluste ajalugu kustutatakse.";
+"self.settings.account_details.log_out.alert.password" = "Parool";
+
+// Settings - Personal information
+"self.settings.privacy_analytics_section.title" = "Kasutus- ja krahhiaruanded";
+"self.settings.privacy_analytics.title" = "Saada anonüümseid andmeid";
+"self.settings.privacy_analytics_menu.description.title" = "Aita Secret'i paremaks muuta, saates anonüümseid kasutus- ja krahhiaruandeid.";
+
+"self.settings.receiveNews_and_offers.title" = "Uudiskirja tellimine";
+"self.settings.receiveNews_and_offers.description.title" = "Soovin Secret'ilt uudiseid ja tooteuuendusi e-posti teel.";
+
+
+
+// Change Username
+
+"self.settings.account_section.handle.change.title" = "Kasutajanimi";
+"self.settings.account_section.handle.change.save" = "Salvesta";
+"self.settings.account_section.handle.change.footer" = "Vähemalt 2 tähemärki. Ainult a—z, 0—9 ja _.";
+"self.settings.account_section.handle.change.footer.unavailable" = "Juba kasutusel";
+
+"self.settings.account_section.handle.change.failure_alert.title" = "Kasutajanime ei õnnestunud valida";
+"self.settings.account_section.handle.change.failure_alert.message" = "Sinu kasutajanime valikul juhutus viga. Proovi uuesti.";
+
+// Change Email
+
+"self.settings.account_section.email.change.title" = "E-post";
+"self.settings.account_section.email.change.save" = "Salvesta";
+
+"self.settings.account_section.email.change.verify.title" = "Kinnita meiliaadress";
+"self.settings.account_section.email.change.verify.description" = "Kontrolli oma postkasti ja järgi kirjas olevaid juhiseid.";
+"self.settings.account_section.email.change.verify.resend" = "Saada uuesti kasutajale %@";
+
+"self.settings.account_section.email.change.resend.title" = "Saadetud korduskiri";
+"self.settings.account_section.email.change.resend.message" = "Korduskiri saadeti aadressil %@. Kontrolli oma postkasti ja järgi juhiseid.";
+
+// Change Phone Number
+
+"self.settings.account_section.phone_number.change.title" = "Telefon";
+"self.settings.account_section.phone_number.change.save" = "Salvesta";
+"self.settings.account_section.phone_number.change.remove" = "Eemalda telefoninumber";
+
+"self.settings.account_section.phone_number.change.remove.action" = "Eemalda telefoninumber";
+
+"self.settings.account_section.phone_number.change.verify.save" = "Salvesta";
+"self.settings.account_section.phone_number.change.verify.title" = "Kinnita";
+"self.settings.account_section.phone_number.change.verify.description" = "Sisesta kinnituskood, mille saatsime numbrile %@";
+
+"self.settings.account_section.phone_number.change.verify.code_placeholder" = "Sisesta kood";
+"self.settings.account_section.phone_number.change.verify.resend" = "Saada kood uuesti";
+"self.settings.account_section.phone_number.change.verify.resend_description" = "Koodi ei tulnud kohale?\nIga 30 sekundi järel saad proovida uue koodi tellida.";
+
+"self.settings.account_section.phone_number.change.resend.title" = "Kood uuesti saadetud";
+"self.settings.account_section.phone_number.change.resend.message" = "Kinnituskood saadeti uuesti numbril %@";
+
+// Chat alerts
+"self.settings.notifications.push_notification.title" = "Teavitused";
+"self.settings.notifications.push_notification.toogle" = "Sõnumi eelvaade";
+"self.settings.notifications.push_notification.footer" = "Saatja nimi ja sõnum näidatakse lukustuskuval ja ”Notification Center”-is.";
+
+"self.settings.notifications.chat_alerts.toggle" = "Sõnumi bännerid";
+"self.settings.notifications.chat_alerts.footer" = "Näitab saabuvaid sõnumeid, kui sul mõni teine vestlus avatud.";
+
+"self.settings.sound_menu.sounds.title" = "Helid";
+"self.settings.sound_menu.ringtone.title" = "Helin";
+"self.settings.sound_menu.message.title" = "Tekstisõnumi märgutoon";
+"self.settings.sound_menu.ping.title" = "Ping";
+"self.settings.sound_menu.ringtones.title" = "Helinad";
+"self.settings.sound_menu.sounds.wire_sound" = "Secret";
+"self.settings.sound_menu.sounds.none" = "Puudub";
+
+"self.settings.callkit.title" = "Kõned";
+"self.settings.callkit.caption" = "Jaga iOS-s";
+"self.settings.callkit.description" = "Näita Secret kõnesid lukustuskuval ja seadme kõnede ajaloos. Kui sul on iCloud sisse lülitatud, siis saadetakse kõnede ajalugu Apple'i serveritesse.";
+
+"self.settings.vbr.title" = "Muutuva bitisagedusega kodeering";
+"self.settings.vbr.description" = "Kõnede andmeside maht on väiksem ja kõnekvaliteet kehva ühenduse korral parem. Ühtlase bitisagedusega kodeeringu kasutamiseks lülita see valik välja.";
+
+"self.settings.sound_menu.sounds.wire_call" = "Secret Kõne";
+"self.settings.sound_menu.sounds.wire_message" = "Secret Sõnum";
+"self.settings.sound_menu.sounds.wire_ping" = "Secret Ping";
+
+// By popular demand
+"self.settings.popular_demand.title" = "Publiku nõudmisel";
+"self.settings.popular_demand.send_button.title" = "\"Saada\" nupp vestluses";
+"self.settings.popular_demand.send_button.footer" = "Lülita välja, kui soovid sõnumi saatmiseks klaviatuuri \"return\" nuppu kasutada.";
+"self.settings.popular_demand.dark_mode.footer" = "Switch between dark and light theme.";
+
+// Open in
+"self.settings.external_apps.header" = "Ava rakendusega";
+
+"self.settings.link_options.twitter.title" = "Säutsud";
+"self.settings.link_options.maps.title" = "Kaardirakendus";
+"self.settings.link_options.browser.title" = "Veebilehitseja";
+
+"open_link.twitter.option.default" = "Browser / Twitter";
+"open_link.twitter.option.tweetbot" = "Tweetbot";
+"open_link.twitter.option.twitterrific" = "Twitterrific";
+
+"open_link.maps.option.apple" = "Maps";
+"open_link.maps.option.google" = "Google Maps";
+"open_link.maps.footer" = "Osad asukohalingid avatakse alati Apple Maps’is.";
+
+"open_link.browser.option.safari" = "Safari";
+"open_link.browser.option.chrome" = "Chrome";
+"open_link.browser.option.firefox" = "Firefox";
+"open_link.browser.option.snowhaze" = "SnowHaze";
+"open_link.browser.option.brave" = "Brave";
+
+// Sound alerts (TO BE UPDPATED)
+"self.settings.sound_menu.title" = "Heli seadistus";
+"self.settings.sound_menu.no_sounds.title" = "Puudub";
+"self.settings.sound_menu.all_sounds.title" = "Kõik";
+"self.settings.sound_menu.mute_while_talking.title" = "Esimene sõnum ja ping";
+
+// Developer options
+"self.settings.developer_options.title" = "Arendaja Valikud";
+"self.settings.apns_logging.title" = "APNS logimine";
+
+// Privacy (visibility) options
+"self.settings.options_menu.title" = "Seaded";
+
+"self.settings.privacy_contacts_section.title" = "Kontaktid";
+"self.settings.privacy_contacts_menu.settings_button.title" = "Ava Kontaktide Seaded";
+"self.settings.privacy_contacts_menu.description_disabled.title" = "See lubab sul teistega ühenduda. Me muudame kõik info anonüümseks ja ei jaga seda kellegi teisega. Mine Seaded > Privaatsus > Kontaktid, et lubada ligipääs.";
+
+"self.settings.privacy_security.lock_app" = "Lukusta koodiga";
+
+"self.settings.privacy_security.lock_app.subtitle.lock_description" = "Lock Wire after %@ in the background.";
+
+"self.settings.privacy_security.lock_app.subtitle.touch_id" = "Tee lukust Touch ID või parooliga lahti.";
+"self.settings.privacy_security.lock_app.subtitle.face_id" = "Tee lukust Face ID või parooliga lahti.";
+"self.settings.privacy_security.lock_app.subtitle.none" = "Tee lukusta parooliga lahti.";
+
+"self.settings.privacy_security.lock_app.description" = "Tee lukust lahti";
+
+
+"self.settings.privacy_security.lock_cancelled.description_face_id" = "Unlock Secret with Face ID or Passcode";
+"self.settings.privacy_security.lock_cancelled.description_touch_id" = "Ava Wire Touch ID või parooliga";
+"self.settings.privacy_security.lock_cancelled.description_passcode" = "Unlock Secret with Passcode";
+"self.settings.privacy_security.lock_cancelled.description_passcode_unavailable" = "To unlock Secret, turn on Passcode in your device settings";
+
+"self.settings.privacy_security.lock_cancelled.action" = "Vabasta lukust";
+
+"self.settings.privacy_security.disable_link_previews.title" = "Näita veebilinkide eelvaadet";
+"self.settings.privacy_security.disable_link_previews.footer" = "Eelvaateid võidakse siiski näidata teiste saadetud linkide puhul.";
+
+"self.settings.privacy_analytics_menu.devices.title" = "Seadmed";
+
+"self.settings.privacy.clear_history.title" = "Kustuta Ajalugu";
+"self.settings.privacy.clear_history.subtitle" = "See kustutab jäädavalt kõik sinu vestluste sisu.";
+
+"self.settings.advanced.title" = "Edasijõudnutele";
+"self.settings.advanced.troubleshooting.title" = "Veaotsing";
+
+"self.settings.advanced.troubleshooting.submit_debug.title" = "Debug Report";
+"self.settings.advanced.troubleshooting.submit_debug.subtitle" = "This information helps Wire Support diagnose calling problems and improve the overall app experience.";
+
+"self.settings.advanced.reset_push_token.title" = "Lähtesta ”Push Notifications” võti";
+"self.settings.advanced.reset_push_token.subtitle" = "Kui sul on probleeme teavitustega, Secret kasutajatugi võib paluda sul see võti lähtestada.";
+"self.settings.advanced.reset_push_token_alert.title" = "Võti on lähtestatud";
+"self.settings.advanced.reset_push_token_alert.message" = "Teavitused taastuvad mõne sekundi pärast.";
+"self.settings.advanced.version_technical_details.title" = "Versiooni tehnilised andmed";
+
+// data usage permissions options
+"self.settings.account.data_usage_permissions.title" = "Andmekasutuse õigused";
+
+// Technical Report
+"self.settings.technical_report_section.title" = "Tehniline aruanne";
+
+"self.settings.technical_report.send_report" = "Saada raport Wire’le";
+"self.settings.technical_report.mail.subject" = "Secret Debug Report";
+
+"self.settings.technical_report.include_log" = "Lisa detailide logi";
+"self.settings.technical_report.privacy_warning" = "Detailsed logid võivad sisaldada personaalseid andmeid";
+"self.settings.technical_report.no_mail_alert" = "Meiliprogammi ei leitud. Vajuta “OK” ja saada logid käsitsi: ";
+
+// Password reset
+"self.settings.password_reset_menu.title" = "Lähtesta parool";
+
+// Invite from Settings
+"self.settings.invite_friends.title" = "Jaga teistega";
+
+// History backup
+
+"self.settings.conversations.title" = "Ajalugu";
+"self.settings.history_backup.title" = "Varunda vestlused";
+"self.settings.history_backup.description" = "Loo varukoopia, et säilitada oma vestluste ajalugu. Saad seda kasutada ajaloo taastamiseks, juhul kui kaotad või vahetad oma seadme.";
+"self.settings.history_backup.action" = "Varunda kohe";
+"self.settings.history_backup.error.title" = "Viga";
+
+"self.settings.history_backup.set_email.title" = "Määra e-posti aadress ja parool.";
+"self.settings.history_backup.set_email.message" = "Vajad e-posti aadressi ja parooli, et oma vestluste ajalugu varundada. Saad seda teha konto seadete lehel.";
+
+// History backup password
+
+"self.settings.history_backup.password.title" = "Määra salasõna";
+"self.settings.history_backup.password.cancel" = "Tühista";
+"self.settings.history_backup.password.next" = "Järgmine";
+"self.settings.history_backup.password.placeholder" = "Vähemalt 8 tähte";
+"self.settings.history_backup.password.description" = "Varukoopia pakitakse ja krüpteeritakse sinu seatud parooliga.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// System status
+"system_status_bar.no_internet.title" = "Puudub internetiühendus";
+"system_status_bar.no_internet.explanation" = "Tundub, et sinu internetiühendusega on probleem. Palun kontrolli ühendust.";
+"system_status_bar.poor_connectivity.title" = "Internetiühendus on aeglane, ei saa helistada";
+"system_status_bar.poor_connectivity.explanation" = "Me ei saa tagada helikvaliteeti. Ühendu Wi-Fi võrku või proovi muuta oma asukohta.";
+
+// View user profile and options menu & text field validation
+"name.placeholder" = "Sinu nimi";
+"name.guidance.tooshort" = "Vähemalt 2 tähte";
+"name.guidance.toolong" = "Liiga pikk nimi";
+
+"email.placeholder" = "E-post";
+"email.guidance.invalid" = "Vale meiliaadress";
+"email.guidance.tooshort" = "Liiga lühike meiliaadress";
+"email.guidance.toolong" = "Liiga pikk nimi";
+
+"password.placeholder" = "Parool";
+"password.guidance.toolong" = "Liiga pikk nimi";
+
+"phone.guidance.invalid" = "Sobimatu telefoninumber";
+"phone.guidance.tooshort" = "Phone number is too short";
+"phone.guidance.toolong" = "Liiga pikk nimi";
+
+// Landing screen
+
+"landing.app_name" = "Secret";
+"landing.create_account.title" = "Isiklik";
+"landing.create_account.subtitle" = "Chat privately with groups of friends\U00A0and\U00A0family";
+"landing.create_team.title" = "Pro";
+"landing.create_team.subtitle" = "Secure collaboration for businesses, institutions and professional\U00A0organizations";
+"landing.login.hints" = "Konto juba olemas?";
+"landing.login.button.title" = "Logi sisse";
+
+"landing.custom_backend.title" = "Connected to \"%@\"";
+"landing.custom_backend.more_info.button.title" = "Kuva rohkem";
+"landing.custom_backend.more_info.alert.title" = " You are connected to a third-party server: %@";
+
+// Create team
+
+"team.name.headline" = "Lisa tiimi nimi";
+"team.name.subheadline" = "Saad seda hiljem muuta.";
+"team.name.textfield.placeholder" = "tiimi nimi";
+"team.name.textfield.accessibility" = "Määra tiimi nimi";
+
+"team.name.whatiswireforteams" = "Mis on Wire Pro?";
+
+"team.email.headline" = "Sinu konto";
+"team.email.subheadline" = "Sinu töö meiliaadress.";
+"team.email.textfield.placeholder" = "Sinu töö meiliaadress";
+"team.email.button.learn_more" = "Loe lähemalt";
+
+"team.activation_code.headline" = "Sulle tuli kiri";
+"team.phone_activation_code.headline" = "Verification";
+"team.activation_code.subheadline" = "Sisesta kinnituskood, mille saatsime aadressile %@";
+"team.activation_code.button.resend" = "Saada kood uuesti";
+"team.activation_code.button.change_email" = "Muuda e-posti aadress";
+"team.activation_code.button.change_phone" = "Numbri muutmine";
+
+"team.full_name.headline" = "Sinu nimi";
+"team.full_name.textfield.placeholder" = "Täisnimi";
+"team.full_name.textfield.accessibility" = "Sinu täisnimi";
+
+"team.password.headline" = "Määra parool";
+
+"verification.code_label" = "Six-digit code. Text field.";
+"verification.code_hint" = "Double tap to enter the code.";
+
+// Invite Team Members
+
+"team.invite.header.title" = "Ehita oma meeskond";
+"team.invite.header.subtitle" = "Sinu Wire'i meeskond on valmis. Kutsu oma kolleege liikmeteks.";
+"team.invite.textfield.placeholder" = "Colleague's email";
+"team.invite.textfield.accesibility" = "Enter email address for colleague to invite.";
+"team.invite.learn_more.title" = "Loe lähemalt";
+"team.invite.top_bar.skip" = "Jäta vahele";
+"team.invite.top_bar.done" = "Valmis";
+
+// Team Invite Errors
+"team.invite.error.generic" = "Midagi läks valesti, palun proovi uuesti";
+"team.invite.error.already_registered" = "See eposti aadress on juba kasutusel";
+"team.invite.error.already_invited" = "See eposti aadress on juba kutsutud";
+"team.invite.error.too_many_invitations" = "Maksimaalne kutsete arv on saadetud";
+"team.invite.error.no_internet" = "Ühendus puudub";
+
+// Guest Room
+
+"guest_room.allow_guests.title" = "Luba külalisi ja teenuseid";
+"guest_room.allow_guests.subtitle" = "Ava see vestlus teenustele ja meeskonnast väljas olevatele inimestele.";
+"guest_room.remove_guests.message" = "Praegused külalised ja teenused eemaldatakse vestlusest. Uusi külalisi ja teenuseid ei lubata.";
+"guest_room.remove_guests.action" = "Eemalda";
+"guest_room.revoke_link.message" = "Uued külalised ei saa selle lingi abil liituda. Praegustel külalistel on jätkuvalt ligipääs.";
+"guest_room.revoke_link.action" = "Tühista link";
+
+"guest_room.error.generic.title" = "Midagi läks valesti";
+"guest_room.error.generic.message" = "Kontrolli võrguühendust ja proovi uuesti";
+
+"guest_room.link.header.title" = "Kutsu teisi lingi abil";
+"guest_room.link.header.subtitle" = "Selle lingiga saab igaüks vestlusega liituda, isegi kui neil pole Secret'it.";
+
+"guest_room.link.button.title" = "Loo link";
+
+"guest_room.actions.copy_link" = "Kopeeri link";
+"guest_room.actions.copied_link" = "Link kopeeritud!";
+"guest_room.actions.share_link" = "Jaga linki";
+"guest_room.actions.revoke_link" = "Tühista link…";
+
+"guest_room.share.message" = "Liitu minuga Secret vestluses:\n%@";
+
+"guest_room.expiration.hours_left" = "%@h järel";
+"guest_room.expiration.less_than_minutes_left" = "Vähem kui %@min järel";
+
+// Registration
+
+"registration.launch_back_button.label" = "Tagasi";
+
+"registration.title" = "Registreerimine";
+"registration.close_email_invitation_button.email_title" = "Kasuta teist e-posti aadressi";
+"registration.close_email_invitation_button.phone_title" = "Registreeri telefoninumbriga";
+"registration.close_phone_invitation_button.email_title" = "Registreeri e-postiga";
+"registration.close_phone_invitation_button.phone_title" = "Kasuta teist telefoninumbrit";
+
+"registration.register_by_phone" = "Telefon";
+"registration.register_by_email" = "E-post";
+
+"registration.enter_phone_number.title" = "Muuda telefoninumbrit";
+"registration.enter_phone_number.placeholder" = "Telefoninumber";
+
+"registration.verify_phone_number.instructions" = "Sisesta kinnituskood, mille saatsime numbrile %@";
+"registration.verify_phone_number.resend" = "Saada uuesti";
+"registration.verify_phone_number.resend_placeholder" = "Koodi ei tulnud?\n%.0f sekundi pärast saad uue tellida";
+
+"registration.verify_email.instructions" = "Saatsime aadressil %@ e-kirja.\n Mine kirjas toodud lingile, et oma e-posti aadress kinnitada.";
+"registration.verify_email.resend.instructions" = "Ei saanud kinnituskirja?";
+"registration.verify_email.resend.button_title" = "Saada uuesti";
+
+"registration.select_picture.subtitle" = "Secret on palju mõnusam, kui profiilipildi lisad.";
+"registration.select_picture.button_title" = "Vali galeriist";
+"registration.keep_picture.button_title" = "Vali see sama";
+"registration.camera_action.title" = "Tee uus profiilipilt";
+"registration.photo_gallery_action.title" = "Vali foto";
+"registration.cancel_action.title" = "Tühista";
+
+"registration.no_history.hero" = "Kasutad sellel seadmel Secret’t esimest korda.";
+"registration.no_history.subtitle" = "Privaatuse tagamiseks ei ilmu siia sinu varasemad vestlused.";
+"registration.no_history.got_it" = "OK";
+"registration.no_history.restore_backup" = "Taasta varundusest";
+
+"registration.alert.account_exists.title" = "Account Exists";
+"registration.alert.account_exists.message_phone" = "The phone number you used to register is already linked to an account.\n\nUse another phone number, or try to log in if you own this account.";
+"registration.alert.account_exists.message_email" = "The email address you used to register is already linked to an account.\n\n Use another email address, or try to log in if you own this account.";
+"registration.alert.change_email_action" = "Register with Another Email";
+"registration.alert.change_phone_action" = "Register with Another Number";
+"registration.alert.change_signin_action" = "Logi sisse";
+
+// Restore History Warning Alert
+"registration.no_history.restore_backup_warning.title" = "Taasta ajalugu";
+"registration.no_history.restore_backup_warning.message" = "Varukoopia sisu asendab selles seadmes vestlusajaloo.\nSa saad taastada ajalugu ainult sama platvormi varukoopiast.";
+"registration.no_history.restore_backup_warning.proceed" = "Vali varundusfail";
+
+/// Restore History Failure Alerts
+"registration.no_history.restore_backup_failed.try_again" = "Proovi uuesti";
+
+// Generic
+"registration.no_history.restore_backup_failed.title" = "Midagi läks valesti";
+"registration.no_history.restore_backup_failed.message" = "Sinu ajalugu ei saanud taastada.";
+
+// Wrong Account
+"registration.no_history.restore_backup_failed.wrong_account.title" = "Ühildumatu varundus";
+"registration.no_history.restore_backup_failed.wrong_account.message" = "Sa ei saa taastada teise konto ajalugu.";
+
+// Incompatible Version
+"registration.no_history.restore_backup_failed.wrong_version.title" = "Ühildumatu varundus";
+"registration.no_history.restore_backup_failed.wrong_version.message" = "See varundus loodi uuema või aegunud Secret'i versiooni kaudu ja seda ei saa siin taastada.";
+
+// SSO – Company Login
+"login.sso.alert.title" = "Ettevõtte sisselogimine";
+"login.sso.alert.message" = "Sisesta ettevõtte SSO ligipääsukood.";
+"login.sso.alert.action" = "Logi sisse";
+"login.sso.alert.text_field.placeholder" = "SSO ligipääsukood";
+
+"login.sso.start_error_title" = "Cannot Start Company Login";
+"login.sso.link_error_message" = "The company login link you clicked is not valid. Please contact your administrator to resolve the issue.";
+
+"login.sso.error.alert.title" = "Midagi läks valesti";
+"login.sso.error.alert.invalid_code.title" = "Sobimatu kood.";
+"login.sso.error.alert.invalid_code.message" = "Palun kinnita oma ettevõtte SSO ligipääsukood ja proovi uuesti.";
+"login.sso.error.offline.alert.message" = "Kontrolli oma netiühendust ja proovi uuesti.";
+"login.sso.error.alert.message" = "Palun pöördu oma meeskonna administraatori poole lisateabe saamiseks (viga %@).";
+"login.sso.error.alert.unknown.message" = "Palun proovi hiljem uuesti.";
+"login.sso.error.alert.invalid_status.message" = "Palun proovi hiljem uuesti (viga %@).";
+
+// Restore In Progress Loading Titles
+"registration.no_history.restore_backup.restoring" = "Taastan…";
+"registration.no_history.restore_backup.completed" = "Lõpetatud";
+
+// Password Import Alert
+"registration.no_history.restore_backup.password.title" = "See varukoopia on parooliga kaitstud.";
+"registration.no_history.restore_backup.password.message" = "Sellest varukoopiast ajaloo taastamiseks on vaja sisestada parool.";
+"registration.no_history.restore_backup.password.placeholder" = "Parool";
+"registration.no_history.restore_backup.password_error.title" = "Vale parool";
+
+"registration.no_history.logged_out.hero" = "Oled sellel seadmel juba varem Secret’t kasutanud.";
+"registration.no_history.logged_out.subtitle" = "Vahepeal saadetud sõnumid ei ilmu siia.";
+"registration.no_history.logged_out.got_it" = "OK";
+
+"registration.enter_name.title" = "Muuda mine";
+"registration.enter_name.hero" = "Mis su nimi on?";
+"registration.enter_name.placeholder" = "Sinu nimi";
+
+"registration.terms_of_use.title" = "Tere tulemast Secret’sse.";
+"registration.terms_of_use.terms" = "Jätkates nõustud Secret Kasutustingimustega.";
+"registration.terms_of_use.terms.link" = "Kasutustingimused";
+"registration.terms_of_use.agree" = "Nõustun";
+
+"registration.terms_of_use.terms.title" = "Kasutustingimused";
+"registration.terms_of_use.terms.message" = "Palun nõustuge kasutustingimustega.";
+"registration.terms_of_use.terms.view" = "Vaata";
+"registration.terms_of_use.accept" = "Vasta";
+
+"registration.email_flow.title" = "Registreeru e-postiga";
+"registration.email_flow.email_step.title" = "Muuda andmeid";
+
+"registration.country_select.title" = "Riik";
+
+"registration.share_contacts.hero.title" = "Otsi inimesi kes kasutavad Secret’t";
+"registration.share_contacts.hero.paragraph" = "Jaga oma kontakte, et saaksime sind teistega ühendada. Me muudame kogu info anonüümseks ja ei jaga seda kellegi teisega.";
+"registration.share_contacts.find_friends_button.title" = "Jaga kontakte";
+"registration.share_contacts.skip_button.title" = "Mitte praegu";
+
+"registration.address_book_access_denied.hero.title" = "Secret’l puudub ligipääs sinu kontaktidele.";
+"registration.address_book_access_denied.hero.paragraph1" = "Secret leiab su sõbrad, kui jagad oma kontakte.";
+"registration.address_book_access_denied.hero.paragraph2" = "Ligipääsu lubamiseks vajuta Seaded ja lülita sisse Kontaktid.";
+"registration.address_book_access_denied.settings_button.title" = "Seaded";
+"registration.address_book_access_denied.maybe_later_button.title" = "Võibolla hiljem";
+
+"registration.push_access_denied.hero.title" = "Ükski kõne ega sõnum ei jää märkamata.";
+"registration.push_access_denied.hero.paragraph1" = "Lülita sisse teavitused seadetest.";
+"registration.push_access_denied.settings_button.title" = "Ava Seaded";
+"registration.push_access_denied.maybe_later_button.title" = "Võibolla hiljem";
+
+"registration.personal.title" = "Loo konto";
+"registration.signin.title" = "Logi sisse";
+"registration.signin.too_many_devices.title" = "";
+"registration.signin.too_many_devices.subtitle" = "Eemalda üks oma teistest seadest, et sellel Secret’t kasutada.";
+"registration.signin.too_many_devices.manage_button.title" = "Halda seadmeid";
+"registration.signin.too_many_devices.sign_out_button.title" = "Logi välja";
+
+"registration.signin.too_many_devices.manage_screen.title" = "Remove a Device";
+
+"registration.signin.alert.password_needed.title" = "Parool on nõutud";
+"registration.signin.alert.password_needed.message" = "Sisselogimiseks sisesta palun oma parool.";
+
+"registration.devices.title" = "Seadmed";
+"registration.devices.active_list_header" = "Aktiivsed";
+"registration.devices.current_list_header" = "Praegune";
+"registration.devices.active_list_subtitle" = "Kui sa mõnda toodud seadmetest ei tunne ära, eemalda see ja muuda oma parool.";
+"registration.devices.activated" = "Aktiveeritud %@";
+"registration.devices.id" = "ID:";
+
+"signin.use_email.label" = "Logi sisse e-posti aadresiga";
+"signin.use_phone.label" = "Logi sisse telefoniga";
+"signin.forgot_password" = "Unustasid parooli?";
+"signin.use_one_password.label" = "Logi sisse 1Password’ga";
+"signin.use_one_password.hint" = "Topeltklõpsa, et parool 1Password abiga täita.";
+"signin.confirm" = "Logi sisse";
+"signin.company_idp.button.title" = "Ettevõtetele";
+
+"signin_logout.subheadline" = "Your session expired. You need to log in again to continue.";
+"signin_logout.email.subheadline" = "Your session expired. Enter your email address and password to continue.";
+"signin_logout.phone.subheadline" = "Your session expired. Enter your phone number to continue.";
+"signin_logout.sso.subheadline" = "Your session expired. Log in with your company account to continue.";
+"signin_logout.sso.buton" = "Ettevõtte sisselogimine";
+
+"signin.email.missing_password.subtitle" = "Enter your email address and password to continue.";
+"signin.phone.missing_password.subtitle" = "Enter your phone number to continue.";
+
+"registration.phone_country" = "Riik";
+"registration.phone_code" = "Riigi kood";
+"registration.phone_country.hint" = "Topelttoksa, et maavalikut muuta.";
+"registration.phone_code.hint" = "Topelttoksa, et maa suunakoodi muuta.";
+"registration.phone.verify.label" = "Kinnita telefoninumber";
+"registration.phone.verify_field.label" = "Kinnituskood";
+
+"registration.add_phone_number.hero.title" = "Lisa mobiilinumber";
+"registration.add_phone_number.hero.paragraph" = "See aitab meil leida inimesi, keda sa võid tunda. Me ei jaga seda kunagi.";
+"registration.add_phone_number.skip_button.title" = "Mitte praegu";
+
+"registration.add_email_password.hero.title" = "Lisa oma e-posti aadress ja parool.";
+"registration.add_email_password.hero.paragraph" = "Saad kasutada Secret'it mitmes seadmes.";
+
+"registration.email_invitation.title" = "Kutse";
+"registration.email_invitation.hero.title" = "Tere, %@";
+"registration.email_invitation.hero.paragraph" = "Vali parool.";
+
+"registration.phone_invitation.title" = "Kutse";
+"registration.phone_invitation.hero.title" = "Tere, %@";
+"registration.phone_invitation.hero.paragraph" = "Üks samm veel ja konto loodud.";
+
+"registration.confirm" = "Loo konto";
+"registration.phone.country_code.hint" = "Topelttoksa, et kasutada selle maa telefoninumbrit.";
+
+"error.name_and_email" = "Palun sisesta oma täisnimi ja korrektne e-posti aadress";
+"error.full_name" = "Palun sisesta oma täisnimi";
+"error.email" = "Palun sisesta korrektne e-posti aadress";
+"error.input.too_long" = "Sisestus liiga pikk";
+"error.input.too_short" = "Sisestus liiga lühike";
+"error.email.invalid" = "Palun sisesta korrektne e-posti aadress";
+"error.phone.invalid" = "Sisesta kehtiv telefoninumber";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Username takeover screen
+"registration.select_handle.takeover.subtitle" = "Haara oma unikaalne nimi Secret’s.";
+"registration.select_handle.takeover.subtitle_link" = "Loe lähemalt";
+
+"registration.select_handle.takeover.choose_own" = "Vali enda oma";
+"registration.select_handle.takeover.keep_suggested" = "Vali see sama";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// ZMUserSessionErrorCode mapping. Used during registration and profile edit
+"error.user.unkown_error" = "Midagi läks valesti, palun proovi uuesti";
+"error.user.needs_credentials" = "Kontrolli andmed üle ja proovi uuesti.";
+"error.user.invalid_credentials" = "Kontrolli andmed üle ja proovi uuesti.";
+"error.user.account_pending_activation" = "Konto, mida proovid avada, ootab aktiveerimist. Palun kinnita oma andmed.";
+"error.user.network_error" = "Sinu võrguühendusega tundub olevat probleeme. Palun proovi hiljem uuesti.";
+"error.user.email_is_taken" = "E-posti aadress on juba registreeritud. Palun proovi uuesti.";
+"error.user.phone_is_taken" = "Sisestatud telefoninumber on juba registreeritud. Palun proovige uuesti.";
+"error.user.phone_code_invalid" = "Sisesta kehtiv kood";
+"error.user.phone_code_too_many" = "Saatsime koodi juba SMS-iga. Toksi 10 minuti pärast \"Saada uuesti\", kui kood ei laeku.";
+"error.user.registration_unknown_error" = "Midagi läks valesti. Palun proovi uuesti.";
+"error.user.device_deleted_remotely" = "Sind on teisest seadmest välja logitud.";
+"error.user.last_identity_cant_be_deleted" = "Kas meiliaadress või telefoninumber peab olema täidetud.";
+"error.user.account_suspended" = "See konto ei ole enam sisse logimiseks autoriseeritud.";
+"error.user.account_limit_reached" = "Sa ei saa lisada rohkem kui 3 kontot.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are caught by the UI without involving the SE validation. Basically very similar to ZMUserSessionErrorCode onces
+"error.updating_password" = "Parooli uuendamine ebaõnnestus.";
+
+"error.group_call.too_many_members_in_conversation.title" = "Vestluses on liiga palju inimesi, et kõnet alustada";
+"error.group_call.too_many_members_in_conversation" = "Kõnede tegemiseks on maksimaalne inimeste arv vestluses %d.";
+"error.group_call.too_many_participants_in_the_call.title" = "Kõne on täis";
+"error.group_call.too_many_participants_in_the_call" = "Osalejaid mahub siia vaid %d.";
+"error.call.gsm_ongoing.title" = "Mobiilikõne";
+"error.call.gsm_ongoing" = "Secret kõne alustamiseks katkesta palun mobiilikõne.";
+"error.call.general.title" = "Kõne viga";
+"error.call.general" = "Palun proovi helistada uuesti mõne minuti pärast.";
+"error.call.slow_connection.title" = "Aeglane ühendus";
+"error.call.slow_connection" = "Kõne ajal võib esineda probleeme";
+"error.call.slow_connection.call_anyway" = "Helista ikkagi";
+
+"error.invite.no_email_provider" = "Palun seadista oma e-posti programm, et saaksid saata kutseid e-postiga";
+"error.invite.no_messaging_provider" = "Palun seadista oma SMS, et saaksid kutseid saata SMS-ga";
+
+"error.conversation.title" = "Viga";
+"error.conversation.cannot_add" = "Osaleja lisamine ebaõnnestus.";
+"error.conversation.cannot_remove" = "Osaleja eemaldamine ebaõnnestus";
+"error.conversation.too_many_members" = "Vestlus on täis";
+"error.conversation.offline" = "Tundub, et sinu internetiühendusega on probleem. Palun kontrolli ühendust.";
+
+"sketchpad.initial_hint" = "Vajuta värvidel, et muuta pintsli suurust";
+
+"migration.please_wait_message" = "Üks hetk, palun";
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Those are used by the backend to localize APNS
+"push.notification.new_user" = "%@ liitus Secret’ga";
+"push.notification.new_message" = "Uus sõnum";
+
+
+//Force Update
+"force.update.title" = "Uuendamine vajalik";
+"force.update.message" = "Sa jääd teistest maha.\nTõmba uusim Secret App Store’st.";
+"force.update.ok_button" = "Mine App Store’i";
+
+//Jailbroken alert
+"jailbrokendevice.alert.title" = "Jailbreak detected";
+"jailbrokendevice.alert.message" = "For security reasons, Wire can't be used on this device. Any existing Wire data has been erased.";
+
+// Third Party
+"giphy.conversation.message" = "%@ · via giphy.com";
+"giphy.conversation.random_message" = "via giphy.com";
+"giphy.error.no_more_results" = "rohkem gif’e pole";
+"giphy.error.no_result" = "gif’i ei leitud";
+
+"giphy.confirm" = "saada";
+"giphy.cancel" = "katkesta";
+"giphy.search_placeholder" = "Otsi Giphy’st";
+
+"invite_banner.title" = "Kutsu oma sõbrad Secret’sse!";
+"invite_banner.message" = "Naudi kõnesid, sõnumeid, joonistusi GIF’e ja palju muud, üksikisikutega või gruppides.";
+"invite_banner.invite_button_title" = "Kutsu rohkem inimesi";
+
+// Collections
+"collections.section.images.title" = "Pildid";
+"collections.section.files.title" = "Failid";
+"collections.section.videos.title" = "Videod";
+"collections.section.links.title" = "Lingid";
+"collections.section.all.button" = "Näita kõik: %d →";
+"collections.section.no_items" = "Kogumik on tühi";
+"collections.image_viewer.copied.title" = "Pilt kopeeritud";
+
+"collections.search.field.placeholder" = "Tekstiotsing";
+"collections.search.no_items" = "Tulemusi ei leitud.";
+
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message composing / drafts
+
+"compose.drafts.title" = "Sõnumid";
+"compose.drafts.empty.title" = "Sõnumeid pole";
+"compose.drafts.empty.subtitle" = "Loomiseks vajuta + märki";
+"compose.drafts.compose.title" = "Kirjuta sõnum";
+"compose.drafts.compose.subject.placeholder" = "Vajuta teema määramiseks";
+
+"compose.drafts.compose.delete.confirm.title" = "Kinnita kustutamine";
+"compose.drafts.compose.delete.confirm.message" = "Antud toiming kustutab visandi jäädavalt.";
+"compose.drafts.compose.delete.confirm.action.title" = "Kustuta";
+
+"compose.drafts.compose.dismiss.confirm.title" = "Salvesta mustand";
+"compose.drafts.compose.dismiss.confirm.action.title" = "Salvesta";
+"compose.drafts.compose.dismiss.delete.action.title" = "Kustuta";
+
+"availability.message.cancel" = "Tühista";
+"availability.message.set_status" = "Määra staatus";
+"availability.accessibility_label.change_status" = "Change Status";
+"availability.accessibility_label.status" = "Status";
+
+"availability.none" = "Puudub";
+"availability.available" = "Saadaval";
+"availability.away" = "Eemal";
+"availability.busy" = "Hõivatud";
+"availability.available.placeholder" = "%@ on saadaval";
+"availability.away.placeholder" = "%@ on eemal";
+"availability.busy.placeholder" = "%@ on hõivatud";
+
+"availability.reminder.away.title" = "Sinu olek on \"eemal\"";
+"availability.reminder.away.message" = "Sinu olekuks kuvatakse teistele \"eemal\". Sa ei saa teateid mistahes sissetulevate kõnede või sõnumite puhul.";
+"availability.reminder.busy.title" = "Sinu olek on \"hõivatud\"";
+"availability.reminder.busy.message" = "Sinu olekuks kuvatakse teistele \"hõivatud\". Sa saad teateid ainult mainimiste, vastuste ning kõnede kohta vestlustes, mida ei ole vaigistanud.";
+"availability.reminder.available.title" = "Sinu olek on \"saadaval\"";
+"availability.reminder.available.message" = "Sinu olekuks kuvatakse teistele \"saadaval\". Sa saad teateid sissetulevate kõnede ja sõnumite kohta sõltuvalt teadete valikutest igas vestluses.";
+"availability.reminder.none.title" = "Olek määramata";
+"availability.reminder.none.message" = "Sa saad teateid sissetulevate kõnede ja sõnumite kohta sõltuvalt teadete valikutest igas vestluses.";
+"availability.reminder.action.dont_remind_me" = "Ära kuva seda teavet uuesti";
+"availability.reminder.action.ok" = "OK";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Call Quality Survey
+
+"calling.quality_survey.title" = "Kõne kvaliteedi tagasiside";
+"calling.quality_survey.question" = "Kuidas sa hindad kõne üldist kvaliteeti?";
+"calling.quality_survey.answer.1" = "Halb";
+"calling.quality_survey.answer.2" = "Kehv";
+"calling.quality_survey.answer.3" = "Rahuldav";
+"calling.quality_survey.answer.4" = "Hea";
+"calling.quality_survey.answer.5" = "Suurepärane";
+"calling.quality_survey.skip_button_title" = "Jäta vahele";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// URL Action
+
+"url_action.confirm" = "Kinnita";
+"url_action.title" = "Kinnita see toiming";
+"url_action.connect_to_bot.message" = "Kas soovid teenusega ühenduda?";
+
+"url_action.switch_backend.title" = "Ühendu serveriga";
+"url_action.switch_backend.message" = "This configuration will connect the app to a third-party server:\n%@";
+
+"url_action.switch_backend.error.logged_in.title" = "Can’t switch servers";
+"url_action.switch_backend.error.logged_in" = "You are already logged in. To switch to this server, log out of all accounts and try again.";
+
+"url_action.switch_backend.error.invalid_backend.title" = "Server ei vasta";
+"url_action.switch_backend.error.invalid_backend" = "Palun kontrolli oma internetiühendust, kontrolli linki ja proovi uuesti.";
+
+
+// Deep Link
+"url_action.invalid_user.title" = "Secret ei leia seda isikut.";
+"url_action.invalid_user.message" = "Sul ei pruugi olla selle kontoga luba või seda pole enam olemas.";
+
+"url_action.invalid_conversation.title" = "Secret ei saa seda vestlust avada.";
+"url_action.invalid_conversation.message" = "Sul ei pruugi olla selle kontoga luba või see isik ei pruugi olla Wire'is.";
+
+"url_action.authorization_required.title" = "Authorization required.";
+"url_action.authorization_required.message" = "You need to log in to view this content.";
+
+"url_action.invalid_link.title" = "Vigane link.";
+"url_action.invalid_link.message" = "Avatud link ei ole sobiv.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// News and offers consent prompt
+
+"news_offers.consent.title" = "Kas soovid saada Secret'i uudiseid ja tooteuuendusi e-posti teel?";
+"news_offers.consent.message" = "Saad igal ajal tellimuse lõpetada.";
+"news_offers.consent.button.privacy_policy.title" = "Privaatsuspoliitika";
+
+
+// MARK: - Conversation List Popover
+"conversation_list.popover.group_chat"  = "Create Group";
+"conversation_list.popover.add_friend"  = "Add Friends";
+"conversation_list.popover.scan"        = "Scan";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Message Details
+"message_details.empty_likes" = "Keegi pole seda sõnumit veel meeldivaks märkinud.";
+"message_details.empty_read_receipts" = "Keegi pole seda sõnumit veel lugenud.";
+"message_details.read_receipts_disabled" = "Lugemiskinnitused ei olnud selle sõnumi saatmishetkel sees.";
+"message_details.combined_title" = "Message Details";
+"message_details.likes_title" = "Liked";
+"message_details.receipts_title" = "Read";
+"message_details.tabs.seen" = "Read (%d)";
+"message_details.tabs.likes" = "Liked (%d)";
+"message_details.subtitle_send_date" = "Sent: %@";
+"message_details.subtitle_edit_date" = "Muudetud: %@";
+"message_details.subtitle_label_voiceOver" = "Message Details";
+"message_details.user_handle_subtitle_label" = "Kasutajanimi";
+"message_details.user_read_timestamp_subtitle_label" = "Read at";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Password Rules
+"registration.password.rules.no_requirements" = "Use %@.";
+"registration.password.rules.with_requirements" = "Use %@, with %@.";
+
+// Legal Hold Deactivation
+"legal_hold.deactivated.title" = "Legal Hold Deactivated";
+"legal_hold.deactivated.message" = "Future messages will not be recorded.";
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+"share_extension.voiceover.conversation_under_legal_hold" = "Under legal hold.";
+"share_extension.voiceover.conversation_secure" = "All clients verified.";
+"share_extension.voiceover.conversation_secure_with_ignored" = "Not all clients verified.";
+
+// Legal hold - alert
+"legalhold_request.button.accessibility" = "Pending approval.";
+"legalhold_request.alert.title" = "Legal Hold Requested";
+"legalhold_request.alert.detail" = "All future messages will be recorded by the device with fingerprint:\n\n%@\n\nThis includes deleted, edited, and timed messages in all conversations.";
+"legalhold_request.alert.detail.enter_password" = "Sisesta kinnitamiseks oma parool.";
+"legalhold_request.alert.error_wrong_password" = "Vale parool";
+
+// Legal hold activated
+"legalhold_active.alert.title" = "Legal Hold is Active";
+"legalhold_active.alert.learn_more" = "Loe lähemalt";
+"legalhold_active.alert.message" = "Legal Hold has been activated for your account. All messages will be preserved for future access, including deleted, edited, and timed messages.\n\nYour conversation partners will be aware of the recording.";
+
+// Account deleted alert
+"account_deleted_session_expired_alert.title" = "Your session expired";
+"account_deleted_session_expired_alert.message" = "The application did not communicate with the server for a long period of time, or your session has been remotely invalidated.";
+

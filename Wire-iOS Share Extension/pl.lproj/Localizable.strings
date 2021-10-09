@@ -1,0 +1,28 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+
+
+
+"share_extension.general.ok" = "OK";
+"share_extension.conversation_selection.account" = "Account:";
+"share_extension.conversation_selection.title" = "Rozmowa:";
+"share_extension.send_button.title" = "Wyślij";
+"share_extension.conversation_selection.empty.value" = "Wybierz";
+"share_extension.input.placeholder" = "Wpisz wiadomość";
+"share_extension.sending_progress.title" = "Wysyłanie…";
+"share_extension.preparing.title" = "Przygotowywanie...";
+"share_extension.no_internet_connection.title" = "Brak połączenia z Internetem";
+"share_extension.not_signed_in.title" = "Musisz się zalogować zanim coś udostępnisz";
+"share_extension.not_signed_in.close_button" = "Zamknij";
+"share_extension.timeout.title" = "The connection has timed out.";
+"share_extension.timeout.message" = "Check your Internet connection and try again. The attachments were saved in the conversation.";
+"share_extension.privacy_security.lock_app.description" = "Odblokuj Secret";
+"share_extension.logged_out.title" = "You've been logged out from this account.";
+"share_extension.logged_out.message" = "Please choose another account.";
+
+"conversation.displayname.emptygroup" = "Pusta grupa konwersacji";
+"meta.degraded.degradation_reason_message.singular" = "%@ rozpoczął korzystanie z nowego urządzenia.";
+"meta.degraded.degradation_reason_message.plural" = "%@ rozpoczął korzystać z nowego urządzenia.";
+"meta.degraded.dialog_message" = "Czy nadal chcesz wysłać wiadomość?";
+"meta.degraded.cancel_sending_button" = "Nie wysyłaj";
+"meta.degraded.send_anyway_button" = "Wyślij mimo to";

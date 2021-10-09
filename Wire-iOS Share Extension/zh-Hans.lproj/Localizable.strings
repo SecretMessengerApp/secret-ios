@@ -1,0 +1,28 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+
+
+
+"share_extension.general.ok" = "好";
+"share_extension.conversation_selection.account" = "账户：";
+"share_extension.conversation_selection.title" = "对话：";
+"share_extension.send_button.title" = "发送";
+"share_extension.conversation_selection.empty.value" = "选择";
+"share_extension.input.placeholder" = "键入一条消息";
+"share_extension.sending_progress.title" = "正在发送...";
+"share_extension.preparing.title" = "准备中...";
+"share_extension.no_internet_connection.title" = "没有互联网讯号";
+"share_extension.not_signed_in.title" = "您在登录Secret后才可以使用分享功能";
+"share_extension.not_signed_in.close_button" = "关闭";
+"share_extension.timeout.title" = "连接已超时。";
+"share_extension.timeout.message" = "请检查您的互联网连接并重试。附件会保存在对话中。";
+"share_extension.privacy_security.lock_app.description" = "解锁Secret";
+"share_extension.logged_out.title" = "您已登出此帐户。";
+"share_extension.logged_out.message" = "请选择另一帐户";
+
+"conversation.displayname.emptygroup" = "空聊天室";
+"meta.degraded.degradation_reason_message.singular" = "%@ 开始使用新的设备。";
+"meta.degraded.degradation_reason_message.plural" = "%@ 开始使用新的设备。";
+"meta.degraded.dialog_message" = "您仍然要发送您的信息吗？";
+"meta.degraded.cancel_sending_button" = "不发送";
+"meta.degraded.send_anyway_button" = "确定发送";

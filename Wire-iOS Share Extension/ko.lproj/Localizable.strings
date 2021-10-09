@@ -1,0 +1,26 @@
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Share Extension
+
+"share_extension.general.ok" = "확인";
+"share_extension.conversation_selection.account" = "계정：";
+"share_extension.conversation_selection.title" = "대화：";
+"share_extension.send_button.title" = "보내기";
+"share_extension.conversation_selection.empty.value" = "선택";
+"share_extension.input.placeholder" = "메시지를 입럭해 주세요";
+"share_extension.sending_progress.title" = "전송 중...";
+"share_extension.preparing.title" = "준비 중...";
+"share_extension.no_internet_connection.title" = "네트워크가 연결되지 않았습니다";
+"share_extension.not_signed_in.title" = "Secret로그인한 후 공유 기능을 사용할 수 있습니다";
+"share_extension.not_signed_in.close_button" = "끔";
+"share_extension.timeout.title" = "연결 시간이 초과되었습니다。";
+"share_extension.timeout.message" = "네투워크 연결을 확인하고 다시 시도하십시오. 첨부 파일이 대화에 저장됩니다.";
+"share_extension.privacy_security.lock_app.description" = "Secret잠금 해제";
+"share_extension.logged_out.title" = "이 계정에서 로그아웃했습니다.";
+"share_extension.logged_out.message" = "다른 계정을 선택하십시오";
+
+"conversation.displayname.emptygroup" = "그룹이 비였습니다";
+"meta.degraded.degradation_reason_message.singular" = "%@님이 새로운 기기를 사용히기 시작";
+"meta.degraded.degradation_reason_message.plural" = "%@님이 새로운 기기를 사용히기 시작";
+"meta.degraded.dialog_message" = "계속 메시지를 발송하시게씁니까？";
+"meta.degraded.cancel_sending_button" = "보내지 않음";
+"meta.degraded.send_anyway_button" = "확인";

@@ -1,0 +1,5 @@
+{
+    "favoriteLimit": 20,
+    "recentLimit": 20,
+    "zipLimit": 10000
+}

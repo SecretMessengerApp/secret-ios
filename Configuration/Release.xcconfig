@@ -1,0 +1,28 @@
+
+WIRE_BUILD_NUMBER = $(BUILD_NUMBER)
+SSO_URL_SCHEME = secret-sso
+WIRE_URL_SCHEME = secret
+WIRE_BUNDLE_ID = com.secrect.qhsj
+
+//Code Signing
+CODE_SIGN_IDENTITY = Apple Distribution: Vago Michael (K7PT8BFN3J)
+
+DEVELOPMENT_TEAM = K7PT8BFN3J
+PROVISIONING_PROFILE_SPECIFIER_APP = secret appstore
+PROVISIONING_PROFILE_SPECIFIER_SHARE_EXT = secret extensionshare appstore
+PROVISIONING_PROFILE_SPECIFIER_NOTIFICATION_EXT = secret notification appstore
+
+// Use analytics / App Center for Release builds:
+USE_APP_CENTER = 1
+USE_APP_CENTER_KEY = 
+
+// App icon from asset bundle
+APPICON_NAME = AppIcon
+
+// Other flags that are passed to C preprocessor
+OTHER_PREPROCESSOR_FLAGS = 
+
+
+// Alpha
+//WIRE_BUNDLE_ID = com.secret.alpha
+//APPICON_NAME = AppIcon-Debug

@@ -1,0 +1,81 @@
+excluded:
+- Wire-iOS/Sources/New/SmallGame/Game/WebAppBaseController+WKHandle.swift
+- Wire-iOS/Sources/New/AuthKey/encrypt.pb.swift
+#   - Carthage
+#   - Wire-iOS Tests
+#   - Wire-iOS Share Extension
+#   - WireExtensionComponents
+#     #- Wire-iOS/Sources
+#   - Wire-iOS/Sources/Vendor
+#   - Wire-iOS/Sources/Components
+#   - Wire-iOS/Sources/Helpers
+#   - Wire-iOS/Sources/Analytics
+#   - Wire-iOS/Sources/ThirdParty
+#   - Wire-iOS/Sources/Developer
+#   - Wire-iOS/Sources/Managers
+#   - Wire-iOS/Sources/Authentication
+#   - Wire-iOS/Sources/Permissions
+#   - Wire-iOS/Sources/UserInterface
+
+#   - Wire-iOS/Sources/AppDelegate+ErrorTracking.swift
+#   - Wire-iOS/Sources/AppDelegate+Network.swift
+#   - Wire-iOS/Sources/WireApplication.swift
+#   - Wire-iOS/Sources/AppState.swift
+#   - Wire-iOS/Sources/AppStateController.swift
+#   - Wire-iOS/Sources/AppRootViewController.swift
+#   - Wire-iOS/Sources/AppRootViewController+Appearance.swift
+#   - Wire-iOS/Sources/Utils/UI/MarqueeLabel.swift
+
+included:
+    - Wire-iOS/Sources/New
+    - Wire-iOS/Sources/Extension
+    - Wire-iOS/Sources/Utils
+    - Wire-iOS/Sources/UserInterface/Settings/CellDescriptors/SettingsCellDescriptorFactory+UserProfile.swift
+    - Wire-iOS/Sources/UserInterface/UserProfile/UserProfileViewController.swift
+    - Wire-iOS/Sources/UserInterface/UserProfile/UserProfileAccountView.swift
+
+disabled_rules:
+    - force_cast
+    - force_try
+    - trailing_whitespace
+    - vertical_whitespace
+    - function_parameter_count
+    - legacy_constructor
+    - multiple_closures_with_trailing_closure
+    - function_body_length
+    - redundant_optional_initialization
+    - cyclomatic_complexity
+    - unused_optional_binding
+type_body_length:
+    warning: 350
+    error: 1000
+
+file_length:
+  warning: 400
+  error: 1900
+
+
+line_length:
+    warning: 180
+    error: 350
+    ignores_comments: true
+    ignores_urls: true
+
+opt_in_rules:
+    - nesting
+
+nesting:
+    type_level:
+        warning: 3
+        error: 6
+    statement_level:
+        warning: 5
+        error: 10
+
+identifier_name:
+    allowed_symbols: "_"
+    min_length: 1
+
+large_tuple:
+    warning: 4
+    error: 5
